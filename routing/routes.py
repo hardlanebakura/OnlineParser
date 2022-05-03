@@ -3,7 +3,7 @@ from jinja2 import TemplateNotFound
 from log_config import logging
 
 index_page = Blueprint('index', __name__,
-                        template_folder='Templates', static_folder='static')
+                        template_folder='Templates')
 
 @index_page.route('/', defaults={'page': 'index'}, methods = ["GET", "POST"])
 def show(page):
