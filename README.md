@@ -10,4 +10,3 @@ This project has following features:
         <li>Find the best hero pick for the selected match or for any given lineups</li>
     </ul>
 
-    
