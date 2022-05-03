@@ -8,6 +8,7 @@
 <script>
 
     var hero_popularities = {{ hero_popularities|tojson }}
+    var heroes = {{ heroes|tojson }}
 
 </script>
 
@@ -60,10 +61,11 @@
                     {% for j in range(i, i+8) %}
                         <div class = "heroes_grid_hero">
                             {% if heroes[j] %}
-                                <a class = "hero_link" href = "/{{ hero_name }}">
+                                {% set hero_name = heroes[j].split(".png")[0] %}
+                                <a class = "hero_link" href = "/heroes/{{ hero_name }}">
                                 <img class = "hero_grid_image" height = "82px" width = "147px" src = "{{ url_for('static', filename = '/images/hero_avatars/' + heroes[j] ) }}">
                                 <div class = "hero_grid_title">
-                                {{ heroes[j].split(".png")[0] }}
+                                {{ hero_name }}
                                 </div>
                                 </a>
                             {% endif %}

@@ -61,3 +61,10 @@ Array.from(heroesGridHero).forEach(element => {
 console.log(mostPopularHeroes);
 console.log(highestWinrates);
 console.log(hero_popularities);
+
+var heroGridImages = document.getElementsByClassName("hero_grid_image");
+Array.from(heroGridImages).forEach(element => {
+
+    element.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroGridImages).indexOf(element)]}`);
+
+})
