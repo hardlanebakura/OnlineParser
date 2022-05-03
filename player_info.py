@@ -154,5 +154,6 @@ def get_medal_player(player):
 #https://api.steampowered.com/IDOTA2Match_570/GetMatchDetails/V001/?match_id=6533969552&key=A2EA604E9B9CB5CF0B75454D22E968DA
 #https://sr.dotabuff.com/players/850522220
 #http://cdn.dota2.com/apps/dota2/images/abilities/drow_ranger_frost_arrows_lg.png
+#--proxy-headers
 
 
