@@ -23,7 +23,8 @@ def heroes():
     heroes = [item.split("\\")[-1] for item in get_files("static/images/hero_avatars")]
     logging.info(heroes)
     logging.info(DatabaseAtlas.findAll("heroes", {}))
-    return render_template("heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities)
+    m = [item for item in DatabaseAtlas.findAll("heroes", {})]
+    return render_template("heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
 
 @heroes_pages.route("/<string:hero>")
 def hero(hero):

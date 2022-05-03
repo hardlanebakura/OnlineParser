@@ -11,11 +11,17 @@ from routing.routes_search_results import *
 from routing.routes_esports import *
 from data import data
 
-
 app = Flask(__name__, template_folder = "Templates")
 
 #Configuring application
 config1(app.config, app.jinja_env)
+
+if app.config['DEBUG']:
+    from werkzeug import SharedDataMiddleware
+    import os
+    app.wsgi_app = SharedDataMiddleware(app.wsgi_app, {
+      '/': os.path.join(os.path.dirname(__file__), 'static')
+    })
 
 app.register_blueprint(index_page)
 app.register_blueprint(players_pages)
