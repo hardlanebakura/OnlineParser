@@ -8,6 +8,13 @@
 <script>
 
     var hero_popularities = {{ hero_popularities|tojson }}
+    var heroes = {{ heroes|tojson }}
+
+    heroes.forEach(hero => {
+
+        if (hero.length > 22) hero = hero.split("/hero_avatars/")[1];
+
+    })
 
 </script>
 
