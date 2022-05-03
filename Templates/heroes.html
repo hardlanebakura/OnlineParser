@@ -10,15 +10,16 @@
     var hero_popularities = {{ hero_popularities|tojson }}
     var heroes = {{ heroes|tojson }}
 
-    heroes.forEach(hero => {
+    for (let i = 0; i < heroes.length; i++) {
 
-        if (hero.length > 22) {
-        hero = hero.split("/hero_avatars/")[1];
-        console.log(hero);
-        console.log(heroes.indexOf(hero));
+        if (heroes[i].length > 22) {
+        heroes[i] = heroes[i].split("/hero_avatars/")[1];
+        console.log(heroes[i]);
+        console.log(i);
+
         }
 
-    })
+    }
 
     console.log(heroes);
 
