@@ -8,7 +8,8 @@ from data import data
 import os
 import fnmatch
 
-heroes_pages = Blueprint('heroes', __name__, url_prefix="/heroes")
+heroes_pages = Blueprint('heroes', __name__,
+                        template_folder='Templates', url_prefix="/heroes")
 
 def search():
     if request.method == "POST":
