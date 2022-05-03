@@ -15,6 +15,31 @@
 
 {% block body %}
 
+    <div class = "page_menu_wrapper">
+        <div class = "page_menu">
+            <a class = "hero_link" href = "/items/">
+                <div class = "page_menu_item active_item">
+                    All heroes
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/winrate">
+                <div class = "page_menu_item">
+                    Winrate
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/impact">
+                <div class = "page_menu_item">
+                    Meta
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/economy">
+                <div class = "page_menu_item">
+                    Economy
+                </div>
+            </a>
+        </div>
+    </div>
+
     <div class = "title_wrapper">
         <div class = "heroes_title_main">
             <div class = "heroes_title">
@@ -46,7 +71,6 @@
         </div>
     </div>
 
-    {{ m }}
     <div class = "hero_grid">
         <div class = "grid_title_wrapper">
             <div class = "grid_title">

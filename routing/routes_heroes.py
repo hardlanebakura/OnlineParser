@@ -24,6 +24,8 @@ def heroes():
     logging.info(heroes)
     logging.info(DatabaseAtlas.findAll("heroes", {}))
     m = [item for item in DatabaseAtlas.findAll("heroes", {})]
+    logging.info(os.getenv("MONGODB_CONNECTION"))
+    #logging.info(os.environ["MONGODB_CONNECTION"])
     return render_template("heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
 
 @heroes_pages.route("/<string:hero>")

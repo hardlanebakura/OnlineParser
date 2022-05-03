@@ -70,7 +70,7 @@
 
 height:240px;
 margin-bottom:12px;
-background-image:url("../images/ESL-Stockholm.jpeg");
+background-image:url("../images/blog_images/ESL-Stockholm.jpeg");
 
 }
 
@@ -111,7 +111,7 @@ background-image: linear-gradient(rgba(237,59,28,0.1), rgba(237,59,28,0.3) 70%);
     margin-left:-3px;
     margin-right:12px;
     margin-bottom:6px;
-    background-image:url("../images/Primal-Beast.jpeg");
+    background-image:url("../images/blog_images/Primal-Beast.jpeg");
 
 }
 
@@ -126,7 +126,7 @@ background-image: linear-gradient(rgba(237,59,28,0.1), rgba(237,59,28,0.3) 70%);
 
     height:120px;
     width:392px;
-    background-image:url("../images/RikiPosFourHero.jpeg");
+    background-image:url("../images/blog_images/RikiPosFourHero.jpeg");
 
 }
 
@@ -214,19 +214,19 @@ background-image: linear-gradient(rgba(237,59,28,0.1), rgba(237,59,28,0.3) 70%);
 
 #column_2_image_1 {
 
-    background-image:url("../images/PL.jpeg");
+    background-image:url("../images/blog_images/PL.jpeg");
 
 }
 
 #column_2_image_2 {
 
-    background-image:url("../images/Huskar.jpeg");
+    background-image:url("../images/blog_images/Huskar.jpeg");
 
 }
 
 #column_2_image_3 {
 
-    background-image:url("../images/Storm.jpeg");
+    background-image:url("../images/blog_images/Storm.jpeg");
 
 }
 
