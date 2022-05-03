@@ -387,7 +387,7 @@ with open("data/talent_trees.yml", 'r') as talent_trees_code_file:
 
 	data["talent_trees_code"] = talent_trees_codes
 
-esports_regions = { "China":"cn", "Global":"global", "EU.png":"eu", "East EU.png":"east_eu", "North America":"na", "South America":"SA", "SEA":"SEA" }
+esports_regions = { "China":"cn", "Global":"global", "EU.png":"eu", "East EU.png":"east_eu", "North America":"na", "South America":"sa", "SEA":"sea" }
 
 data["esports_regions"] = {}
 for esports_region in esports_regions:

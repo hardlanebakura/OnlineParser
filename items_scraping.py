@@ -128,7 +128,7 @@ logging.info(talent_trees)
 logging.info(items_for_heroes)
 #get_items_impact(URL_ITEMS_IMPACT)
 #MONGODB_CONNECTION mongodb+srv://h3h4h2000:Aftmt111@cluster0.y5kq1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
+#MONGODBPORT mongodb+srv://h3h4h2000:Aftmt111@cluster0.y5kq1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 #store database info to json
 def store_db_to_json_file(*columns):
     data = {}
