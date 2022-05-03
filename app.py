@@ -11,7 +11,7 @@ from routing.routes_search_results import *
 from routing.routes_esports import *
 from data import data
 
-app = Flask(__name__, template_folder = "Templates", static_folder = "static")
+app = Flask(__name__, template_folder = "Templates")
 
 #Configuring application
 config1(app.config, app.jinja_env)
