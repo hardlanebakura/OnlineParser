@@ -9,13 +9,11 @@ heroWinrates.sort(function(a, b) {
 var mostPopularHeroes = hero_popularities.slice(0, 10).map(c => c["hero_name"]);
 var highestWinrates = heroWinrates.slice(0, 10).map(c => c["hero_name"]);
 
-//if (!(typeof(heroes) == 'undefined')) {
-//var heroGridImages = document.getElementsByClassName("hero_grid_image");
-//Array.from(heroGridImages).forEach(element => {
-//
-//    element.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroGridImages).indexOf(element)]}`);
-//
-//}) }
+heroes.forEach(hero => {
+
+    if (hero.length > 22) hero = hero.split("/hero_avatars/")[1];
+
+})
 
 Array.from(heroesGridHero).forEach(element => {
 
