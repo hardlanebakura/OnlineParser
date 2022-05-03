@@ -42,9 +42,10 @@
             <div class = "dotapicker_hero_grid">
                 {% for hero in heroes %}
                 <div class = "dotapicker_hero_grid_image">
-                    <img class = "dotapicker_hero_img" src = "{{ '../static/images/hero_avatars/' + hero }}">
+                    {% set d = '../static/images/hero_avatars/' + hero %}
+                    <img class = "dotapicker_hero_img" src = "{{ d }}">
                     <div class = "hero_grid_title subtitle">
-                        {{ hero.split(".png")[0] }}
+                        {{ hero.split(".png")[0] }}1
                     </div>
                     <div class = "dotapicker_hero_options">
                         <div class = "dotapicker_hero_option_1">
