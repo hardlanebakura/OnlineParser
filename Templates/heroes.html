@@ -12,7 +12,10 @@
 
     heroes.forEach(hero => {
 
-        if (hero.length > 22) hero = hero.split("/hero_avatars/")[1];
+        if (hero.length > 22) {
+        console.log(hero);
+        hero = hero.split("/hero_avatars/")[1];
+        }
 
     })
 
