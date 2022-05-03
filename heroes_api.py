@@ -1,6 +1,5 @@
 import requests
 from log_config import logging
-from heroes import hero_acronyms_to_names
 from mongo_collections import DatabaseAtlas
 from operator import itemgetter
 
