@@ -1,0 +1,141 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/dotapicker.css') }}">
+
+<script>
+
+    var counterpicks = {{ counterpicks|tojson }}
+    var heroes = {{ heroes|tojson }}
+    var responseHeroes = {{ response_heroes|tojson }}
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "dotapicker_menu">
+
+    </div>
+
+    <div class = "dotapicker_settings_wrapper">
+        <div class = "dotapicker_settings">
+            <div class = "search_hero">
+                <input onkeyup = "dotapicker_search()" class = "search_input" id = "hero_search" placeholder = "Search Hero">
+            </div>
+            <div class = "dotapicker_settings_menu">
+                1
+            </div>
+        </div>
+    </div>
+
+    <div class = "dotapicker_main_wrapper">
+
+        <div class = "dotapicker_main">
+
+            <div class = "dotapicker_hero_grid_wrapper">
+
+            <button class = "show_hero_grid_button">Show Hero Grid</button>
+
+            <div class = "dotapicker_hero_grid">
+                {% for hero in heroes %}
+                <div class = "dotapicker_hero_grid_image">
+                    <img class = "dotapicker_hero_img" src = "{{ url_for('static', filename = '/images/hero_avatars/' + hero ) }}">
+                    <div class = "hero_grid_title subtitle">
+                        {{ hero.split(".png")[0] }}
+                    </div>
+                    <div class = "dotapicker_hero_options">
+                        <div class = "dotapicker_hero_option_1">
+                            <button class = "dotapicker_hero_option option_add_enemy">
+                                enemy
+                            </button>
+                        </div>
+                        <div class = "dotapicker_hero_option_2">
+                            <button class = "dotapicker_hero_option option_add_team">
+                                team
+                            </button>
+                        </div>
+                        <div class = "dotapicker_hero_option_3">
+                        <button class = "dotapicker_hero_option option_ban">
+                            ban
+                        </button>
+                    </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            </div>
+
+            <div class = "dotapicker_composition_and_picks">
+
+                <div class = "dotapicker_teams_display">
+
+                    <div class = "dotapicker_team_enemy">
+
+                        <div class = "dotapicker_team_title">
+                            Enemy
+                        </div>
+
+                        <div class = "dotapicker_team_enemy_row">
+                            <img class = "dotapicker_team_enemy_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_enemy_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_enemy_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                        </div>
+                        <div class = "dotapicker_team_enemy_row">
+                            <img class = "dotapicker_team_enemy_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_enemy_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                        </div>
+                    </div>
+
+                    <div class = "dotapicker_team_ally">
+
+                        <div class = "dotapicker_team_title">
+                            Ally
+                        </div>
+
+                        <div class = "dotapicker_team_ally_row">
+                            <img class = "dotapicker_team_ally_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_ally_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_ally_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                        </div>
+                        <div class = "dotapicker_team_ally_row">
+                            <img class = "dotapicker_team_ally_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                            <img class = "dotapicker_team_ally_image" src = "{{ url_for('static', filename = 'images/black.png') }}">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class = "dotapicker_hero_grid_menu">
+
+                    <div class = "dotapicker_menu_item">
+                        Pick Suggestions
+                    </div>
+
+                </div>
+
+                <div class = "dotapicker_hero_grid_picks">
+                    <div class = "dotapicker_hero_grid_picks_core">
+                        <div class = "dotapicker_hero_grid_picks_title">
+                            Core
+                        </div>
+                    </div>
+                    <div class = "dotapicker_hero_grid_picks_utility">
+                        <div class = "dotapicker_hero_grid_picks_title">
+                            Utility
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+<script type = "text/javascript" src = "{{ url_for('static', filename = '/js/dotapicker.js') }}"></script>
+
+{% endblock %}

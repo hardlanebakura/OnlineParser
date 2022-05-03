@@ -1,0 +1,80 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/heroes.css') }}">
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/hero.css') }}">
+
+<script>
+
+    var hero_popularities = {{ hero_popularities|tojson }}
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "title_wrapper">
+        <div class = "heroes_title_main">
+            <div class = "heroes_title">
+                <div class = "heroes_title_title">
+                    Heroes
+                </div>
+                <div class = "heroes_title_subtitle">
+                    <small>All heroes</small>
+                </div>
+            </div>
+            <div class = "heroes_high">
+                <div class = "heroes_high_popularity">
+                    <div class = "most_popular_hero_title">
+                        <img class = "most_popular_hero_title_img" src = "../static/images/high_popularity_icon.png">
+                    </div>
+                    <div class = "heroes_title_subtitle">
+                        <small>HIGH POPULARITY</small>
+                    </div>
+                </div>
+                <div class = "heroes_high_winrate">
+                    <div class = "highest_winrate_hero_title">
+                        <img class = "highest_winrate_hero_title_img" src = "../static/images/high_winrate_icon.png">
+                    </div>
+                    <div class = "heroes_title_subtitle">
+                        <small>HIGH WINRATE</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "hero_grid">
+        <div class = "grid_title_wrapper">
+            <div class = "grid_title">
+                <div class = "grid_title_all">
+                    ALL HEROES
+                </div>
+            </div>
+        </div>
+        <div class = "heroes_grid">
+            {% for i in range(0, heroes_n, 8) %}
+                <div class = "heroes_grid_line">
+                    {% for j in range(i, i+8) %}
+                        <div class = "heroes_grid_hero">
+                            {% if heroes[j] %}
+                                {% set hero_name = heroes[j].split(".png")[0] %}
+                                <a class = "hero_link" href = "/heroes/{{ hero_name }}">
+                                <img class = "hero_grid_image" height = "82px" width = "147px" src = "{{ url_for('static', filename = '/images/hero_avatars/' + heroes[j] ) }}">
+                                <div class = "hero_grid_title">
+                                {{ hero_name }}
+                                </div>
+                                </a>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script type = "text/javascript" src = "{{ url_for('static', filename = '/js/heroes.js') }}"></script>
+
+{% endblock %}

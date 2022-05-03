@@ -1,0 +1,1647 @@
+[
+    {
+        "regional_ranking": "1",
+        "name": "Team Spirit",
+        "country": "Russia",
+        "rank_points": "1395",
+        "logo": "https://static.gosugamers.net/a6/b4/fb/b5ac07689b5ccbc9abdc88b5b627612fa7f4a82ec32e760eefd0f1f6d0.png",
+        "prize_winning": "US$18,910,003",
+        "winrate": "56%",
+        "wins": "319",
+        "draws": "22",
+        "losses": "228",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "BetBoom Team",
+            "opponent_img": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png"
+        },
+        "players": [
+            {
+                "name": "yatoro",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/25/80/0c/7af1de737c5c4a9adfc4a751170cf43fe0513175b4e54b64417046be57.jpg"
+            },
+            {
+                "name": "TORONTOTOKYO",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/74/05/c9/3d7a9f6bced29745a9b1ff6120ec0414a77f9765c623afe5f6210aba69.jpg"
+            },
+            {
+                "name": "Collapse",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/00/9d/13/9b54295b60483a7fabcb5a8cfa7b5625ee8d541dae9b935ad7d811e474.jpg"
+            },
+            {
+                "name": "Miposhka",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/53/d1/ae/b267b6e67bd058cfb5e4fbb5da12d639aa572c07b95fdc6e2e6738d246.jpg"
+            },
+            {
+                "name": "Mira",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/bf/bf/5d/eb0aab9eec5dacb1dac29aaf853747d6c84cba4d73c792898bba1e0762.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "BOOM Esports",
+            "opponent_img": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "OG",
+            "opponent_img": "https://static.gosugamers.net/0d/62/f4/0dd204b772825a353123752a53ec1da840681749782c066ea8db310e5c.png"
+        }
+    },
+        {
+        "regional_ranking": "2",
+        "name": "Outsiders",
+        "country": "Russia",
+        "rank_points": "1298",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$11,456,099",
+        "winrate": "57%",
+        "wins": "715",
+        "draws": "78",
+        "losses": "456",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "CIS Rejects",
+            "opponent_img": "https://static.gosugamers.net/0e/f4/b7/9542aba8ff2277ca7e2a1440f36a1873a38eb845b9bc4119feddc1d0d9.png"
+        },
+        "players": [
+            {
+                "name": "DM.",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "gpk",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/24/41/73/ce5f3e7bb32948ba2dcdbbf1a0b2228a80aef50581a30aa6445bbfa995.png"
+            },
+            {
+                "name": "Pure",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yamich",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/48/95/a2/2763b716cc162e44dd873880b7a86590d3ae1081cb009cd8336d0fb97e.png"
+            },
+            {
+                "name": "Xakoda",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Gambit Esports",
+            "opponent_img": "https://static.gosugamers.net/34/71/21/0fe2b62e8c50f73078413fbe8eb50dd34251e15f96bdf0001e4ff7bd5a.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "BetBoom Team",
+            "opponent_img": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png"
+        }
+    },
+    {
+        "regional_ranking": "3",
+        "name": "HellRaisers",
+        "country": "Russia",
+        "rank_points": "1120",
+        "logo": "https://static.gosugamers.net/7f/c9/04/772310b132ba36afa6998ab1dc17b1426134ff31947535a74bfc7f9d8a.png",
+        "prize_winning": "US$466,630",
+        "winrate": "48%",
+        "wins": "311",
+        "draws": "37",
+        "losses": "297",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Natus Vincere",
+            "opponent_img": "https://static.gosugamers.net/c5/01/42/5a3f694e5399d94cdced2f962cee633874ca936b0a850222879490fd31.png"
+        },
+        "players": [
+            {
+                "name": "re1bl",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/d3/c0/d8/dc65787093fc6f7ab2e72a2d5b6fd0018d3c5bf2836874d8bac7cd39de.png"
+            },
+            {
+                "name": "Limitless",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Watson",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "gilgir",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Malady",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Team Spirit",
+            "opponent_img": "https://static.gosugamers.net/a6/b4/fb/b5ac07689b5ccbc9abdc88b5b627612fa7f4a82ec32e760eefd0f1f6d0.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "4",
+        "name": "Natus Vincere",
+        "country": "Ukraine",
+        "rank_points": "1101",
+        "logo": "https://static.gosugamers.net/c5/01/42/5a3f694e5399d94cdced2f962cee633874ca936b0a850222879490fd31.png",
+        "prize_winning": "US$4,987,313",
+        "winrate": "58%",
+        "wins": "667",
+        "draws": "54",
+        "losses": "437",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "BetBoom Team",
+            "opponent_img": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png"
+        },
+        "players": [
+            {
+                "name": "V-TUNE",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/4a/14/a5/b8e34a0a229e92d415eaac08013f65add27d48617ad6873de67a294c18.png"
+            },
+            {
+                "name": "No[o]ne",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/3a/30/bb/7d468241c9825b90de6ead7839834e67319b0204177523fdadae0213c6.png"
+            },
+            {
+                "name": "ALOHADANCE",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/86/7f/73/744b0572472ab04a7f1d4622f1bcf13711d6681f3e8d6254b53dfaa0ba.png"
+            },
+            {
+                "name": "Solo",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/50/8e/06/0ed3253a62e8bc71ab497337751bea2dbaf57b3ee010008743b741b8bd.png"
+            },
+            {
+                "name": "laise",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "HellRaisers",
+            "opponent_img": "https://static.gosugamers.net/7f/c9/04/772310b132ba36afa6998ab1dc17b1426134ff31947535a74bfc7f9d8a.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Nemiga Esports",
+            "opponent_img": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+        }
+    },
+    {
+        "regional_ranking": "5",
+        "name": "Mind Games",
+        "country": "Ukraine",
+        "rank_points": "1077",
+        "logo": "https://static.gosugamers.net/e1/16/27/3b83b63d83bdc8577dd1aaefe58980831636dc2c585485d61445165c0f.png",
+        "prize_winning": "US$24,000",
+        "winrate": "86%",
+        "wins": "12",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "PuckChamp",
+            "opponent_img": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png"
+        },
+        "players": [
+            {
+                "name": "7jesu",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Slayer",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/ad/3c/37/9d6e3683cedabcfad13ed10d50f5a026432442e02a2df0d129ae73ae86.png"
+            },
+            {
+                "name": "Bignum-",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/ca/6e/95/fa058ef6d017ece6e040a599c14011726954cccfea72814abb0b87b7de.jpeg"
+            },
+            {
+                "name": "Fn",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/00/60/db/6ee4e297fce8699ef3a65d4c3ee3763d3c84fc27ee7a0bbf665aac460f.jpeg"
+            },
+            {
+                "name": "Petushara",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Alliance",
+            "opponent_img": "https://static.gosugamers.net/01/37/99/a4c7d2dd73cf203a35e346ccb468d8808003631c6670e01595618d9b79.png"
+        }
+    },
+    {
+        "regional_ranking": "6",
+        "name": "PuckChamp",
+        "country": "Russia",
+        "rank_points": "1068",
+        "logo": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png",
+        "prize_winning": "US$110,500",
+        "winrate": "55%",
+        "wins": "59",
+        "draws": "0",
+        "losses": "49",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Mind Games",
+            "opponent_img": "https://static.gosugamers.net/e1/16/27/3b83b63d83bdc8577dd1aaefe58980831636dc2c585485d61445165c0f.png"
+        },
+        "players": [
+            {
+                "name": "krylat",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Astral",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dukalis",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/ed/c7/e2/30614d5bb9f166614712b54766b22376d9de4f843c2eff4781cec99155.png"
+            },
+            {
+                "name": "Malik`",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/4a/50/dd/3bda227f7826c0f638640f255d6373f4b8e7524df0c38d03ef8ef47967.png"
+            },
+            {
+                "name": "young G",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/d1/81/ac/b4305da7e4e2aadfcf5369950c0ca31156b4409bd757825a536a02c93b.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Team Spirit",
+            "opponent_img": "https://static.gosugamers.net/a6/b4/fb/b5ac07689b5ccbc9abdc88b5b627612fa7f4a82ec32e760eefd0f1f6d0.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "7",
+        "name": "RUNE EATERS",
+        "country": "Russia",
+        "rank_points": "1063",
+        "logo": "https://static.gosugamers.net/ca/26/82/a84522df88e6e60dd57a65576b9e9f5e422fb07870926300b9a6aa2186.png",
+        "prize_winning": "US$40,000",
+        "winrate": "61%",
+        "wins": "85",
+        "draws": "1",
+        "losses": "53",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Chipsbl",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Kiritych",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ArrOw^_^",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "hAze._.",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "laise",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "sad tomat",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        }
+    },
+    {
+        "regional_ranking": "8",
+        "name": "BetBoom Team",
+        "country": "Russia",
+        "rank_points": "1042",
+        "logo": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png",
+        "prize_winning": "\u2013",
+        "winrate": "100%",
+        "wins": "6",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "6 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Natus Vincere",
+            "opponent_img": "https://static.gosugamers.net/c5/01/42/5a3f694e5399d94cdced2f962cee633874ca936b0a850222879490fd31.png"
+        },
+        "players": [
+            {
+                "name": "Daxak",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/83/96/4a/1f6ef474b26da66ebbd95d2248268acedc10fee8fff780312e0c4bbbe2.png"
+            },
+            {
+                "name": "SoNNeikO",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/7f/00/9e/836f261b66eddced7dc5f9d1fc1134bfe49586437d9511f2b0caeb84c8.png"
+            },
+            {
+                "name": "forcemajor",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Noticed",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Larl",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Team Spirit",
+            "opponent_img": "https://static.gosugamers.net/a6/b4/fb/b5ac07689b5ccbc9abdc88b5b627612fa7f4a82ec32e760eefd0f1f6d0.png"
+        },
+        "recent_match_3": {
+            "result": "3 : 2",
+            "opponent": "Gambit Esports",
+            "opponent_img": "https://static.gosugamers.net/34/71/21/0fe2b62e8c50f73078413fbe8eb50dd34251e15f96bdf0001e4ff7bd5a.png"
+        }
+    },
+    {
+        "regional_ranking": "9",
+        "name": "Winstrike Team",
+        "country": "Russia",
+        "rank_points": "1038",
+        "logo": "https://static.gosugamers.net/41/58/0b/6929ef61b91942d8ed5f52c33b3c08bada08d8af5883eac02411450caf.png",
+        "prize_winning": "US$505,294",
+        "winrate": "47%",
+        "wins": "129",
+        "draws": "4",
+        "losses": "142",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 3",
+            "opponent": "Entity",
+            "opponent_img": "https://static.gosugamers.net/60/a9/5d/d01f0a5b7c56b95a986e5f64bcd3c9d17a5e38154d242bbad032da1b85.png"
+        },
+        "players": [
+            {
+                "name": "Noticed",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "MAg-",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/85/46/48/30d41de0bbf7dd635b275cf513ad98b7ff86f76cce799fb5d5ac071ef9.jpeg"
+            },
+            {
+                "name": "Daxak",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/83/96/4a/1f6ef474b26da66ebbd95d2248268acedc10fee8fff780312e0c4bbbe2.png"
+            },
+            {
+                "name": "Dodren",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "forcemajor",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        }
+    },
+    {
+        "regional_ranking": "10",
+        "name": "Gambit Esports",
+        "country": "Russia",
+        "rank_points": "1037",
+        "logo": "https://static.gosugamers.net/34/71/21/0fe2b62e8c50f73078413fbe8eb50dd34251e15f96bdf0001e4ff7bd5a.png",
+        "prize_winning": "US$20,000",
+        "winrate": "66%",
+        "wins": "27",
+        "draws": "0",
+        "losses": "14",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "2 : 3",
+            "opponent": "BetBoom Team",
+            "opponent_img": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png"
+        },
+        "players": [
+            {
+                "name": "XSvamp1Re",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/76/23/47/a6d9a54625cb6f7d3dc04b74f0739b220570c8aeec971976580d04f5ae.png"
+            },
+            {
+                "name": "AFTERLIFE",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/b5/1d/25/6f0b9a88efc5a732d9705d3c13e231beded686a5f58372bf2f50fb0cae.png"
+            },
+            {
+                "name": "sayuw",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Pantomem",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Smiling Knight",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        }
+    },
+    {
+        "regional_ranking": "11",
+        "name": "Monaco Gambit",
+        "country": "Russia",
+        "rank_points": "1035",
+        "logo": "https://static.gosugamers.net/08/b1/0e/6f19b7313907adde8d64e378a8244f4a508cfbff353d4617c33ec24f5f.png",
+        "prize_winning": "US$759,269",
+        "winrate": "52%",
+        "wins": "206",
+        "draws": "14",
+        "losses": "180",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "No Sorry",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Lorenof",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Immersion",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/ff/8e/92/3ac2206c7f3da9c334b7d033844e4e16e58c595ada316df408f9b688a0.jpeg"
+            },
+            {
+                "name": "meLes",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "HappyDyurara",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "alberkaaa",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "RUNE EATERS",
+            "opponent_img": "https://static.gosugamers.net/ca/26/82/a84522df88e6e60dd57a65576b9e9f5e422fb07870926300b9a6aa2186.png"
+        }
+    },
+    {
+        "regional_ranking": "12",
+        "name": "CIS Rejects",
+        "country": "Russia",
+        "rank_points": "1029",
+        "logo": "https://static.gosugamers.net/0e/f4/b7/9542aba8ff2277ca7e2a1440f36a1873a38eb845b9bc4119feddc1d0d9.png",
+        "prize_winning": "US$40,500",
+        "winrate": "65%",
+        "wins": "53",
+        "draws": "2",
+        "losses": "27",
+        "current_streak": "4 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "RAMZES666",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/ce/fb/40/d1cc089895c40f2c55f765c08ee8206b84a96c6da497c1a88c3eb558a7.png"
+            },
+            {
+                "name": "depressed kid",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "RodjER",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/02/c8/62/8bb712a1a449e3583fd3f82115a4186dce8e4f9349f2d8ea2470a510bb.png"
+            },
+            {
+                "name": "Fng",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/d3/fb/ed/0bd052fe84189f4f5b8e98cb63523464a5d58c8bb7aa6797d61921e114.png"
+            },
+            {
+                "name": "MieRo",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Mind Games",
+            "opponent_img": "https://static.gosugamers.net/e1/16/27/3b83b63d83bdc8577dd1aaefe58980831636dc2c585485d61445165c0f.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "Gambit Esports",
+            "opponent_img": "https://static.gosugamers.net/34/71/21/0fe2b62e8c50f73078413fbe8eb50dd34251e15f96bdf0001e4ff7bd5a.png"
+        }
+    },
+    {
+        "regional_ranking": "13",
+        "name": "CYXARIKI",
+        "country": "Russia",
+        "rank_points": "1008",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "67%",
+        "wins": "6",
+        "draws": "0",
+        "losses": "3",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        },
+        "players": [
+            {
+                "name": "Hellscream",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Fraser",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Munkushi",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BOBiNA",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Smony",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "BetBoom Team",
+            "opponent_img": "https://static.gosugamers.net/7c/0d/3a/ee16f96536e5392674439f2421f3cd763fd876e0d44beafad1f2a69f7f.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        }
+    },
+    {
+        "regional_ranking": "14",
+        "name": "Ka4kanarskie cyxariki",
+        "country": "Russia",
+        "rank_points": "1007",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "100%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "NO MONKEY BUSINES",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Munkushi",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "vazyaTS",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hellscream",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "desperate",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "smN",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Chipsbl",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "16",
+        "name": "Nemiga Gaming",
+        "country": "Russia",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png",
+        "prize_winning": "US$53,026",
+        "winrate": "51%",
+        "wins": "194",
+        "draws": "8",
+        "losses": "182",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        },
+        "players": [
+            {
+                "name": "TheChosenOne",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ainkrad",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kiritych",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "vanskor",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/52/06/40/ffb766a729f360d808dc4adc4cb063deeea9ffe2e448d92a0c44347c0f.png"
+            },
+            {
+                "name": "Heaven",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "NOVA",
+            "opponent_img": "https://static.gosugamers.net/79/23/c2/d80c09fde4cc9b9ce6af7ac9c86262a4fcf31daa2a58afc78fa40008c0.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Y",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "15",
+        "name": "Enclave",
+        "country": "Russia",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$10,744",
+        "winrate": "67%",
+        "wins": "4",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "DisRespecT",
+            "opponent_img": "https://static.gosugamers.net/22/88/4d/a30090754c07ce0b36420b6c398ecd7e8857bc7e5204cf39ca95944e3a.png"
+        },
+        "players": [
+            {
+                "name": "TBD",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NEVERDIE",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "fozzy^^",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "cloud",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Arhimond",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "X5",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        }
+    },
+    {
+        "regional_ranking": "17",
+        "name": "NO MONKEY BUSINESS",
+        "country": "Russia",
+        "rank_points": "1002",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "42%",
+        "wins": "8",
+        "draws": "0",
+        "losses": "11",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Ka4kanarsk",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "antoha",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xannii",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/f1/54/a6/1f5236ef6e174adff7e59e47d732c89ef68ae9798f20fca69c77e9867e.png"
+            },
+            {
+                "name": "illusion",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dame",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ego",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "RUNE EATERS",
+            "opponent_img": "https://static.gosugamers.net/ca/26/82/a84522df88e6e60dd57a65576b9e9f5e422fb07870926300b9a6aa2186.png"
+        }
+    },
+    {
+        "regional_ranking": "18",
+        "name": "Blasterbl",
+        "country": "Russia",
+        "rank_points": "996",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$1,750",
+        "winrate": "50%",
+        "wins": "5",
+        "draws": "0",
+        "losses": "5",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        },
+        "players": [
+            {
+                "name": "TBD",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Munkushi",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "egor",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vazya",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hellscream",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "RUNE EATERS",
+            "opponent_img": "https://static.gosugamers.net/ca/26/82/a84522df88e6e60dd57a65576b9e9f5e422fb07870926300b9a6aa2186.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "CHILLAX",
+            "opponent_img": "https://static.gosugamers.net/17/a4/43/61f9f81b46b8c39eeb0ced06e5d88efcbd97b20986cbba3dcefa5cd0ba.png"
+        }
+    },
+    {
+        "regional_ranking": "19",
+        "name": "Chipsbl",
+        "country": "Russia",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "RUNE EATERS",
+            "opponent_img": "https://static.gosugamers.net/ca/26/82/a84522df88e6e60dd57a65576b9e9f5e422fb07870926300b9a6aa2186.png"
+        },
+        "players": [
+            {
+                "name": "Sompi",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Tablet Kee",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vyacheslove",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Death domain",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "deyouth",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Ka4kanarsk",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "20",
+        "name": "DisRespecT",
+        "country": "Russia",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/22/88/4d/a30090754c07ce0b36420b6c398ecd7e8857bc7e5204cf39ca95944e3a.png",
+        "prize_winning": "US$8,087",
+        "winrate": "40%",
+        "wins": "8",
+        "draws": "0",
+        "losses": "12",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Enclave",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "TTR",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Limitless",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ufir",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Imba4",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dsr",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "ARCRED",
+            "opponent_img": "https://static.gosugamers.net/9b/91/bc/54ed3a71ba9c3cb5211058e8b9fd29e4f7ffcec8c9515a7d101c9c55ac.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "Enclave",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "21",
+        "name": "ChillOut",
+        "country": "Russia",
+        "rank_points": "994",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$7,232",
+        "winrate": "33%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "6",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team Tickles",
+            "opponent_img": "https://static.gosugamers.net/7d/a8/20/61f2b8e227af09ae10b016f026d05741cfdf2ba46f67384006068a7a8b.png"
+        },
+        "players": [
+            {
+                "name": "Lovkiy",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Clackson",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "lilskrip",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "weird fishes",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "soloma",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "HF.ESPORTS",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "NOVA",
+            "opponent_img": "https://static.gosugamers.net/79/23/c2/d80c09fde4cc9b9ce6af7ac9c86262a4fcf31daa2a58afc78fa40008c0.png"
+        }
+    },
+    {
+        "regional_ranking": "22",
+        "name": "Team Empire",
+        "country": "Ukraine",
+        "rank_points": "993",
+        "logo": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png",
+        "prize_winning": "US$2,077,049",
+        "winrate": "56%",
+        "wins": "796",
+        "draws": "80",
+        "losses": "534",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Ka4kanarsk",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Ghostik.",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/86/9d/52/6e6a87e0216c35fcd0f19ac3a9cf471853d05e69844b0fc7ea7229d381.jpeg"
+            },
+            {
+                "name": "Kaori",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "lightless",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "[T]SA",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Shisui",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "NO MONKEY BUSINESS",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "AS Monaco Gambit",
+            "opponent_img": "https://static.gosugamers.net/08/b1/0e/6f19b7313907adde8d64e378a8244f4a508cfbff353d4617c33ec24f5f.png"
+        }
+    },
+    {
+        "regional_ranking": "23",
+        "name": "NOVA",
+        "country": "Russia",
+        "rank_points": "985",
+        "logo": "https://static.gosugamers.net/79/23/c2/d80c09fde4cc9b9ce6af7ac9c86262a4fcf31daa2a58afc78fa40008c0.png",
+        "prize_winning": "US$7,271",
+        "winrate": "45%",
+        "wins": "52",
+        "draws": "6",
+        "losses": "58",
+        "current_streak": "4 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        },
+        "players": [
+            {
+                "name": "Jst",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BOBiNA",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "neks",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "314Jonn",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "lowkez",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Brame",
+            "opponent_img": "https://static.gosugamers.net/1d/0f/8e/e55427febef1a6f405d62c59e316cf21dfb91f736b4aee0c2853c9baf6.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "24",
+        "name": "Cybercats",
+        "country": "Russia",
+        "rank_points": "985",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "38%",
+        "wins": "6",
+        "draws": "0",
+        "losses": "10",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Shigetsu",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "MagiskUSH",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Fezor",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "airu",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "petru44o",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "AS Monaco Gambit",
+            "opponent_img": "https://static.gosugamers.net/08/b1/0e/6f19b7313907adde8d64e378a8244f4a508cfbff353d4617c33ec24f5f.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "CYXARIKI",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "25",
+        "name": "Fantastic Five",
+        "country": "Russia",
+        "rank_points": "981",
+        "logo": "https://static.gosugamers.net/59/8d/17/637d072fefd9b21daaaba3339243c81d6671e2828ed574504f9d32cc76.png",
+        "prize_winning": "US$31,604",
+        "winrate": "48%",
+        "wins": "97",
+        "draws": "6",
+        "losses": "98",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "B8",
+            "opponent_img": "https://static.gosugamers.net/90/af/3c/de64fed592771e920e3bdfc5e2a37218ae7196f5c07e49d45da0e3c7ee.png"
+        },
+        "players": [
+            {
+                "name": "Samsam",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": ".Ark",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/d5/d0/91/af2df4fed4492fa5aaf968f2c61adddb37c92b868752f27a564eba075b.png"
+            },
+            {
+                "name": "Malr1ne",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "lowkez",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "deihra",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Nemiga Gaming",
+            "opponent_img": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        }
+    },
+    {
+        "regional_ranking": "26",
+        "name": "ANOTHER TEAM",
+        "country": "Russia",
+        "rank_points": "980",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "25%",
+        "wins": "4",
+        "draws": "0",
+        "losses": "12",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team Empire",
+            "opponent_img": "https://static.gosugamers.net/79/fd/6a/9a229ad591c32f0a943b42e757bdbe786000065c2a6aa2ecfa29706818.png"
+        },
+        "players": [
+            {
+                "name": "JESV",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dominic",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Malr1ne",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "37",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "DarkLordxrd",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Lilgun",
+            "opponent_img": "https://static.gosugamers.net/ee/de/49/b732a499a1e24c90483ba2184e1b6d9a56027b23a358a16e21a053f7db.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Nemiga Gaming",
+            "opponent_img": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+        }
+    },
+    {
+        "regional_ranking": "27",
+        "name": "X3",
+        "country": "Russia",
+        "rank_points": "978",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$800",
+        "winrate": "41%",
+        "wins": "15",
+        "draws": "1",
+        "losses": "21",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Brame",
+            "opponent_img": "https://static.gosugamers.net/1d/0f/8e/e55427febef1a6f405d62c59e316cf21dfb91f736b4aee0c2853c9baf6.png"
+        },
+        "players": [
+            {
+                "name": "Kidaro",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "re1bl",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/d3/c0/d8/dc65787093fc6f7ab2e72a2d5b6fd0018d3c5bf2836874d8bac7cd39de.png"
+            },
+            {
+                "name": "Lonely",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sahami",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kaori",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Ooredoo Thunders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        }
+    },
+    {
+        "regional_ranking": "28",
+        "name": "CHEKOLDYRIKI",
+        "country": "Russia",
+        "rank_points": "969",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "5",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "No Sorry",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Kom4rt",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Smony",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "solji(old)",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "SENTIK",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "tabletkee",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "HYDRA",
+            "opponent_img": "https://static.gosugamers.net/fa/1f/8d/626de58b26e011ec01efea2af49f13cacb1008cb33d995e0dfc0938b21.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "CIS Rejects",
+            "opponent_img": "https://static.gosugamers.net/0e/f4/b7/9542aba8ff2277ca7e2a1440f36a1873a38eb845b9bc4119feddc1d0d9.png"
+        }
+    },
+    {
+        "regional_ranking": "29",
+        "name": "Team Unique",
+        "country": "Ukraine",
+        "rank_points": "958",
+        "logo": "https://static.gosugamers.net/a7/6d/31/f1b207a52821f45dfe42a0af0934095b7e33ef2bd4939d5de6141c605b.png",
+        "prize_winning": "US$106,371",
+        "winrate": "42%",
+        "wins": "99",
+        "draws": "4",
+        "losses": "131",
+        "current_streak": "7 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "PuckChamp",
+            "opponent_img": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png"
+        },
+        "players": [
+            {
+                "name": "Slayer",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/ad/3c/37/9d6e3683cedabcfad13ed10d50f5a026432442e02a2df0d129ae73ae86.png"
+            },
+            {
+                "name": "Bignum-",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/ca/6e/95/fa058ef6d017ece6e040a599c14011726954cccfea72814abb0b87b7de.jpeg"
+            },
+            {
+                "name": "Fn",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/00/60/db/6ee4e297fce8699ef3a65d4c3ee3763d3c84fc27ee7a0bbf665aac460f.jpeg"
+            },
+            {
+                "name": "Petushara",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "7jesu",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Natus Vincere",
+            "opponent_img": "https://static.gosugamers.net/c5/01/42/5a3f694e5399d94cdced2f962cee633874ca936b0a850222879490fd31.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Outsiders",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "30",
+        "name": "B8",
+        "country": "Ukraine",
+        "rank_points": "856",
+        "logo": "https://static.gosugamers.net/90/af/3c/de64fed592771e920e3bdfc5e2a37218ae7196f5c07e49d45da0e3c7ee.png",
+        "prize_winning": "US$38,500",
+        "winrate": "23%",
+        "wins": "34",
+        "draws": "1",
+        "losses": "110",
+        "current_streak": "6 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "X3",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Dendi",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/a0/55/f9/bbe789e228930ba7dd16916ac13daed5afa6948b56879fb375da34c854.jpeg"
+            },
+            {
+                "name": "Gatciy",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "pjon",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LagooNa",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "V1olent",
+                "country": "Kazakhstan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "No Sorry",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Nemiga Gaming",
+            "opponent_img": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+        }
+    }
+]

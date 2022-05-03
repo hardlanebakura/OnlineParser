@@ -1,0 +1,58 @@
+.heroes_grid_line {
+
+    display:flex;
+    justify-content:center;
+
+}
+
+.hero_grid_title {
+
+    transform:translate(3px, -22px);
+
+
+}
+
+.heroes_title_main {
+
+    min-width:1178px;
+    margin-top:4%;
+    margin-bottom:1%;
+    padding:8px;
+    background-color:var(--lg);
+    color:#fff;
+    display:flex;
+
+}
+
+.heroes_title_title {
+
+    font-size: 24px;
+
+}
+
+.heroes_title_subtitle {
+
+    padding-left:1px;
+
+}
+
+.heroes_high {
+
+    margin-top:7px;
+    margin-left:auto;
+    display:flex;
+
+}
+
+.heroes_high_popularity {
+
+    margin-left:4px;
+    margin-right:10px;
+
+}
+
+.heroes_high_winrate {
+
+    margin-left:4px;
+
+}

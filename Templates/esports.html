@@ -1,0 +1,189 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" href = "{{ url_for('static', filename = 'css/esports.css') }}">
+
+<script>
+
+    var teams = {{ teams|tojson }}
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "esports_wrapper">
+        <div class = "esports">
+            <div class = "esports_rankings">
+                <div class = "esports_rankings_title_row">
+                    <div class = "esports_rankings_title_row_title">
+                        TEAM RANKINGS
+                    </div>
+                    <div class = "esports_rankings_title_row_item active_row_title_item">
+                        <a class = "esports_link" href = "/esports">
+                            GLOBAL
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/sea">
+                            SEA
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/na">
+                            NORTH AMERICA
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/sa">
+                            SOUTH AMERICA
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/eu">
+                            EUROPE
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/east_eu">
+                            EAST EUROPE
+                        </a>
+                    </div>
+                    <div class = "esports_rankings_title_row_item">
+                        <a class = "esports_link" href = "/esports/cn">
+                            CHINA
+                        </a>
+                    </div>
+                </div>
+                <div class = "esports_teams">
+                    <div class = "rankings">
+                        {% for i in range (teams|length) %}
+                            <div class = "team_ranking_row">
+                                <div class = "team_ranking_rank">
+                                    {{ i + 1 }}
+                                </div>
+                                <img class = "team_ranking_flag" src = "{{ url_for('static', filename = '/images/flags/' + teams[i]['country'] + '.png') }}">
+                                <div class = "team_ranking_name">
+                                    {{ teams[i]["name"] }}
+                                </div>
+                                <div class = "team_ranking_points">
+                                    {{ teams[i]["rank_points"] }}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <div class = "team_overview">
+                        <div class = "team_overview_logo_and_ranking">
+                            <div class = "team_overview_logo">
+                                <img class = "team_overview_logo_img" src = "{{ teams[0]['logo'] }}">
+                            </div>
+                            <div class = "team_overview_ranking">
+                                <div class = "team_overview_points">
+                                    <span class = "team_overview_span rating_span">RATING</span>
+                                    <div class = "team_overview_rank_points">
+                                        {{ teams[0]["rank_points"] }}
+                                    </div>
+                                </div>
+                                <div class = "team_overview_rank">
+                                    <div class = "team_regional_rank">
+                                        {{ teams[0]["regional_ranking"] }}
+                                    </div>
+                                    <div class = "team_overview_region">
+                                        <div class = "team_overview_region_name">
+                                            South America
+                                        </div>
+                                        <span class = "team_overview_span">
+                                            RANKING
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class = "team_overview_name_prize">
+                            <div class = "team_overview_name_prize_title">
+                                <span class = "team_overview_span">Total prize money earned</span>
+                            </div>
+                            <div class = "team_overview_name_prize_stats">
+                                <div class = "team_overview_name_prize_name">
+                                    {{ teams[0]["name"] }}
+                                </div>
+                                <div class = "team_overview_name_prize_prize">
+                                    {{ teams[0]["prize_winning"] }}
+                                </div>
+                            </div>
+                        </div>
+                        <div class = "team_overview_statistics">
+                            <div class = "team_overview_statistics_winrate">
+                                <div class = "team_overview_statistics_title">
+                                    Winrate
+                                </div>
+                                <div class = "team_overview_statistics_value">
+                                    {{ teams[0]["winrate"] }}
+                                </div>
+                            </div>
+                            <div class = "team_overview_statistics_matches_played">
+                                <div class = "team_overview_statistics_title">
+                                    Matches played
+                                </div>
+                                <div class = "team_overview_statistics_value">
+                                    <span class = "team_overview_matches_wins">
+                                        {{ teams[0]["wins"] }}
+                                    </span>
+                                    <span>
+                                        / {{ teams[0]["draws"] }} /
+                                    </span>
+                                    <span class = "team_overview_matches_losses">
+                                        {{ teams[0]["losses"] }}
+                                    </span>
+                                </div>
+                            </div>
+                            <div class = "team_overview_statistics_current_streak">
+                                <div class = "team_overview_statistics_title">
+                                    Current streak
+                                </div>
+                                <div class = "team_overview_statistics_value">
+                                    {{ teams[0]["current_streak"] }}
+                                </div>
+                            </div>
+                        </div>
+                        <div class = "team_overview_recent_matches">
+                            <div class = "team_overview_recent_matches_title">
+                                Recent matches
+                            </div>
+                        </div>
+                        <div class = "team_roster">
+                            <div class = "team_roster_title">
+                                ROSTER
+                            </div>
+                            <div class = "team_players">
+                                {% for i in range(0, 5, 3) %}
+                                <div class = "team_players_row">
+                                    {% for j in range (3) %}
+                                        {% if i + j != 5 %}
+                                        <div class = "team_players_player">
+                                            <img class = "team_players_player_img" src = "{{ teams[0]['players'][i + j]['image'] }}">
+                                            <img class = "team_players_player_country" src = "{{ url_for('static', filename = '/images/flags/' + teams[0]['players'][i + j]['country'] + '.png') }}">
+                                            <div class = "team_players_player_name">
+                                                {{ teams[0]['players'][i + j]["name"] }}
+                                            </div>
+                                        </div>
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "esports_rankings_column_2">
+                1
+            </div>
+        </div>
+    </div>
+
+<script src = "{{ url_for('static', filename = '/js/esports.js') }}"></script>
+
+{% endblock %}

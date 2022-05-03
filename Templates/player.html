@@ -1,0 +1,248 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" href = "{{ url_for('static', filename = '/css/player.css') }}">
+
+<script>
+    var player = {{ player_dict|tojson }}
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "overview_wrapper">
+        <div class = "overview">
+            <div class = "overview_image">
+                <img class = "overview_img" src = "{{ player.avatar }}">
+            </div>
+            <div class = "overview_title">
+                <div class = "title_title">
+                    {{ player.name }}
+                </div>
+                <div class = "title_subtitle">
+                    <small>Overview</small>
+                </div>
+            </div>
+            <div class = "overview_info">
+                <div class = "overview_t">
+                    <div class = "overview_t_date">
+                        {{ player.recent_matches[0]["start_time"] }}
+                    </div>
+                    <div class = "title_subtitle">
+                        <small>LAST MATCH</small>
+                    </div>
+                </div>
+                <div class = "overview_matches">
+                    <div class = "overview_matches_all">
+                        <span class = "overview_matches_all_span_1">{{ player.won_matches }}</span> - <span class = "overview_matches_all_span_2">{{ player.lost_matches }}</span>
+                    </div>
+                    <div class = "title_subtitle">
+                        <small>MATCHES</small>
+                    </div>
+                </div>
+                <div class = "overview_winrate">
+                    <div class = "overview_winrate_percentage">
+                        {{ player.winrate }}
+                    </div>
+                    <div class = "title_subtitle">
+                        <small>WINRATE</small>
+                    </div>
+                </div>
+                <div class = "overview_matches">
+                    <div class = "overview_matches_all">
+                        {{ player.medal }}
+                    </div>
+                    <div class = "title_subtitle">
+                        <small>MEDAL</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "overview_wrapper">
+        <div class = "profile">
+            <div class = "profile_main">
+                <div class = "profile_title">
+                    ROLES AND LANES
+                </div>
+                <div class = "profile_lanes" id = "profile_lanes">
+                    <div class = "title_subtitle">
+
+                    </div>
+                    <div class = "profile_lanes_summary" id = "profile_lanes_summary">
+
+                    </div>
+                </div>
+                <div class = "profile_title">
+                    HEROES
+                </div>
+                <div class = "profile_heroes">
+                    <div class = "details_row">
+                        <div class = "details_hero">
+                            Hero
+                        </div>
+                        <div class = "details_matches">
+                            Matches
+                        </div>
+                        <div class = "details_winrate">
+                            Winrate
+                        </div>
+                    </div>
+                    {% for hero in player.heroes[:10] %}
+                        <div class = "profile_hero_row">
+                            <a class = "hero_link" href = "/heroes/{{ hero['hero'] }}">
+                                <img class = "profile_hero_img" src = "{{ url_for('static', filename = '/images/hero_avatars/' + hero['hero'] + '.png') }}">
+                            </a>
+                            <div class = "profile_hero_row_hero_time">
+                                <a class = "hero_link" href = "/heroes/{{ hero['hero'] }}">
+                                <div class = "profile_hero_row_hero_name">
+                                    {{ hero["hero"] }}
+                                </div>
+                                </a>
+                                <div class = "profile_hero_row_time">
+                                    {{ hero["last_played"] }}
+                                </div>
+                            </div>
+                            <div class = "visual_indicator_wrapper">
+                                <div class = "profile_hero_row_games">
+                                        {{ hero["games"] }}
+                                </div>
+                            </div>
+                            <div class = "visual_indicator_wrapper">
+                                <div class = "profile_hero_row_winrate">
+                                        {{ hero["winrate"] }}
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class = "profile_title">
+                    RECENT MATCHES
+                </div>
+                <div class = "profile_recent_matches">
+                    {% for recent_match in player.recent_matches %}
+                        <div class = "profile_recent_matches_row">
+                            <a class = "hero_link" href = "/heroes/{{ recent_match['hero'] }}">
+                                <img class = "profile_recent_match_hero_img" src = "{{ url_for('static', filename = '/images/hero_avatars/' + recent_match['hero'] + '.png') }}">
+                            </a>
+                            <div class = "profile_recent_match_hero_time">
+                            <div class = "profile_recent_match_hero_name">
+                                <a class = "hero_link" href = "/heroes/{{ recent_match['hero'] }}">
+                                {{ recent_match["hero"] }}
+                                </a>
+                            </div>
+                            <div class = "profile_recent_match_time">
+                                {{ recent_match["start_time"] }}
+                            </div>
+                            </div>
+                            <div class = "profile_recent_match_result">
+                                <a class = "hero_link" href = "/match/{{ recent_match['match_id'] }}">
+                                {{ recent_match["result"] }}
+                                </a>
+                            </div>
+                            <div class = "profile_recent_match_gamemode">
+                                {{ recent_match["game_mode"] }}
+                            </div>
+                            <div class = "profile_recent_match_party_size">
+                                {% if recent_match["party_size"] != none %}
+                                {% if recent_match["party_size"] > 1 %}
+                                    {% if recent_match["party_size"] == 10 %}
+                                        x5
+                                    {% else %}
+                                        x{{ recent_match["party_size"] }}
+                                    {% endif %}
+                                {% else %}
+                                &nbsp;
+                                {% endif %}
+                                {% else %}
+                                &nbsp;
+                                {% endif %}
+                            </div>
+                            <div class = "profile_recent_match_duration">
+                                {{ recent_match["duration"] }}
+                            </div>
+                            <div class = "profile_recent_match_kda">
+                                <div class = "profile_recent_match_kda_value">
+                                    {{ recent_match["kills"] }} / {{ recent_match["deaths"] }} / {{ recent_match["assists"] }}
+                                </div>
+                                <div class = "profile_recent_match_kda_ratios">
+
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class = "profile_statistics">
+                <div class = "profile_stats" id = "profile_stats_gamemodes">
+                    <div class = "profile_title">
+                        FULL STATISTICS
+                    </div>
+                    <div class = "profile_stats_title">
+                        Game modes
+                    </div>
+                    {% set gamemodes = player.gamemodes|list %}
+                    {% for i in range(2) %}
+                        <div class = "profile_stats_row">
+                            <div class = "profile_stats_row_name">
+                                {{ gamemodes[i] }}
+                            </div>
+                            <div class = "profile_stats_row_all">
+                                {{ player.gamemodes[gamemodes[i]]["games"] }}
+                            </div>
+                            <div class = "profile_stats_row_winrate">
+                                {{ player.gamemodes[gamemodes[i]]["winrate"] }}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class = "profile_stats" id = "profile_stats_sides">
+                    <div class = "profile_stats_title">
+                        Side
+                    </div>
+                    {% set sides = player.sides|list %}
+                    {% for i in range(2) %}
+                        <div class = "profile_stats_row">
+                            <div class = "profile_stats_row_name">
+                                {{ sides[i] }}
+                            </div>
+                            <div class = "profile_stats_row_all">
+                                {{ player.sides[sides[i]]["games"] }}
+                            </div>
+                            <div class = "profile_stats_row_winrate">
+                                {{ player.sides[sides[i]]["winrate"] }}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class = "profile_stats" id = "profile_stats_regions">
+                    <div class = "profile_stats_title">
+                        Region
+                    </div>
+                    {% set regions = player.regions|list %}
+                    {% for i in range(5) %}
+                        {% if regions[i] != 'Unspecified' and player.regions[regions[i]]["games"] > 50 %}
+                        <div class = "profile_stats_row">
+                            <div class = "profile_stats_row_name">
+                                {{ regions[i] }}
+                            </div>
+                            <div class = "profile_stats_row_all">
+                                {{ player.regions[regions[i]]["games"] }}
+                            </div>
+                            <div class = "profile_stats_row_winrate">
+                                {{ player.regions[regions[i]]["winrate"] }}
+                            </div>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src = "{{ url_for('static', filename = '/js/player.js') }}"></script>
+
+{% endblock %}

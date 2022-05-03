@@ -1,0 +1,4311 @@
+[
+    {
+        "hero_name": "Abaddon",
+        "talent_level_25_option_1": {
+            "name": "400 AoE Mist Coil",
+            "advantage": "+3.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-1 Curse of Avernus Attacks Required",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-8s Borrowed Time Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+100 Aphotic Shield Health",
+            "advantage": "+4.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+50 Mist Coil Heal/Damage",
+            "advantage": "+4.4%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+65 Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+8 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Movement Speed",
+            "advantage": "+5.8%"
+        }
+    },
+    {
+        "hero_name": "Alchemist",
+        "talent_level_25_option_1": {
+            "name": "+50 Chemical Rage Regeneration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+50 Chemical Rage Movement Speed",
+            "advantage": "+1.8%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+400 Unstable Concoction Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+25% Cleave",
+            "advantage": "+0.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+20 Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+350 Health",
+            "advantage": "+5.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+125.0 Unstable Concoction Radius",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Attack Speed",
+            "advantage": "+4.8%"
+        }
+    },
+    {
+        "hero_name": "Ancient Apparition",
+        "talent_level_25_option_1": {
+            "name": "+4% Ice Blast Kill Threshold",
+            "advantage": "+1.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "450 AoE Cold Feet",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+80 Chilling Touch Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-5% Ice Vortex Slow/Resistance",
+            "advantage": "+2.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+200 Cold Feet Breaking distance",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-2.0s Ice Vortex Cooldown",
+            "advantage": "+2.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+8% Spell Amplification",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+200 Chilling Touch Attack Range",
+            "advantage": "+0.1%"
+        }
+    },
+    {
+        "hero_name": "Anti-Mage",
+        "talent_level_25_option_1": {
+            "name": "-50s Mana Void Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+20% Counterspell Magic Resistance",
+            "advantage": "+4.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+250.0 Blink Cast Range",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.1 Mana Void Damage Multiplier",
+            "advantage": "+10.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+0.7s Mana Void Stun",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.6% Max Mana Mana Burn",
+            "advantage": "+12.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-1.0s Blink Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+9 Strength",
+            "advantage": "+19.2%"
+        }
+    },
+    {
+        "hero_name": "Arc Warden",
+        "talent_level_25_option_1": {
+            "name": "+12.0s Tempest Double Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+50% Tempest Double Cooldown Reduction",
+            "advantage": "+3.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+40.0 Flux Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+125 Spark Wraith Damage",
+            "advantage": "+4.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+40.0 Magnetic Field Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_duration}s Flux Duration",
+            "advantage": "+8.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+225 Health",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_abilitycastrange} Flux Cast Range",
+            "advantage": "+11.5%"
+        }
+    },
+    {
+        "hero_name": "Axe",
+        "talent_level_25_option_1": {
+            "name": "{s:bonus_armor_multiplier}x Battle Hunger Armor Multiplier",
+            "advantage": "+0.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+100 Berserker's Call AoE",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_armor_per_stack} Bonus Armor per Culling Blade Stack",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_damage} Culling Blade Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+30 Counter Helix Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_slow}% Battle Hunger Slow",
+            "advantage": "+7.6%",
+            "id": "670"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Movement Speed",
+            "advantage": "",
+            "id": "5918"
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.5 Mana Regen",
+            "advantage": "+10.4%"
+        }
+    },
+    {
+        "hero_name": "Bane",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_abilitychanneltime}s Fiend's Grip Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_brain_sap_damage} Brain Sap Damage/Heal",
+            "advantage": "+1.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Movement Speed",
+            "advantage": "+1.8%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-3.0s Nightmare Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_fiend_grip_mana_drain}% Fiend's Grip Max Mana Drain",
+            "advantage": "+0.2%"
+        },
+        "talent_level_15_option_2": {
+            "name": "-3.0s Brain Sap Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+12% Magic Resistance",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+5 Armor",
+            "advantage": "+1.5%"
+        }
+    },
+    {
+        "hero_name": "Batrider",
+        "talent_level_25_option_1": {
+            "name": "Flamebreak applies {s:bonus_napalm_stacks} Sticky Napalm Stacks",
+            "advantage": "+4.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+6.5s Firefly Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "2 Flamebreak Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_damage} Sticky Napalm Damage",
+            "advantage": "+7.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-10.0s Flaming Lasso Cooldown",
+            "advantage": "+0.0%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+20 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_knockback_distance} Flamebreak Knockback Distance",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_radius} Sticky Napalm Radius",
+            "advantage": "+7.1%"
+        }
+    },
+    {
+        "hero_name": "Beastmaster",
+        "talent_level_25_option_1": {
+            "name": "-30.0s Primal Roar Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+30 Inner Beast Attack Speed",
+            "advantage": "+8.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+250 Health Beastmaster Controlled",
+            "advantage": "+1.3%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+35 Boar Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+2.5% Wild Axes Damage Amp Per Stack",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Movespeed Beastmaster Controlled",
+            "advantage": "+9.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.75 Mana Regen",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Damage",
+            "advantage": "+2.4%"
+        }
+    },
+    {
+        "hero_name": "Bloodseeker",
+        "talent_level_25_option_1": {
+            "name": "+14% Max Thirst MS",
+            "advantage": "+1.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Rupture Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "15% Spell Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+475 Rupture Cast Range",
+            "advantage": "+2.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+85 Blood Rite Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+10% Rupture Initial Damage",
+            "advantage": "+5.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+8% Bloodrage Spell Amplification",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Bloodrage Attack Speed",
+            "advantage": "+6.6%"
+        }
+    },
+    {
+        "hero_name": "Bounty Hunter",
+        "talent_level_25_option_1": {
+            "name": "+250 Track Gold",
+            "advantage": "+1.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Shuriken Toss Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+50 Jinada Gold Steal",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Track Grants 600 Ground Vision",
+            "advantage": "+1.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "Half Track Bonus Speed to Allies",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+50 Shuriken Toss Damage",
+            "advantage": "+0.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+40 Jinada Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_slow}% Shadow Walk Slow",
+            "advantage": "+9.4%"
+        }
+    },
+    {
+        "hero_name": "Brewmaster",
+        "talent_level_25_option_1": {
+            "name": "Cinder Brew applies Fear when ignited",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Brewlings Gain Drunken Brawler Passive",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+80 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+1400 Brewlings Health",
+            "advantage": "+2.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+350 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+30% Cinder Brew Damage/Duration",
+            "advantage": "+5.1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Thunder Clap AoE",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Damage",
+            "advantage": "+7.0%"
+        }
+    },
+    {
+        "hero_name": "Bristleback",
+        "talent_level_25_option_1": {
+            "name": "+25 Warpath Damage Per Stack",
+            "advantage": "+2.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "12% Spell Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+20 Quill Stack Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Health Regen",
+            "advantage": "+2.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+20 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+200 Health",
+            "advantage": "+0.3%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.5 Mana Regen",
+            "advantage": "+7.6%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Damage",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Broodmother",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_hp_bonus} Spiders Health",
+            "advantage": "+0.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_lifesteal_pct} Insatiable Hunger Damage/Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+400 Health",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_movement_speed}% Silken Bola Slow",
+            "advantage": "+0.1%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+16 Agility",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-{s:bonus_AbilityChargeRestoreTime}s Spin Web Recharge Time",
+            "advantage": "+4.0%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_count} Spin Web Simultaneous Webs",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_damage} Spawn Spiderlings Damage",
+            "advantage": "+2.5%"
+        }
+    },
+    {
+        "hero_name": "Centaur Warrunner",
+        "talent_level_25_option_1": {
+            "name": "+1.0s Hoof Stomp Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Gains Retaliate Aura",
+            "advantage": "+0.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-25s Stampede Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_return_damage} Retaliate Damage",
+            "advantage": "+2.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+40% Double Edge Strength Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+15 Strength",
+            "advantage": "+1.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+5 Health Regen",
+            "advantage": "+6.1%"
+        }
+    },
+    {
+        "hero_name": "Chaos Knight",
+        "talent_level_25_option_1": {
+            "name": "+10.0s Phantasm Duration",
+            "advantage": "+1.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+10% Chaos Strike Chance",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Reality Rift Pierces Spell Immune",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.5 Min/Max Chaos Bolt Duration",
+            "advantage": "+4.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+12 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-3s Chaos Bolt Cooldown",
+            "advantage": "+2.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Reality Rift Pull Distance",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20% Chaos Strike Lifesteal",
+            "advantage": "+3.5%"
+        }
+    },
+    {
+        "hero_name": "Chen",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_heal_amount}/+{s:bonus_heal_per_second} Hand of God Heal/Heal Over Time",
+            "advantage": "+6.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+3 Holy Persuasion Max Units and Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+1200 Holy Persuasion Minimum Health",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-40s Hand of God Cooldown",
+            "advantage": "+0.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+12% Penitence Slow",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+16 Holy Persuasion Damage",
+            "advantage": "+1.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Health",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "Penitence Deals 250 Damage",
+            "advantage": "+0.0%"
+        }
+    },
+    {
+        "hero_name": "Clinkz",
+        "talent_level_25_option_1": {
+            "name": "Searing Arrows Multishot",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_damage_pct}% Burning Barrage Damage",
+            "advantage": "+1.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+3.0 Burning Barrage arrows",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+125 Attack Range",
+            "advantage": "+5.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "Death Pact Steal creep abilities",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25% Death Pact Health",
+            "advantage": "+11.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-3.0s Skeleton Walk Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Searing Arrows Damage",
+            "advantage": "+11.3%"
+        }
+    },
+    {
+        "hero_name": "Clockwerk",
+        "talent_level_25_option_1": {
+            "name": "0.25s Battery Assault Interval",
+            "advantage": "+0.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Spell Immunity Inside Power Cogs",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Power Cogs Leash Units Inside",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Rocket Flare True Sight",
+            "advantage": "+1.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+24 Battery Assault Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+2 Power Cogs Hit To Kill",
+            "advantage": "+1.1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+60 Power Cogs Mana Burn",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-2s Rocket Flare Cooldown",
+            "advantage": "+2.8%"
+        }
+    },
+    {
+        "hero_name": "Crystal Maiden",
+        "talent_level_25_option_1": {
+            "name": "+240 Crystal Nova Damage",
+            "advantage": "+0.6%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.25s Frostbite Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+50 Freezing Field Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+200 Attack Speed",
+            "advantage": "+1.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-3.0s Crystal Nova Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_mana_per_cast} Arcane Aura Mana per Cast",
+            "advantage": "+3.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+125.0 Crystal Nova AoE",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+250 Health",
+            "advantage": "+1.1%"
+        }
+    },
+    {
+        "hero_name": "Dark Seer",
+        "talent_level_25_option_1": {
+            "name": "350 AoE Surge",
+            "advantage": "+2.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Parallel Wall",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+50 Ion Shell Damage",
+            "advantage": "+2.2%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-40.0s Wall of Replica Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+75 Ion Shell Radius",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+100 Vacuum AoE",
+            "advantage": "+1.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+6 Armor",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20% Wall of Replica Illusion Damage",
+            "advantage": "+0.6%"
+        }
+    },
+    {
+        "hero_name": "Dark Willow",
+        "talent_level_25_option_1": {
+            "name": "+1.5 Terrorize Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+100 Attack Speed",
+            "advantage": "+0.5%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-7.0s Bramble Maze CD",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+2s Shadow Realm Duration",
+            "advantage": "+0.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+160 Cursed Crown AoE",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+30 Bedlam Damage",
+            "advantage": "+2.0%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-2.0s Shadow Realm Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+0.5s Cursed Crown Stun Duration",
+            "advantage": "+8.5%"
+        }
+    },
+    {
+        "hero_name": "Dawnbreaker",
+        "talent_level_25_option_1": {
+            "name": "+1100 Celestial Hammer Cast Range",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Starbreaker Charges",
+            "advantage": "+1.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-1 Luminosity Attacks Required",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+150 Solar Guardian Radius",
+            "advantage": "+1.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-20s Solar Guardian Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+50% Luminosity Crit",
+            "advantage": "+1.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15% Celestial Hammer Slow",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+25 Starbreaker Swipe/Smash Damage",
+            "advantage": "+1.5%"
+        }
+    },
+    {
+        "hero_name": "Dazzle",
+        "talent_level_25_option_1": {
+            "name": "+0.5 Bad Juju Armor Reduction",
+            "advantage": "+3.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-32% Poison Touch Slow",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+40 Poison Touch DPS",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+250 Heal On Shallow Grave End",
+            "advantage": "+6.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+60 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+50 Shadow Wave Heal / Damage",
+            "advantage": "+5.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.75 Mana Regen",
+            "advantage": "+3.4%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+50 Damage",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Death Prophet",
+        "talent_level_25_option_1": {
+            "name": "+8 Exorcism Spirits",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-20.0s Spirit Siphon Replenish Time",
+            "advantage": "+1.1%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+400 Health",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "20.0% Spirit Siphon Move Speed Slow",
+            "advantage": "+2.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-2.0s Crypt Swarm Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+1.0% Max Health Spirit Siphon",
+            "advantage": "+4.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+12% Magic Resistance",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Damage",
+            "advantage": "+5.9%"
+        }
+    },
+    {
+        "hero_name": "Disruptor",
+        "talent_level_25_option_1": {
+            "name": "+250 Static Storm AoE",
+            "advantage": "+0.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-12s Glimpse Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+3 Thunder Strike Hits",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+2s Kinetic Field Duration",
+            "advantage": "+0.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+2.0s Static Storm Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+275 Glimpse Arrival Damage",
+            "advantage": "+0.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+30 Thunder Strike Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-3s Kinetic Field Cooldown",
+            "advantage": "+2.6%"
+        }
+    },
+    {
+        "hero_name": "Doom",
+        "talent_level_25_option_1": {
+            "name": "+150% Cleave",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+2.1% Infernal Blade Damage",
+            "advantage": "+2.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+15% Scorched Earth Movement Speed",
+            "advantage": "+2.6%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+30 Doom DPS",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "Devour Can Target Ancients",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-8.0s Scorched Earth Cooldown",
+            "advantage": "+4.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Scorched Earth Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+12% Magic Resistance",
+            "advantage": "+9.2%"
+        }
+    },
+    {
+        "hero_name": "Dragon Knight",
+        "talent_level_25_option_1": {
+            "name": "+400 AoE Dragon Tail During Elder Dragon Form",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+12 Dragon Blood HP Regen/Armor",
+            "advantage": "+3.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+20 Strength",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+175 Elder Dragon Form Attack Range",
+            "advantage": "+2.0%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+400 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.5s Dragon Tail",
+            "advantage": "+5.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-30% Breathe Fire Damage Reduction",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Damage",
+            "advantage": "+7.5%"
+        }
+    },
+    {
+        "hero_name": "Drow Ranger",
+        "talent_level_25_option_1": {
+            "name": "+2.0 Multishot Waves",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+12% Marksmanship Chance",
+            "advantage": "+1.8%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-4.0s Gust Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+28% Multishot Damage",
+            "advantage": "+1.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-8.0s Multishot Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+250.0 Gust Width",
+            "advantage": "+6.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15.0 Frost Arrow Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+50% Gust Blind",
+            "advantage": "+10.1%"
+        }
+    },
+    {
+        "hero_name": "Earth Spirit",
+        "talent_level_25_option_1": {
+            "name": "+0.6s Rolling Boulder Stun Duration",
+            "advantage": "+1.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Geomagnetic Grip Targets Allies",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+3.0s Geomagnetic Grip Silence",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+18% Spell Amplification",
+            "advantage": "+0.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+120 Rolling Boulder Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+300.0 Boulder Smash Distance",
+            "advantage": "+0.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+2.0s Magnetize Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+325 Rolling Boulder Distance",
+            "advantage": "+5.4%"
+        }
+    },
+    {
+        "hero_name": "Earthshaker",
+        "talent_level_25_option_1": {
+            "name": "-1.5s Enchant Totem Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+200 Aftershock Range",
+            "advantage": "+2.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+320 Fissure Range",
+            "advantage": "+2.9%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+40 Echo Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+50 Aftershock Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_totem_damage_percentage}% Enchant Totem Damage",
+            "advantage": "+0.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+80 Fissure Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Base Damage",
+            "advantage": "+2.6%"
+        }
+    },
+    {
+        "hero_name": "Elder Titan",
+        "talent_level_25_option_1": {
+            "name": "+450 Echo Stomp Wake Damage",
+            "advantage": "+3.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-60 Earth Splitter Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+100 Echo Stomp Damage",
+            "advantage": "+1.4%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+100% Cleave",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_damage_heroes} Astral Spirit Hero Attack",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+15% Magic Resistance",
+            "advantage": "+4.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+25 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_move_pct_heroes}% Astral Spirit Move Speed Per Hero",
+            "advantage": "+7.8"
+        }
+    },
+    {
+        "hero_name": "Ember Spirit",
+        "talent_level_25_option_1": {
+            "name": "-12s Remnant Charge Restore Time",
+            "advantage": "+0.8%"
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Sleight of Fist Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+65 Sleight of Fist Hero Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+1 Searing Chains Target",
+            "advantage": "+6.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+1.0s Searing Chains Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+50 Flame Guard DPS",
+            "advantage": "+5.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Flame Guard Absorption",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Damage",
+            "advantage": "+10.9%"
+        }
+    },
+    {
+        "hero_name": "Enchantress",
+        "talent_level_25_option_1": {
+            "name": "+20 Nature's Attendants Heal",
+            "advantage": "+4.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_distance_damage_pct}% Impetus Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Enchant Affects Ancients",
+            "advantage": "+2.3%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-65 Untouchable Slow",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+5 Nature's Attendants Wisps",
+            "advantage": "+0.2%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+45 Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+10% Magic Resistance",
+            "advantage": "+2.9%"
+        }
+    },
+    {
+        "hero_name": "Enigma",
+        "talent_level_25_option_1": {
+            "name": "+5 Demonic Conversion Eidolons",
+            "advantage": "+2.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+4 Malefice Instances",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+50 Eidolon Damage",
+            "advantage": "+1.6%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+400 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+30 Malefice Instance Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+200 Midnight Pulse Radius",
+            "advantage": "+2.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.35s Malefice Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Eidolon Attack Speed",
+            "advantage": "+2.4%"
+        }
+    },
+    {
+        "hero_name": "Faceless Void",
+        "talent_level_25_option_1": {
+            "name": "+140 Chronosphere AoE",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+20% Backtrack",
+            "advantage": "+4.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+70 Time Lock Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+120 Attack Speed during Chronosphere",
+            "advantage": "+2.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+7.0% Time Dilation Slow per Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-1.5s Time Walk Cooldown",
+            "advantage": "+7.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.5s Time Walk Backtrack Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+6 Time Dilation DPS per cooldown",
+            "advantage": "+16.5%"
+        }
+    },
+    {
+        "hero_name": "Grimstroke",
+        "talent_level_25_option_1": {
+            "name": "+50% Stroke of Fate Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+150 Ink Swell Radius",
+            "advantage": "+4.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+3 Hits to Kill Phantom",
+            "advantage": "+3.3%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+1000 Stroke of Fate Cast Range",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+16% Ink Swell Movement Speed",
+            "advantage": "+1.5%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+15% Spell Amplification",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "-5.0s Ink Swell Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+50 Phantom's Embrace DPS",
+            "advantage": "+3.3%"
+        }
+    },
+    {
+        "hero_name": "Gyrocopter",
+        "talent_level_25_option_1": {
+            "name": "3x Call Down",
+            "advantage": "+0.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-6s Flak Cannon Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+16 Rocket Barrage Damage",
+            "advantage": "+4.1%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+30 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+2 Flak Cannon Attacks",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.4s Homing Missile Stun Duration",
+            "advantage": "+13.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Health",
+            "advantage": "+2.7%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+300 Flak Cannon Range",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Hoodwink",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_trap_radius} Bushwhack Radius",
+            "advantage": "+3.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Acorn Shot Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-4 Armor Corruption",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "25.0% Sharpshooter Faster Projectile / Charge Time",
+            "advantage": "+1.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+2 Acorn Shot Bounces",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "Scurry Camouflage",
+            "advantage": "+2.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-4.0s Bushwhack Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.0s Scurry Duration",
+            "advantage": "+10.7%"
+        }
+    },
+    {
+        "hero_name": "Huskar",
+        "talent_level_25_option_1": {
+            "name": "Burning Spears Pure Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+20% Life Break Damage",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-3.0s Life Break Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+30% Berserker's Blood Regen",
+            "advantage": "+0.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "15% Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+5 Burning Spears DPS",
+            "advantage": "+5.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+2s Life Break Slow Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1s Inner Fire Duration",
+            "advantage": "+6%"
+        }
+    },
+    {
+        "hero_name": "Invoker",
+        "talent_level_25_option_1": {
+            "name": "3.0x Quas/Wex/Exort passive effects",
+            "advantage": "+3.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Radial Deafening Blast",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Alacrity Damage/Speed",
+            "advantage": "+3.6%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-10s Tornado Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-8s Cold Snap Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+50 Forged Spirit Attack Speed",
+            "advantage": "+1.0%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+40% Chaos Meteor Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-25s Ghost Walk Cooldown",
+            "advantage": "+3.2%"
+        }
+    },
+    {
+        "hero_name": "Io",
+        "talent_level_25_option_1": {
+            "name": "Attack Tethered Ally's Target",
+            "advantage": "+1.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+400 Health to Tethered Units",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-25s Relocate Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_hp_regen}% Overcharge Max HP Regen Bonus",
+            "advantage": "+0.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+45 Spirits Hero Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_movespeed}% Tether Movement Speed",
+            "advantage": "+4.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15 Attack Damage to Tethered Units",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+4 Health Regen",
+            "advantage": "+0.5%"
+        }
+    },
+    {
+        "hero_name": "Jakiro",
+        "talent_level_25_option_1": {
+            "name": "-2.5s Ice Path Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "2x Dual Breath Damage and Range",
+            "advantage": "+2.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Macropyre Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.5s Ice Path Duration",
+            "advantage": "+0.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+325 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-50 Liquid Fire Attack Speed",
+            "advantage": "+0.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+6% Spell Amplification",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+325 Attack Range",
+            "advantage": "+2.4%"
+        }
+    },
+    {
+        "hero_name": "Juggernaut",
+        "talent_level_25_option_1": {
+            "name": "+1.0s Omnislash Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+475 Health",
+            "advantage": "+3.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+150 Blade Fury DPS",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_blade_dance_lifesteal}% Blade Dance Lifesteal",
+            "advantage": "+2.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_duration}s Blade Fury Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-20.0s Healing Ward Cooldown",
+            "advantage": "+11.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+75.0 Blade Fury Radius",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+5 All Stats",
+            "advantage": "+11.1%"
+        }
+    },
+    {
+        "hero_name": "Keeper of the Light",
+        "talent_level_25_option_1": {
+            "name": "+180 Illuminate Damage",
+            "advantage": "+1.8%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.2s Blinding Light Stun",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Chakra Magic Dispels",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+15.0s Spirit Form Duration",
+            "advantage": "+2.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "2 Solar Bind Charges",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-4.0s Chakra Magic Cooldown",
+            "advantage": "+5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30% Blinding Light Miss",
+            "advantage": "+2.7%"
+        }
+    },
+    {
+        "hero_name": "Kunkka",
+        "talent_level_25_option_1": {
+            "name": "-2.0s Tidebringer Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Ghostship Fleet",
+            "advantage": "+2.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+70% Tidebringer Cleave",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+80 Torrent AoE",
+            "advantage": "+6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+100 Torrent Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_ally_ms}% X Mark the Spot Move Speed",
+            "advantage": "+6.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.4s Torrent Knock Up/Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Damage",
+            "advantage": "+1.9%"
+        }
+    },
+    {
+        "hero_name": "Legion Commander",
+        "talent_level_25_option_1": {
+            "name": "Press the Attack grants 2s Spell Immunity",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+30 Duel Damage Bonus",
+            "advantage": "+1.0%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+8% Moment Proc Chance",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "250 AoE Press The Attack",
+            "advantage": "+6.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+75 Overwhelming Odds Hero Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+40.0 Press The Attack HP Regen",
+            "advantage": "+6.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Duel Cast Range",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+100 Overwhelming Odds Radius",
+            "advantage": "+12.6%"
+        }
+    },
+    {
+        "hero_name": "Leshrac",
+        "talent_level_25_option_1": {
+            "name": "+30 Diabolic Edict Explosions",
+            "advantage": "+4.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Lightning Storm Can Bounce Twice On Units",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+40 Pulse Nova Damage",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+25 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+100 Lightning Storm Damage",
+            "advantage": "+2.0%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+40 Split Earth Radius",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.75 Mana Regen",
+            "advantage": "+8.6%"
+        }
+    },
+    {
+        "hero_name": "Lich",
+        "talent_level_25_option_1": {
+            "name": "Chain Frost Unlimited Bounces",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Frost Shield Provides +50 HP Regen",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+4.0s Frost Shield Duration",
+            "advantage": "+1.7%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+100 Chain Frost Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-3s Frost Blast Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.5s Sinister Gaze Duration",
+            "advantage": "+1.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+125 Frost Blast Radius and Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+10% Frost Shield Damage Reduction",
+            "advantage": "+0.3%"
+        }
+    },
+    {
+        "hero_name": "Lifestealer",
+        "talent_level_25_option_1": {
+            "name": "+1.5s Rage Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.2% Feast Lifesteal",
+            "advantage": "+1.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+10% Ghoul Frenzy Slow",
+            "advantage": "+3.2%"
+        },
+        "talent_level_20_option_2": {
+            "name": "16% Evasion",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+325 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Damage",
+            "advantage": "+7.1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+10% Rage Move Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Attack Speed",
+            "advantage": "+11.6%"
+        }
+    },
+    {
+        "hero_name": "Lina",
+        "talent_level_25_option_1": {
+            "name": "+125 Attack Range",
+            "advantage": "+0.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-25.0s Laguna Blade Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+15/1.0% Fiery Soul Per Stack",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+11% Spell Amplification",
+            "advantage": "+2.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+130 Light Strike Array Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+350 Health",
+            "advantage": "+5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-3.5s Dragon Slave Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+25 Damage",
+            "advantage": "+7%"
+        }
+    },
+    {
+        "hero_name": "Lion",
+        "talent_level_25_option_1": {
+            "name": "+250 AoE Hex",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+800 Earth Spike Range",
+            "advantage": "+3.0%"
+        },
+        "talent_level_20_option_1": {
+            "name": "Mana Drain Restores Allies",
+            "advantage": "+6.6%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Finger of Death Damage Per Kill",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+70 Max Health Per Finger of Death Kill",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-2.0s Earth Spike Cooldown",
+            "advantage": "+0.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+60 Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15 Movement Speed",
+            "advantage": "+4.8%"
+        }
+    },
+    {
+        "hero_name": "Lone Druid",
+        "talent_level_25_option_1": {
+            "name": "+1000 True Form and Spirit Bear Health",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "0.1 Spirit Bear Attack Time",
+            "advantage": "+2.8%"
+        },
+        "talent_level_20_option_1": {
+            "name": "0 Entangling Claws Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-50s True Form Cooldown",
+            "advantage": "+0.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+8 Spirit Bear Armor",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-10s Savage Roar Cooldown",
+            "advantage": "+5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+25 Spirit Bear Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+200 Health",
+            "advantage": "+6.7%"
+        }
+    },
+    {
+        "hero_name": "Luna",
+        "talent_level_25_option_1": {
+            "name": "+0.2s Eclipse Lucent Ministun",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+35 Lunar Blessing Damage",
+            "advantage": "+3.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+100 Lucent Beam Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Lunar Blessing Global and +{s:bonus_bonus_night_vision} Night Vision",
+            "advantage": "+3.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-25.0s Eclipse Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-3.0s Lucent Beam Cooldown",
+            "advantage": "+6.3%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.4s Lucent Beam Ministun",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-8.0% Moon Glaives Damage Reduction",
+            "advantage": "+9.1%"
+        }
+    },
+    {
+        "hero_name": "Lycan",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_tooltip_wolf_count} Wolves Summoned",
+            "advantage": "+6.6%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_crit_chance}% Chance Shapeshift Critical Strike",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_bonus_damage}% Feral Impulse Damage",
+            "advantage": "+2.3%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_duration}s Shapeshift Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-15s Shapeshift Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_bonus_health} Summon Wolves Health",
+            "advantage": "+3.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_bonus_damage} Wolves Damage",
+            "advantage": "+0.6%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_attack_damage_reduction}% Howl Attack Damage Reduction",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Magnus",
+        "talent_level_25_option_1": {
+            "name": "+1.0s Reverse Polarity Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+10% Empower Damage/Cleave",
+            "advantage": "+2.8%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+375 Skewer Range",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_shock_damage} Shockwave Damage",
+            "advantage": "+2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-7.0s Skewer Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+12 Strength",
+            "advantage": "+1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.5s Shockwave Slow Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+10s Empower Duration",
+            "advantage": "+4.8%"
+        }
+    },
+    {
+        "hero_name": "Marci",
+        "talent_level_25_option_1": {
+            "name": "1.5s Sidekick Spell Immunity",
+            "advantage": "+1.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "1.5s Unleash Pulse Silence",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Movement Speed",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+25% Sidekick Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+200 Rebound Cast/Jump Range",
+            "advantage": "+0.6%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.5s Dispose Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+2 Mana Regen",
+            "advantage": "+0.1%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+5 Armor",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Mars",
+        "talent_level_25_option_1": {
+            "name": "Arena Of Blood Grants Team +180 HP Regen",
+            "advantage": "+0.6%"
+        },
+        "talent_level_25_option_2": {
+            "name": "God's Rebuke +65% Crit",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.8s Spear of Mars Stun",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+10%/+5% Bulwark Front/Side damage reduction",
+            "advantage": "+1.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+100.0 Spear Of Mars Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-4.0s God's Rebuke Cooldown",
+            "advantage": "+2.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-10% Bulwark Movespeed Penalty",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.5s God's Rebuke Slow",
+            "advantage": "+5.3%"
+        }
+    },
+    {
+        "hero_name": "Medusa",
+        "talent_level_25_option_1": {
+            "name": "Split Shot Uses Modifiers",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+75 Intelligence",
+            "advantage": "+0.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+2.0s Stone Gaze Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_snake_jumps} Mystic Snake Bounces",
+            "advantage": "+3.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-1.5s Mystic Snake Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-{s:bonus_damage_modifier}% Split Shot Damage Penalty",
+            "advantage": "+13.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_damage_per_mana} Mana Shield Damage per Mana",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Attack Speed",
+            "advantage": "+12.4%"
+        }
+    },
+    {
+        "hero_name": "Meepo",
+        "talent_level_25_option_1": {
+            "name": "+1 Divided We Stand Clone",
+            "advantage": "+5.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+375 Health",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+8 Ransack Health Steal",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-3s Earthbind Cooldown",
+            "advantage": "+0.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "Earthbind grants True Strike on Targets",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "15% Evasion",
+            "advantage": "+4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+30 Poof Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+6 Strength",
+            "advantage": "+8.8%"
+        }
+    },
+    {
+        "hero_name": "Mirana",
+        "talent_level_25_option_1": {
+            "name": "+200.0 Starstorm Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+2 Multishot Sacred Arrows",
+            "advantage": "+1.8%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+20 Mana Break",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-20s Moonlight Shadow Cooldown",
+            "advantage": "+3.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_leap_speedbonus_as} Leap Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "Moonlight Shadow gives +20.0% Evasion",
+            "advantage": "+4.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_leap_distance} Leap Distance",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-2.0s Sacred Arrow cooldown",
+            "advantage": "+5.4%"
+        }
+    },
+    {
+        "hero_name": "Monkey King",
+        "talent_level_25_option_1": {
+            "name": "Additional Wukong's Command Ring",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "0 Cooldown Primal Spring",
+            "advantage": "+2.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-7.0s Boundless Strike Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+2 Jingu Mastery Charges",
+            "advantage": "+3.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+130 Jingu Mastery Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+450 Tree Dance Cast Range",
+            "advantage": "+8.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.3s Boundless Strike Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+50% Tree Dance Vision AoE",
+            "advantage": "+11.6%"
+        }
+    },
+    {
+        "hero_name": "Morphling",
+        "talent_level_25_option_1": {
+            "name": "Attribute Shift While Stunned",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Waveform Charges",
+            "advantage": "+8.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "Waveform Attacks Targets",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Strength",
+            "advantage": "+3.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+15 Agility",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+16s Morph Duration",
+            "advantage": "+10.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+250 Waveform Range",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15% Magic Resistance",
+            "advantage": "+21.8%"
+        }
+    },
+    {
+        "hero_name": "Naga Siren",
+        "talent_level_25_option_1": {
+            "name": "-7 Rip Tide Armor",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-10s Mirror Image Cooldown",
+            "advantage": "+0.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+1 Mirror Image Illusion",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-12 Rip Tide Hits",
+            "advantage": "+2.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+15 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+13% Mirror Image Damage",
+            "advantage": "+6.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:value} Rip Tide Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Movement Speed",
+            "advantage": "+11.2%"
+        }
+    },
+    {
+        "hero_name": "Nature's Prophet",
+        "talent_level_25_option_1": {
+            "name": "2.5x Treant HP/Damage",
+            "advantage": "+6.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Removed Teleportation Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "100% Miss chance for Sprouted units",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Sprout Leashes",
+            "advantage": "+3.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+5 Treants Summoned",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Attack Speed",
+            "advantage": "+0.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+30 Wrath of Nature Base Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-8s Nature's Call Cooldown",
+            "advantage": "+6.9%"
+        }
+    },
+    {
+        "hero_name": "Necrophos",
+        "talent_level_25_option_1": {
+            "name": "-2.5s Death Pulse Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+0.5% Heartstopper Aura",
+            "advantage": "+1.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+32% Heartstopper Regen Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+15% Magic Resistance",
+            "advantage": "+1.5%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+32 Death Pulse Heal",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+24% Ghost Shroud Slow",
+            "advantage": "+5.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+8 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+100 Reaper's Scythe Cast Range",
+            "advantage": "+4%"
+        }
+    },
+    {
+        "hero_name": "Night Stalker",
+        "talent_level_25_option_1": {
+            "name": "-50s Dark Ascension Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_bonus_attack_speed_night} Hunter In The Night Attack Speed",
+            "advantage": "+1.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+20 Strength",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-5.0s Crippling Fear Cooldown",
+            "advantage": "+1.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_bonus_movement_speed_pct_night}% Hunter In The Night Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_bonus_damage} Dark Ascension Damage",
+            "advantage": "+4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_duration}s Dark Ascension Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_damage} Void Damage",
+            "advantage": "+8.5%"
+        }
+    },
+    {
+        "hero_name": "Nyx Assassin",
+        "talent_level_25_option_1": {
+            "name": "Vendetta Unobstructed Pathing",
+            "advantage": "+1.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "{s:bonus_aoe} Mana Burn Radius",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+130 Impale Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.6s Spiked Carapace Stun Duration",
+            "advantage": "+1.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_float_multiplier}x Mana Burn Intelligence Multiplier",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+250 Health",
+            "advantage": "+3.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.25s Impale Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+8% Spell Amplification",
+            "advantage": "+0.4%"
+        }
+    },
+    {
+        "hero_name": "Ogre Magi",
+        "talent_level_25_option_1": {
+            "name": "+240 Fireblast Damage",
+            "advantage": "+0.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "17% Fireblast chance on attack",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+25 Bloodlust AS",
+            "advantage": "+1.8%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+30 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+250 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+80 Damage",
+            "advantage": "+0.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-1.0s Fireblast Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+16 Ignite DPS",
+            "advantage": "+2.4%"
+        }
+    },
+    {
+        "hero_name": "Omniknight",
+        "talent_level_25_option_1": {
+            "name": "+{s:bonus_base_damage}% Hammer of Purity Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+160 Purification Damage/Heal",
+            "advantage": "+5.5%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-4.0s Hammer of Purity Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+4 Heavenly Grace Strength/HP Regen per Stack",
+            "advantage": "+7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-30.0s Guardian Angel Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-2.0s Purification Cooldown",
+            "advantage": "+1.1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+50 Base Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+4s Heavenly Grace Duration",
+            "advantage": "+9.6%"
+        }
+    },
+    {
+        "hero_name": "Oracle",
+        "talent_level_25_option_1": {
+            "name": "+1.5s False Promise Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Instant Fortune's End",
+            "advantage": "+0.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+30% Purifying Flames Enemy Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-20.0s False Promise Cooldown",
+            "advantage": "+3.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-1.25s Purifying Flames Cooldown",
+            "advantage": "+1%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+15 Armor False Promise",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+12 Intelligence",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+0.4s Fortune's End Duration",
+            "advantage": "+2.3%"
+        }
+    },
+    {
+        "hero_name": "Outworld Destroyer",
+        "talent_level_25_option_1": {
+            "name": "30% Spell Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+2.0% Arcane Orb Damage",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.15 Sanity's Eclipse Mana Difference Multiplier",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Strength",
+            "advantage": "+2.6%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+30 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+250 Mana",
+            "advantage": "+6.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+200 Health",
+            "advantage": "+13.4%"
+        }
+    },
+    {
+        "hero_name": "Pangolier",
+        "talent_level_25_option_1": {
+            "name": "-25.0s Rolling Thunder Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "3.0s Swashbuckle Cooldown",
+            "advantage": "+0.5%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+20 Strength",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+30 Swashbuckle Damage",
+            "advantage": "+1.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+3.0s Rolling Thunder Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "2.5s Shield Crash CD in Ball",
+            "advantage": "+4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+400 Swashbuckle Slash Range",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.5 Mana Regen",
+            "advantage": "+8.7%"
+        }
+    },
+    {
+        "hero_name": "Phantom Assassin",
+        "talent_level_25_option_1": {
+            "name": "Triple Strike Stifling Dagger",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+7% Coup de Grace chance",
+            "advantage": "+1.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+35% Blur Evasion",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_attack_factor}% Stifling Dagger Damage",
+            "advantage": "+1.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+250 Phantom Strike Cast Range",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "15% Lifesteal",
+            "advantage": "+9.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-2.0s Stifling Dagger Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1s Phantom Strike Duration",
+            "advantage": "+14.2%"
+        }
+    },
+    {
+        "hero_name": "Phantom Lancer",
+        "talent_level_25_option_1": {
+            "name": "+24.0% Critical Strike (200.0%)",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-4s Doppelganger CD",
+            "advantage": "+0.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+5% Juxtapose Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+300 Phantom Rush Range",
+            "advantage": "+6.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-2.0s Spirit Lance CD",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+15 Strength",
+            "advantage": "+6.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_agility_duration}s Phantom Rush Bonus Agi Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+150 Health",
+            "advantage": "+9.3%"
+        }
+    },
+    {
+        "hero_name": "Phoenix",
+        "talent_level_25_option_1": {
+            "name": "+1000 Icarus Dive Cast Range",
+            "advantage": "+2.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+3 Supernova Hit Count",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.5s Supernova Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+1.5% Max Health Sun Ray Damage",
+            "advantage": "+3.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+500 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Fire Spirits DPS",
+            "advantage": "+2.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+6% Spell Amplification",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+25% Icarus Dive Slow",
+            "advantage": "+3.6%"
+        }
+    },
+    {
+        "hero_name": "Puck",
+        "talent_level_25_option_1": {
+            "name": "Dream Coil Rapid Fire",
+            "advantage": "+2.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Dream Coil Pierces Magic Immunity",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_coil_stun_duration}s Dream Coil Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-6s Waning Rift Cooldown",
+            "advantage": "+7.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_damage} Waning Rift Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-10s Dream Coil Cooldown",
+            "advantage": "+9.3%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.75s Waning Rift Silence Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-2.0s Illusory Orb Cooldown",
+            "advantage": "+9.1%"
+        }
+    },
+    {
+        "hero_name": "Pudge",
+        "talent_level_25_option_1": {
+            "name": "{s:bonus_flesh_heap_strength_buff_amount}x Flesh Heap Stack Str and Damage Block bonuses",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "1.8x Dismember Damage/Heal",
+            "advantage": "+0.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-4s Meat Hook Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.8s Dismember Duration",
+            "advantage": "+0.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+120 Meat Hook Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "10% Spell Lifesteal",
+            "advantage": "+3.3%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-14% Rot Slow",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+4 Armor",
+            "advantage": "+1.6%"
+        }
+    },
+    {
+        "hero_name": "Pugna",
+        "talent_level_25_option_1": {
+            "name": "+1.75 Nether Ward Damage Per Mana",
+            "advantage": "+0.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+160 Nether Blast Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+1.5s Decrepify Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+20% Life Drain Heal",
+            "advantage": "+1.1%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+3.0 Nether Ward Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-1.0s Nether Blast Cooldown",
+            "advantage": "+0.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+200 Health",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Movement Speed",
+            "advantage": "+1.8%"
+        }
+    },
+    {
+        "hero_name": "Queen of Pain",
+        "talent_level_25_option_1": {
+            "name": "18.0s Spell Block",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-2.0s Blink Cooldown",
+            "advantage": "+2.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "525 AoE Shadow Strike",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+120.0 Scream of Pain Damage",
+            "advantage": "+3.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+30 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+2 Shadow Strike Damage Instances",
+            "advantage": "+9.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+11 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Damage",
+            "advantage": "+9.6%"
+        }
+    },
+    {
+        "hero_name": "Razor",
+        "talent_level_25_option_1": {
+            "name": "2 Static Link Charges",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+80 Attack Speed",
+            "advantage": "+6.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "0.1s Eye of the Storm Strike Interval",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+26% Storm Surge Move Speed",
+            "advantage": "+4.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+14 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+5 Static Link Damage Steal",
+            "advantage": "+6.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+9 Agility",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+30 Plasma Field Damage",
+            "advantage": "+7.6%"
+        }
+    },
+    {
+        "hero_name": "Riki",
+        "talent_level_25_option_1": {
+            "name": "Tricks of the Trade Applies a Basic Dispel",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-4 Tricks of the Trade Cooldown",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-4.0s Blink Strike Replenish Time",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.5 Backstab Multiplier",
+            "advantage": "+0.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-4s Smoke Screen Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "8% Cloak and Dagger Movement Speed",
+            "advantage": "+2.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_slow}s Blink Strike Slow",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+75 Smoke Screen AoE",
+            "advantage": "+7.7%"
+        }
+    },
+    {
+        "hero_name": "Rubick",
+        "talent_level_25_option_1": {
+            "name": "+40% Spell Amp For Stolen Spells",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-12s Telekinesis Cooldown",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+240 Telekinesis Land Distance",
+            "advantage": "+2.1%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-4s Fade Bolt Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+0.6s Telekinesis Lift Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-25% Stolen Spells Cooldown",
+            "advantage": "+1.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-10% Fade Bolt Damage Reduction",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+175 Telekinesis Landing Damage",
+            "advantage": "+4.8%"
+        }
+    },
+    {
+        "hero_name": "Sand King",
+        "talent_level_25_option_1": {
+            "name": "40% Sand Storm Slow and Blind",
+            "advantage": "+1.6%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+5 Epicenter Pulses",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_epicenter_radius} Epicenter Radius",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-2.0s Burrowstrike Cooldown",
+            "advantage": "+2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+100.0 Caustic Finale Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+150 Sand Storm Radius",
+            "advantage": "+7.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+12% Caustic Finale Slow",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Sand Storm DPS",
+            "advantage": "+9.6%"
+        }
+    },
+    {
+        "hero_name": "Shadow Demon",
+        "talent_level_25_option_1": {
+            "name": "2 Charges of Disruption",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-30.0s Demonic Purge Cooldown",
+            "advantage": "+0.6%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-1.25s Shadow Poison Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-6s Soul Catcher Cooldown",
+            "advantage": "+1.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+200 Demonic Purge Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Movement Speed",
+            "advantage": "+3.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+10 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+15.0% Shadow Poison Damage",
+            "advantage": "+2.1%"
+        }
+    },
+    {
+        "hero_name": "Shadow Fiend",
+        "talent_level_25_option_1": {
+            "name": "-50s Requiem of Souls Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-4 Presence Aura Armor",
+            "advantage": "+7.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.4s Requiem Fear per line",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+3.0 Damage Per Soul",
+            "advantage": "+8.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+100 Shadowraze Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "Presence Aura Affects Building",
+            "advantage": "+15.5%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+25 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_stack_bonus_damage} Shadowraze Stack Damage",
+            "advantage": "+4.7%"
+        }
+    },
+    {
+        "hero_name": "Shadow Shaman",
+        "talent_level_25_option_1": {
+            "name": "+25 Wards Attack Damage",
+            "advantage": "+3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+380 Ether Shock Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+1 Serpent Wards Max HP",
+            "advantage": "+1.6%"
+        },
+        "talent_level_20_option_2": {
+            "name": "Hex Breaks",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+1.0s Shackles Duration",
+            "advantage": "+1%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+120 Serpent Wards Attack Range",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "-3.0s Hex Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+140 Shackles Total Damage",
+            "advantage": "+1.2%"
+        }
+    },
+    {
+        "hero_name": "Silencer",
+        "talent_level_25_option_1": {
+            "name": "Last Word Mutes",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+15% Glaives of Wisdom Damage",
+            "advantage": "+3.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+1.2x Last Word Int Multiplier",
+            "advantage": "+1.2%"
+        },
+        "talent_level_20_option_2": {
+            "name": "-20.0s Global Silence Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+8% Arcane Curse Slow",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+100 Attack Range",
+            "advantage": "+1.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+12 Arcane Curse Damage",
+            "advantage": "+4.1%"
+        }
+    },
+    {
+        "hero_name": "Skywrath Mage",
+        "talent_level_25_option_1": {
+            "name": "+450 Mystic Flare Damage",
+            "advantage": "+2.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Arcane Bolt Pierces Spell Immunity",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-12% Ancient Seal Magic Resistance Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Global Concussive Shot",
+            "advantage": "+0.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+1 Arcane Bolt Per Cast",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-8s Ancient Seal Cooldown",
+            "advantage": "+2.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+10 Intelligence",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+175 Health",
+            "advantage": "+6.1%"
+        }
+    },
+    {
+        "hero_name": "Slardar",
+        "talent_level_25_option_1": {
+            "name": "Corrosive Haze Undispellable",
+            "advantage": "+0.5%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-4.0s Slithereen Crush Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-{s:bonus_armor_reduction} Corrosive Haze Armor",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+150.0 Slithereen Crush Damage",
+            "advantage": "+0.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+60 Bash Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+325 Health",
+            "advantage": "+4.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+10% Slithereen Crush Attack/Move Slow",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-3s Guardian Sprint Cooldown",
+            "advantage": "+7.8%"
+        }
+    },
+    {
+        "hero_name": "Slark",
+        "talent_level_25_option_1": {
+            "name": "+50s Essence Shift Duration",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.0s Shadow Dance Duration",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+75 Shadow Dance Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+1 Agility gain/stolen per Essence Shift Stack",
+            "advantage": "+7.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_bonus_regen_pct}% Shadow Dance Regen",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+70 Dark Pact Damage",
+            "advantage": "+6.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.5s Pounce Leash",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-1s Dark Pact Cooldown",
+            "advantage": "+8.7%"
+        }
+    },
+    {
+        "hero_name": "Snapfire",
+        "talent_level_25_option_1": {
+            "name": "+6 Mortimer Kisses Launched",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "3x Lil' Shredder Multishot",
+            "advantage": "+0.1%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+20% Mortimer Kisses Movement Slow",
+            "advantage": "+2.7%"
+        },
+        "talent_level_20_option_2": {
+            "name": "Lil' Shredder Uses Your Attack Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+80 Scatterblast Damage",
+            "advantage": "+1%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_buffed_attacks} Lil' Shredder attacks",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "Firesnap Cookie Restores {s:bonus_target_heal} Health",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_impact_stun_duration}s Firesnap Cookie Stun",
+            "advantage": "+2.6%"
+        }
+    },
+    {
+        "hero_name": "Sniper",
+        "talent_level_25_option_1": {
+            "name": "+6 Shrapnel Charges",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+100 Attack Range",
+            "advantage": "+0.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+24 Shrapnel DPS",
+            "advantage": "+1.4%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+28 Knockback Distance Headshot",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-14% Shrapnel Slow",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+30 Attack Speed",
+            "advantage": "+0.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15 Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.0s Take Aim Duration",
+            "advantage": "+6.4%"
+        }
+    },
+    {
+        "hero_name": "Spectre",
+        "talent_level_25_option_1": {
+            "name": "+5% Dispersion",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+32% Haunt Illusion Damage",
+            "advantage": "+4.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+12% Spectral Dagger Slow/Bonus",
+            "advantage": "+0.0%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+350 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+100 Spectral Dagger Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+12 Desolate Damage",
+            "advantage": "+14.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+5 All Stats",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-4s Spectral Dagger Cooldown",
+            "advantage": "+16%"
+        }
+    },
+    {
+        "hero_name": "Spirit Breaker",
+        "talent_level_25_option_1": {
+            "name": "+800 Health",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+25% Greater Bash Damage",
+            "advantage": "+1.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+175 Charge of Darkness Move Speed",
+            "advantage": "+0.9%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+10% Greater Bash Chance",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+40 Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-4.0s Bulldoze Cooldown",
+            "advantage": "+4.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+4 Armor",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+500 Night Vision",
+            "advantage": "+8.9%"
+        }
+    },
+    {
+        "hero_name": "Storm Spirit",
+        "talent_level_25_option_1": {
+            "name": "550.0 Distance Auto Remnant in Ball Lightning",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "2x Overload Attack Bounce",
+            "advantage": "+7.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-1.25s Static Remnant Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.4s Electric Vortex",
+            "advantage": "+3.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+50 Static Remnant Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+250 Health",
+            "advantage": "+6.9%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.75 Mana Regen",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Attack Speed",
+            "advantage": "+15.5%"
+        }
+    },
+    {
+        "hero_name": "Sven",
+        "talent_level_25_option_1": {
+            "name": "+1.25s Storm Hammer Stun Duration",
+            "advantage": "+0.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+50% God's Strength Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+10 Warcry Armor",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+8% Warcry Movement Speed",
+            "advantage": "+6.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+25% Great Cleave Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-15s God's Strength Cooldown",
+            "advantage": "+7.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15 Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+3.0s Warcry Duration",
+            "advantage": "+18.2%"
+        }
+    },
+    {
+        "hero_name": "Techies",
+        "talent_level_25_option_1": {
+            "name": "-{s:bonus_activation_delay}s Proximity Mines Activation Delay",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+252 Damage",
+            "advantage": "+0.1%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-15s Blast Off! Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_radius} Sticky Bomb Latch/Explosion Radius",
+            "advantage": "+0.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+3 Mana Regen",
+            "advantage": "+0.6%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+200 Blast Off! Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "-3s Proximity Mines Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20% Magic Resistance",
+            "advantage": "+4.8%"
+        }
+    },
+    {
+        "hero_name": "Templar Assassin",
+        "talent_level_25_option_1": {
+            "name": "+7 Refraction Instances",
+            "advantage": "+0.7%"
+        },
+        "talent_level_25_option_2": {
+            "name": "1.0s Meld Hit Bash",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-3 Meld Armor Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Meld Dispels",
+            "advantage": "+1.4%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+120 Psi Blades Attack and Spill Range",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "20% Evasion",
+            "advantage": "+7.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+110 Psionic Trap Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Attack Speed",
+            "advantage": "+10.9%"
+        }
+    },
+    {
+        "hero_name": "Terrorblade",
+        "talent_level_25_option_1": {
+            "name": "+20s Metamorphosis Duration",
+            "advantage": "+0.8%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-34s Sunder Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_illusion_duration}s Conjure Image Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+10 All Stats",
+            "advantage": "+1.7%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_move_slow}% Reflection Slow",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+300 Health",
+            "advantage": "+3.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+{s:bonus_illusion_outgoing_damage}% Conjure Image Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+{s:bonus_illusion_duration}s Reflection Duration",
+            "advantage": "+9.2%"
+        }
+    },
+    {
+        "hero_name": "Tidehunter",
+        "talent_level_25_option_1": {
+            "name": "50% chance of Anchor Smash on attack",
+            "advantage": "+0.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.0s Ravage Stun",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-4 Gush Armor",
+            "advantage": "+0.4%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+30 Kraken Shell Damage Block",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-20% Anchor Smash Damage Reduction",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+120 Gush Damage",
+            "advantage": "+5.7%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-100.0 Kraken Shell Damage Threshold",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+10.0% Gush Slow",
+            "advantage": "+7.7%"
+        }
+    },
+    {
+        "hero_name": "Timbersaw",
+        "talent_level_25_option_1": {
+            "name": "+1125 Timber Chain Range",
+            "advantage": "+1.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+10% Whirling Death Attribute Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+4% Chakram Slow",
+            "advantage": "+0.0%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+16 Strength",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+6 Reactive Armor Stacks and Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+8% Spell Amplification",
+            "advantage": "+2.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.5 Mana Regen",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+200 Health",
+            "advantage": "+1.3%"
+        }
+    },
+    {
+        "hero_name": "Tinker",
+        "talent_level_25_option_1": {
+            "name": "+0.25s Heat-Seeking Missile Ministun",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+80 Laser Damage",
+            "advantage": "+3.5%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-0.5s Keen Conveyance Channel Time",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+10% Spell Amplification",
+            "advantage": "+5.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+1 Heat-Seeking Missile Count",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+125 Defense Matrix Damage Absorbed",
+            "advantage": "+16.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+8% Manacost/Manaloss Reduction",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+2.0s Laser Blind Duration",
+            "advantage": "+17.4%"
+        }
+    },
+    {
+        "hero_name": "Tiny",
+        "talent_level_25_option_1": {
+            "name": "2 Toss Charges",
+            "advantage": "+0.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-8s Avalanche Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Toss Requires No Target",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+15% Status Resistance",
+            "advantage": "+2.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+80 Avalanche Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_tree_bonus_damage_pct}% Grow Bonus Damage With Tree",
+            "advantage": "+6.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+10 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Movement Speed",
+            "advantage": "+8.4%"
+        }
+    },
+    {
+        "hero_name": "Treant Protector",
+        "talent_level_25_option_1": {
+            "name": "450 AoE Living Armor",
+            "advantage": "+2.6%"
+        },
+        "talent_level_25_option_2": {
+            "name": "100 DPS Overgrowth",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+40 Leech Seed Damage/Heal",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+8 Living Armor Bonus Armor",
+            "advantage": "+0.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+30 Nature's Grasp Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+15% Leech Seed Movement Slow",
+            "advantage": "+1.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-5.0s Nature's Grasp Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+36 Living Armor Heal",
+            "advantage": "+1.8%"
+        }
+    },
+    {
+        "hero_name": "Troll Warlord",
+        "talent_level_25_option_1": {
+            "name": "Battle Trance Strong Dispels",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Whirling Axes Pierce Magic Immunity",
+            "advantage": "+2.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-15.0s Battle Trance Cooldown",
+            "advantage": "+0.8%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+90 Whirling Axes Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+5 Fervor Attack Speed",
+            "advantage": "+4.6%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+25 Berserker's Rage Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+7 Berserker's Rage Armor",
+            "advantage": "+9%"
+        }
+    },
+    {
+        "hero_name": "Tusk",
+        "talent_level_25_option_1": {
+            "name": "-8s Snowball Cooldown",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "12% Chance Walrus Punch",
+            "advantage": "+0.7%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+75% Walrus Punch Crit",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "-6s Ice Shards Cooldown",
+            "advantage": "+2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+120 Snowball Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+325 Health",
+            "advantage": "+2.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+0.5s Walrus Punch Stun Duration",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+25 Tag Team Damage",
+            "advantage": "+4%"
+        }
+    },
+    {
+        "hero_name": "Underlord",
+        "talent_level_25_option_1": {
+            "name": "+50% Atrophy Allied Hero Bonus",
+            "advantage": "+0.0%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+0.65s Pit of Malice Root",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+15% Atrophy Aura Attack Damage Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+1% Firestorm Burn Damage",
+            "advantage": "+1.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "-4.0s Firestorm Cooldown",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+75 Pit of Malice AoE",
+            "advantage": "+3.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+100 Firestorm Radius",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+5 Armor",
+            "advantage": "+4.4%"
+        }
+    },
+    {
+        "hero_name": "Undying",
+        "talent_level_25_option_1": {
+            "name": "+6 Tombstone Attacks to Destroy",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "Gains Reincarnation 300 CD",
+            "advantage": "+2.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "-1.5s Decay Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "Tombstone On Death",
+            "advantage": "+2.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+12 Soul Rip Damage/Heal",
+            "advantage": "+2.0%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+25 Tombstone Zombie Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "-15.0s Tombstone Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+55 Decay Damage",
+            "advantage": "+1.7%"
+        }
+    },
+    {
+        "hero_name": "Ursa",
+        "talent_level_25_option_1": {
+            "name": "+3 Overpower Attacks",
+            "advantage": "+1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-3.0s Earthshock Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+12 Fury Swipes Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+15% Enrage Status Resistance",
+            "advantage": "+2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+350 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+10 Agility",
+            "advantage": "+10.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+1.75 Mana Regen",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20s Fury Swipes Reset Time",
+            "advantage": "+9.8%"
+        }
+    },
+    {
+        "hero_name": "Vengeful Spirit",
+        "talent_level_25_option_1": {
+            "name": "Magic Missile Pierces Spell Immunity",
+            "advantage": "+1.8%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+16% Vengeance Aura Base Damage Bonus",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-15.0s Nether Swap Cooldown",
+            "advantage": "+0.9%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+200 Magic Missile Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-2.75s Magic Missile Cooldown",
+            "advantage": "+1.8%"
+        },
+        "talent_level_15_option_2": {
+            "name": "-2 Wave of Terror Armor",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+10 Agility",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+12% Magic Resistance",
+            "advantage": "+3.7%"
+        }
+    },
+    {
+        "hero_name": "Venomancer",
+        "talent_level_25_option_1": {
+            "name": "2.5x Plague Ward HP/Damage",
+            "advantage": "+5.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Poison Nova reduces {s:bonus_aspd_slow} Attack Speed",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-1.5s Plague Ward Cooldown",
+            "advantage": "+2.8%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+5.0s Poison Nova Duration",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-8% Poison Sting Slow",
+            "advantage": "+0.1%"
+        },
+        "talent_level_15_option_2": {
+            "name": "12% Spell Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+175 Health",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-6s Venomous Gale CD",
+            "advantage": "+2.9%"
+        }
+    },
+    {
+        "hero_name": "Viper",
+        "talent_level_25_option_1": {
+            "name": "2.0x Corrosive Skin Slow and Resistance",
+            "advantage": "+2.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "-11.0s Nethertoxin Cooldown",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+{s:bonus_magic_resistance}% Poison Attack Magic Resistance Reduction",
+            "advantage": "+0.8%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+80 Viper Strike DPS",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+300 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+40 Nethertoxin Min/Max Damage",
+            "advantage": "+2.1%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+13 Corrosive Skin Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Attack Speed",
+            "advantage": "+2.7%"
+        }
+    },
+    {
+        "hero_name": "Visage",
+        "talent_level_25_option_1": {
+            "name": "+1 Familiar",
+            "advantage": "+1.4%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Gravekeeper's Cloak grants +10 Armor",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+30 Visage and Familiars Movement Speed",
+            "advantage": "+0.5%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+20 Soul Assumption Damage Per Charge",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "Soul Assumption Hits 2 Targets",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+1.5 Armor Corruption to Visage and Familiars",
+            "advantage": "+6.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+8.0 Visage and Familiars Attack Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-3.0s Grave Chill Cooldown",
+            "advantage": "+5.5%"
+        }
+    },
+    {
+        "hero_name": "Void Spirit",
+        "talent_level_25_option_1": {
+            "name": "Dissimilate Stuns for 1.75s",
+            "advantage": "+0.8%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Astral Step 160% Crit",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "4.0 Astral Step Charge Restore Time",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+12% Spell Amplification",
+            "advantage": "+3.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+80 Resonant Pulse Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "Remnant Provides 475 True Sight",
+            "advantage": "+11.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+50 Aether Remnant Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.75 Mana Regen",
+            "advantage": "+10.3%"
+        }
+    },
+    {
+        "hero_name": "Warlock",
+        "talent_level_25_option_1": {
+            "name": "80% Magic Resistance for Chaotic Offering Golems",
+            "advantage": "+1.1%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+20 Chaotic Offering Golems Armor",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+25 Shadow Word Damage/Heal",
+            "advantage": "+4.1%"
+        },
+        "talent_level_20_option_2": {
+            "name": "Summons a Golem on death",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "-4.0s Shadow Word Cooldown",
+            "advantage": "+1.8%"
+        },
+        "talent_level_15_option_2": {
+            "name": "+10 Upheaval Attack Speed per second on Allies",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+2s Shadow Words Duration",
+            "advantage": "+3.1%"
+        },
+        "talent_level_10_option_2": {
+            "name": "+3% Fatal Bonds Damage",
+            "advantage": ""
+        }
+    },
+    {
+        "hero_name": "Weaver",
+        "talent_level_25_option_1": {
+            "name": "+1 Geminate Attack",
+            "advantage": "+1.2%"
+        },
+        "talent_level_25_option_2": {
+            "name": "2 Shukuchi Charges",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.5 Swarm Armor Reduction",
+            "advantage": "+1.7%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+90 Geminate Attack Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+2 Swarm Attacks to Kill",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+20 Mana Break",
+            "advantage": "+4.8%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+9 Strength",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+50 Shukuchi Damage",
+            "advantage": "+8.1%"
+        }
+    },
+    {
+        "hero_name": "Windranger",
+        "talent_level_25_option_1": {
+            "name": "Focus Fire Kills Advance Cooldown by 20s.",
+            "advantage": "+2.9%"
+        },
+        "talent_level_25_option_2": {
+            "name": "Windrun Grants Invisibility",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "-16% Focus Fire Damage Reduction",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+0.8s Shackleshot Duration",
+            "advantage": "+3.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_radius} Windrun Radius",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "-4s Windrun Cooldown",
+            "advantage": "+6.3%"
+        },
+        "talent_level_10_option_1": {
+            "name": "-2.0s Shackleshot Cooldown",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-{s:bonus_damage_reduction}% Powershot Damage Reduction",
+            "advantage": "+8.8%"
+        }
+    },
+    {
+        "hero_name": "Winter Wyvern",
+        "talent_level_25_option_1": {
+            "name": "Splinter Blast 1.5s Stun",
+            "advantage": "+0.3%"
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.5s Winter's Curse Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "+100 Splinter Blast Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+12% Arctic Burn Slow",
+            "advantage": "+0.9%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+400 Splinter Blast Shatter Radius",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+2.0s Arctic Burn Debuff Duration",
+            "advantage": "+2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+35 Damage",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+25.0HP/s Cold Embrace Heal",
+            "advantage": "+3.3%"
+        }
+    },
+    {
+        "hero_name": "Witch Doctor",
+        "talent_level_25_option_1": {
+            "name": "+60 Death Ward Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+1.5% Max Health Voodoo Restoration",
+            "advantage": "+3.9%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+15% Maledict Burst Damage",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+100 Death Ward Attack Range",
+            "advantage": "+1.2%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+300 Health",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+2 Cask Bounces",
+            "advantage": "+0.2%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+75 Maledict AoE",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "-25% Voodoo Restoration Mana Per Second",
+            "advantage": "+6.5%"
+        }
+    },
+    {
+        "hero_name": "Wraith King",
+        "talent_level_25_option_1": {
+            "name": "Reincarnation Casts Wraithfire Blast",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "-2.0s Mortal Strike Cooldown",
+            "advantage": "+2.2%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+6 Minimum Skeletons Spawned",
+            "advantage": "+3.1%"
+        },
+        "talent_level_20_option_2": {
+            "name": "+25% Cleave",
+            "advantage": "",
+            "id": "6801"
+        },
+        "talent_level_15_option_1": {
+            "name": "+24 Skeletons Attack Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+0.7s Wraithfire Blast Stun Duration",
+            "advantage": "+3.6%",
+            "id": "809"
+        },
+        "talent_level_10_option_1": {
+            "name": "+15 Attack Speed",
+            "id": "6119"
+        },
+        "talent_level_10_option_2": {
+            "name": "+20 Movement Speed",
+            "advantage": "+12.9%"
+        }
+    },
+    {
+        "hero_name": "Zeus",
+        "talent_level_25_option_1": {
+            "name": "+100 Arc Lightning Damage",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "325 AOE Lightning Bolt",
+            "advantage": "+2.3%"
+        },
+        "talent_level_20_option_1": {
+            "name": "+0.4s Lightning Bolt Ministun",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+100 Thundergod's Wrath Damage",
+            "advantage": "+1.3%"
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_targets} Heavenly Jump Target",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+350 Health",
+            "advantage": "+4.4%"
+        },
+        "talent_level_10_option_1": {
+            "name": "+20 Movement Speed",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+1.25 Mana Regen",
+            "advantage": "+6.1%"
+        }
+    },
+    {
+        "hero_name": "Primal Beast",
+        "talent_level_25_option_1": {
+            "name": "50% Spell Lifesteal",
+            "advantage": ""
+        },
+        "talent_level_25_option_2": {
+            "name": "+{s:bonus_channel_time}% Pulverize Duration",
+            "advantage": ""
+        },
+        "talent_level_20_option_1": {
+            "name": "Beast dispells himself when activating Uproar",
+            "advantage": ""
+        },
+        "talent_level_20_option_2": {
+            "name": "+{s:bonus_attack_damage}% Trample Attack Multiplier",
+            "advantage": ""
+        },
+        "talent_level_15_option_1": {
+            "name": "+{s:bonus_knockback_damage} Onslaught Damage",
+            "advantage": ""
+        },
+        "talent_level_15_option_2": {
+            "name": "+{s:bonus_roared_bonus_armor} Uproar Armor Per Stack",
+            "advantage": ""
+        },
+        "talent_level_10_option_1": {
+            "name": "+2 Mana Regen",
+            "advantage": ""
+        },
+        "talent_level_10_option_2": {
+            "name": "+12% Magic Resistance",
+            "advantage": ""
+        }
+    }
+]

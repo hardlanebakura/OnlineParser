@@ -1,0 +1,1608 @@
+[
+    {
+        "regional_ranking": "1",
+        "name": "Evil Geniuses",
+        "country": "USA",
+        "rank_points": "1246",
+        "logo": "https://static.gosugamers.net/2f/69/fa/747f494e3bee3de770a8d6199f5495013d6a80a59153d54144f87ab0ce.png",
+        "prize_winning": "US$21,122,055",
+        "winrate": "63%",
+        "wins": "682",
+        "draws": "61",
+        "losses": "337",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "1 : 0",
+            "opponent": "TSM FTX",
+            "opponent_img": "https://static.gosugamers.net/2e/d5/8c/341a08dd3e5580c268aa84297522b5783ed3ac4fa40b77a3fb329e6622.png"
+        },
+        "players": [
+            {
+                "name": "Cr1t-",
+                "country": "Denmark",
+                "image": "https://static.gosugamers.net/e6/bc/dd/93a83ad71aceb6b7e3a24dcd5f02d4e973523b8ad8f8a56832a9244673.png"
+            },
+            {
+                "name": "Arteezy",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/38/1a/4f/8fcd161f38947d55dfc713e5cf18cb37b9f9b1c8253f68a97851aaa842.png"
+            },
+            {
+                "name": "Abed",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/3f/96/de/1c4bb6e0d16bfb649bb18a05e2e7712952b26a0c63cfc65e364639eb2f.png"
+            },
+            {
+                "name": "Nightfall",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/01/6f/c0/d732a56831f9c80a802c0d5a7f2172cb508aab25eb258cb93b17e416ce.png"
+            },
+            {
+                "name": "JerAx",
+                "country": "Finland",
+                "image": "https://static.gosugamers.net/ee/43/12/0c045c591b1f43103ace2d7c04f3bdc215a690290169fc6f384ae0ab61.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 0",
+            "opponent": "Quincy Crew",
+            "opponent_img": "https://static.gosugamers.net/3c/2c/f3/c93918b93eea777863b6681c14ebeb08bf8785fa3752f473e885bdbaa2.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        }
+    },
+    {
+        "regional_ranking": "2",
+        "name": "Quincy Crew",
+        "country": "USA",
+        "rank_points": "1204",
+        "logo": "https://static.gosugamers.net/3c/2c/f3/c93918b93eea777863b6681c14ebeb08bf8785fa3752f473e885bdbaa2.png",
+        "prize_winning": "US$1,156,822",
+        "winrate": "68%",
+        "wins": "126",
+        "draws": "21",
+        "losses": "38",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "TSM FTX",
+            "opponent_img": "https://static.gosugamers.net/2e/d5/8c/341a08dd3e5580c268aa84297522b5783ed3ac4fa40b77a3fb329e6622.png"
+        },
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "Evil Geniuses",
+            "opponent_img": "https://static.gosugamers.net/2f/69/fa/747f494e3bee3de770a8d6199f5495013d6a80a59153d54144f87ab0ce.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "TSM FTX",
+            "opponent_img": "https://static.gosugamers.net/2e/d5/8c/341a08dd3e5580c268aa84297522b5783ed3ac4fa40b77a3fb329e6622.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "4",
+        "name": "4 Zoomers",
+        "country": "USA",
+        "rank_points": "1114",
+        "logo": "https://static.gosugamers.net/0f/45/5d/d05e56f86d3c7afaa24f77fca43909a6efebe92655c7aa69bfbfe2c56f.png",
+        "prize_winning": "US$191,200",
+        "winrate": "52%",
+        "wins": "115",
+        "draws": "37",
+        "losses": "70",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "The Cut",
+            "opponent_img": "https://static.gosugamers.net/a4/d4/8d/9bf6d2153a7cb69777ac2b6095c8ba2cc98b9c8623d4b93584ff6538a2.png"
+        },
+        "players": [
+            {
+                "name": "Moo",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/1e/b1/44/d29c1d950ca9023f42c82478e6943aee0062f6dbe59f900ae8ec64adde.png"
+            },
+            {
+                "name": "ZfreeK",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/24/0b/73/b591d0aa1edcc356616d1aa3270c56d0d16603030aa5ea50f8a4fd6fda.jpeg"
+            },
+            {
+                "name": "Costabile",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/c2/7a/5d/dc06e06f7bbf900b801e9dfcf06be0713a3c86c5210e3ab469b07ba99e.png"
+            },
+            {
+                "name": "Gunnar",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Husky",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "TSM FTX",
+            "opponent_img": "https://static.gosugamers.net/2e/d5/8c/341a08dd3e5580c268aa84297522b5783ed3ac4fa40b77a3fb329e6622.png"
+        }
+    },
+    {
+        "regional_ranking": "5",
+        "name": "Wildcard Gaming",
+        "country": "NA",
+        "rank_points": "1064",
+        "logo": "https://static.gosugamers.net/c0/bc/fc/3b7c33ae7d15fc442ed311d19cd7c1158253aa9e406c97cf3de8c7d839.png",
+        "prize_winning": "US$25,000",
+        "winrate": "50%",
+        "wins": "14",
+        "draws": "4",
+        "losses": "10",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "The Cut",
+            "opponent_img": "https://static.gosugamers.net/a4/d4/8d/9bf6d2153a7cb69777ac2b6095c8ba2cc98b9c8623d4b93584ff6538a2.png"
+        },
+        "players": [
+            {
+                "name": "YamSun",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sammyboy",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "AleXxo",
+                "country": "Serbia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Esk",
+                "country": "Mexico",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Davai Lama",
+                "country": "Belgium",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "TSM FTX",
+            "opponent_img": "https://static.gosugamers.net/2e/d5/8c/341a08dd3e5580c268aa84297522b5783ed3ac4fa40b77a3fb329e6622.png"
+        }
+    },
+    {
+        "regional_ranking": "6",
+        "name": "5RATFORCESTAFF",
+        "country": "NA",
+        "rank_points": "1036",
+        "logo": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png",
+        "prize_winning": "US$11,000",
+        "winrate": "67%",
+        "wins": "16",
+        "draws": "1",
+        "losses": "7",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "nico",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "albinozebra",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dnm",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "GiantDota",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lil_Nick",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        }
+    },
+    {
+        "regional_ranking": "7",
+        "name": "KBU.US",
+        "country": "NA",
+        "rank_points": "1027",
+        "logo": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png",
+        "prize_winning": "US$15,000",
+        "winrate": "67%",
+        "wins": "18",
+        "draws": "0",
+        "losses": "9",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Dreame",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "iAnnihilate",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/5a/ad/56/b1c86edee73a3ac27a53d5167220f4c7a525bc401e7d88819e8c6f3873.png"
+            },
+            {
+                "name": "Sunlight",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/70/5f/79/669c7bfae5846b970610003cff5235d4c00bda519f839c406f5e0bc085.jpeg"
+            },
+            {
+                "name": "The Warden",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": ".Ark",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/d5/d0/91/af2df4fed4492fa5aaf968f2c61adddb37c92b868752f27a564eba075b.png"
+            },
+            {
+                "name": "Steelborco",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "8",
+        "name": "Mystery Machine",
+        "country": "NA",
+        "rank_points": "1023",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "63%",
+        "wins": "10",
+        "draws": "0",
+        "losses": "6",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        },
+        "players": [
+            {
+                "name": "high_shaggy",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Tib",
+                "country": "France",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mali burgos razbija\u010d",
+                "country": "Serbia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jubei",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/30/f2/14/8bb479db994eace49b00088461b69a0c46a6b41a514cd5db33799ab671.png"
+            },
+            {
+                "name": "Double King",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        }
+    },
+    {
+        "regional_ranking": "9",
+        "name": "Let's Go",
+        "country": "NA",
+        "rank_points": "1012",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "80%",
+        "wins": "4",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "4 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Black Ice Esports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Bob",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mico",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dreamer",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u7fe9\u8df9\u5be5\u843d",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jacob",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "7:3",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Evil Corporation",
+            "opponent_img": "https://static.gosugamers.net/4a/61/af/0cf549110a8f189be2057c21cddce123d2cd2c298cece678eb21fbfe79.jpeg"
+        }
+    },
+    {
+        "regional_ranking": "10",
+        "name": "Team Serpent",
+        "country": "USA",
+        "rank_points": "1003",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "60%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Firestorm",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "monreal",
+                "country": "Belarus",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "wakemeup",
+                "country": "Jordan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Failver",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Napkin",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "7:3",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Stratyk Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "11",
+        "name": "Sneake",
+        "country": "USA",
+        "rank_points": "1003",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "67%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Team Serpent",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Malakai",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "QAQ",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Fruit Basket",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Fedos",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "opium",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "7:3",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Black Ice Esports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "12",
+        "name": "DARWASHAN",
+        "country": "NA",
+        "rank_points": "1002",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "100%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "1 : 0",
+            "opponent": "Blue Pikachu",
+            "opponent_img": "https://static.gosugamers.net/b9/83/d3/bbeecfdaccb5de3cf4ff141605a45d08694846b7d2de96da398ffe3c56.jpeg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "13",
+        "name": "Shanks",
+        "country": "USA",
+        "rank_points": "998",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "players": [
+            {
+                "name": "Nitoryu",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Blessed kid",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LXST CXNTURY",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mindless",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Homerun",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "15",
+        "name": "Tilted Boys",
+        "country": "NA",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Black Ice Esports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "EndRy",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ValOdbka",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ferte",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hiiaka",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Watcher",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "14",
+        "name": "webber",
+        "country": "NA",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Stratyk Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "16",
+        "name": "Team DogChamp",
+        "country": "NA",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png",
+        "prize_winning": "US$47,000",
+        "winrate": "47%",
+        "wins": "28",
+        "draws": "7",
+        "losses": "25",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        },
+        "players": [
+            {
+                "name": "Raylalisa",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BloodyNine`",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "lukiluki",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yarintheslayer",
+                "country": "Israel",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "StoneBank",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Evil Geniuses",
+            "opponent_img": "https://static.gosugamers.net/2f/69/fa/747f494e3bee3de770a8d6199f5495013d6a80a59153d54144f87ab0ce.png"
+        }
+    },
+    {
+        "regional_ranking": "17",
+        "name": "Sigma Seals",
+        "country": "NA",
+        "rank_points": "994",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "18",
+        "name": "Meiduiyao",
+        "country": "NA",
+        "rank_points": "992",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "33%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "USH",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "oldWhite",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/58/9d/e1/09dc2e9d888f04a8c411d5377323ee9fbc55c31b29456224d7be7e0e1b.png"
+            },
+            {
+                "name": "Hitman",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LxsJ",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "QM333",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Team Serpent",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 0",
+            "opponent": "Sand King Gomez",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "20",
+        "name": "Evil Corporation",
+        "country": "NA",
+        "rank_points": "988",
+        "logo": "https://static.gosugamers.net/4a/61/af/0cf549110a8f189be2057c21cddce123d2cd2c298cece678eb21fbfe79.jpeg",
+        "prize_winning": "\u2013",
+        "winrate": "47%",
+        "wins": "29",
+        "draws": "0",
+        "losses": "33",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Let's Go",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "chaoly",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mTinH-OwnedMe",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Flens",
+                "country": "Sweden",
+                "image": "https://static.gosugamers.net/05/3c/83/80e78176b4bec42c9ee5c4988e9232b26c944dc70fad9032774e588613.jpeg"
+            },
+            {
+                "name": "ComeWithMe",
+                "country": "Romania",
+                "image": "https://static.gosugamers.net/ee/ad/78/28e812aa9709dd902c087645a1de9edf9ef31648cb6800ddf0f2b46ee8.jpeg"
+            },
+            {
+                "name": "TANNER",
+                "country": "UK",
+                "image": "https://static.gosugamers.net/36/ad/ba/21384a9c5c0311e0095f3a7356f4df8b0a204bb76be4ee7413d744a079.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "7:3",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "burjui",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "19",
+        "name": "DD Gaming",
+        "country": "NA",
+        "rank_points": "988",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "20%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "4",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "4 Zoomers",
+            "opponent_img": "https://static.gosugamers.net/0f/45/5d/d05e56f86d3c7afaa24f77fca43909a6efebe92655c7aa69bfbfe2c56f.png"
+        },
+        "players": [
+            {
+                "name": "Jiahao Luo",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "SheeR",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u86cb\u86cb",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ClouD",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "kyl",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Legalize POTM",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        }
+    },
+    {
+        "regional_ranking": "21",
+        "name": "7:3",
+        "country": "USA",
+        "rank_points": "986",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "33%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "4",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "players": [
+            {
+                "name": "Virsatus",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "OdYsseY",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sheepsticked",
+                "country": "UK",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "SkywardIV",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Luminel",
+                "country": "Sweden",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Sneake",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Let's Go",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "22",
+        "name": "Typical NA",
+        "country": "USA",
+        "rank_points": "984",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "27%",
+        "wins": "6",
+        "draws": "7",
+        "losses": "9",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        },
+        "players": [
+            {
+                "name": "Rusy",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "DoubleKing",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Pishtya",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Brightside",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Pingu",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Inverse",
+            "opponent_img": "https://static.gosugamers.net/88/8c/88/52fbcbbcc4675ae13d095777542d3b2a6563af5c90f2ea3c9d637bf009.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team Unknown",
+            "opponent_img": "https://static.gosugamers.net/9f/8f/06/314bc1cf8e466c885c84bda368446f6f5fc006beed4bcff0f41f6c3189.png"
+        }
+    },
+    {
+        "regional_ranking": "23",
+        "name": "The Cut",
+        "country": "USA",
+        "rank_points": "977",
+        "logo": "https://static.gosugamers.net/a4/d4/8d/9bf6d2153a7cb69777ac2b6095c8ba2cc98b9c8623d4b93584ff6538a2.png",
+        "prize_winning": "US$54,250",
+        "winrate": "38%",
+        "wins": "30",
+        "draws": "16",
+        "losses": "34",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "4 Zoomers",
+            "opponent_img": "https://static.gosugamers.net/0f/45/5d/d05e56f86d3c7afaa24f77fca43909a6efebe92655c7aa69bfbfe2c56f.png"
+        },
+        "players": [
+            {
+                "name": "Scourge McDuck",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kitzz",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Overlom",
+                "country": "UK",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "bgod",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ade",
+                "country": "Czech",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Wildcard Gaming",
+            "opponent_img": "https://static.gosugamers.net/c0/bc/fc/3b7c33ae7d15fc442ed311d19cd7c1158253aa9e406c97cf3de8c7d839.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "simply TOO BASED",
+            "opponent_img": "https://static.gosugamers.net/de/8b/21/8ed63facc076ef20a29e5240c240cc7d1cbe530a62857ea256ce2b96d5.png"
+        }
+    },
+    {
+        "regional_ranking": "24",
+        "name": "Arkosh Gaming",
+        "country": "NA",
+        "rank_points": "972",
+        "logo": "https://static.gosugamers.net/a5/5c/35/8e2244491884b952791b2067674f3361dddc9bd6c072fb31f114157873.png",
+        "prize_winning": "US$55,500",
+        "winrate": "38%",
+        "wins": "24",
+        "draws": "5",
+        "losses": "35",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Black and Yellow",
+            "opponent_img": "https://static.gosugamers.net/31/5f/dd/f57b56d5515fcd906de28b420c53a7ce4e263e37ab9acd8819872a913f.png"
+        },
+        "players": [
+            {
+                "name": "Jenkins",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Newsham",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BananaSlamJamma",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/fa/f5/99/5f91544a1698917fcd290828548d99aa456044ad439c0cbab6803a809e.jpeg"
+            },
+            {
+                "name": "monkeys-forever",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/bc/af/3c/95bd6c2054565d8b9480ec46f43138fc4c0acf883ba1c4f594e72afdbd.jpeg"
+            },
+            {
+                "name": "Kyle",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/b3/d8/80/d102e3bd22c2b430ee1cbffde1bf55e8516f341c2ba3b87163d21a8a6e.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        }
+    },
+    {
+        "regional_ranking": "25",
+        "name": "Stratyk Gaming",
+        "country": "NA",
+        "rank_points": "968",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "33%",
+        "wins": "4",
+        "draws": "0",
+        "losses": "8",
+        "current_streak": "6 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        },
+        "players": [
+            {
+                "name": "AlienManaBanana",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Raza",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "KERTENKELE",
+                "country": "Turkey",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Theyna",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Adrian",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        }
+    },
+    {
+        "regional_ranking": "26",
+        "name": "Ice eSports",
+        "country": "NA",
+        "rank_points": "967",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "33%",
+        "wins": "4",
+        "draws": "0",
+        "losses": "8",
+        "current_streak": "6 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        },
+        "players": [
+            {
+                "name": "Seelborco",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dato",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Shoe",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sonic",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ugd",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Felt",
+            "opponent_img": "https://static.gosugamers.net/41/14/fc/bd63c197b6a87c15b481f9bf3abd127fdd2ba5c6fe3e639cef7b24e688.png"
+        }
+    },
+    {
+        "regional_ranking": "27",
+        "name": "Felt",
+        "country": "NA",
+        "rank_points": "965",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "24%",
+        "wins": "9",
+        "draws": "5",
+        "losses": "23",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The Mystery Machine",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "solji",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zore",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "afromoush",
+                "country": "Jordan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yellow Flash",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "pingu",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Let's Go",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Wildcard Gaming",
+            "opponent_img": "https://static.gosugamers.net/c0/bc/fc/3b7c33ae7d15fc442ed311d19cd7c1158253aa9e406c97cf3de8c7d839.png"
+        }
+    },
+    {
+        "regional_ranking": "28",
+        "name": "Team Magnus",
+        "country": "NA",
+        "rank_points": "964",
+        "logo": "https://static.gosugamers.net/33/09/db/8469cf4ce34a778200f56b4daf32272e096c2b4aa4512555e929baff33.png",
+        "prize_winning": "\u2013",
+        "winrate": "43%",
+        "wins": "6",
+        "draws": "0",
+        "losses": "8",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        },
+        "players": [
+            {
+                "name": "Jack",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u5367\u9f99\u51e4\u96cf\u4e0d\u53ef\u517c\u5f97",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sakata Gintoki",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mark",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "txhyoo1",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "The Cut",
+            "opponent_img": "https://static.gosugamers.net/a4/d4/8d/9bf6d2153a7cb69777ac2b6095c8ba2cc98b9c8623d4b93584ff6538a2.png"
+        }
+    },
+    {
+        "regional_ranking": "29",
+        "name": "simply TOOBASED",
+        "country": "NA",
+        "rank_points": "952",
+        "logo": "https://static.gosugamers.net/de/8b/21/8ed63facc076ef20a29e5240c240cc7d1cbe530a62857ea256ce2b96d5.png",
+        "prize_winning": "US$68,500",
+        "winrate": "26%",
+        "wins": "16",
+        "draws": "9",
+        "losses": "36",
+        "current_streak": "9 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Quincy Crew",
+            "opponent_img": "https://static.gosugamers.net/3c/2c/f3/c93918b93eea777863b6681c14ebeb08bf8785fa3752f473e885bdbaa2.png"
+        },
+        "players": [
+            {
+                "name": "Boris",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/4e/15/12/c204ffd95dba19a3e820ae38014edd43f57e94ce8d9db6d3d3ae10761a.png"
+            },
+            {
+                "name": "empyreaN",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ryoya",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/ed/16/58/c0ed3f6e70d4653bd4e3e5c9ee7b8f43bf83263b95391a7902ff840f7a.jpeg"
+            },
+            {
+                "name": "FLee",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/63/fb/0a/6bcff71f995080ddb88f7f9c99fe53e53da234cb1a8e5117d3ee479fa0.jpeg"
+            },
+            {
+                "name": "TheBloodySky",
+                "country": "Germany",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "The Cut",
+            "opponent_img": "https://static.gosugamers.net/a4/d4/8d/9bf6d2153a7cb69777ac2b6095c8ba2cc98b9c8623d4b93584ff6538a2.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team DogChamp",
+            "opponent_img": "https://static.gosugamers.net/da/8f/ef/27843a2bbf6fb1ba0f8fe3b1d81b2f58386a7bb7c40060fa2bd57bb8f4.png"
+        }
+    },
+    {
+        "regional_ranking": "30",
+        "name": "Black N Yellow",
+        "country": "USA",
+        "rank_points": "929",
+        "logo": "https://static.gosugamers.net/31/5f/dd/f57b56d5515fcd906de28b420c53a7ce4e263e37ab9acd8819872a913f.png",
+        "prize_winning": "US$71,750",
+        "winrate": "27%",
+        "wins": "15",
+        "draws": "4",
+        "losses": "37",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "1 : 0",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "players": [
+            {
+                "name": "zero",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Carjua",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "GOD_Z",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Braxie\u5929\u5149",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "P1",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Arkosh Gaming",
+            "opponent_img": "https://static.gosugamers.net/a5/5c/35/8e2244491884b952791b2067674f3361dddc9bd6c072fb31f114157873.png"
+        }
+    },
+    {
+        "regional_ranking": "31",
+        "name": "Electronic Boys",
+        "country": "USA",
+        "rank_points": "917",
+        "logo": "https://static.gosugamers.net/d4/4a/79/3d8360e932c339daadc346853cc77572401b2711ff1c70b1af274db36a.png",
+        "prize_winning": "US$16,000",
+        "winrate": "27%",
+        "wins": "7",
+        "draws": "0",
+        "losses": "19",
+        "current_streak": "4 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "players": [
+            {
+                "name": "SpeeedDota",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "albinozebra",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "b1kA.",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "murd0c.",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Oklahoma-",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        }
+    },
+    {
+        "regional_ranking": "32",
+        "name": "Blue Pikachu",
+        "country": "USA",
+        "rank_points": "912",
+        "logo": "https://static.gosugamers.net/b9/83/d3/bbeecfdaccb5de3cf4ff141605a45d08694846b7d2de96da398ffe3c56.jpeg",
+        "prize_winning": "US$500",
+        "winrate": "21%",
+        "wins": "13",
+        "draws": "5",
+        "losses": "43",
+        "current_streak": "4 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "DARWASHAN",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Alren",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Chives",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vol",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "picslaeder",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "RyanRee",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "Arkosh Gaming",
+            "opponent_img": "https://static.gosugamers.net/a5/5c/35/8e2244491884b952791b2067674f3361dddc9bd6c072fb31f114157873.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "4Fats",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "33",
+        "name": "The North Star",
+        "country": "USA",
+        "rank_points": "897",
+        "logo": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png",
+        "prize_winning": "US$39,750",
+        "winrate": "25%",
+        "wins": "14",
+        "draws": "3",
+        "losses": "39",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "players": [
+            {
+                "name": "RRL",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LIES",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Rayy",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vol",
+                "country": "Canada",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sanctified",
+                "country": "USA",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "Black and Yellow",
+            "opponent_img": "https://static.gosugamers.net/31/5f/dd/f57b56d5515fcd906de28b420c53a7ce4e263e37ab9acd8819872a913f.png"
+        }
+    }
+]

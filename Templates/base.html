@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+    <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/base.css') }}">
+    <link rel="logoicon.png" sizes="76x76" href="{{ url_for('static', filename = '/images/logoicon.png') }}" />
+    <link rel="shortcut icon" href="{{ url_for('static', filename = '/images/logoicon.png') }}" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+    {% block head %}
+
+    {% endblock %}
+</head>
+<body>
+
+<div class = "header_menu">
+  <a class = "header_link" href = "/">
+  <div class = "header_logo">
+    DOTABUFF
+  </div>
+  </a>
+  <div class = "header_menu_item color-esports">
+    <a class = "header_link" href = "/esports">
+      E-sport
+    </a>
+  </div>
+  <div class = "header_menu_item">
+    <a class = "header_link" href = "/heroes">
+      Heroes
+    </a>
+  </div>
+  <div class = "header_menu_item">
+    <a class = "header_link" href = "/items">
+      Items
+    </a>
+  </div>
+  <div class = "header_menu_item">
+    <a class = "header_link" href = "/blogs">
+      Blog
+    </a>
+  </div>
+  <div class = "header_menu_item">
+    <a class = "header_link" href = "/dotapicker">
+      DotaPicker
+    </a>
+  </div>
+  <div class = "header_search_button">
+    <img class = "search_button_img" src = "{{ url_for('static', filename = '/images/search_icon.png') }}">
+  </div>
+</div>
+
+<div class = "search_menu">
+  <div class = "search_row">
+    <form method = "POST" action = "/">
+      <input class = "search_input" name = "search_input">
+      <input class = "search_button" type = "submit" value = "SUBMIT" name = "search_submit">
+    </form>
+
+  </div>
+</div>
+
+{% block body %}
+
+{% endblock %}
+<script type = "text/javascript" src = "{{ url_for('static', filename = '/js/base.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,485 @@
+{
+  "esports_teams": [
+    {
+      "region": "SEA & OCEANIA",
+      "teams": [
+        {
+          "BOOM Esports": {
+            "rank": "1"
+          }
+        }
+      ]
+    },
+    {
+      "region": "South America",
+      "teams": [
+        {
+"regional_rank":"1", "team_name":"Thunder Awaken", "ranking_points":"1178",
+"prize_winning": "US$407,512", "winrate": "61%", "wins": "274", "draws": "43", "losses": "131", "current_streak": "14 wins in a row", "country":"PE",
+"recent_match_1": {"result":"2 : 0", "opponent":"beastcoast", "opponent_img":""},
+"recent_match_2": {"opponent":"APU King of Kings", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"Infamous", "opponent_img":""},
+"players" : [
+      {"name": "Matthew", "country":"PE"},
+      {"name": "Pandaboo", "country":"PE"},
+      {"name": "Darkmago♥", "country":"PE"},
+      {"name": "Pakazs", "country":"PE"},
+      {"name": "Sacred", "country":"PE"}
+    ]
+    },
+{
+"regional_rank":"2", "team_name":"beastcoast", "ranking_points":"1156",
+"prize_winning": "US$931,650", "winrate": "45%", "wins": "116", "draws": "40", "losses": "101", "current_streak": "1 win in a row", "country":"PE",
+"recent_match_1": {"result":"2 : 1", "opponent":"Hokori", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Thunder Awaken", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"Infamous", "opponent_img":""},
+"players":[
+{"name": "Chris Luck", "country":"PE"},
+{"name": "K1", "country":"PE"},
+{"name": "Scofield", "country":"PE"},
+{"name": "StingeR", "country":"PE"},
+{"name": "Wisper", "country":"BO"}
+]},
+{
+"regional_rank":"3", "team_name":"Infamous", "ranking_points":"1156",
+"prize_winning": "US$1,501,536", "winrate": "50%", "wins": "389", "draws": "91", "losses": "291", "current_streak": "1 loss in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"NoPing e-sports", "opponent_img":""},
+"recent_match_2": {"result":"2 : 0", "opponent":"APU King of Kings", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"beastcoast", "opponent_img":""},
+"players":[
+{"name": "ACCEL", "country":"PE"},
+{"name": "Alone", "country":"PE"},
+{"name": "sl4d1n-", "country":"CO"},
+{"name": "Oscar", "country":"BO"},
+{"name": "Michael", "country":"BO"}
+]},
+{
+"regional_rank":"4", "team_name":"Lava", "ranking_points":"1087",
+"prize_winning": "US$40, 300", "winrate": "52%", "wins": "25", "draws": "10", "losses": "13", "current_streak": "1 loss in a row", "country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"Hokori", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Infinity", "opponent_img":""},
+"recent_match_3": {"result":"2 : 1", "opponent":"Balrogs", "opponent_img":""},
+"players":[
+{"name": "Mnz", "country":"PE"},
+{"name": "LeoStyle", "country":"PE"},
+{"name": "Frank", "country":"PE"},
+{"name": "MoOz", "country":"PE"},
+{"name": "Mjz", "country":"PE"}
+]},
+{
+"regional_rank":"5", "team_name":"NoPing e-sports", "ranking_points":"1078",
+"prize_winning": "US$146,648", "winrate": "58%", "wins": "105", "draws": "22", "losses": "54", "current_streak": "1 win in a row", "country":"PE",
+"recent_match_1": {"result":"2 : 0", "opponent":"Infamous", "opponent_img":""},
+"recent_match_2": {"result":"0 : 1", "opponent":"Dreamers Esports", "opponent_img":""},
+"recent_match_3": {"result":"1 : 0", "opponent":"Omega Gaming", "opponent_img":""},
+"players":[
+{"name": "Sooths", "country":"BR"},
+{"name": "Duster", "country":"BR"},
+{"name": "RdO", "country":"BR"},
+{"name": "Sexyfat", "country":"BR"},
+{"name": "elmisho", "country":"PE"}
+]},
+{
+"regional_rank":"6", "team_name":"Hokori", "ranking_points":"1049",
+"prize_winning": "US$81,350", "winrate": "45%", "wins": "87", "draws": "36", "losses": "71", "current_streak": "1 loss in a row", "country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"beastcoast", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Lava", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"Balrogs", "opponent_img":""},
+"players":[
+  
+{"name": "Vitaly", "country":"PE"},
+{"name": "Gardick", "country":"PE"},
+{"name": "Yuma", "country":"GER"},
+{"name": "4nalog", "country":"BR"},
+{"name": "Thiolicor", "country":"BR"}
+]}
+,
+{
+"regional_rank":"7", "team_name":"Wolf Team", "ranking_points":"1025",
+"prize_winning": "US$9,000", "winrate": "60%", "wins": "12", "draws": "0", "losses": "8", "current_streak": "4 wins in a row", "country":"BR",
+"recent_match_1": {"result":"2 : 0", "opponent":"Interitus", "opponent_img":""},
+"recent_match_2": {"result":"2 : 0", "opponent":"Ravens", "opponent_img":""},
+"recent_match_3": {"result":"2 : 1", "opponent":"Dreamers Esports", "opponent_img":""},
+"players":[
+{"name": "hFn", "country":"BR"},
+{"name": "Kingrd", "country":"BR"},
+{"name": "Tavo", "country":"BR"},
+{"name": "4dr", "country":"BR"},
+{"name": "KJ", "country":"BR"}
+]},
+{
+"regional_rank":"8", "team_name":"Ravens", "ranking_points":"1019",
+"prize_winning": "-", "winrate": "67%", "wins": "10", "draws": "0", "losses": "5", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"Infinity", "opponent_img":""},
+"recent_match_2": {"result":"2 : 0", "opponent":"KBU.US", "opponent_img":"https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png?w=30"},
+"recent_match_3": {"result":"2 : 1", "opponent":"Dreamers esports", "opponent_img":""},
+"players":[
+{"name": "DaaD-", "country":"PE"},
+{"name": "Ñengoflow", "country":"PE"},
+{"name": "Benjaz-", "country":"PE"},
+{"name": "d1smar", "country":"PE"},
+{"name": "Cara", "country":"PE"}
+]},
+{
+"regional_rank":"9", "team_name":"Vendetta eSports", "ranking_points":"1014",
+"prize_winning": "-", "winrate": "64%", "wins": "7", "draws": "0", "losses": "4", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"Balrogs", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Mad Kings", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"Dreamers Esports", "opponent_img":""},
+"players":[
+{"name": "Tiburoncin", "country":"PE"},
+{"name": "Migi", "country":"PE"},
+{"name": "Bl4ke", "country":"PE"},
+{"name": "Drakeel", "country":"PE"},
+{"name": "JimmyCoff666", "country":"PE"}
+]},
+{
+"regional_rank":"10", "team_name":"Infinity", "ranking_points":"1007",
+"prize_winning": "US$67,176", "winrate": "38%", "wins": "68", "draws": "37", "losses": "76", "current_streak": "2 wins in a row",
+"country":"PE",
+"recent_match_1": {"result":"2 : 1", "opponent":"Ravens", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Balrogs", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Lava", "opponent_img":""},
+"players":[
+{"name": "Papita", "country":"PE"},
+{"name": "PiPi", "country":"PE"},
+{"name": "Prada", "country":"PE"},
+{"name": "Solazaro", "country":"PE"},
+{"name": "Opitototo", "country":"PE"}
+]},
+{
+"regional_rank":"11", "team_name":"TideWithStout", "ranking_points":"1001",
+"prize_winning": "-", "winrate": "60%", "wins": "3", "draws": "0", "losses": "2", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"IVY", "opponent_img":""},
+"recent_match_2": {"result":"2 : 0", "opponent":"FromB", "opponent_img":""},
+"recent_match_3": {"result":"2 : 1", "opponent":"Monaspa", "opponent_img":""},
+"players":[
+{"name": "CoblackK", "country":"PE"},
+{"name": "Copy", "country":"PE"},
+{"name": "Zep", "country":"PE"},
+{"name": "Rein", "country":"PE"},
+{"name": "Mangusu", "country":"PE"}
+]},
+{
+"regional_rank":"12", "team_name":"WAP Esports", "ranking_points":"1000",
+"prize_winning": "-", "winrate": "50%", "wins": "1", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"AR",
+"recent_match_1": {"result":"0 : 2", "opponent":"Gorillaz-Pride", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"ZIGMA ZERO", "opponent_img":""},
+"players":[
+{"name": "Rena", "country":"PE"},
+{"name": "theBag", "country":"AR"},
+{"name": "Tizzer", "country":"AR"},
+{"name": "Nawja", "country":"AR"},
+{"name": "Software", "country":"AR"}
+]},
+{
+"regional_rank":"13", "team_name":"Los Amayitos", "ranking_points":"998",
+"prize_winning": "-", "winrate": "33%", "wins": "1", "draws": "0", "losses": "2", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"SG esports", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Hokori", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Omega Gaming", "opponent_img":""},
+"players":[
+{"name": "NaoG", "country":"PE"},
+{"name": "d1smar", "country":"PE"},
+{"name": "TaO", "country":"PE"},
+{"name": "Genek", "country":"PE"},
+{"name": "Benjaz(old)", "country":"PE"}
+]},
+{
+"regional_rank":"14", "team_name":"Fracasados Gaming", "ranking_points":"997",
+"prize_winning": "-", "winrate": "33%", "wins": "1", "draws": "0", "losses": "2", "current_streak": "2 losses in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Shark Boys", "opponent_img":""},
+"recent_match_2": {"result":"0 :2", "opponent":"Invaders World", "opponent_img":""},
+"recent_match_3": {"result":"1 : 0", "opponent":"Team Faith", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"15", "team_name":"Gen of Miracles", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"FromB", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"16", "team_name":"Gatitos kawaii", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"BO",
+"recent_match_1": {"result":"0 : 1", "opponent":"Invaders World", "opponent_img":""},
+"players":[
+{"name":"Dexter", "country": "BO"},
+{"name":"fenic", "country": "BO"},
+{"name":"Tono", "country": "BR"},
+{"name":"Anne", "country": "BO"},
+{"name":"zkvz", "country": "BR"}
+]},
+{
+"regional_rank":"17", "team_name":"ANxJell", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"Shark Boys", "opponent_img":""}
+},
+{
+"regional_rank":"18", "team_name":"ZIGMA ZERO", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"1:2", "opponent":"WAP Esports", "opponent_img":""},
+"players":[
+{"name": "Hanzama", "country":"PE"},
+{"name": "Dekar_san", "country":"PE"},
+{"name": "Neil", "country":"PE"},
+{"name": "CettZ", "country":"PE"},
+{"name": "Rikif@x", "country":"PE"}
+]},
+{
+"regional_rank":"19", "team_name":"NyGr Esports", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"Ravens", "opponent_img":""},
+"players":[
+{"name": "Pain", "country":"PE"},
+{"name": "ElPerroLoco", "country":"PE"},
+{"name": "ChiquiKill4fun", "country":"PE"},
+{"name": "OscarBoy", "country":"PE"},
+{"name": "Chulub1s", "country":"PE"}
+]},
+{
+"regional_rank":"20", "team_name":"Cubil Gaming", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"Dreamers esports", "opponent_img":""},
+"players":[
+{"name": "Rex24", "country":"PE"},
+{"name": "Wide", "country":"PE"},
+{"name": "Jeicknow", "country":"PE"},
+{"name": "El Rey del TikTok", "country":"PE"},
+{"name": "Mangou", "country":"PE"}
+]},
+{
+"regional_rank":"21", "team_name":"KID+4", "ranking_points":"997",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "1", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"Vicious Gaming", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"22", "team_name":"Team Faith", "ranking_points":"995",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "2", "current_streak": "2 losses in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 1", "opponent":"Fracasados Gaming", "opponent_img":""},
+"recent_match_2": {"result":"0 : 1", "opponent":"Vendetta eSports", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"23", "team_name":"Invaders World", "ranking_points":"997",
+"prize_winning": "-", "winrate": "50%", "wins": "2", "draws": "0", "losses": "2", "current_streak": "2 losses in a row",
+"country":"BO",
+"recent_match_1": {"result":"1 : 2", "opponent":"Shark Boys", "opponent_img":""},
+"recent_match_2": {"result":"1 : 2", "opponent":"Ravens", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"Fracasados Gaming", "opponent_img":""},
+"players":[
+{"name": "focco", "country":"BO"},
+{"name": "Hermit", "country":"BO"},
+{"name": "Mg-", "country":"BO"},
+{"name": "Monstar", "country":"BO"},
+{"name": "Vergil", "country":"BO"}
+]},
+{
+"regional_rank":"24", "team_name":"The Brood", "ranking_points":"995",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "2", "current_streak": "2 losses in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Monaspa", "opponent_img":""},
+"recent_match_2": {"result":"0 : 1", "opponent":"EURONICS Gaming", "opponent_img":""},
+"players":[
+{"name": "fonqu", "country":"PE"},
+{"name": "Kempo", "country":"PE"},
+{"name": "Vyacheslove", "country":"PE"},
+{"name": "geO`ZziZi", "country":"PE"},
+{"name": "Megoo-", "country":"PE"}
+]},
+{
+"regional_rank":"25", "team_name":"Entity7", "ranking_points":"995",
+"prize_winning": "-", "winrate": "25%", "wins": "1", "draws": "0", "losses": "3", "current_streak": "1 loss in a row",
+"country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"Hokori", "opponent_img":""},
+"recent_match_2": {"result":"2 : 0", "opponent":"Shark Boys", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Gorillaz-Pride", "opponent_img":""},
+"players":[
+{"name": "payk", "country":"PE"},
+{"name": "Ryu-", "country":"PE"},
+{"name": "Kiri", "country":"PE"},
+{"name": "Luis", "country":"PE"},
+{"name": "Kilo", "country":"PE"}
+]},
+{
+"regional_rank":"26", "team_name":"Fusion Gaming", "ranking_points":"993",
+"prize_winning": "-", "winrate": "40%", "wins": "4", "draws": "1", "losses": "5", "current_streak": "0 losses in a row",
+"country":"PE",
+"recent_match_1": {"result":"1 : 1", "opponent":"5RATFORCESTAFF", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Vendetta eSports", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Ravens", "opponent_img":""},
+"players":[
+{"name": "Argius", "country":"PE"},
+{"name": "Greedy", "country":"PE"},
+{"name": "Soul光", "country":"BO"},
+{"name": "Moonlight", "country":"CL"},
+{"name": "FeelinG", "country":"PE"}
+]},
+{
+"regional_rank":"27", "team_name":"Balrogs", "ranking_points":"985",
+"prize_winning": "US$16,000", "winrate": "45%", "wins": "23", "draws": "4", "losses": "24", "current_streak": "8 losses in a row", "country":"PE",
+"recent_match_1": {"result":"1 : 2", "opponent":"Infinity", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Hokori", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Lava", "opponent_img":""},
+"players":[
+{"name": "Berna", "country":"PE"},
+{"name": "Robo-Z", "country":"PE"},
+{"name": "SexyeYogye", "country":"PE"},
+{"name": "Zxca", "country":"PE"},
+{"name": "Kingteka", "country":"PE"}
+]},
+{
+"regional_rank":"28", "team_name":"SG esports", "ranking_points":"984",
+"prize_winning": "US$460,594", "winrate": "51%", "wins": "176", "draws": "21", "losses": "151", "current_streak": "2 wins in a row", "country":"BR",
+"recent_match_1": {"result":"2 : 0", "opponent":"NoPing e-sports", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"Omega Gaming", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"Gorillaz-Pride", "opponent_img":""},
+"players":[
+{"name": "hyko.", "country":"BR"},
+{"name": "Kxy", "country":"PE"},
+{"name": "wijwij", "country":"AR"},
+{"name": "LTH", "country":"BR"},
+{"name": "Parker", "country":"PE"}
+]},
+{
+"regional_rank":"29", "team_name":"Shark Boys", "ranking_points":"982",
+"prize_winning": "US$400", "winrate": "23%", "wins": "3", "draws": "0", "losses": "10", "current_streak": "2 losses in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Entity7", "opponent_img":""},
+"recent_match_2": {"result":"1 : 2", "opponent":"Dreamers Esports", "opponent_img":""},
+"recent_match_3": {"result":"2 : 1", "opponent":"Invaders World", "opponent_img":""},
+"players":[
+{"name": "Simple", "country":"PE"},
+{"name": "Spendr", "country":"PE"},
+{"name": "Lord Guré Léiman", "country":"PE"},
+{"name": "Senseibas", "country":"PE"},
+{"name": "Skill", "country":"PE"}
+]},
+{
+"regional_rank":"30", "team_name":"Gorillaz-Pride", "ranking_points":"982",
+"prize_winning": "US$57,168", "winrate": "48%", "wins": "141", "draws": "20", "losses": "131", "current_streak": "3 wins in a row", "country":"PE",
+"recent_match_1": {"result":"2 : 0", "opponent":"Omega Gaming", "opponent_img":""},
+"recent_match_2": {"result":"2 : 1", "opponent":"NoPing e-sports", "opponent_img":""},
+"recent_match_3": {"result":"2 : 0", "opponent":"SG esports", "opponent_img":""},
+"players":[
+{"name": "TaO", "country":"PE"},
+{"name": "NaoG", "country":"PE"},
+{"name": "Genek", "country":"PE"},
+{"name": "Yadomi", "country":"PE"},
+{"name": "yessi", "country":"PE"}
+]},
+{
+"regional_rank":"31", "team_name":"APU King of Kings", "ranking_points":"981",
+"prize_winning": "US$37,000", "winrate": "31%", "wins": "12", "draws": "7", "losses": "20", "current_streak": "5 losses in a row", "country":"BR",
+"recent_match_1": {"result":"0 : 2", "opponent":"Infamous", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Thunder Awaken", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"beastcoast", "opponent_img":""},
+"players":[
+{"name": "Mini", "country":"BR"},
+{"name": "Benny", "country":"PE"},
+{"name": "Jupiter", "country":"BR"},
+{"name": "Nuages", "country":"BR"},
+{"name": "dunha1", "country":"BR"}
+]},
+{
+"regional_rank":"32", "team_name":"Team Unknown", "ranking_points":"979",
+"prize_winning": "US$81,020", "winrate": "44%", "wins": "104", "draws": "39", "losses": "95", "current_streak": "9 losses in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Omega Gaming", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Gorillaz-Pride", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"Balrogs", "opponent_img":""},
+"players":[
+{"name": "Argius", "country":"BR"},
+{"name": "Soul光", "country":"BR"},
+{"name": "Moonlight", "country":"BR"},
+{"name": "NoName", "country":"BR"},
+{"name": "FeelinG", "country":"BR"}
+]},
+{
+"regional_rank":"33", "team_name":"Salchipapa", "ranking_points":"978",
+"prize_winning": "-", "winrate": "0%", "wins": "0", "draws": "0", "losses": "5", "current_streak": "5 losses in a row",
+"country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"SG esports", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Hokori", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"Infamous", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"34", "team_name":"Sand King Gomez", "ranking_points":"975",
+"prize_winning": "-", "winrate": "7%", "wins": "1", "draws": "2", "losses": "11", "current_streak": "5 losses in a row",
+"country":"MEX",
+"recent_match_1": {"result":"0 : 2", "opponent":"The North Start", "opponent_img":""},
+"recent_match_2": {"result":"0 : 1", "opponent":"Meiduiyao", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"5RATFORCESTAFF", "opponent_img":""},
+"players":[
+{"name": "Nimo", "country":"PE"},
+{"name": "Mr. Beans", "country":"PE"},
+{"name": "Darknight", "country":"PE"},
+{"name": "Kibihc", "country":"PE"},
+{"name": "N1NE", "country":"PE"}
+]},
+{
+"regional_rank":"35", "team_name":"Vicious Gaming", "ranking_points":"971",
+"prize_winning": "US$3,850", "winrate": "38%", "wins": "41", "draws": "13", "losses": "54", "current_streak": "2 losses in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Mad Kings", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Ravens", "opponent_img":""},
+"recent_match_3": {"result":"1 : 0", "opponent":"KID+4", "opponent_img":""},
+"players":[
+{"name": "GyO♥", "country":"PE"},
+{"name": "Lord Guré Léiman", "country":"PE"},
+{"name": "Revenant", "country":"PE"},
+{"name": "Lumpy", "country":"PE"},
+{"name": "K I R A", "country":"PE"}
+]},
+{
+"regional_rank":"36", "team_name":"Mad Kings", "ranking_points":"961",
+"prize_winning": "US$2,000", "winrate": "44%", "wins": "48", "draws": "0", "losses": "61", "current_streak": "3 losses in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Gorillaz-Pride", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Hokori", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Vendetta eSports", "opponent_img":""},
+"players":[
+{"name": "Timo", "country":"PE"},
+{"name": "RedMonster", "country":"PE"},
+{"name": "Pablo", "country":"PE"},
+{"name": "ArzenT", "country":"PE"},
+{"name": "Sebas", "country":"BR"}
+]},
+{
+"regional_rank":"37", "team_name":"Inverse", "ranking_points":"933",
+"prize_winning": "US$18,500", "winrate": "28%", "wins": "16", "draws": "1", "losses": "37", "current_streak": "7 losses in a row", "country":"PE",
+"recent_match_1": {"result":"0 : 2", "opponent":"Vendetta eSports", "opponent_img":""},
+"recent_match_2": {"result":"0 : 2", "opponent":"Mad Kings", "opponent_img":""},
+"recent_match_3": {"result":"1 : 2", "opponent":"Wolf Team", "opponent_img":""},
+"players":[
+]},
+{
+"regional_rank":"38", "team_name":"Interitus", "ranking_points":"933",
+"prize_winning": "US$7,720", "winrate": "26%", "wins": "7", "draws": "0", "losses": "20", "current_streak": "5 losses in a row", "country":"BR",
+"recent_match_1": {"result":"0 : 2", "opponent":"Wolf Team", "opponent_img":""},
+"recent_match_2": {"result":"1 : 2", "opponent":"Dreamers eSports", "opponent_img":""},
+"recent_match_3": {"result":"0 : 2", "opponent":"Ravens", "opponent_img":""},
+"players":[
+{"name": "fcr", "country":"BR"},
+{"name": "H1j4ck", "country":"BR"},
+{"name": "pimpolho", "country":"BR"},
+{"name": "DFlash", "country":"BR"},
+{"name": "dunha1", "country":"BR"}
+]}
+
+      ]
+    }
+    ]
+}

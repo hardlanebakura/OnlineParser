@@ -1,0 +1,162 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+    <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/hero.css') }}">
+
+<script>
+     var hero = {{ hero|tojson }}
+     var heroPopularities = {{ hero_popularities|tojson }}
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "hero_overview_wrapper">
+        <div class = "hero_overview">
+                        {% set hero_name = hero["localized_name"] + ".png" %}
+            <img class = "hero_portrait" src = "{{ url_for('static', filename = '/images/hero_avatars/' + hero_name) }}">
+            <div class = "hero_info">
+                <div class = "hero_name">
+                    {{ hero["localized_name"] }}
+                </div>
+                <div class = "hero_counterpicks_title">
+                    Counterpicks
+                </div>
+            </div>
+            {% for hero_popularity in hero_popularities %}
+                {% if hero_popularity["hero_name"] == hero["localized_name"] %}
+                <div class = "hero_popularity">
+                    <div class = "hero_popularity_rank">
+                        <div class = "hero_popularity_rank_title">
+                            {{ hero_popularity["rank"] }}
+                        </div>
+                        <div class = "hero_popularity_rank_subtitle subtitle">
+                            POPULARITY
+                        </div>
+                    </div>
+                    <div class = "hero_winrate">
+                        <div class = "hero_winrate_title">
+                            {{ hero_popularity["hero_winrate"] }}
+                        </div>
+                        <div class = "hero_winrate_subtitle subtitle">
+                            WINRATE
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class = "hero_wrapper">
+        <div class = "hero_menu">
+            <div class = "hero_menu_item">
+                <a href = "/heroes/{{ hero['localized_name'] }}">Overview</a>
+            </div>
+            <div class = "hero_menu_item active_menu">
+                <a href = "/heroes/{{ hero['localized_name'] }}/counterpicks">Counterpicks</a>
+            </div>
+        </div>
+    </div>
+
+    <div class = "hero_matchups_overview_wrapper">
+        <div class = "hero_matchups_overview">
+            <div class = "hero_matchups">
+                <div class = "grid_title_all">
+                    {{ hero["localized_name"] }} is countered by
+                </div>
+                {% for i in range (5) %}
+                    <div class = "overview_matchups_row row_1">
+                        <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                            <div class = "matchups_row_hero_img">
+                                <img class = "matchups_row_img_big" src = "{{ url_for('static', filename = '/images/hero_avatars/' + counterpicks[i]['hero'] + '.png' ) }}">
+                            </div>
+                        </a>
+                        <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                            <div class = "matchups_row_hero_name_big">
+                                {{ counterpicks[i]['hero'] }}
+                            </div>
+                        </a>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_advantage_big">
+                                {{ counterpicks[i]["advantage"] }}
+                            </div>
+                        </div>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_win_percentage_big">
+                                {{ counterpicks[i]["win_percentage"] }}%
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class = "hero_matchups">
+                <div class = "grid_title_all">
+                    {{ hero["localized_name"] }} counters
+                </div>
+                {% for i in range (-1, -6, -1) %}
+                    <div class = "overview_matchups_row row_1">
+                        <div class = "matchups_row_hero_img">
+                            <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                                <img class = "matchups_row_img_big" src = "{{ url_for('static', filename = '/images/hero_avatars/' + counterpicks[i]['hero'] + '.png' ) }}">
+                            </a>
+                        </div>
+                        <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                            <div class = "matchups_row_hero_name_big">
+                                {{ counterpicks[i]['hero'] }}
+                            </div>
+                        </a>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_advantage_big">
+                                {{ counterpicks[i]["advantage"] }}
+                            </div>
+                        </div>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_win_percentage_big">
+                                {{ counterpicks[i]["win_percentage"] }}%
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class = "all_matchups_wrapper">
+        <div class = "all_matchups">
+            <div class = "grid_title_all">
+                MATCHUPS
+            </div>
+            {% for i in range(counterpicks|length) %}
+                    <div class = "matchups_row row_1">
+                        <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                            <div class = "matchups_row_hero_img">
+                                <img class = "matchups_row_img_small" src = "{{ url_for('static', filename = '/images/hero_avatars/' + counterpicks[i]['hero'] + '.png' ) }}">
+                            </div>
+                        </a>
+                        <a class = "hero_link" href = "/heroes/{{ counterpicks[i]['hero'] }}">
+                            <div class = "matchups_row_hero_name">
+                                {{ counterpicks[i]['hero'] }}
+                            </div>
+                        </a>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_advantage">
+                                {{ counterpicks[i]["advantage"] }}
+                            </div>
+                        </div>
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "matchups_row_hero_win_percentage">
+                                {{ counterpicks[i]["win_percentage"] }}%
+                            </div>
+                        </div>
+                    </div>
+            {% endfor %}
+        </div>
+    </div>
+
+<script type = "text/javascript" src = "{{ url_for('static', filename = '/js/hero.js') }}"></script>
+
+{% endblock %}
+

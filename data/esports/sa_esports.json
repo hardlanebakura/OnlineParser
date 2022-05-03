@@ -1,0 +1,1718 @@
+[
+    {
+        "regional_ranking": "1",
+        "name": "Thunder Awaken",
+        "country": "Peru",
+        "rank_points": "1178",
+        "logo": "https://static.gosugamers.net/68/8f/9d/dd36678860d07527605a37942ded7c97c147fbdbe76a253ecffad3d6d8.png",
+        "prize_winning": "US$407,512",
+        "winrate": "61%",
+        "wins": "274",
+        "draws": "43",
+        "losses": "131",
+        "current_streak": "14 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "beastcoast",
+            "opponent_img": "https://static.gosugamers.net/5d/da/63/b2a2728af160547291f2d1286186cfa65f7c9e36e6cae84f6f68a5c630.png"
+        },
+        "players": [
+            {
+                "name": "Matthew",
+                "country": "",
+                "image": "https://static.gosugamers.net/15/30/67/b1a478b022a7e6b5fb7b78e298530d14f6c2e5879c433431c982866f20.png"
+            },
+            {
+                "name": "Pandaboo",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Darkmago\u2665",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Pakazs",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sacred",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "APU King of Kings",
+            "opponent_img": "https://static.gosugamers.net/c4/29/68/2b9b1e3cd4809dc0db8e19b86ecb62396a19fd86e189c9c03a90120e13.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Infamous",
+            "opponent_img": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png"
+        }
+    },
+    {
+        "regional_ranking": "2",
+        "name": "beastcoast",
+        "country": "Peru",
+        "rank_points": "1156",
+        "logo": "https://static.gosugamers.net/5d/da/63/b2a2728af160547291f2d1286186cfa65f7c9e36e6cae84f6f68a5c630.png",
+        "prize_winning": "US$931,650",
+        "winrate": "45%",
+        "wins": "116",
+        "draws": "40",
+        "losses": "101",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "players": [
+            {
+                "name": "Chris Luck",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/ae/5e/c5/772f2daab7de1703a04cbc879247ef2e33e88316c3803ce469b313bfe4.png"
+            },
+            {
+                "name": "K1",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/8b/06/84/76f1a0be6529c6029a1c70573642e628b1a0e0bb900cd3cf74cec34cc9.png"
+            },
+            {
+                "name": "Scofield",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/fd/8b/51/8eaf7cd0a723e469b3bd70d16c8aaee7d46c8a943470588f88a307e82a.png"
+            },
+            {
+                "name": "StingeR",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/dd/7a/82/ae55fffc7bfdda33330439d77370fb4f7bc998696dac0a01aa4d0dbaba.png"
+            },
+            {
+                "name": "Wisper",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/3a/a3/99/39a7fbefff9ab6a94b49266fcb57b3b0f2ebdc5763f5ab34608ff08e11.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Thunder Awaken",
+            "opponent_img": "https://static.gosugamers.net/68/8f/9d/dd36678860d07527605a37942ded7c97c147fbdbe76a253ecffad3d6d8.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Infamous",
+            "opponent_img": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png"
+        }
+    },
+    {
+        "regional_ranking": "3",
+        "name": "Infamous",
+        "country": "Peru",
+        "rank_points": "1105",
+        "logo": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png",
+        "prize_winning": "US$1,501,536",
+        "winrate": "50%",
+        "wins": "389",
+        "draws": "91",
+        "losses": "291",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "NoPing e-sports",
+            "opponent_img": "https://static.gosugamers.net/bf/9f/19/4310ba2ed8945c84866d441224882bc5134e84fdeaf27df187b4b2cd6d.png"
+        },
+        "players": [
+            {
+                "name": "ACCEL",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/24/3c/13/1ad83cd61e2eb0fd16d2aae78895b2f7ee884436542b45864a93fb6fa6.jpeg"
+            },
+            {
+                "name": "Alone",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "sl4d1n-",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/0b/4e/a8/91ebbb7c0b49481b5ebeaea18e2cef5bf9edc29ae497a3fd2c2aa0954c.jpg"
+            },
+            {
+                "name": "Oscar",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Michael",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "APU King of Kings",
+            "opponent_img": "https://static.gosugamers.net/c4/29/68/2b9b1e3cd4809dc0db8e19b86ecb62396a19fd86e189c9c03a90120e13.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "beastcoast",
+            "opponent_img": "https://static.gosugamers.net/5d/da/63/b2a2728af160547291f2d1286186cfa65f7c9e36e6cae84f6f68a5c630.png"
+        }
+    },
+    {
+        "regional_ranking": "4",
+        "name": "Lava",
+        "country": "Peru",
+        "rank_points": "1087",
+        "logo": "https://static.gosugamers.net/e2/a1/55/c6ec16308950ac87828d8281a47c7f490d24cc311523225d2fd34a7910.png",
+        "prize_winning": "US$40,300",
+        "winrate": "52%",
+        "wins": "25",
+        "draws": "10",
+        "losses": "13",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "players": [
+            {
+                "name": "Mnz",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/0b/36/97/3108487569e53df8eabda743ea54a37ec27105eaaa41c4870d30bf4fe1.png"
+            },
+            {
+                "name": "LeoStyle",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/c1/66/ca/8e3845c5676bfb0e3bedfd46d2e3cfd8206f625136459ce07ebc507cdb.png"
+            },
+            {
+                "name": "Frank",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/52/a7/de/aa42ef9ad1e89093954a8e19dd95fdb869cb337bff6e46d50f7e2434a9.png"
+            },
+            {
+                "name": "MoOz",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/9a/ae/bf/237c9774716eb86d79db08399d8aed15b379983cb8a20653dc22d3f2c7.png"
+            },
+            {
+                "name": "Mjz",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/33/82/e9/ef8dbc31580a022a14d38c108d93e92ead9d4222730ef6c8db52122256.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Infinity",
+            "opponent_img": "https://static.gosugamers.net/20/21/e0/1655e9db45925c802e4d738d241f255bf548900d6087068236a3104af4.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Balrogs",
+            "opponent_img": "https://static.gosugamers.net/fa/5d/b6/46f706a65ecb6ffa7a93353a856e89296f945a5d0fe2ed508f297879ee.png"
+        }
+    },
+    {
+        "regional_ranking": "5",
+        "name": "NoPing e-sports",
+        "country": "Peru",
+        "rank_points": "1078",
+        "logo": "https://static.gosugamers.net/bf/9f/19/4310ba2ed8945c84866d441224882bc5134e84fdeaf27df187b4b2cd6d.png",
+        "prize_winning": "US$146,648",
+        "winrate": "58%",
+        "wins": "105",
+        "draws": "23",
+        "losses": "54",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        },
+        "players": [
+            {
+                "name": "Sooths",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Duster",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/14/9b/f3/3e9c29dd8e08f70cc90a731f51fa0872fc358d042aabe4709fb613976d.jpeg"
+            },
+            {
+                "name": "RdO",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sexyfat",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "elmisho",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Infamous",
+            "opponent_img": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "Dreamers Esports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+   {
+        "regional_ranking": "6",
+        "name": "Hokori",
+        "country": "Peru",
+        "rank_points": "1049",
+        "logo": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png",
+        "prize_winning": "US$81,350",
+        "winrate": "45%",
+        "wins": "87",
+        "draws": "36",
+        "losses": "71",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "beastcoast",
+            "opponent_img": "https://static.gosugamers.net/5d/da/63/b2a2728af160547291f2d1286186cfa65f7c9e36e6cae84f6f68a5c630.png"
+        },
+        "players": [
+            {
+                "name": "Vitaly",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Gardick",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yuma",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "4nalog",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Thiolicor",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/a3/a3/e5/f8a2c593df021c96a57d6caff1178d4c7bae3d4d517dd0067ee930c8e1.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Lava",
+            "opponent_img": "https://static.gosugamers.net/e2/a1/55/c6ec16308950ac87828d8281a47c7f490d24cc311523225d2fd34a7910.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Balrogs",
+            "opponent_img": "https://static.gosugamers.net/fa/5d/b6/46f706a65ecb6ffa7a93353a856e89296f945a5d0fe2ed508f297879ee.png"
+        }
+    },
+    {
+        "regional_ranking": "8",
+        "name": "Wolf Team",
+        "country": "Brazil",
+        "rank_points": "1019",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$9,000",
+        "winrate": "60%",
+        "wins": "12",
+        "draws": "0",
+        "losses": "8",
+        "current_streak": "4 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Interitus",
+            "opponent_img": "https://static.gosugamers.net/00/a2/28/3d51e9042018ded8711a90704dfcea6b080ab6f18d4175812e5310156c.png"
+        },
+        "players": [
+            {
+                "name": "hFn",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/ba/cf/a4/9ccb2f379ff5041287a510446c794c2c896c6bf275368d18f03033441c.png"
+            },
+            {
+                "name": "Kingrd",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/ea/df/4e/4ec1eb9ef090b7105aa4c2da1ae41be29d4f2ded8796cb31afe8e99f04.png"
+            },
+            {
+                "name": "Tavo",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/f6/76/00/420c5c8ca540ae5cefaa20fd374db238076e611b191bc915bb7235bcf1.png"
+            },
+            {
+                "name": "4dr",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/05/6a/8a/db5f7a551ce045b6eb72113a89756c538739b246d9dd6be62c94cf56b6.png"
+            },
+            {
+                "name": "KJ",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "9",
+        "name": "Vendetta eSports",
+        "country": "Peru",
+        "rank_points": "1014",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "64%",
+        "wins": "7",
+        "draws": "0",
+        "losses": "4",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Balrogs",
+            "opponent_img": "https://static.gosugamers.net/fa/5d/b6/46f706a65ecb6ffa7a93353a856e89296f945a5d0fe2ed508f297879ee.png"
+        },
+        "players": [
+            {
+                "name": "Tiburoncin",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Migi",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Bl4ke",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Drakeel",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "JimmyCoff666",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Mad Kings",
+            "opponent_img": "https://static.gosugamers.net/67/e9/6a/fad0947f22dbbff5d4d0f3e9113827c2478e58d96f7a4c862362d6d75b.jpeg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "10",
+        "name": "Ravens",
+        "country": "Peru",
+        "rank_points": "1007",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "67%",
+        "wins": "10",
+        "draws": "0",
+        "losses": "5",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Infinity",
+            "opponent_img": "https://static.gosugamers.net/20/21/e0/1655e9db45925c802e4d738d241f255bf548900d6087068236a3104af4.png"
+        },
+        "players": [
+            {
+                "name": "DaaD-",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u00d1engoflow KELOKE",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Benjaz-",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/42/a1/98/aa3650ffe9e8723ae39d1fa4d3975f6ab82ff328d456db9ec66f2d1310.jpeg"
+            },
+            {
+                "name": "d1smar",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Cara",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "KBU.US",
+            "opponent_img": "https://static.gosugamers.net/c7/0c/f4/8c897ce482cf1168664a76569fad1e87e9b549f6ce9d1e1e551dcef16e.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "11",
+        "name": "TideWithStout",
+        "country": "UN",
+        "rank_points": "1001",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "60%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "IVY",
+            "opponent_img": "https://static.gosugamers.net/31/7c/c0/40ba4041f017304b3667e6cd429334f52960d918301084c4b035f562c5.png"
+        },
+        "players": [
+            {
+                "name": "CoblackK",
+                "country": "Turkey",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Copy",
+                "country": "Germany",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zep",
+                "country": "France",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Rein",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mangusu",
+                "country": "Romania",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "FromB",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Monaspa",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "12",
+        "name": "WAP Esports",
+        "country": "Argentina",
+        "rank_points": "1000",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "50%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Gorillaz-Pride",
+            "opponent_img": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png"
+        },
+        "players": [
+            {
+                "name": "Rena",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "theBag",
+                "country": "Argentina",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Tizzer",
+                "country": "Argentina",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Nawja",
+                "country": "Argentina",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Software",
+                "country": "Argentina",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "ZIG",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "13",
+        "name": "Los Amayitos",
+        "country": "Peru",
+        "rank_points": "998",
+        "logo": "https://static.gosugamers.net/53/1c/fc/d5baffd75b73e0e27b50c45ff840558a791beeadba44a75e01b5d09524.png",
+        "prize_winning": "-",
+        "winrate": "33%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "SG esports",
+            "opponent_img": "https://static.gosugamers.net/ea/b3/5e/10612eb2e992e56eb882614252fb87cbb629e7c04b5074309378890160.png"
+        },
+        "players": [
+            {
+                "name": "NaoG",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "d1smar",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "TaO",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Genek",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Benjaz(old)",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        }
+    },
+    {
+        "regional_ranking": "17",
+        "name": "Cubil Gaming",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Rex24",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Wide",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jeicknow",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "El Rey del TikTok",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mangou",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "15",
+        "name": "ZIGMA ZERO",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "W",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Hanzama",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dekar_san",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Neil",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "CettZ",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Rikif@x",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "21",
+        "name": "Gatitos kawaii",
+        "country": "Bolivia",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Invaders World",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "16",
+        "name": "NyGr Esports",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "18",
+        "name": "KID+4",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Vicious Gaming",
+            "opponent_img": "https://static.gosugamers.net/21/5f/29/0bd2b96b68029e95bca77365c0da1b8ebdd3406ca40e98b695b3374d3d.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "19",
+        "name": "Fracasados Gaming",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "33%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Shark Boys",
+            "opponent_img": "https://static.gosugamers.net/8f/23/a2/d6ffa514db95dd9cb6f5bcb13305a9e7eb539fc2b1d73c57d9f810e992.png"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Invaders World",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 0",
+            "opponent": "Team Faith",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "14",
+        "name": "ANxJell",
+        "country": "Peru",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Shark Boys",
+            "opponent_img": "https://static.gosugamers.net/8f/23/a2/d6ffa514db95dd9cb6f5bcb13305a9e7eb539fc2b1d73c57d9f810e992.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "20",
+        "name": "Gen of Miracles",
+        "country": "UN",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "FromB",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "quick-",
+                "country": "Sweden",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ayato",
+                "country": "Netherlands",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "CodeX",
+                "country": "Serbia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "sertas",
+                "country": "Sweden",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Aberkahn",
+                "country": "Denmark",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "26",
+        "name": "Team Faith",
+        "country": "Peru",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Fracasados Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Vendetta eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "23",
+        "name": "Invaders World",
+        "country": "Bolivia",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "50%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Shark Boys",
+            "opponent_img": "https://static.gosugamers.net/8f/23/a2/d6ffa514db95dd9cb6f5bcb13305a9e7eb539fc2b1d73c57d9f810e992.png"
+        },
+        "players": [
+            {
+                "name": "focco",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hermit",
+                "country": "Argentina",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mg-",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Monstar",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vergil",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Fracasad",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "24",
+        "name": "Entity7",
+        "country": "Peru",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "25%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "3",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "players": [
+            {
+                "name": "payk",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ryu-",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kiri",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Luis",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kilo",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Shark Boys",
+            "opponent_img": "https://static.gosugamers.net/8f/23/a2/d6ffa514db95dd9cb6f5bcb13305a9e7eb539fc2b1d73c57d9f810e992.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Gorillaz-Pride",
+            "opponent_img": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png"
+        }
+    },
+    {
+        "regional_ranking": "22",
+        "name": "The Brood",
+        "country": "UN",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Monaspa",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "fonqu",
+                "country": "Serbia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kempo",
+                "country": "Jordan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vyacheslove",
+                "country": "Russia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "geO`ZziZi",
+                "country": "Ukraine",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mego'o-",
+                "country": "Jordan",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "EURONI",
+            "opponent_img": "https://static.gosugamers.net/27/fa/cb/8a3ae0cdef17176aad54b077832b9065c1565e2bc7d7fbe3b5d5cb0955.png"
+        }
+    },
+    {
+        "regional_ranking": "26",
+        "name": "Fusion Gaming",
+        "country": "Peru",
+        "rank_points": "993",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "40%",
+        "wins": "4",
+        "draws": "1",
+        "losses": "5",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        },
+        "players": [
+            {
+                "name": "Argius",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Soul",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Moonlight",
+                "country": "Chile",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NoName",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "FeelinG",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Vendet",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "27",
+        "name": "Balrogs",
+        "country": "Peru",
+        "rank_points": "985",
+        "logo": "https://static.gosugamers.net/fa/5d/b6/46f706a65ecb6ffa7a93353a856e89296f945a5d0fe2ed508f297879ee.png",
+        "prize_winning": "US$16,000",
+        "winrate": "45%",
+        "wins": "23",
+        "draws": "4",
+        "losses": "24",
+        "current_streak": "8 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Infinity",
+            "opponent_img": "https://static.gosugamers.net/20/21/e0/1655e9db45925c802e4d738d241f255bf548900d6087068236a3104af4.png"
+        },
+        "players": [
+            {
+                "name": "Berna",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Robo-Z",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/b8/59/29/f4e003046f88d96b07664cc07969a7db3807544eafb44723d3662ff1aa.png"
+            },
+            {
+                "name": "SexyeYogye",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zxca",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kingteka",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/1b/63/50/fc1f329862ebd1940cb3270dc6eca999e42b65d1321259a95ce5536f3b.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Lava",
+            "opponent_img": "https://static.gosugamers.net/e2/a1/55/c6ec16308950ac87828d8281a47c7f490d24cc311523225d2fd34a7910.png"
+        }
+    },
+    {
+        "regional_ranking": "28",
+        "name": "SG esports",
+        "country": "Brazil",
+        "rank_points": "984",
+        "logo": "https://static.gosugamers.net/ea/b3/5e/10612eb2e992e56eb882614252fb87cbb629e7c04b5074309378890160.png",
+        "prize_winning": "US$460,594",
+        "winrate": "51%",
+        "wins": "176",
+        "draws": "21",
+        "losses": "151",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "NoPing e-sports",
+            "opponent_img": "https://static.gosugamers.net/bf/9f/19/4310ba2ed8945c84866d441224882bc5134e84fdeaf27df187b4b2cd6d.png"
+        },
+        "players": [
+            {
+                "name": "hyko.",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kxy",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "wijwij",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LTH",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Parker",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Gorillaz-Pride",
+            "opponent_img": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png"
+        }
+    },
+    {
+        "regional_ranking": "30",
+        "name": "Shark Boys",
+        "country": "Peru",
+        "rank_points": "982",
+        "logo": "https://static.gosugamers.net/8f/23/a2/d6ffa514db95dd9cb6f5bcb13305a9e7eb539fc2b1d73c57d9f810e992.png",
+        "prize_winning": "US$400",
+        "winrate": "23%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "10",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Entity7",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Simple",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Spendr",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lord Gur\u00e9 L\u00e9iman",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Senseibas",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Skill",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Invade",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "29",
+        "name": "Gorillaz-Pride",
+        "country": "Peru",
+        "rank_points": "982",
+        "logo": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png",
+        "prize_winning": "US$57,168",
+        "winrate": "48%",
+        "wins": "141",
+        "draws": "20",
+        "losses": "131",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        },
+        "players": [
+            {
+                "name": "TaO",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NaoG",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Genek",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yadomi",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yessi",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "NoPing e-sports",
+            "opponent_img": "https://static.gosugamers.net/bf/9f/19/4310ba2ed8945c84866d441224882bc5134e84fdeaf27df187b4b2cd6d.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "",
+            "opponent_img": "https://static.gosugamers.net/ea/b3/5e/10612eb2e992e56eb882614252fb87cbb629e7c04b5074309378890160.png"
+        }
+    },
+    {
+        "regional_ranking": "31",
+        "name": "APU King of Kings",
+        "country": "Brazil",
+        "rank_points": "981",
+        "logo": "https://static.gosugamers.net/c4/29/68/2b9b1e3cd4809dc0db8e19b86ecb62396a19fd86e189c9c03a90120e13.png",
+        "prize_winning": "US$37,000",
+        "winrate": "31%",
+        "wins": "12",
+        "draws": "7",
+        "losses": "20",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Infamous",
+            "opponent_img": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png"
+        },
+        "players": [
+            {
+                "name": "Mini",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Benny",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jupiter",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Nuages",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dunha1",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/cc/5a/da/778f04b456714f2dec641a3d9ad153ccd6d50e3947725e6192d5de9acf.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Thunder Awaken",
+            "opponent_img": "https://static.gosugamers.net/68/8f/9d/dd36678860d07527605a37942ded7c97c147fbdbe76a253ecffad3d6d8.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "beastcoast",
+            "opponent_img": "https://static.gosugamers.net/5d/da/63/b2a2728af160547291f2d1286186cfa65f7c9e36e6cae84f6f68a5c630.png"
+        }
+    },
+    {
+        "regional_ranking": "32",
+        "name": "Team Unknown",
+        "country": "Peru",
+        "rank_points": "979",
+        "logo": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Team_icon_Team_Unknown.png",
+        "prize_winning": "US$81,020",
+        "winrate": "44%",
+        "wins": "104",
+        "draws": "39",
+        "losses": "95",
+        "current_streak": "9 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Omega Gaming",
+            "opponent_img": "https://static.gosugamers.net/6d/10/35/df9dc301435b610f777f63d88d4989d9a4b6c018ffbee0f88a005f3514.png"
+        },
+        "players": [
+            {
+                "name": "Argius",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Soul",
+                "country": "Bolivia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Moonlight",
+                "country": "Chile",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NoName",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "FeelinG",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Gorillaz-Pride",
+            "opponent_img": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Balrogs",
+            "opponent_img": "https://static.gosugamers.net/fa/5d/b6/46f706a65ecb6ffa7a93353a856e89296f945a5d0fe2ed508f297879ee.png"
+        }
+    },
+    {
+        "regional_ranking": "33",
+        "name": "Salchipapa",
+        "country": "Peru",
+        "rank_points": "978",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "5",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "SG esports",
+            "opponent_img": "https://static.gosugamers.net/ea/b3/5e/10612eb2e992e56eb882614252fb87cbb629e7c04b5074309378890160.png"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Infamous",
+            "opponent_img": "https://static.gosugamers.net/3f/2b/7f/b43d19a8e400ec319602336e874b62edc5c09a9c5339d966b09ca1a016.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "34",
+        "name": "Sand King Gomez",
+        "country": "Mexico",
+        "rank_points": "975",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "7%",
+        "wins": "1",
+        "draws": "2",
+        "losses": "11",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "The North Star",
+            "opponent_img": "https://static.gosugamers.net/82/84/e6/267c8684d56ae5340a3b288b8d2577a2c444adf9cc260c1ad9513c879c.png"
+        },
+        "players": [
+            {
+                "name": "TBD",
+                "country": "UN",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mr. Beans",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Darknight",
+                "country": "Mexico",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kibihc",
+                "country": "Mexico",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "N1NE",
+                "country": "Mexico",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "Meiduiyao",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "5RATFORCESTAFF",
+            "opponent_img": "https://static.gosugamers.net/64/ed/2c/555fb51c7054a63cc167ac5e3d9e92da61aa38586fd0e57f6b9581ee60.png"
+        }
+    },
+    {
+        "regional_ranking": "35",
+        "name": "Vicious Gaming",
+        "country": "Peru",
+        "rank_points": "971",
+        "logo": "https://static.gosugamers.net/21/5f/29/0bd2b96b68029e95bca77365c0da1b8ebdd3406ca40e98b695b3374d3d.png",
+        "prize_winning": "US$3,850",
+        "winrate": "38%",
+        "wins": "41",
+        "draws": "13",
+        "losses": "54",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Mad Kings",
+            "opponent_img": "https://static.gosugamers.net/67/e9/6a/fad0947f22dbbff5d4d0f3e9113827c2478e58d96f7a4c862362d6d75b.jpeg"
+        },
+        "players": [
+            {
+                "name": "GyO\u2665",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lord Gur\u00e9 L\u00e9iman",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Revenant",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lumpy",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "K I R A",
+                "country": "Peru",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 0",
+            "opponent": "KID+4",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "36",
+        "name": "Mad Kings",
+        "country": "Peru",
+        "rank_points": "961",
+        "logo": "https://static.gosugamers.net/67/e9/6a/fad0947f22dbbff5d4d0f3e9113827c2478e58d96f7a4c862362d6d75b.jpeg",
+        "prize_winning": "US$2,000",
+        "winrate": "44%",
+        "wins": "48",
+        "draws": "0",
+        "losses": "61",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Gorillaz-Pride",
+            "opponent_img": "https://static.gosugamers.net/8b/42/30/f68d5c03c0d87867e549494695e9686ccd6191866df4306b95616012af.png"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Hokori",
+            "opponent_img": "https://static.gosugamers.net/2a/e3/c7/0861a8da185176e7ce03c9de46b57c3d96c769d69816e0e0092c8cbbe4.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Vendetta eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "37",
+        "name": "Inverse",
+        "country": "Peru",
+        "rank_points": "933",
+        "logo": "https://static.gosugamers.net/88/8c/88/52fbcbbcc4675ae13d095777542d3b2a6563af5c90f2ea3c9d637bf009.png",
+        "prize_winning": "US$18,500",
+        "winrate": "28%",
+        "wins": "15",
+        "draws": "1",
+        "losses": "37",
+        "current_streak": "7 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Vendetta eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Mad Kings",
+            "opponent_img": "https://static.gosugamers.net/67/e9/6a/fad0947f22dbbff5d4d0f3e9113827c2478e58d96f7a4c862362d6d75b.jpeg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Wolf Team",
+            "opponent_img": "https://static.gosugamers.net/ca/bb/a8/5bcdb2fdf20c9387e544ac2bf471ab9119b6ebe3db74256930ca22df90.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "38",
+        "name": "Interitus",
+        "country": "Brazil",
+        "rank_points": "933",
+        "logo": "https://static.gosugamers.net/00/a2/28/3d51e9042018ded8711a90704dfcea6b080ab6f18d4175812e5310156c.png",
+        "prize_winning": "US$7,720",
+        "winrate": "26%",
+        "wins": "7",
+        "draws": "0",
+        "losses": "20",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Wolf Team",
+            "opponent_img": "https://static.gosugamers.net/ca/bb/a8/5bcdb2fdf20c9387e544ac2bf471ab9119b6ebe3db74256930ca22df90.png"
+        },
+        "players": [
+            {
+                "name": "fcr",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "H1j4ck",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "pimpolho",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "DFlash",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dunha1",
+                "country": "Brazil",
+                "image": "https://static.gosugamers.net/cc/5a/da/778f04b456714f2dec641a3d9ad153ccd6d50e3947725e6192d5de9acf.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Dreamers eSports",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Ravens",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    }
+]

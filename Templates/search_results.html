@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+    <script>
+        var searched_match = {{ searched_match|tojson }}
+    </script>
+
+{% endblock %}
+
+{% block body %}
+
+    {{ searched_match }}
+
+{% endblock %}
+

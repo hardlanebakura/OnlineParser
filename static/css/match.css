@@ -1,0 +1,329 @@
+.match_wrapper {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.match {
+
+    min-width: 1178px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 8px;
+
+}
+
+.match_winner {
+
+    font-size: 1.5em;
+    font-weight: 800 !important;
+    line-height: 2em;
+    vertical-align: middle;
+    text-align: center;
+    text-shadow: 1px 1px 5px black;
+    text-transform: uppercase;
+
+}
+
+.radiant_score {
+
+    width:40px;
+    font-size:24px;
+    color:var(--high);
+
+}
+
+.dire_score {
+
+    width:40px;
+    font-size:24px;
+    color:var(--low);
+
+}
+
+.match_score {
+
+    display:flex;
+    justify-content:center;
+    text-align:center;
+
+}
+
+.match_duration {
+
+    width:100px;
+    padding-top:4px;
+
+}
+
+.team_title_radiant {
+
+    margin-bottom:12px;
+    color:var(--high);
+
+}
+
+.team_title_dire {
+
+    margin-bottom:12px;
+    color:var(--low);
+
+}
+
+.team_heroes_radiant_row {
+
+    height:38px;
+    display:flex;
+
+}
+
+.team_heroes_dire_row {
+
+    height:38px;
+    display:flex;
+
+}
+
+.team_heroes_hero_image {
+
+    height:24px;
+    width:43px;
+
+}
+
+.team_heroes_hero_stats {
+
+    margin-inline:14px;
+    text-align:center;
+
+}
+
+.hero_kda_stats {
+
+    width:24px;
+
+}
+
+.hero_nw_stats {
+
+    width:40px;
+    color:gold;
+
+}
+
+.hero_lh_stats {
+
+    width:62px;
+
+}
+
+.hero_damage_stats {
+
+
+
+}
+
+.hero_healing_stats {
+
+    width:40px;
+
+}
+
+.hero_building_stats {
+
+    width:40px;
+
+}
+
+.team_heroes_hero_items {
+
+    display:flex;
+
+}
+
+.team_heroes_hero_items_stats {
+
+}
+
+.team_player_link {
+
+    color:var(--high);
+    text-decoration:none;
+
+}
+
+.team_heroes_hero_name {
+
+    width:260px;
+    margin-left:11px;
+    text-align:left;
+
+}
+
+.team_heroes_hero_items_stats_row_1 {
+
+    display:flex;
+
+}
+
+.team_heroes_hero_items_item {
+
+    height:28px;
+    width:39px;
+
+}
+
+.team_heroes_hero_items_item_backpack {
+
+    height:28px;
+    width:39px;
+    margin-left:7px;
+    border-radius: 50%;
+
+}
+
+.banned_by_radiant, .banned_by_dire {
+
+    display:flex;
+
+}
+
+.picks_and_bans_by_radiant, .picks_and_bans_by_dire {
+
+    margin-top:10px;
+    display:flex;
+
+}
+
+.picks_and_bans_pick {
+
+    height:32px;
+    width:58px;
+
+}
+
+.picks_and_bans_ban {
+
+    height:32px;
+    width:58px;
+    filter: grayscale(1);
+
+}
+
+.picks_and_ban_hero {
+
+    text-align:center;
+
+}
+
+.pick_ban_order {
+
+    height:19px;
+    width:19px;
+    background-color:#000;
+    color:#fff;
+    transform: translate(39px, -22px);
+
+}
+
+.team_heroes_hero_level {
+
+    height:19px;
+    width:19px;
+    background-color:#000;
+    color:#fff;
+    text-align:center;
+    transform: translate(26px, -19px);
+
+}
+
+.radiant_skill_build_row {
+
+    padding:10px;
+    display:flex;
+
+}
+
+.team_heroes_talent_tree_image {
+
+    height:24px;
+    width:24px;
+    margin-left:10px;
+
+}
+
+.team_heroes_hero_ability {
+
+    margin-left:7px;
+    margin-right:7px;
+
+}
+
+.team_heroes_hero_ability_image {
+
+    height:24px;
+    width:24px;
+
+}
+
+.team_heroes_talent_tree_detailed_info {
+
+    background-color:red;
+    transform: translate(62px, -46px);
+    display:none;
+
+}
+
+.match_title_main {
+
+    min-width:1060px;
+    margin-top:4%;
+    margin-bottom:1%;
+    margin-left:-7%;
+    padding:8px;
+    background-color:var(--lg);
+    color:#fff;
+    display:flex;
+
+}
+
+.match_title {
+
+    padding:8px;
+    background-color:var(--lg);
+    color:#fff;
+
+}
+
+.match_title_title {
+
+    font-size: 24px;
+
+}
+
+.match_title_subtitle {
+
+    padding-left:1px;
+
+}
+
+.match_additional_info {
+
+    margin-left:auto;
+    margin-right:1%;
+    display:flex;
+    align-items:center;
+    text-align: center;
+
+}
+
+.match_additional_info > * {
+
+    padding:4px;
+
+}
+
+
+

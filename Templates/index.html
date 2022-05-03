@@ -1,0 +1,94 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" href = "{{ url_for('static', filename = '/css/index.css') }}">
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "index_wrapper">
+        <div class = "index">
+            <div class = "index_blogs">
+
+                <div class = "index_search">
+                    <form method = "POST" action = "/">
+                        <div class = "index_search_row">
+                            <input class = "index_search_input" name = "index_search_input" placeholder = "Search for matches or players">
+                            <input class="search_button" type="submit" value="SUBMIT" name = "index_submit">
+                        </div>
+                    </form>
+                </div>
+
+                <div class = "blog">
+                    <a class = "hero_link" href = "/blogs/">
+                        <div class = "blog_title">
+                            <span class = "blog_title_span">THE S-TIER: POSITION TWO</span>
+                        </div>
+                        <img class = "blog_img" alt="The S-Tier: Position Two" src="{{ url_for('static', filename = '/images/blog_images/Huskar.jpeg') }}">
+                        <div class = "summary">
+                            <p class = "blog_p">
+                                The last several patches did not feel particularly mid-centric.
+                                That doesn’t mean the role isn’t important, but there is definitely a shift from late-game oriented mids to more space-creating tempo ones.
+                                Or at least the ones that can come online fast and early.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class = "blog">
+                    <a class = "hero_link" href = "/blogs/">
+                        <div class = "blog_title">
+                            <span class = "blog_title_span">THE S-TIER: POSITION THREE</span>
+                        </div>
+                        <img class = "blog_img" alt="The S-Tier: Position Two" src="{{ url_for('static', filename = '/images/blog_images/Primal_Beast.jpeg') }}">
+                        <div class = "summary">
+                            <p class = "blog_p">
+                                Once again, we are looking at the top tier heroes, this time concentrating on the offlaners: the backbone of any good lineup.
+                                This is the role that usually changes the most from patch to patch and the one that had the most heroes released for it in the recent past.
+                                Patch 7.31 is not an exception in either regard.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class = "blog">
+                    <a class = "hero_link" href = "/blogs/">
+                        <div class = "blog_title">
+                            <span class = "blog_title_span">THE S-TIER: POSITION FOUR</span>
+                        </div>
+                        <img class = "blog_img" alt="The S-Tier: Position Two" src="{{ url_for('static', filename = '/images/blog_images/Position_Four.jpeg') }}">
+                        <div class = "summary">
+                            <p class = "blog_p">
+                                We are continuing our series about the most effective heroes in the current meta and today we are going to concentrate on the soft support role.
+                                Unlike position five, this role did get a decent shake-up in the last patch and it is time to see what works and why.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class = "blog">
+                    <a class = "hero_link" href = "/blogs/">
+                        <div class = "blog_title">
+                            <span class = "blog_title_span">THE S-TIER: POSITION FIVE</span>
+                        </div>
+                        <img class = "blog_img" alt="The S-Tier: Position Two" src="{{ url_for('static', filename = '/images/blog_images/Omniknight.jpeg') }}">
+                        <div class = "summary">
+                            <p class = "blog_p">
+                                The high level pub meta usually follows the professional scene to some extent, but typically has its own spin on the most popular heroes.
+                                Self-reliance and the ability to have an impact at all stages of the game regardless of team coordination is what makes for a great pub hero
+                                and today we are going to look at the cream of the crop, the best position five supports to play in pubs right now if winning is your ultimate goal.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+            <div class = "index_stats">
+                1
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

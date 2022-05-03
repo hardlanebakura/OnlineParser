@@ -1,0 +1,254 @@
+.overview_matches {
+
+    margin-left:7px;
+    margin-right:7px;
+
+}
+
+.overview_matches_all, .overview_winrate_percentage, .overview_t_date {
+
+    transform: translateY(-3px);
+
+}
+
+.overview_info {
+
+    margin:10px 7% 0 auto;
+    text-align:center;
+    display:flex;
+
+}
+
+.overview_info > * {
+
+    margin-inline:7px;
+
+}
+
+.overview_matches_all_span_1 {
+
+    color:var(--high);
+
+}
+
+.overview_matches_all_span_2 {
+
+    color:var(--low);
+
+}
+
+.profile {
+
+    min-width: 1178px;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    padding: 8px;
+    background-color: var(--lg);
+    color: #fff;
+    display: flex;
+
+}
+
+.profile_statistics {
+
+    margin-left:4%;
+
+}
+
+.profile_stats {
+
+    margin-left:7px;
+    margin-bottom: 7%;
+
+}
+
+.profile_stats_row {
+
+    width:257px;
+    padding:4px;
+    font-size:12px;
+    display:flex;
+
+}
+
+.profile_stats_row_name {
+
+    width:70%;
+
+}
+
+.profile_stats_row_all {
+
+    width:14%;
+
+}
+
+.profile_recent_matches_row {
+
+    width:748px;
+    padding:8px;
+    display:flex;
+    align-items:center;
+
+}
+
+.profile_recent_match_hero_img, .profile_hero_img {
+
+    height:28px;
+    width:49px;
+
+}
+
+.profile_recent_match_hero_time {
+
+    margin-left:11px;
+    transform: translate(1px, -2px);
+
+}
+
+.profile_recent_match_hero_name {
+
+    width:290px;
+    color:var(--high);
+
+}
+
+.profile_recent_match_time {
+
+    font-size:11px;
+
+}
+
+.profile_recent_match_result {
+
+    width:86px;
+
+}
+
+.profile_recent_match_gamemode {
+
+    width:122px;
+    text-align:center;
+
+}
+
+.profile_recent_match_duration {
+
+    width:89px;
+    text-align:center;
+
+}
+
+.profile_hero_row {
+
+    width:748px;
+    padding:8px;
+    display:flex;
+
+}
+
+.profile_hero_row_hero_time {
+
+    width:290px;
+    padding-left:11px;
+    transform:translate(1px, -4px);
+
+}
+
+.profile_hero_row_games {
+
+    width:110px;
+
+}
+
+.profile_hero_row_winrate {
+
+    width:70px;
+
+}
+
+.profile_hero_row_hero_name {
+
+    color:var(--high);
+
+}
+
+.profile_hero_row_time {
+
+    font-size: 11px;
+
+}
+
+.profile_stats_title {
+
+    margin-bottom:1%;
+    padding:4px 6px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+
+.profile_lanes {
+
+    margin-bottom:10px;
+    padding:4px;
+
+}
+
+.profile_lanes_summary {
+
+    height:7px;
+    width:100%;
+    display:flex;
+
+}
+
+.profile_title {
+
+    margin-bottom:15px;
+
+}
+
+.overview_title {
+
+    padding-left:12px;
+
+}
+
+.profile_heroes {
+
+    margin-bottom:10px;
+
+}
+
+.details_hero {
+
+    margin-left: 17%;
+    width: 25%;
+
+}
+
+.details_matches {
+
+    margin-left:4%;
+
+}
+
+.details_winrate {
+
+    margin-left:6%;
+
+}
+
+.profile_recent_match_party_size {
+
+    width:19px;
+
+}
+
+.profile_recent_match_kda_ratios {
+
+    display:flex;
+
+}
+

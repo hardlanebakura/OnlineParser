@@ -1,0 +1,301 @@
+.dotapicker_menu {
+
+
+}
+
+.dotapicker_settings_wrapper {
+
+    display:flex;
+    justify-content:center;
+
+}
+
+.dotapicker_settings {
+
+    width:1178px;
+    min-width:1178px;
+    margin-top:4%;
+    margin-bottom:19px;
+    display:flex;
+
+}
+
+.dotapicker_main_wrapper {
+
+    display:flex;
+    justify-content:center;
+
+}
+
+.dotapicker_main {
+
+    width:1178px;
+    display:flex;
+
+}
+
+.dotapicker_hero_grid {
+
+    height:693px;
+    width:210px;
+    min-width:210px;
+    overflow-y:auto;
+    scrollbar-color:red;
+
+}
+
+.dotapicker_composition_and_picks {
+
+    min-width: 400px;
+    margin-left:4%;
+
+}
+
+.dotapicker_hero_grid_image {
+
+    cursor:pointer;
+
+}
+
+.dotapicker_hero_img {
+
+    height:55px;
+    width:150px;
+
+}
+
+.hero_grid_title {
+
+    width:fit-content;
+    transform:translate(3px, -22px);
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 1px;
+
+}
+
+.search_input {
+
+    height: 24px;
+    padding: 0px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #282828;
+    border: 1px solid #282828;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+
+}
+
+.dotapicker_hero_options {
+
+    height: 55px;
+    width: 150px;
+    transform: translate(0px, -80px);
+    position:relative;
+    display:none;
+
+}
+
+.dotapicker_hero_options > * {
+
+    padding:2px;
+    /* opacity:0.4; */
+
+}
+
+.dotapicker_hero_option_1 {
+
+    width: 50%;
+    /* background-color: red; */
+
+}
+
+.dotapicker_hero_option_2 {
+
+    width: 50%;
+    /* background-color: green; */
+
+}
+
+.dotapicker_hero_option_3 {
+
+    height: 24px;
+    width: 40px;
+    bottom: 0;
+    left: 50px;
+    position:absolute;
+
+}
+
+.dotapicker_hero_option {
+
+    width:fit-content;
+    opacity: 1;
+    color: #fff;
+    cursor:pointer;
+
+}
+
+.option_add_enemy {
+
+    margin-left: 7px;
+    background: yellow;
+    color:brown;
+    border: 2px solid #fff;
+    border-radius: 3px;
+
+}
+
+.option_add_team {
+
+    margin-left: 14px;
+    background: yellow;
+    color:brown;
+    border: 2px solid #fff;
+    border-radius: 3px;
+
+}
+
+.option_ban {
+
+    margin-left: 4px;
+    background: yellow;
+    color:brown;
+    border: 2px solid #fff;
+    border-radius: 3px;
+
+}
+
+.dotapicker_teams_display {
+
+    display:none;
+
+}
+
+.dotapicker_team_enemy, .dotapicker_team_ally {
+
+    display:none;
+
+}
+
+.dotapicker_team_enemy_image, .dotapicker_team_ally_image {
+
+    height:40px;
+    width:71px;
+    border:1px solid #fff;
+    background-color:#000;
+
+}
+
+.dotapicker_team_enemy_row, .dotapicker_team_ally_row {
+
+    display:flex;
+    justify-content:center;
+
+}
+
+.dotapicker_team_title {
+
+    margin-bottom:7px;
+    text-align:center;
+
+}
+
+.dotapicker_hero_grid_menu {
+
+    display:none;
+
+}
+
+.dotapicker_hero_grid_picks {
+
+    margin-top:4%;
+    margin-bottom:4%;
+    display:none;
+
+}
+
+.dotapicker_hero_grid_picks_title {
+
+    margin-left:4%;
+    text-align:center;
+
+}
+
+.pick_img {
+
+    height:50px;
+    width:90px;
+
+}
+
+.dotapicker_counterpick {
+
+    padding:7px;
+    display:flex;
+
+}
+
+.counterpick_name_and_advantage {
+
+    width:180px;
+    padding-top:4px;
+    text-align:center;
+
+}
+
+.counterpick_ban {
+
+    height: 24px;
+    margin-top: 7px;
+
+}
+
+.counterpick_details {
+
+    padding:4px;
+    display:none;
+    transform: translate(294px, -70px);
+
+}
+
+.show_hero_grid_button {
+
+    margin-left:38px;
+    margin-bottom: 24px;
+
+}
+
+.attributes_hero_grid {
+
+    width:260px;
+    padding:4px;
+    background-color:var(--g);
+    text-align:center;
+
+}
+
+.attributes_hero_grid_row {
+
+    display:flex;
+
+}
+
+.attributes_hero_grid_image {
+
+    height:18px;
+    width:32px;
+
+}
+
+.attributes_title {
+
+    margin-top:4px;
+    margin-bottom:7px;
+
+}
+
+
+
+

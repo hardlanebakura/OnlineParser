@@ -1,0 +1,344 @@
+.esports_wrapper {
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.esports {
+
+    width:1178px;
+    min-width:1178px;
+    padding:7px;
+    background-color:var(--g);
+    font-family: 'Roboto Condensed', sans-serif;
+    display:flex;
+
+}
+
+.esports_rankings_title_row {
+
+    color:var(--rkg);
+    display:flex;
+
+}
+
+.esports_rankings {
+
+    width:74%;
+
+}
+
+.esports_rankings_title_row_title {
+
+    width:37%;
+    margin-left:14px;
+    margin-bottom:12px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+
+}
+
+.active_row_title_item {
+
+    padding-bottom:4px;
+    color:#fff;
+    border-bottom:2px solid var(--r);
+
+}
+
+.esports_rankings_title_row_item {
+
+    font-size:14px;
+    margin-inline:7px;
+
+}
+
+.esports_link {
+
+    color:inherit;
+    text-decoration:none;
+
+}
+
+.esports_teams {
+
+    display:flex;
+
+}
+
+.rankings {
+
+    width:43%;
+
+}
+
+.team_overview {
+
+    width:57%;
+
+}
+
+.team_ranking_row {
+
+    width: 79%;
+    display:flex;
+    cursor:pointer;
+
+}
+
+.team_ranking_rank {
+
+    width:40px;
+    text-align:center;
+
+}
+
+.team_ranking_name {
+
+    width:220px;
+
+}
+
+.team_overview_logo_and_ranking {
+
+    margin-top: 7%;
+    display:flex;
+
+}
+
+.team_overview_logo {
+
+    margin-right: 40%;
+
+}
+
+.team_overview_logo_img {
+
+    height:101px;
+    width:101px;
+
+}
+
+.team_overview_ranking {
+
+    margin-left:auto;
+
+}
+
+.team_overview_rank {
+
+    text-align:right;
+    display:flex;
+
+}
+
+.team_regional_rank {
+
+    margin-top:-7px;
+    margin-right:3px;
+    font-size:3.3rem;
+
+}
+
+.team_overview_region {
+
+    font-size:19px;
+
+}
+
+.team_overview_points {
+
+    text-align:right;
+    display:flex;
+    justify-content:end;
+
+}
+
+.team_overview_span {
+
+    margin-top: -1px;
+    color:var(--rkg);
+    font-size:14px;
+    font-weight: 600;
+    line-height: 1.269rem;
+
+}
+
+.team_overview_name_prize {
+
+    padding:4px;
+    font-weight:bold;
+
+}
+
+.team_overview_name_prize_title {
+
+    margin-bottom:4px;
+    text-align:right;
+
+}
+
+.team_overview_name_prize_stats {
+
+    display:flex;
+
+}
+
+.team_overview_name_prize_prize {
+
+    margin-left:auto;
+
+}
+
+.team_overview_statistics > * {
+
+    padding:4px;
+    display:flex;
+
+}
+
+.team_overview_matches_wins {
+
+    color:#1ED775;
+
+}
+
+.team_overview_matches_losses {
+
+    color:var(--r);
+
+}
+
+.team_overview_statistics_value {
+
+    margin-left:auto;
+
+}
+
+.rating_span {
+
+    margin-right:4px;
+
+}
+
+.team_overview_rank_points {
+
+    margin-top:-1px;
+
+}
+
+.team_overview_recent_matches {
+
+    padding:4px;
+
+}
+
+.team_overview_recent_matches_title {
+
+    margin-top:7px;
+    margin-bottom: 12px;
+    margin-left:-6px;
+    color: var(--rkg);
+    font-size: 18px;
+    font-weight:bold;
+    line-height: 18px;
+    text-transform:uppercase;
+
+}
+
+.team_recent_row {
+
+    margin-top:7px;
+    margin-bottom:7px;
+    display:flex;
+
+}
+
+.team_recent_row_img {
+
+    height:28px;
+    width:28px;
+    margin-top:-2px;
+    margin-left:7px;
+    margin-right:7px;
+
+}
+
+.team_recent_row_opponent {
+
+    width:240px;
+    padding-left:4px;
+
+}
+
+.team_roster {
+
+
+
+}
+
+.team_roster_title {
+
+    margin-bottom: 12px;
+    color:var(--rkg);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+
+}
+
+.team_players_row {
+
+    display:flex;
+
+}
+
+.team_players_player {
+
+    height:149px;
+    width:137px;
+    margin:7px;
+    padding-top:26px;
+    background-color:var(--lg);
+
+}
+
+.team_players_player_img {
+
+    height:80px;
+    width:80px;
+    margin-left:21%;
+    border-radius:50%;
+
+}
+
+.team_players_player_name {
+
+    margin-top:14px;
+    text-align:center;
+
+}
+
+.team_ranking_flag {
+
+    height:12px;
+    width:17px;
+    margin:4px 12px 4px 0px;
+
+}
+
+.team_players_player_country {
+
+    height:12px;
+    width:17px;
+    transform:translate(-51px, 4px);
+
+}
+
+
+

@@ -1,0 +1,124 @@
+.items_main_wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.items_main {
+
+    width:1178px;
+    min-width:1178px;
+    margin-top:1%;
+
+}
+
+.items_row {
+
+    padding:4px;
+    font-size:12px;
+    display:flex;
+    align-items:center;
+
+}
+
+.items_item_img {
+
+    height:24px;
+    width:33px;
+
+}
+
+.items_item_name {
+
+    width:206px;
+    padding-left:7px;
+    color:var(--high);
+
+}
+
+.items_item_usage {
+
+    width:300px;
+
+}
+
+.items_item_usage_percentage {
+
+    width:300px;
+
+}
+
+.items_item_win_percentage {
+
+    width:300px;
+
+}
+
+.items_item_name_details {
+
+    width:246px;
+
+}
+
+.items_item_usage_details {
+
+    width:276px;
+
+}
+
+.items_item_usage_percentage_details {
+
+    width:300px;
+
+}
+
+.items_item_win_percentage_details {
+
+    width:300px;
+
+}
+
+.items_item_kda {
+
+    margin-left:1px;
+    width:272px;
+
+}
+
+.items_item_kills {
+
+    width:156px;
+
+}
+
+.items_item_deaths {
+
+    width:156px;
+
+}
+
+.items_item_assists {
+
+    width:156px;
+
+}
+
+.items_item_kills_details {
+
+    width:146px;
+
+}
+
+.items_item_deaths_details {
+
+    width:156px;
+
+}
+
+.items_item_assists_details {
+
+    width:156px;
+
+}
+

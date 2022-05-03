@@ -1,0 +1,393 @@
+.blogs_wrapper {
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.blogs {
+
+    width:1178px;
+    min-width:1178px;
+
+}
+
+.blogs_title {
+
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 30px;
+    text-transform: uppercase;
+    margin: 24px 0 36px 0;
+    padding: 0;
+
+}
+
+.blog_title {
+
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 30px;
+    text-transform: uppercase;
+    margin: 24px 0 36px 0;
+    padding: 0;
+
+}
+
+.p {
+
+    margin:16px 0;
+    padding:0;
+    font-size:17px;
+    line-height:28px;
+
+}
+
+.blogs_overview {
+
+    display:flex;
+
+}
+
+.blogs_overview_column_1 {
+
+    width:67%;
+
+}
+
+.blogs_overview_column_2 {
+
+    width:33%;
+
+}
+
+.blogs_overview_column_1_cover {
+
+height:240px;
+margin-bottom:12px;
+background-image:url("../images/ESL-Stockholm.jpeg");
+
+}
+
+.blogs_overview_column_1_cover_color {
+
+height:240px;
+background-image: linear-gradient(rgba(237,59,28,0.1), rgba(237,59,28,0.3) 70%);
+
+}
+
+.blogs_overview_column_1_title {
+
+    width:fit-content;
+    margin:10px;
+    padding:7px;
+    font-size:24px;
+    background-color:var(--g);
+
+}
+
+.cover_img {
+
+    background-size:cover;
+    background-position:center;
+
+}
+
+.blogs_overview_column_1_additional {
+
+    display:flex;
+
+}
+
+.blogs_overview_column_1_additional_image_1 {
+
+    height:120px;
+    width:392px;
+    margin-left:-3px;
+    margin-right:12px;
+    margin-bottom:6px;
+    background-image:url("../images/Primal-Beast.jpeg");
+
+}
+
+.blogs_overview_column_1_additional_image_1_cover_color {
+
+    height:120px;
+    background-image: linear-gradient(rgba(0,134,201,0.1), rgba(0,134,201,0.3) 70%);
+
+}
+
+.blogs_overview_column_1_additional_image_2 {
+
+    height:120px;
+    width:392px;
+    background-image:url("../images/RikiPosFourHero.jpeg");
+
+}
+
+.blogs_overview_column_1_additional_image_2_cover_color {
+
+    height:120px;
+    background-image: linear-gradient(rgba(0,134,201,0.1), rgba(0,134,201,0.3) 70%);
+
+}
+
+.image_color {
+
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+
+}
+
+.image_title_wrapper_large {
+
+    padding-top: 149px;
+
+}
+
+.image_title_wrapper {
+
+    padding-top: 15%;
+    padding-left: 4%;
+
+}
+
+.blogs_overview_column_1_additional_image_1_title {
+
+    width:fit-content;
+    padding:4px;
+    font-size:14px;
+    background-color:var(--g);
+
+}
+
+.topic_title_wrapper {
+
+    padding-top: 7px;
+    padding-left: 7px;
+    display:flex;
+
+}
+
+.topic_title_large {
+
+    width:fit-content;
+    margin-left:1%;
+    padding:3px;
+    font-size:14px;
+    background-color:var(--r);
+
+}
+
+.topic_title {
+
+    width:fit-content;
+    margin-left:3%;
+    padding:3px;
+    font-size:14px;
+    background-color:var(--r);
+
+}
+
+.blogs_overview_column_2 {
+
+    margin-left:1%;
+
+}
+
+.blogs_overview_column_2_img {
+
+    height: 120px;
+    width: 392px;
+    margin-left: -3px;
+    margin-right: 12px;
+    margin-bottom: 6px;
+
+}
+
+#column_2_image_1 {
+
+    background-image:url("../images/PL.jpeg");
+
+}
+
+#column_2_image_2 {
+
+    background-image:url("../images/Huskar.jpeg");
+
+}
+
+#column_2_image_3 {
+
+    background-image:url("../images/Storm.jpeg");
+
+}
+
+.blogs_addition_title {
+
+    margin:1%;
+
+}
+
+.blogs_addition_title_row_1 {
+
+    margin: 24px 0 8px 0;
+    font-size:36px;
+    font-style:italic;
+    text-align:center;
+
+}
+
+.blogs_addition_title_row_2 {
+
+    margin-bottom:19px;
+    text-align:center;
+
+}
+
+.blogs_title_span {
+
+    font-size:14px;
+    color:var(--high);
+
+}
+
+.blogs_updates {
+
+
+
+}
+
+.blogs_updates_row {
+
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 12px;
+
+}
+
+.col-4 {
+
+    grid-column:span 4;
+
+}
+
+.col-6 {
+
+    grid-column:span 6;
+
+}
+
+.col-8 {
+
+    grid-column:span 8;
+
+}
+
+.updates_cover_large_1 {
+
+    height:240px;
+    margin-bottom:12px;
+    background-image:url("../images/blog_images/Omniknight.jpeg");
+
+}
+
+.updates_cover_large_2 {
+
+    height:240px;
+    margin-bottom:12px;
+    background-image:url("../images/blog_images/Crystal-Maiden.jpeg");
+
+}
+
+#updates_image_1 {
+
+    height: 120px;
+    width: 392px;
+    background-image:url("../images/blog_images/Witch-Doctor.jpeg");
+
+}
+
+#updates_image_2 {
+
+    height: 120px;
+    width: 392px;
+    margin-left: -3px;
+    margin-right: 12px;
+    margin-bottom: 6px;
+    background-image:url("../images/blog_images/Dark-Seer.jpeg");
+
+}
+
+#updates_image_3 {
+
+    height: 120px;
+    width: 392px;
+    margin-left: -3px;
+    margin-right: 12px;
+    margin-bottom: 6px;
+    background-image:url("../images/blog_images/Templar-Assassin.jpeg");
+
+}
+
+#updates_image_4 {
+
+    height: 120px;
+    width:769px;
+    margin-left: -3px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    background-image:url("../images/blog_images/Dark-Willow.jpeg");
+    background-position-y:-94px;
+
+}
+
+#updates_image_5 {
+
+    height: 120px;
+    width: 391px;
+    margin-bottom: 6px;
+    background-image:url("../images/blog_images/Huskar-alt.jpeg");
+
+}
+
+#updates_image_6 {
+
+    height: 120px;
+    margin-bottom: 12px;
+    background-image:url("../images/blog_images/Gyro-copter.jpeg");
+
+}
+
+#updates_image_7 {
+
+    height: 120px;
+    width: 375px;
+    margin-bottom: 12px;
+    background-image:url("../images/blog_images/Dark-Seer.jpeg");
+
+}
+
+.light_cover_color {
+
+    height: 240px;
+    margin-bottom: 12px;
+    background-image: linear-gradient(rgba(242,204,103,0.1), rgba(242,204,103,0.3) 70%);
+
+}
+
+.image_title_wrapper_updates_large {
+
+    padding-top: 57px;
+    padding-left:14px;
+
+}
+

@@ -1,0 +1,229 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" href = "{{ url_for('static', filename = '/css/blogs.css') }}">
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "blogs_wrapper">
+    <div class = "blogs">
+        <div class = "blogs_title">
+            THE DOTABUFF BLOG
+        </div>
+        <div class = "blogs_overview">
+            <div class = "blogs_overview_column_1">
+                <div class = "blogs_overview_column_1_cover cover_img">
+                    <div class = "blogs_overview_column_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title_large">
+                                ESPORTS
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper_large">
+                            <div class = "blogs_overview_column_1_title">
+                                ESL ONE STOCKHOLM PREVIEW
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "blogs_overview_column_1_additional">
+                    <div class = "blogs_overview_column_1_additional_image_1 cover_img">
+                        <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                            <div class = "topic_title_wrapper">
+                                <div class = "topic_title">
+                                    META
+                                </div>
+                            </div>
+                            <div class = "image_title_wrapper">
+                                <div class = "blogs_overview_column_1_additional_image_1_title">
+                                    THE S TIER: POSITION THREE
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "blogs_overview_column_1_additional_image_2 cover_img">
+                        <div class = "blogs_overview_column_1_additional_image_2_cover_color image_color">
+                            <div class = "topic_title_wrapper">
+                                <div class = "topic_title">
+                                    META
+                                </div>
+                            </div>
+                            <div class = "image_title_wrapper">
+                                <div class = "blogs_overview_column_1_additional_image_1_title">
+                                    THE S TIER: POSITION FOUR
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "blogs_overview_column_2">
+                <div class = "blogs_overview_column_2_img cover_img" id = "column_2_image_1">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                THE S TIER: POSITION ONE
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "blogs_overview_column_2_img cover_img" id = "column_2_image_2">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                THE S TIER: POSITION TWO
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "blogs_overview_column_2_img cover_img" id = "column_2_image_3">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                PLAYERS WITH NERFED HEROES: POSITION TWO
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class = "blogs_addition_title">
+            <div class = "blogs_addition_title_row_1">
+                Updates
+            </div>
+            <div class = "blogs_addition_title_row_2">
+                By <span class = "blogs_title_span">Dotabuff Team</span>
+            </div>
+        </div>
+        <div class = "blogs_updates">
+            <div class = "blogs_updates_row">
+                <div class = "col-6">
+                    <div class = "updates_cover_large_1 cover_img">
+                        <div class = "light_cover_color image_color">
+                            <div class = "topic_title_wrapper">
+                                <div class = "topic_title_large">
+                                    META
+                                </div>
+                            </div>
+                            <div class = "image_title_wrapper_large">
+                                <div class = "blogs_overview_column_1_title">
+                                    ESL ONE STOCKHOLM PREVIEW
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "col-6">
+                    <div class = "updates_cover_large_2 cover_img">
+                        <div class = "light_cover_color image_color">
+                            <div class = "topic_title_wrapper">
+                                <div class = "topic_title_large">
+                                    OPINIONS
+                                </div>
+                            </div>
+                            <div class = "image_title_wrapper_large">
+                                <div class = "blogs_overview_column_1_title">
+                                    PLAYERS WITH NERFED HEROES: POSITION FIVE
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "blogs_updates_row">
+                <div class = "cover_img col-4" id = "updates_image_1">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                REDISTRIBUTION OF WEALTH: SUPPORTS
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "updates_img cover_img col-8" id = "updates_image_4">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title" style = "margin-left:1%">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper_updates_large">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                PLAYERS WITH NERFED HEROES: POSITION FOUR
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "blogs_updates_row">
+                <div class = "cover_img col-4" id = "updates_image_5">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                RETURN TO IMBA
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "cover_img col-4" id = "updates_image_6">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                PLAYERS WITH NERFED HEROES: POSITION ONE
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "cover_img col-4" id = "updates_image_7">
+                    <div class = "blogs_overview_column_1_additional_image_1_cover_color image_color">
+                        <div class = "topic_title_wrapper">
+                            <div class = "topic_title">
+                                META
+                            </div>
+                        </div>
+                        <div class = "image_title_wrapper">
+                            <div class = "blogs_overview_column_1_additional_image_1_title">
+                                PLAYERS WITH NERFED HEROES: POSITION THREE
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+{% endblock %}

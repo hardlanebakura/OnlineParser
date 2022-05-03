@@ -1,0 +1,411 @@
+.hero_overview_wrapper {
+
+    margin-top:4%;
+    display:flex;
+    justify-content:center;
+
+}
+
+.hero_overview {
+
+    min-width:1200px;
+    max-width:1200px;
+    padding:10px;
+    background-color:var(--lg);
+    display:flex;
+
+}
+
+.hero_info {
+
+    margin-left:10px;
+
+}
+
+.hero_name {
+
+    font-size:24px;
+
+}
+
+.hero_portrait {
+
+    height:49px;
+    width:87px;
+
+}
+
+.hero_popularity {
+
+    margin-left:auto;
+    padding-top:4px;
+    padding-right: 48px;
+    display:flex;
+
+}
+
+.hero_roles {
+
+    color:#C4C4C4;
+
+}
+
+.hero_winrate {
+
+    margin-left: 14px;
+
+}
+
+.hero_matchups_overview_wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.hero_matchups_overview {
+
+    min-width: 1200px;
+    max-width: 1200px;
+    padding: 10px;
+    display:flex;
+    justify-content:center;
+
+}
+
+.all_matchups_wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.all_matchups {
+
+    min-width: 1200px;
+    max-width: 1200px;
+
+}
+
+.hero_matchups {
+
+    min-width: 590px;
+    max-width: 590px;
+    margin-inline:10px;
+
+}
+
+.matchups_row {
+
+    padding:4px;
+
+}
+
+.matchups_row_img_big {
+
+    height:32px;
+    width:57px;
+
+}
+
+.matchups_row_img_small {
+
+    height:24px;
+    width:43px;
+
+}
+
+.matchups_row_hero_name_big {
+
+    margin-left:10px;
+    padding-top:7px;
+    width:190px;
+
+}
+
+.matchups_row_hero_name {
+
+    margin-left:10px;
+    padding-top:1px;
+    width:190px;
+    color:var(--high);
+
+}
+
+.matchups_row_hero_advantage_big, .matchups_row_hero_win_percentage_big {
+
+    margin-left:10px;
+    padding-top:7px;
+    font-size:14px;
+    width:190px;
+
+}
+
+.matchups_row_hero_advantage, .matchups_row_hero_win_percentage {
+
+    margin-left:10px;
+    padding-top:1px;
+    width:190px;
+
+}
+
+.hero_wrapper {
+
+    display:flex;
+    justify-content:center;
+
+}
+
+.hero_main {
+
+    min-width:800px;
+    max-width:800px;
+    padding: 10px;
+    background-color:var(--lg);
+    display:flex;
+
+}
+
+.hero_menu {
+
+    min-width: 1200px;
+    max-width: 1200px;
+    padding: 10px;
+    background-color: var(--lg);
+    display: flex;
+
+}
+
+.hero_menu a {
+
+    text-decoration:none;
+    color:inherit;
+
+}
+
+.hero_menu_item {
+
+    padding:4px;
+
+}
+
+.active_menu {
+
+    color:red;
+
+}
+
+.most_popular_hero {
+
+    height:19px;
+    width:19px;
+    transform: translate(128px, -102px);
+
+}
+
+.highest_winrate_hero {
+
+    height:19px;
+    width:19px;
+    transform: translate(128px, -102px);
+
+}
+
+.most_popular_hero_title, .highest_winrate_hero_title {
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.most_popular_hero_title_img, .highest_winrate_hero_title_img {
+
+    height:19px;
+    width:19px;
+    margin-bottom:4px;
+
+}
+
+.hero_stats {
+
+    width:400px;
+    min-width:400px;
+    background-color:var(--lg);
+
+}
+
+.hero_stats_attributes {
+
+    padding: 10px 24px 10px 0;
+
+}
+
+.hero_attributes_images {
+
+    margin-left:4px;
+    margin-bottom:10px;
+    display:flex;
+
+}
+
+.hero_attributes_image {
+
+    width:100px;
+
+}
+
+.hero_stats_row {
+
+    width:82%;
+    padding:4px;
+    display:flex;
+
+}
+
+.hero_stat_name {
+
+    width:68%;
+
+}
+
+.hero_stat_value {
+
+    margin-right:auto;
+    text-align:center;
+
+}
+
+.hero_lanes_row {
+
+    padding:4px;
+    display:flex;
+
+}
+
+.hero_lanes_row_lane {
+
+    width:180px;
+
+}
+
+.hero_lanes_row_presence {
+
+    width:100px;
+
+}
+
+.hero_lanes_row_winrate {
+
+    width:100px;
+
+}
+
+.hero_lanes_row_kda {
+
+    width:100px;
+
+}
+
+.hero_lanes_row_gpm {
+
+    width:100px;
+    color:gold;
+
+}
+
+.hero_lanes_row_xpm {
+
+    width:100px;
+
+}
+
+.hero_stats_talents {
+
+    margin-top:1%;
+
+}
+
+.hero_stats_talent {
+
+    margin-bottom: 12px;
+    display:flex;
+
+}
+
+.stats_talent_level {
+
+    height:48px;
+    width:48px;
+    padding-top: 13px;
+    text-align: center;
+    font-size: 22px;
+    background-color: #000;
+    color: darkorange;
+    border: 1px solid darkorange;
+    border-radius: 50%;
+
+}
+
+.stats_talent_rows {
+
+
+
+}
+
+.stats_talent_row {
+
+    width:220px;
+    margin-left:10px;
+    margin-bottom:7px;
+    padding:4px;
+    font-size:14px;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+
+}
+
+.hero_lanes_info {
+
+    margin-top:7px;
+    margin-bottom:17px;
+
+}
+
+.hero_items {
+
+    margin:10px 0 10px 4px;
+
+}
+
+.hero_item_img {
+
+    height:37px;
+    width:49px;
+
+}
+
+.stats_talent_row_talent_win {
+
+    display:flex;
+
+}
+
+.talent_row_advantage {
+
+    height:23px;
+    padding: 2px 4px 0 4px;
+    background-color:rgba(0, 255, 0, 0.114);
+    font-size:14px;
+
+}
+
+.overview_matchups_row {
+
+    padding:7px;
+
+}
+
+
+

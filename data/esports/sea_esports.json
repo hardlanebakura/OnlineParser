@@ -1,0 +1,2483 @@
+[
+    {
+        "regional_ranking": "1",
+        "name": "BOOM Esports",
+        "country": "Singapore",
+        "rank_points": "1426",
+        "logo": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png",
+        "prize_winning": "US$589,102",
+        "winrate": "57%",
+        "wins": "245",
+        "draws": "51",
+        "losses": "137",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Fnatic",
+            "opponent_img": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png"
+        },
+        "players": [
+            {
+                "name": "Fbz",
+                "country": "Indonesia",
+                "image": "https://static.gosugamers.net/b0/ea/6a/b3d06db70fb073bf0a822b2c059b03cb7a0e3c637e9af38901114ca8d0.png"
+            },
+            {
+                "name": "Skem",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/f0/42/2f/d71af9685c36e88e83d019550f084d6ac2717cb8f1247ee13752662182.jpeg"
+            },
+            {
+                "name": "Yopaj",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/14/2c/1d/aa1e557e09f4715687b35cc8d74704666d506a38272d24c6408eb081e2.png"
+            },
+            {
+                "name": "TIMS",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/37/f2/c3/d6e43135e71e7cb9342dd99cbfa58a56299ec8ff7492af1623218a530c.png"
+            },
+            {
+                "name": "JaCkky",
+                "country": "Laos",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team SMG",
+            "opponent_img": "https://static.gosugamers.net/c0/8d/fd/897a9376fd0aef0abd0e7d6363a58b768e946971b0ea6639b8df549cf6.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Fnatic",
+            "opponent_img": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png"
+        }
+    },
+    {
+        "regional_ranking": "2",
+        "name": "T1",
+        "country": "Phillippines",
+        "rank_points": "1259",
+        "logo": "https://static.gosugamers.net/39/11/ac/fc774d28b1f6306f42a25f4f24bf59acdb172234ea2fa7156fcdb6ebc3.png",
+        "prize_winning": "US$1,448,919",
+        "winrate": "50%",
+        "wins": "94",
+        "draws": "18",
+        "losses": "76",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Polaris Esports",
+            "opponent_img": "https://static.gosugamers.net/c5/12/24/c2e561283c124b55d55d855310271197d5684328d06ad6f6fa1600aa88.png"
+        },
+        "players": [
+            {
+                "name": "Karl",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/31/93/5f/d5b592d9807b34b67e93a51e9633e4085b74528219f3544a43221c40e8.png"
+            },
+            {
+                "name": "KuKu",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/55/15/33/1b8e63403ac328f3b7f73ae5c30e2f62d847d42a61a6a8ef726ffcaead.png"
+            },
+            {
+                "name": "Whitemon",
+                "country": "",
+                "image": "https://static.gosugamers.net/4a/11/52/f11ab7cb77cce5e31d036a91acca29d394297a3a33101a06810899a49a.png"
+            },
+            {
+                "name": "Xepher",
+                "country": "",
+                "image": "https://static.gosugamers.net/26/c3/c4/6d92e10b198245394af24e0b1e28fb3bc74872f078435a9b9e263def42.png"
+            },
+            {
+                "name": "Gabbi",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/74/c5/76/b20d21ba695d76f4fc6ca89c2a963e3e81f0c6bcd900579a8ab24b6eaf.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Fnatic",
+            "opponent_img": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "BOOM Esports",
+            "opponent_img": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png"
+        }
+    },
+    {
+        "regional_ranking": "3",
+        "name": "Fnatic",
+        "country": "Malaysia",
+        "rank_points": "1189",
+        "logo": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png",
+        "prize_winning": "US$5,021,650",
+        "winrate": "57%",
+        "wins": "707",
+        "draws": "80",
+        "losses": "447",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "BOOM Esports",
+            "opponent_img": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png"
+        },
+        "players": [
+            {
+                "name": "DJ",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/48/bf/59/39fc505cb30afc125bb9d9e348a534691431b42c83f694fa166db3acbc.png"
+            },
+            {
+                "name": "Raven",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/de/36/d2/ee455f76792400a833ce6ebe74051a0a6057e80ad2f46b8554dd14f416.png"
+            },
+            {
+                "name": "Jabz",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/0e/37/1b/08826311d953c0d6f09ebcbf9e25601c4fcaa42599a080522517b88234.png"
+            },
+            {
+                "name": "Jaunuel",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Armel",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/cc/61/24/032d768f5f1d2f6caf2d91be709b91f1cf4ee4d60b0c521086554bc3f7.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "T1",
+            "opponent_img": "https://static.gosugamers.net/39/11/ac/fc774d28b1f6306f42a25f4f24bf59acdb172234ea2fa7156fcdb6ebc3.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "BOOM Esports",
+            "opponent_img": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png"
+        }
+    },
+    {
+        "regional_ranking": "4",
+        "name": "Team SMG",
+        "country": "Malaysia",
+        "rank_points": "1146",
+        "logo": "https://static.gosugamers.net/c0/8d/fd/897a9376fd0aef0abd0e7d6363a58b768e946971b0ea6639b8df549cf6.png",
+        "prize_winning": "US$120,525",
+        "winrate": "57%",
+        "wins": "93",
+        "draws": "18",
+        "losses": "53",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "BOOM Esports",
+            "opponent_img": "https://static.gosugamers.net/9b/bf/ed/0377e55c138fd38cfa28fe9010bf2295a5c814dd4dc1abc85c3a80b7bc.png"
+        },
+        "players": [
+            {
+                "name": "ah fu",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/55/97/c8/8035f5ecc650e2df0ada5ce0fc798f5b22a802018c474d98033c0bba2f.png"
+            },
+            {
+                "name": "MidOne",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/e1/8d/c8a83dd5469bcbc72dd11683aa300c5a1d9bdb3bf08689e6ead78a07df.jpeg"
+            },
+            {
+                "name": "Moon",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/17/22/6d/f4dc087e1d4b865cdbb2fe321da9f974aa5efc1865ea7d9857d3351e31.png"
+            },
+            {
+                "name": "Raging Potato - Bimbo",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/2e/a9/bf/b183c54c561453b9fd6da247fbe4865838a91a349240ea33f7b14ca803.jpeg"
+            },
+            {
+                "name": "ninjaboogie",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/43/fe/e7/eedbd8b65e3c16bc903f63cf2d991c3fde653d467ba3fd7bd9544fc636.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Fnatic",
+            "opponent_img": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Nigma Galaxy SEA",
+            "opponent_img": "https://static.gosugamers.net/3d/38/f6/6a90d12047fdae9246c4cd922726d6465d0494501d8dbaabe0616e6615.png"
+        }
+    },
+    {
+        "regional_ranking": "5",
+        "name": "Polar Esports",
+        "country": "Phillippines",
+        "rank_points": "1139",
+        "logo": "https://static.gosugamers.net/c5/12/24/c2e561283c124b55d55d855310271197d5684328d06ad6f6fa1600aa88.png",
+        "prize_winning": "US$59,341",
+        "winrate": "57%",
+        "wins": "68",
+        "draws": "26",
+        "losses": "25",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "T1",
+            "opponent_img": "https://static.gosugamers.net/39/11/ac/fc774d28b1f6306f42a25f4f24bf59acdb172234ea2fa7156fcdb6ebc3.png"
+        },
+        "players": [
+            {
+                "name": "Natsumi-",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/2b/ee/c3/8961028328ebff25612dd47060c397f50301cf23e025a25028f706e576.png"
+            },
+            {
+                "name": "Lelouch-",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/2b/c3/a7/e72f45ce422afd19359c1f138b38233d58c0b462417e961d4fb34deab6.png"
+            },
+            {
+                "name": "Force",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mavis",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/98/83/a6/f44ae5ba02039b893dbdd997903f1f6685b79daf34c94dbd5633651253.png"
+            },
+            {
+                "name": "Xavius",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/5b/34/75/ffc233a1ed1494f7df7ae7e5ab55862f6e058b1afb83aa3be77a8b6dc8.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Neon Esports",
+            "opponent_img": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Fnatic",
+            "opponent_img": "https://static.gosugamers.net/48/0d/17/1f40255468cfcdec30d58df59a34df3de9b2dedb3e1ecc1314f12219d9.png"
+        }
+    },
+    {
+        "regional_ranking": "6",
+        "name": "Team Orca",
+        "country": "Malaysia",
+        "rank_points": "1138",
+        "logo": "https://static.gosugamers.net/04/8c/9f/7bc7cef453d0717116b6b6f215f9f4eb3fe66fd1b058f521bdcf33b94a.png",
+        "prize_winning": "US$65,083",
+        "winrate": "52%",
+        "wins": "75",
+        "draws": "42",
+        "losses": "28",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Polar",
+            "opponent_img": "https://static.gosugamers.net/c5/12/24/c2e561283c124b55d55d855310271197d5684328d06ad6f6fa1600aa88.png"
+        },
+        "players": [
+            {
+                "name": "vtFaded",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/76/79/d5/57a7eeda24a871cf2bfe47d582d98c2fb42543ff3d9e72365844ad4f6b.jpeg"
+            },
+            {
+                "name": "Ahjit",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/5c/aa/e4/0c7ea09c729ad31f2bdd755eca0c0e589d2eec3a0ec71e9ca9539fb915.png"
+            },
+            {
+                "name": "Gy",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u95f7\u6cb9\u74f6",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "YIF",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "LBZS",
+            "opponent_img": "https://static.gosugamers.net/2f/d8/65/78ba8a297dc6e6df04dca7a07ec39db74d4873a27bfb4520d48bbf3008.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Army Geniuses",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        }
+    },
+    {
+        "regional_ranking": "7",
+        "name": "Nigma Galaxy SEA",
+        "country": "Singapore",
+        "rank_points": "1080",
+        "logo": "https://static.gosugamers.net/3d/38/f6/6a90d12047fdae9246c4cd922726d6465d0494501d8dbaabe0616e6615.png",
+        "prize_winning": "US$128,597",
+        "winrate": "48%",
+        "wins": "96",
+        "draws": "32",
+        "losses": "72",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Neon Esports",
+            "opponent_img": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png"
+        },
+        "players": [
+            {
+                "name": "mizu",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/70/ce/b2/cb74a857ba9655c7110b9194e47e73353ca8c59d1194c5f8807acbe993.jpeg"
+            },
+            {
+                "name": "AlaCrity",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/0b/03/6a/988158d096b82dc4aee7643dbb3652ecb134e999ed9eb1b66b00cd02e6.png"
+            },
+            {
+                "name": "poloson",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/eb/3b/59/dd3182fd6c1afcd8f2ed03c9119c56eaa36ae0f87c28ff66394b57f0dc.jpeg"
+            },
+            {
+                "name": "Jhocam",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/e2/f3/dd/7500aa629fedbd6a5198eeb12dac3ffbbb9f5a6ca71d29432c52b1ccc3.jpeg"
+            },
+            {
+                "name": "InYourDream",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/e8/08/fa/98d00cc9fedfbbb210281181afd8f55f1c7a58cd2c685a10e8e6c155d7.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Execration",
+            "opponent_img": "https://static.gosugamers.net/a4/28/de/747d70bfc3835f7ca242809758ee83b4a4eba2b6e7fc2e958f6fed9601.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Team SMG",
+            "opponent_img": "https://static.gosugamers.net/c0/8d/fd/897a9376fd0aef0abd0e7d6363a58b768e946971b0ea6639b8df549cf6.png"
+        }
+    },
+    {
+        "regional_ranking": "8",
+        "name": "Neon Esports",
+        "country": "Phillippines",
+        "rank_points": "1071",
+        "logo": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png",
+        "prize_winning": "US$403,005",
+        "winrate": "50%",
+        "wins": "409",
+        "draws": "161",
+        "losses": "246",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Tiger God",
+            "opponent_img": "https://static.gosugamers.net/3a/06/19/93d2b71a6b0be332d621bfa409e60e892aaa06cfc3b1f85b4801b2312e.png"
+        },
+        "players": [
+            {
+                "name": "Enryu",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Abeng",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jing",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "avataRmod3",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Asta\u4e36",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Nigma Galaxy SEA",
+            "opponent_img": "https://static.gosugamers.net/3d/38/f6/6a90d12047fdae9246c4cd922726d6465d0494501d8dbaabe0616e6615.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Polar",
+            "opponent_img": "https://static.gosugamers.net/c5/12/24/c2e561283c124b55d55d855310271197d5684328d06ad6f6fa1600aa88.png"
+        }
+    },
+    {
+        "regional_ranking": "9",
+        "name": "Talon Esports",
+        "country": "Phillippines",
+        "rank_points": "1064",
+        "logo": "https://static.gosugamers.net/24/55/2f/ed814e390bb684d9b44a1bb1f9e2223342b0d9b459be3cdad25c2eedf2.png",
+        "prize_winning": "US$9,000",
+        "winrate": "77%",
+        "wins": "23",
+        "draws": "1",
+        "losses": "6",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "RSG",
+            "opponent_img": "https://static.gosugamers.net/17/af/fe/b0e3b23108080f398d8ab4551a20171c08a2e6c2e4dc46488a71acaf9e.png"
+        },
+        "players": [
+            {
+                "name": "Hyde",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "kpii",
+                "country": "Australia",
+                "image": "https://static.gosugamers.net/60/07/d8/587ddeee708556715d6f8bf6760bce15091720b5824f0f5e32a1ada6ac.png"
+            },
+            {
+                "name": "Mikoto",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/a3/14/a4/064b3da6542954ced91036aee6887554fc6a7198c607d2506732767db9.png"
+            },
+            {
+                "name": "23savage",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/ec/31/44/3dbee6653f0415d3133186000b112b376d1f2a92b871863f98b547f958.png"
+            },
+            {
+                "name": "Q",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "The Apes E-sport",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "10",
+        "name": "TNC Predator",
+        "country": "Phillippines",
+        "rank_points": "1062",
+        "logo": "https://static.gosugamers.net/76/0f/7b/e884910ff8844056283b5015e38ba4ffe1813bcb3ad8368f196b3e38b2.png",
+        "prize_winning": "US$4,534,327",
+        "winrate": "56%",
+        "wins": "422",
+        "draws": "79",
+        "losses": "251",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Motivate.Trust Gaming",
+            "opponent_img": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png"
+        },
+        "players": [
+            {
+                "name": "YoungGod",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yowe",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "febby-dieu",
+                "country": "South Korea",
+                "image": "https://static.gosugamers.net/cd/bc/dd/a7c9a0b3571c60c08b101dcb60a9e7354c63d2bc06c948c43fb7370f11.jpeg"
+            },
+            {
+                "name": "Bok",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/28/5f/d1/61de1b3be5db3429ff75d6046572958438c199fd0b23c823c1bbe957eb.jpeg"
+            },
+            {
+                "name": "BDz-",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "The Apes E-sport",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "RSG",
+            "opponent_img": "https://static.gosugamers.net/17/af/fe/b0e3b23108080f398d8ab4551a20171c08a2e6c2e4dc46488a71acaf9e.png"
+        }
+    },
+    {
+        "regional_ranking": "11",
+        "name": "Execration",
+        "country": "Phillippines",
+        "rank_points": "1054",
+        "logo": "https://static.gosugamers.net/a4/28/de/747d70bfc3835f7ca242809758ee83b4a4eba2b6e7fc2e958f6fed9601.png",
+        "prize_winning": "US$505,453",
+        "winrate": "45%",
+        "wins": "451",
+        "draws": "134",
+        "losses": "412",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "players": [
+            {
+                "name": "Rr",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/33/31/bd/3d8b01119bbdd6638aeebc64c8da0a7296205af9ac3b3c2362c768483e.jpg"
+            },
+            {
+                "name": "BDz-",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Palos",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Bob",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Nando",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/5d/8a/56/c8062d6a77c0e4f38479b4fd35b373113fc739630974681bc004646297.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 3",
+            "opponent": "Lilgun",
+            "opponent_img": "https://static.gosugamers.net/ee/de/49/b732a499a1e24c90483ba2184e1b6d9a56027b23a358a16e21a053f7db.png"
+        }
+    },
+    {
+        "regional_ranking": "12",
+        "name": "Motivate.Trust Gaming",
+        "country": "Thailand",
+        "rank_points": "1038",
+        "logo": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png",
+        "prize_winning": "US$206,562",
+        "winrate": "52%",
+        "wins": "165",
+        "draws": "59",
+        "losses": "96",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "M Y",
+            "opponent_img": "https://static.gosugamers.net/b9/87/13/ffbd45465e4b8a4b2facb17fc829f9d0ccb12c526383e05b17cad9e977.png"
+        },
+        "players": [
+            {
+                "name": "Fearless",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "boombell",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/46/90/a6/e60c73be126ff7677b1dbd7fbac9c3b595cb00012674e52bc0815aa855.jpeg"
+            },
+            {
+                "name": "Masaros",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Toy",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/a8/af/95/9d466a5abe3bc50b380e9cc8d231c9b06f8d5e70abe9735b08244c7280.jpeg"
+            },
+            {
+                "name": "Tigger!",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Yangon Galacticos",
+            "opponent_img": "https://static.gosugamers.net/c6/e2/95/c43abb1e183422ec42acbda70507049c18803b60b93b6cc2e364e5ac66.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Mars",
+            "opponent_img": "https://static.gosugamers.net/82/95/63/27376a666f0fa200fcdf4bdc68c4e322731b473ccb60b99c7d687b3df1.jpg"
+        }
+    },
+    {
+        "regional_ranking": "13",
+        "name": "Army Geniuses",
+        "country": "Singapore",
+        "rank_points": "1020",
+        "logo": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png",
+        "prize_winning": "US$52,550",
+        "winrate": "36%",
+        "wins": "112",
+        "draws": "62",
+        "losses": "138",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Yangon Galacticos",
+            "opponent_img": "https://static.gosugamers.net/c6/e2/95/c43abb1e183422ec42acbda70507049c18803b60b93b6cc2e364e5ac66.png"
+        },
+        "players": [
+            {
+                "name": "womy",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "db",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LyM-",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Azur4",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/bc/f5/42/008468ab24f1db27f626df2a1896bfeb072c5921523ec3ade75024d84e.jpg"
+            },
+            {
+                "name": "Varizh",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Team M11",
+            "opponent_img": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Tiger God",
+            "opponent_img": "https://static.gosugamers.net/3a/06/19/93d2b71a6b0be332d621bfa409e60e892aaa06cfc3b1f85b4801b2312e.png"
+        }
+    },
+    {
+        "regional_ranking": "14",
+        "name": "Yangon Galacticos",
+        "country": "Myanmar",
+        "rank_points": "1019",
+        "logo": "https://static.gosugamers.net/c6/e2/95/c43abb1e183422ec42acbda70507049c18803b60b93b6cc2e364e5ac66.png",
+        "prize_winning": "US$21,532",
+        "winrate": "38%",
+        "wins": "107",
+        "draws": "46",
+        "losses": "125",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Army Geniuses",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        },
+        "players": [
+            {
+                "name": "ZawRain",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Skill lay",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Young PH",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xneverlight",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "JimX",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Motivate.Trust Gaming",
+            "opponent_img": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "M Y",
+            "opponent_img": "https://static.gosugamers.net/b9/87/13/ffbd45465e4b8a4b2facb17fc829f9d0ccb12c526383e05b17cad9e977.png"
+        }
+    },
+    {
+        "regional_ranking": "16",
+        "name": "ChubbyBoiz",
+        "country": "Malaysia",
+        "rank_points": "1016",
+        "logo": "https://static.gosugamers.net/86/2f/be/6e1cd6ee22df725e4ea3d745a30d85014b7786fa866220df8e7c6af59d.png",
+        "prize_winning": "-",
+        "winrate": "100%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Motivate.Trust Gaming",
+            "opponent_img": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png"
+        },
+        "players": [
+            {
+                "name": "mks-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "SeeL",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/41/f3/9c/8ee8ef344aaf53dd0ad856d68e85c53de35d5deaf5cc7261b00b104e3c.jpeg"
+            },
+            {
+                "name": "X1aOyU",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Bombi",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xsilearn",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Army Geniuses",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        }
+    },
+    {
+        "regional_ranking": "15",
+        "name": "Kinkalow",
+        "country": "Malaysia",
+        "rank_points": "1016",
+        "logo": "https://static.gosugamers.net/42/c2/58/0156bbc2e7e6e2099b764ad79a8b357e42ba00a89ecf654b886a73c4d4.png",
+        "prize_winning": "-",
+        "winrate": "53%",
+        "wins": "17",
+        "draws": "4",
+        "losses": "11",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "3 : 1",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "players": [
+            {
+                "name": "MangO `ROSE",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ponyo",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ws`",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Wonder'boy",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ahyad",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Crocodile",
+            "opponent_img": "https://static.gosugamers.net/db/ac/a4/30aca77e0da062d3000de48901bb97dba68d4b04f732f08c1df9a111fb.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        }
+    },
+    {
+        "regional_ranking": "17",
+        "name": "Refraction Gaming",
+        "country": "Malaysia",
+        "rank_points": "1014",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "41%",
+        "wins": "7",
+        "draws": "5",
+        "losses": "5",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Tiger God",
+            "opponent_img": "https://static.gosugamers.net/3a/06/19/93d2b71a6b0be332d621bfa409e60e892aaa06cfc3b1f85b4801b2312e.png"
+        },
+        "players": [
+            {
+                "name": "Hanatan`",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "X1aOyU",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "idc",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "suicidesheep",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u5434\u9752\u5cf0",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Summit Gaming",
+            "opponent_img": "https://static.gosugamers.net/c2/58/9d/129f79fa3166210c8a9104116b6af171c18260c6c2d4038d62e4dadf0e.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        }
+    },
+    {
+        "regional_ranking": "18",
+        "name": "Souther Water Tribe",
+        "country": "Phillippines",
+        "rank_points": "1011",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "1",
+        "losses": "3",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Foxhoundz",
+            "opponent_img": "https://static.gosugamers.net/e9/96/62/abe163c843dbc893e462b9465403dd1a23fa0092db5878d239ee9cd59c.png"
+        },
+        "players": [
+            {
+                "name": "Gojo",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "JDA12",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Efking",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/f5/94/0e/6284b020094db1d2a6ce277f7463fa0644e3b1abeca42af5c9501d91ab.jpeg"
+            },
+            {
+                "name": "gobta",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "burikat",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "TNT Esports",
+            "opponent_img": "https://static.gosugamers.net/9a/44/c7/ebd0bc3d633c4e2d8f0c087a505b72cf8d399d7af687a5c1440ca5d6da.png"
+        }
+    },
+    {
+        "regional_ranking": "19",
+        "name": "Cookie",
+        "country": "Malaysia",
+        "rank_points": "1010",
+        "logo": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png",
+        "prize_winning": "US$9,886",
+        "winrate": "46%",
+        "wins": "43",
+        "draws": "20",
+        "losses": "31",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Summit Gaming",
+            "opponent_img": "https://static.gosugamers.net/c2/58/9d/129f79fa3166210c8a9104116b6af171c18260c6c2d4038d62e4dadf0e.png"
+        },
+        "players": [
+            {
+                "name": "keNness",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "RhyThm.my",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xunka",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kayh",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "neldog",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Team M11",
+            "opponent_img": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Team Renewal",
+            "opponent_img": "https://static.gosugamers.net/06/b7/e9/f89627741a8dec6848ee20c885cd92c19017cd6154d048249d68d20374.png"
+        }
+    },
+    {
+        "regional_ranking": "20",
+        "name": "Patriots",
+        "country": "Singapore",
+        "rank_points": "1007",
+        "logo": "https://static.gosugamers.net/e6/ff/5e/98a239ba7610d11487f35e0d36f3182d4b2708fbf2dd48a18ba5789e8e.png",
+        "prize_winning": "US$2,587",
+        "winrate": "55%",
+        "wins": "18",
+        "draws": "4",
+        "losses": "11",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "496 Gaming",
+            "opponent_img": "https://static.gosugamers.net/dc/e6/61/349f81a1bd2497f0e9ff9e68c203c2e5c91ccee35d1e9d5211310d3754.png"
+        },
+        "players": [
+            {
+                "name": "you_K",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "MamangDaya",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LyM-",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "jikroy",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Dalul",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Light Gaming",
+            "opponent_img": "https://static.gosugamers.net/e3/4e/eb/e41bce04b583bb066893d41fe9115b47cf2acaaac03b1ea3c5e3a1723e.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        }
+    },
+    {
+        "regional_ranking": "22",
+        "name": "Gamebred Esports",
+        "country": "Phillippines",
+        "rank_points": "1005",
+        "logo": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png",
+        "prize_winning": "-",
+        "winrate": "38%",
+        "wins": "5",
+        "draws": "4",
+        "losses": "4",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 3",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "players": [
+            {
+                "name": "443",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "EDEKU",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Magg!e",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "uswekqt",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Freddy",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Anonymous Esports",
+            "opponent_img": "https://static.gosugamers.net/7e/50/c6/f25349197bea3708e6f6d4901571bdc230229b53a906980cacdde60812.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Foxhoundz",
+            "opponent_img": "https://static.gosugamers.net/e9/96/62/abe163c843dbc893e462b9465403dd1a23fa0092db5878d239ee9cd59c.png"
+        }
+    },
+    {
+        "regional_ranking": "21",
+        "name": "Singapore Female",
+        "country": "Singapore",
+        "rank_points": "1005",
+        "logo": "https://static.gosugamers.net/03/1d/ab/8565375c28a1d6c944a5f6db97756e6eafc3a81ad961dd11a082059857.png",
+        "prize_winning": "-",
+        "winrate": "100%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Team Great Britain Female",
+            "opponent_img": "https://static.gosugamers.net/13/5c/12/abd31b7360b832f1dd026f986507269d47168143546a740eeb62081678.png"
+        },
+        "players": [
+            {
+                "name": "Minkiey",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Merody",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "bings",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xiaoma",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "KazeL",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team Paraguay Female",
+            "opponent_img": "https://static.gosugamers.net/aa/60/67/e9333e694f309fe08fb0173b1e8a564c5f69a7848d8b37d49a058f703f.png"
+        }
+    },
+    {
+        "regional_ranking": "24",
+        "name": "D Vessuwan",
+        "country": "Thailand",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png",
+        "prize_winning": "US$5,974",
+        "winrate": "51%",
+        "wins": "32",
+        "draws": "5",
+        "losses": "26",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Execration",
+            "opponent_img": "https://static.gosugamers.net/a4/28/de/747d70bfc3835f7ca242809758ee83b4a4eba2b6e7fc2e958f6fed9601.png"
+        },
+        "players": [
+            {
+                "name": "JG",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/ed/8d/ea/ce8738ae56d9aff273b0437b5a4298ee7f4675424a14b14a885cf5eec4.png"
+            },
+            {
+                "name": "Teehee",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/40/93/a7/4449b965f15ee105e8abd10856b42070645acd7fd51ebd5ab2c008357d.png"
+            },
+            {
+                "name": "LuziFy",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/c3/c5/86/cbaf4ec047010ab097d94f5c50209aae0edd5753e90b930d875900bbed.png"
+            },
+            {
+                "name": "Ken",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/08/f1/f0/e142629e476563a646ba5bcd4e365644a18a6bfcd495921fec21582264.png"
+            },
+            {
+                "name": "Rupido",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/8a/6e/56/e1068793ec2ef3dd2a9238e8b068181cebb16c5c964bc409d8328ac867.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Patriots",
+            "opponent_img": "https://static.gosugamers.net/e6/ff/5e/98a239ba7610d11487f35e0d36f3182d4b2708fbf2dd48a18ba5789e8e.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 3",
+            "opponent": "Kinkalow",
+            "opponent_img": "https://static.gosugamers.net/42/c2/58/0156bbc2e7e6e2099b764ad79a8b357e42ba00a89ecf654b886a73c4d4.png"
+        }
+    },
+    {
+        "regional_ranking": "25",
+        "name": "GrindSky Esports",
+        "country": "Phillippines",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/e1/88/aa/4d47f6d4d9f514adfd1f47cb1925a6ae5b05a9f8d6cac77643bcae9070.png",
+        "prize_winning": "US$1,586",
+        "winrate": "20%",
+        "wins": "2",
+        "draws": "4",
+        "losses": "4",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Foxhoundz",
+            "opponent_img": "https://static.gosugamers.net/e9/96/62/abe163c843dbc893e462b9465403dd1a23fa0092db5878d239ee9cd59c.png"
+        },
+        "players": [
+            {
+                "name": "Akashi.ph",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "tmv",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Qui",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "jwl",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kimizu",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "TNT Esports",
+            "opponent_img": "https://static.gosugamers.net/9a/44/c7/ebd0bc3d633c4e2d8f0c087a505b72cf8d399d7af687a5c1440ca5d6da.png"
+        }
+    },
+    {
+        "regional_ranking": "23",
+        "name": "RSG",
+        "country": "Singapore",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/17/af/fe/b0e3b23108080f398d8ab4551a20171c08a2e6c2e4dc46488a71acaf9e.png",
+        "prize_winning": "US$11,486",
+        "winrate": "44%",
+        "wins": "41",
+        "draws": "14",
+        "losses": "39",
+        "current_streak": "6 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Talon Esports",
+            "opponent_img": "https://static.gosugamers.net/24/55/2f/ed814e390bb684d9b44a1bb1f9e2223342b0d9b459be3cdad25c2eedf2.png"
+        },
+        "players": [
+            {
+                "name": "SeeL",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/41/f3/9c/8ee8ef344aaf53dd0ad856d68e85c53de35d5deaf5cc7261b00b104e3c.jpeg"
+            },
+            {
+                "name": "X1aOyU",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Bombi",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mks-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xsilearn",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "TLN",
+            "opponent_img": "https://static.gosugamers.net/76/0f/7b/e884910ff8844056283b5015e38ba4ffe1813bcb3ad8368f196b3e38b2.png"
+        }
+    },
+    {
+        "regional_ranking": "26",
+        "name": "Tiger God",
+        "country": "Phillippines",
+        "rank_points": "1004",
+        "logo": "https://static.gosugamers.net/3a/06/19/93d2b71a6b0be332d621bfa409e60e892aaa06cfc3b1f85b4801b2312e.png",
+        "prize_winning": "US$12,500",
+        "winrate": "38%",
+        "wins": "34",
+        "draws": "20",
+        "losses": "36",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Ne",
+            "opponent_img": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png"
+        },
+        "players": [
+            {
+                "name": "Gratzi",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "YoungGod",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dog? thnk",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Gotenks^",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "dric",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Army Geniuses",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Refraction Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "28",
+        "name": "TIGERCIINX",
+        "country": "Thailand",
+        "rank_points": "1001",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "50%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Chubby Boiz",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Jarame",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "PysiAz",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Mynuz",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "tywst",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "GoOd",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        }
+    },
+    {
+        "regional_ranking": "27",
+        "name": "Iron Talon",
+        "country": "Malaysia",
+        "rank_points": "1001",
+        "logo": "https://static.gosugamers.net/b3/c7/00/d49335ee3d24585e1b88310ae36f578cf0144a934be96f834997876f36.png",
+        "prize_winning": "-",
+        "winrate": "67%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "atlantis",
+            "opponent_img": "https://static.gosugamers.net/34/22/90/4b647e24b52a673e320c673e58e8662c6a23c87e364cf2855e04deae20.png"
+        },
+        "players": [
+            {
+                "name": "Komin",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Jf-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "tOplayer",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zyw",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ljw123",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Light Gaming",
+            "opponent_img": "https://static.gosugamers.net/e3/4e/eb/e41bce04b583bb066893d41fe9115b47cf2acaaac03b1ea3c5e3a1723e.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Crocodile",
+            "opponent_img": "https://static.gosugamers.net/db/ac/a4/30aca77e0da062d3000de48901bb97dba68d4b04f732f08c1df9a111fb.png"
+        }
+    },
+    {
+        "regional_ranking": "29",
+        "name": "Apex",
+        "country": "Vietnam",
+        "rank_points": "1001",
+        "logo": "https://static.gosugamers.net/c4/1c/f4/541d529c37655bb960b45e8e0e177e749882ab59850b5af39416867f5b.jpg",
+        "prize_winning": "US$1,000",
+        "winrate": "38%",
+        "wins": "6",
+        "draws": "3",
+        "losses": "7",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Lilgun",
+            "opponent_img": "https://static.gosugamers.net/ee/de/49/b732a499a1e24c90483ba2184e1b6d9a56027b23a358a16e21a053f7db.png"
+        },
+        "players": [
+            {
+                "name": "hunghung",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BrayaNt",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/cb/b7/45/0215932ad2da4a9ce1f33ea9e719ba84520c7a63aa6f50a70e54c04361.jpeg"
+            },
+            {
+                "name": "Yasy",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "DatBB",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/e9/fd/51/9e35a61ad3d8048fb0676d09c9bda624a6ece5d0bb3814de7c43e48539.png"
+            },
+            {
+                "name": "Mikko^",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Motivate.Trust Gaming",
+            "opponent_img": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        }
+    },
+    {
+        "regional_ranking": "33",
+        "name": "Team Tsunami",
+        "country": "Thailand",
+        "rank_points": "1000",
+        "logo": "https://static.gosugamers.net/7e/da/bf/923da065a03b641953b71d4840fa7aba784128f1e7a00b0126ec76833b.png",
+        "prize_winning": "-",
+        "winrate": "50%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team Renewal",
+            "opponent_img": "https://static.gosugamers.net/06/b7/e9/f89627741a8dec6848ee20c885cd92c19017cd6154d048249d68d20374.png"
+        },
+        "players": [
+            {
+                "name": "Bukku-",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "varen",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "wmn",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "SoLotic",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/7c/eb/70/b2e8e0bb68bfc5ddff22aa55bb80e59332cd1f1b72fd46c462b2cc77f1.jpeg"
+            },
+            {
+                "name": "Rainallday",
+                "country": "Thailand",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Dag",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "31",
+        "name": "BURMESE GHOULS",
+        "country": "Myanmar",
+        "rank_points": "1000",
+        "logo": "https://static.gosugamers.net/90/9a/09/793b7f9871ef2496a7565be897616b48fe8ab171023d278aa373b221fe.png",
+        "prize_winning": "-",
+        "winrate": "40%",
+        "wins": "2",
+        "draws": "1",
+        "losses": "2",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Gargoyle Esports",
+            "opponent-img": "https://static.gosugamers.net/e6/93/b2/dcd44391bf2554a37f80a92255d1981d52fc38ecd0e3ce2e52c39bbf64.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "32",
+        "name": "Daydream Esports",
+        "country": "Phillippines",
+        "rank_points": "1000",
+        "logo": "https://static.gosugamers.net/cd/6d/77/5d68c97d77f72701705e725ee048f649de526915dddbd7de5a492989ee.jpg",
+        "prize_winning": "-",
+        "winrate": "50%",
+        "wins": "2",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        },
+        "players": [
+            {
+                "name": "Parker",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Nando",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/5d/8a/56/c8062d6a77c0e4f38479b4fd35b373113fc739630974681bc004646297.jpeg"
+            },
+            {
+                "name": "Sirc",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/04/d4/eb/1b2ab15f38b652344e92a6a8e2dbafc15dbfb8cba0674f712e3bd4cb4a.png"
+            },
+            {
+                "name": "Efking",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/f5/94/0e/6284b020094db1d2a6ce277f7463fa0644e3b1abeca42af5c9501d91ab.jpeg"
+            },
+            {
+                "name": "Jek",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Souther Water Tribe",
+            "opponent_img": "https://static.gosugamers.net/00/81/3e/6593ce5ef79eaba9413e1245bb601430860c8e80688b143704c0b877d4.jpg"
+        }
+    },
+    {
+        "regional_ranking": "30",
+        "name": "TEAM QUANTIC",
+        "country": "Malaysia",
+        "rank_points": "1000",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$668",
+        "winrate": "36%",
+        "wins": "5",
+        "draws": "6",
+        "losses": "3",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Shinigami",
+            "opponent_img": "https://static.gosugamers.net/46/17/e9/ddb5aea3072f67eedad21b48b9a424346508b081db90c98f706d799fae.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "34",
+        "name": "Gargoyle Esports",
+        "country": "Malaysia",
+        "rank_points": "999",
+        "logo": "https://static.gosugamers.net/e6/93/b2/dcd44391bf2554a37f80a92255d1981d52fc38ecd0e3ce2e52c39bbf64.jpg",
+        "prize_winning": "-",
+        "winrate": "20%",
+        "wins": "1",
+        "draws": "3",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Team M11",
+            "opponent_img": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png"
+        },
+        "players": [
+            {
+                "name": "Ohaiyo",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/df/59/4e/e35687d7b23a6bc9b4a09ac68add3b9c86e933deea571ea4285db8b953.jpeg"
+            },
+            {
+                "name": "YamateH",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/6f/66/f2/d008f07f13cc2eac78646da713dacdca0dff75c11ce80f9da84f0a1dbf.jpeg"
+            },
+            {
+                "name": "Candyloon",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "LONELYCHUCKY",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "FUFUFIER",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "BURMESE GHOULS",
+            "opponent_img": "https://static.gosugamers.net/90/9a/09/793b7f9871ef2496a7565be897616b48fe8ab171023d278aa373b221fe.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        }
+    },
+    {
+        "regional_ranking": "35",
+        "name": "Crimson",
+        "country": "Singapore",
+        "rank_points": "998",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Kinkalow",
+            "opponent_img": "https://static.gosugamers.net/42/c2/58/0156bbc2e7e6e2099b764ad79a8b357e42ba00a89ecf654b886a73c4d4.png"
+        },
+        "players": [
+            {
+                "name": "Deth",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/87/33/fd/ad130f50139986aa20d7f7e66769a443ba751282854801ac991996bf5c.png"
+            },
+            {
+                "name": "PlayHard",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/b1/6a/26/f2779c4a740e392e0ed701d119d511e47f4e0907b1e4e1b161a447250f.png"
+            },
+            {
+                "name": "Mice",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Vinz",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Krish02",
+                "country": "India",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "40",
+        "name": "Flux",
+        "country": "Singapore",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Chubby Boiz",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Oliveyb",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Captainkid",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Virgil",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Doku",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Baby",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "38",
+        "name": "Sharks",
+        "country": "Phillippines",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "players": [
+            {
+                "name": "ddd",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "d7my",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "young simba",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kenteezy",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sick Feeling",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "39",
+        "name": "Dagon ",
+        "country": "Vietnam",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team Tsunami",
+            "opponent_img": "https://static.gosugamers.net/7e/da/bf/923da065a03b641953b71d4840fa7aba784128f1e7a00b0126ec76833b.png"
+        },
+        "players": [
+            {
+                "name": "sunshine",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Quokka",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "WDC",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Wayto",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "isanity-",
+                "country": "Vietnam",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "36",
+        "name": "CoreFlix Esport",
+        "country": "Myanmar",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/02/e5/da/79b0e89d6caf3b57587597a10476178c61ae6533c86bfbf5807d12392a.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "players": [
+            {
+                "name": "Mij.",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "kalay",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Wutan",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Staywithme",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "DoubleCode",
+                "country": "Myanmar",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ]
+    },
+    {
+        "regional_ranking": "37",
+        "name": "VG",
+        "country": "Myanmar",
+        "rank_points": "997",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "The Apes e-sport",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "42",
+        "name": "Singapore",
+        "country": "Singapore",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/02/fe/f6/c7068f15256bf3d7522e23ae9ad5c7a96437753785079a5c36336c9768.png",
+        "prize_winning": "US$1,500",
+        "winrate": "30%",
+        "wins": "3",
+        "draws": "1",
+        "losses": "6",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Brazil",
+            "opponent_img": "https://static.gosugamers.net/e8/23/d9/cae8bf2aea9176c96fe6f2548ed826e3ad9d0cb8b45dbf07dbf8b85a60.png"
+        },
+        "players": [
+            {
+                "name": "chibix33",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "poloson",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/eb/3b/59/dd3182fd6c1afcd8f2ed03c9119c56eaa36ae0f87c28ff66394b57f0dc.jpeg"
+            },
+            {
+                "name": "xsilearn",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mizu",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/70/ce/b2/cb74a857ba9655c7110b9194e47e73353ca8c59d1194c5f8807acbe993.jpeg"
+            },
+            {
+                "name": "xfreedom",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/af/93/70/b366f51894f4e399621e7d9732cb77dd3b9dda59fcd90ac1d5d9017c3f.jpeg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Great Britain",
+            "opponent_img": "https://static.gosugamers.net/13/5c/12/abd31b7360b832f1dd026f986507269d47168143546a740eeb62081678.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "Myanmar",
+            "opponent_img": "https://static.gosugamers.net/da/76/3b/dbd50ad2ca6da071d07d27536d4b89502f9f5bfa7fcbff6fb3f1db759e.png"
+        }
+    },
+    {
+        "regional_ranking": "43",
+        "name": "Team M11",
+        "country": "Singapore",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png",
+        "prize_winning": "US$477",
+        "winrate": "31%",
+        "wins": "27",
+        "draws": "33",
+        "losses": "27",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        },
+        "players": [
+            {
+                "name": "Luwee",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ramz?",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Juju",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hated",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Havinci",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Army Geniuses",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team Renewal",
+            "opponent_img": "https://static.gosugamers.net/06/b7/e9/f89627741a8dec6848ee20c885cd92c19017cd6154d048249d68d20374.png"
+        }
+    },
+    {
+        "regional_ranking": "41",
+        "name": "atlantis",
+        "country": "Malaysia",
+        "rank_points": "995",
+        "logo": "https://static.gosugamers.net/34/22/90/4b647e24b52a673e320c673e58e8662c6a23c87e364cf2855e04deae20.png",
+        "prize_winning": "-",
+        "winrate": "38%",
+        "wins": "3",
+        "draws": "0",
+        "losses": "5",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Iron Talon",
+            "opponent_img": "https://static.gosugamers.net/b3/c7/00/d49335ee3d24585e1b88310ae36f578cf0144a934be96f834997876f36.png"
+        },
+        "players": [
+            {
+                "name": "Ws`",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "wayne",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "MangO `ROSE",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Wonder'boy",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Aeegon Steam",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "496 Gaming",
+            "opponent_img": "https://static.gosugamers.net/dc/e6/61/349f81a1bd2497f0e9ff9e68c203c2e5c91ccee35d1e9d5211310d3754.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 1",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        }
+    },
+    {
+        "regional_ranking": "44",
+        "name": "Summit Gaming",
+        "country": "Malaysia",
+        "rank_points": "994",
+        "logo": "https://static.gosugamers.net/c2/58/9d/129f79fa3166210c8a9104116b6af171c18260c6c2d4038d62e4dadf0e.png",
+        "prize_winning": "US$500",
+        "winrate": "33%",
+        "wins": "16",
+        "draws": "10",
+        "losses": "22",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Mars",
+            "opponent_img": "https://static.gosugamers.net/82/95/63/27376a666f0fa200fcdf4bdc68c4e322731b473ccb60b99c7d687b3df1.jpg"
+        },
+        "players": [
+            {
+                "name": "Hanatan`",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "BEAVER-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "czy",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Trazam",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ASHES-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Refraction Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "45",
+        "name": "TEAM QX",
+        "country": "Malaysia",
+        "rank_points": "994",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "BURMESE GHOULS",
+            "opponent_img": "https://static.gosugamers.net/90/9a/09/793b7f9871ef2496a7565be897616b48fe8ab171023d278aa373b221fe.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "46",
+        "name": "Shinigami",
+        "country": "Malaysia",
+        "rank_points": "993",
+        "logo": "https://static.gosugamers.net/46/17/e9/ddb5aea3072f67eedad21b48b9a424346508b081db90c98f706d799fae.png",
+        "prize_winning": "US$482",
+        "winrate": "38%",
+        "wins": "13",
+        "draws": "5",
+        "losses": "16",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 3",
+            "opponent": "Team M11",
+            "opponent_img": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png"
+        },
+        "players": [
+            {
+                "name": "FiXeRs-NthIsPain",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "52zero",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Chidori~",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "2Dking",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "bigdickJ",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "TEAM QX",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team M11",
+            "opponent_img": "https://static.gosugamers.net/f2/33/71/860a22a28f27ec6ac33222898f77a8fdd320bd6e07ccad1f6f3ab01cca.png"
+        }
+    },
+    {
+        "regional_ranking": "47",
+        "name": "Gagak Esports",
+        "country": "Malaysia",
+        "rank_points": "993",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "20%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "4",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "D Vessuwan",
+            "opponent_img": "https://static.gosugamers.net/4a/6f/bd/81696e7688c5ca7d3d3d340417be0fc6574ff18d83aec18915f102fbae.png"
+        },
+        "players": [
+            {
+                "name": "hecimovic666",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "THE COMEDIAN",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "marianaemariaclara",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u4e16\u754c\u672a\u4ea1\u6b7b\u4e0d\u6295\u964d",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NICOLAS.MAGNI62",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "TEAM QX",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "BURMESE GHOULS",
+            "opponent_img": "https://static.gosugamers.net/90/9a/09/793b7f9871ef2496a7565be897616b48fe8ab171023d278aa373b221fe.png"
+        }
+    },
+    {
+        "regional_ranking": "48",
+        "name": "Foxhoundz",
+        "country": "Singapore",
+        "rank_points": "992",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "-",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "1",
+        "losses": "3",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Flux",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "Dark-",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "boo",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "patpatpat",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kira",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "nookie",
+                "country": "Singapore",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "TNT Esports",
+            "opponent_img": "https://static.gosugamers.net/9a/44/c7/ebd0bc3d633c4e2d8f0c087a505b72cf8d399d7af687a5c1440ca5d6da.png"
+        }
+    },
+    {
+        "regional_ranking": "49",
+        "name": "Anonymous Esports",
+        "country": "Phillippines",
+        "rank_points": "992",
+        "logo": "https://static.gosugamers.net/7e/50/c6/f25349197bea3708e6f6d4901571bdc230229b53a906980cacdde60812.jpg",
+        "prize_winning": "-",
+        "winrate": "11%",
+        "wins": "1",
+        "draws": "5",
+        "losses": "3",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        },
+        "players": [
+            {
+                "name": "scarlet",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "pewpew",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "deckz",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lack",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Aleak",
+                "country": "Phillippines",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Gamebred Esports",
+            "opponent_img": "https://static.gosugamers.net/78/df/23/ebe1cea23acaa479d2cc9d1ef61b376ae0e0de397750f53a4c8f386771.png"
+        }
+    }
+]

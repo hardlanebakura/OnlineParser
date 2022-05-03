@@ -1,0 +1,1535 @@
+[
+    {
+        "regional_ranking": "1",
+        "name": "PSG.LGD",
+        "country": "China",
+        "rank_points": "1494",
+        "logo": "https://static.gosugamers.net/08/3a/31/f5f06ad3fd5d011f961082aa22d0bfd7e56fc6cca9fa697cafa93ffb14.png",
+        "prize_winning": "US$22,138,921",
+        "winrate": "63%",
+        "wins": "761",
+        "draws": "87",
+        "losses": "359",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        },
+        "players": [
+            {
+                "name": "Ame",
+                "country": "China",
+                "image": "https://static.gosugamers.net/15/20/a2/c2bf758e61e9f5adde44eab44019974bd852f411ed6f8e163330f216b2.png"
+            },
+            {
+                "name": "NothingToSay",
+                "country": "China",
+                "image": "https://static.gosugamers.net/64/44/02/58f7532e35a8c5a7c0e77616dd2554a30a34a12bcbb47c13aae18b92a4.png"
+            },
+            {
+                "name": "Faith_Bian",
+                "country": "China",
+                "image": "https://static.gosugamers.net/d3/09/13/071834d417143d3631459b3d655c70b4b3b43589a1d28377e1b5c6e2db.png"
+            },
+            {
+                "name": "XinQ",
+                "country": "China",
+                "image": "https://static.gosugamers.net/ea/8e/6b/d2528a83bc5a67cf3c0265564cd1bb3be956065cbd7976554fdb1c6549.png"
+            },
+            {
+                "name": "y`",
+                "country": "China",
+                "image": "https://static.gosugamers.net/04/35/56/bbc31b8c62212c5335c3ceefba8871cbd046e6c9880bad881c76d8324b.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Xtreme Gaming",
+            "opponent_img": "https://static.gosugamers.net/d6/42/cc/e1e55f9f724ae3a1b8cbb4e72435775dec96f56bb0a04390ab6eb37e02.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Royal Never Give Up",
+            "opponent_img": "https://static.gosugamers.net/a4/54/d8/3eb7dba7325d67e2dbb1db9c66f9e5964d44c859dc2f3f5528a023821c.png"
+        }
+    },
+    {
+        "regional_ranking": "2",
+        "name": "Royal Never Give Up",
+        "rank_points": "1251",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/a4/54/d8/3eb7dba7325d67e2dbb1db9c66f9e5964d44c859dc2f3f5528a023821c.png",
+        "prize_winning": "US$1,341,577",
+        "winrate": "53%",
+        "wins": "197",
+        "draws": "9",
+        "losses": "168",
+        "current_streak": "3 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Xtreme Gaming",
+            "opponent_img": "https://static.gosugamers.net/d6/42/cc/e1e55f9f724ae3a1b8cbb4e72435775dec96f56bb0a04390ab6eb37e02.png"
+        },
+        "players": [
+            {
+                "name": "\u5723\u5b50\u534e\u70bcGod-King-SzhL",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Somnus\u4e36M",
+                "country": "China",
+                "image": "https://static.gosugamers.net/cf/ab/ee/9b55432652c70ac693ff67c78d074ba0a11036de36c1ac2aa46ea7ca77.png"
+            },
+            {
+                "name": "Chalice",
+                "country": "China",
+                "image": "https://static.gosugamers.net/d5/8e/34/be550c6796e75afea542103e2fb3489723e12908400a837f9af8b1f176.png"
+            },
+            {
+                "name": "xNova-",
+                "country": "China",
+                "image": "https://static.gosugamers.net/5b/7f/dc/7b925db0a0f6544cf747c2ef1f3bb28cdab156557c5dd6c0ec61f464a8.png"
+            },
+            {
+                "name": "KAKA",
+                "country": "China",
+                "image": "https://static.gosugamers.net/8b/ca/c2/9952b289d0d87d0ea1e16093e97ab24e483eb7d6468e1652be2d55c62b.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "PSG.LGD",
+            "opponent_img": "https://static.gosugamers.net/08/3a/31/f5f06ad3fd5d011f961082aa22d0bfd7e56fc6cca9fa697cafa93ffb14.png"
+        }
+    },
+    {
+        "regional_ranking": "3",
+        "name": "Team Aster",
+        "rank_points": "1249",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png",
+        "prize_winning": "US$1,365,034",
+        "winrate": "54%",
+        "wins": "233",
+        "draws": "30",
+        "losses": "172",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Xtreme Gaming",
+            "opponent_img": "https://static.gosugamers.net/d6/42/cc/e1e55f9f724ae3a1b8cbb4e72435775dec96f56bb0a04390ab6eb37e02.png"
+        },
+        "players": [
+            {
+                "name": "BoBoKa",
+                "country": "China",
+                "image": "https://static.gosugamers.net/86/c0/09/5297e6f57771883b265f1fb2cff743fef86c1210e6843fdebc309d1551.png"
+            },
+            {
+                "name": "Xxs",
+                "country": "China",
+                "image": "https://static.gosugamers.net/17/58/05/167035185dce5ec4396aa4828370514184580655273df1b30eff85046a.png"
+            },
+            {
+                "name": "Monet",
+                "country": "China",
+                "image": "https://static.gosugamers.net/f4/47/69/dac815d984721173e2061857c02d604f2d91824e219ec5593a5664bf3a.png"
+            },
+            {
+                "name": "Ori",
+                "country": "China",
+                "image": "https://static.gosugamers.net/68/33/5c/5d4f71b532f96c641a599e49250484c9ee5ec56d262ad7c0b031240113.png"
+            },
+            {
+                "name": "Siamese.C",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "PSG.LGD",
+            "opponent_img": "https://static.gosugamers.net/08/3a/31/f5f06ad3fd5d011f961082aa22d0bfd7e56fc6cca9fa697cafa93ffb14.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Royal Never Give Up",
+            "opponent_img": "https://static.gosugamers.net/a4/54/d8/3eb7dba7325d67e2dbb1db9c66f9e5964d44c859dc2f3f5528a023821c.png"
+        }
+    },
+    {
+        "regional_ranking": "4",
+        "name": "Invictus Gaming",
+        "rank_points": "1203",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/c7/49/d8/f59af9e4c8464e976e5f49372af83b277abfc34cc5e671bba5bb30082b.png",
+        "prize_winning": "US$8,209,484",
+        "winrate": "57%",
+        "wins": "710",
+        "draws": "91",
+        "losses": "450",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Sparking Arrow Gaming",
+            "opponent_img": "https://static.gosugamers.net/7b/b0/c0/b3058863716d538a41b634a518a256828509d1ca727b8dac4365b23e43.png"
+        },
+        "players": [
+            {
+                "name": "Emo",
+                "country": "China",
+                "image": "https://static.gosugamers.net/35/38/67/99966ed59c1bd6281f5f0034fd342c0e35b0e4bb714c4a073f0ecbbe96.png"
+            },
+            {
+                "name": "Oli",
+                "country": "China",
+                "image": "https://static.gosugamers.net/a4/e1/45/8e8674ec3decd31c7807f46d269aa0628d61dbf370fd244110c21b3d53.png"
+            },
+            {
+                "name": "JT-",
+                "country": "China",
+                "image": "https://static.gosugamers.net/0b/67/81/6835c380255d2cd1bf5178e74027aa7eedc293967ff731016c89f00180.png"
+            },
+            {
+                "name": "flyfly",
+                "country": "China",
+                "image": "https://static.gosugamers.net/2d/3e/c2/bd1940068954573ec86095cbf9099209250312a9bb8ec8e48341414e9d.png"
+            },
+            {
+                "name": "Fade",
+                "country": "China",
+                "image": "https://static.gosugamers.net/56/d5/cb/2c1a1dfe65a4576a372893fe840550c916ebc85a5bfde61bd9cf50ec21.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Ybb Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "Aster.Aries",
+            "opponent_img": "https://static.gosugamers.net/54/fd/38/e3ee89fadcddaa1b293226a291f0f93f683a0fc8b871bd0f548f0d8585.png"
+        }
+    },
+    {
+        "regional_ranking": "5",
+        "name": "Vici Gaming",
+        "rank_points": "1195",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/a8/a6/b3/dfffcc0e88250f91c787363648812207e276e348349c7fa524f9d72ad3.png",
+        "prize_winning": "US$10,457,757",
+        "winrate": "59%",
+        "wins": "710",
+        "draws": "90",
+        "losses": "410",
+        "current_streak": "3 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "EHOME",
+            "opponent_img": "https://static.gosugamers.net/d3/a0/e8/47cf147e6d738049068c3dc026407feb43fba6b4134f1b63c772fd9ad7.png"
+        },
+        "players": [
+            {
+                "name": "Erika",
+                "country": "China",
+                "image": "https://static.gosugamers.net/5a/f0/fb/0bfd0a6d5c3cfbcefa28dd0e9e1ae7a39932b82396420bc90ae5eb9de3.png"
+            },
+            {
+                "name": "Xm",
+                "country": "China",
+                "image": "https://static.gosugamers.net/29/9e/56/b823888b28af2136a509dbb5effe8d552fbb64c88c3775cc4c509701fe.png"
+            },
+            {
+                "name": "\u8d77\u98ce\u4e86",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yds",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yang",
+                "country": "China",
+                "image": "https://static.gosugamers.net/68/80/51/b34b7d0dcf467f3d1bb30ed3b093c67540ed0940ea937503b67164edc2.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Team MagMa",
+            "opponent_img": "https://static.gosugamers.net/b8/2a/76/cbb1be016af798ef160fe2fc31ef8f86874060a4f7028c8b755fd7c1cc.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        }
+    },
+    {
+        "regional_ranking": "6",
+        "name": "EHOME",
+        "rank_points": "1176",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/d3/a0/e8/47cf147e6d738049068c3dc026407feb43fba6b4134f1b63c772fd9ad7.png",
+        "prize_winning": "US$4,010,500",
+        "winrate": "53%",
+        "wins": "433",
+        "draws": "64",
+        "losses": "325",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Vici Gaming",
+            "opponent_img": "https://static.gosugamers.net/a8/a6/b3/dfffcc0e88250f91c787363648812207e276e348349c7fa524f9d72ad3.png"
+        },
+        "players": [
+            {
+                "name": "7e",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Shiro",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "plAnet",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zzq",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "zeal",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "LBZS",
+            "opponent_img": "https://static.gosugamers.net/2f/d8/65/78ba8a297dc6e6df04dca7a07ec39db74d4873a27bfb4520d48bbf3008.png"
+        }
+    },
+    {
+        "regional_ranking": "7",
+        "name": "Xtreme Gaming",
+        "rank_points": "1150",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/d6/42/cc/e1e55f9f724ae3a1b8cbb4e72435775dec96f56bb0a04390ab6eb37e02.png",
+        "prize_winning": "US$168,081",
+        "winrate": "49%",
+        "wins": "42",
+        "draws": "1",
+        "losses": "43",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        },
+        "players": [
+            {
+                "name": "Dy",
+                "country": "China",
+                "image": "https://static.gosugamers.net/1f/da/2d/b1f8a2ac3e502a97359d277818c29a79c9f5d6140b04c4966f908647b0.png"
+            },
+            {
+                "name": "Paparazi\u706c",
+                "country": "China",
+                "image": "https://static.gosugamers.net/cd/ed/12/8e0f599e84e44f950e37f73ecf461c7cd0191331fc786ff09a9c4c078c.png"
+            },
+            {
+                "name": "Pyw",
+                "country": "China",
+                "image": "https://static.gosugamers.net/06/2c/71/028803cd61c153539c5ab5792181ddbb4152f23c28002780b7ea5fb1bb.png"
+            },
+            {
+                "name": "old eLeVeN",
+                "country": "China",
+                "image": "https://static.gosugamers.net/e1/11/ff/31bc97042a8321d53a0ecc272b56b4dd1626d99662b55aa93bc4f78d55.png"
+            },
+            {
+                "name": "lou",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Royal Never Give Up",
+            "opponent_img": "https://static.gosugamers.net/a4/54/d8/3eb7dba7325d67e2dbb1db9c66f9e5964d44c859dc2f3f5528a023821c.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "PSG.LGD",
+            "opponent_img": "https://static.gosugamers.net/08/3a/31/f5f06ad3fd5d011f961082aa22d0bfd7e56fc6cca9fa697cafa93ffb14.png"
+        }
+    },
+    {
+        "regional_ranking": "8",
+        "name": "CDEC Gaming",
+        "rank_points": "1124",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/d8/94/a5/f2e1fba0f3527bffb9fdd35778085951346e1c43160ca0b8f2827be264.png",
+        "prize_winning": "US$3,680,759",
+        "winrate": "50%",
+        "wins": "401",
+        "draws": "59",
+        "losses": "348",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        },
+        "players": [
+            {
+                "name": "Once.",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Beyond",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mks-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "IGNIS",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "omoxiloyi",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "R",
+            "opponent_img": "https://static.gosugamers.net/3a/f0/df/4b2912b0248c1a98dbf0d4ec479176a9e30109a50ba1a821b6b5538f9f.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Crocodile",
+            "opponent_img": "https://static.gosugamers.net/db/ac/a4/30aca77e0da062d3000de48901bb97dba68d4b04f732f08c1df9a111fb.png"
+        }
+    },
+    {
+        "regional_ranking": "9",
+        "name": "Team MagMa",
+        "rank_points": "1069",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/b8/2a/76/cbb1be016af798ef160fe2fc31ef8f86874060a4f7028c8b755fd7c1cc.png",
+        "prize_winning": "US$150,887",
+        "winrate": "41%",
+        "wins": "72",
+        "draws": "18",
+        "losses": "87",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "LBZS",
+            "opponent_img": "https://static.gosugamers.net/2f/d8/65/78ba8a297dc6e6df04dca7a07ec39db74d4873a27bfb4520d48bbf3008.png"
+        },
+        "players": [
+            {
+                "name": "KazZ",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Tzy\u4e36NJ",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "mianmian",
+                "country": "China",
+                "image": "https://static.gosugamers.net/b4/6e/55/0a38dbfa4416b057ac22c6a533edc8bdb1aeb775eab92137f7702837c8.png"
+            },
+            {
+                "name": "Dust",
+                "country": "China",
+                "image": "https://static.gosugamers.net/98/9a/e4/541c5fcb7d16bbcf34a527116b158da142c5eb688960a13018a950f763.png"
+            },
+            {
+                "name": "\u767d\u4e5f",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Vici Gaming",
+            "opponent_img": "https://static.gosugamers.net/a8/a6/b3/dfffcc0e88250f91c787363648812207e276e348349c7fa524f9d72ad3.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team Aster",
+            "opponent_img": "https://static.gosugamers.net/32/84/f1/39dbd744b872b3a8b37681d572de3ff306710cd1fbabee68d0379c4ae3.png"
+        }
+    },
+    {
+        "regional_ranking": "10",
+        "name": "Esport Club",
+        "rank_points": "1043",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/53/92/6d/9a4fe0d9e5a9bee92b0541c39f8f87a208bdba3dd4ecb0c2c9fcbfa0df.png",
+        "prize_winning": "\u2013",
+        "winrate": "100%",
+        "wins": "10",
+        "draws": "0",
+        "losses": "0",
+        "current_streak": "10 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Sparking Arrow Gaming",
+            "opponent_img": "https://static.gosugamers.net/7b/b0/c0/b3058863716d538a41b634a518a256828509d1ca727b8dac4365b23e43.png"
+        },
+        "players": [
+            {
+                "name": "shylock",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u5929\u547d - TianMing",
+                "country": "China",
+                "image": "https://static.gosugamers.net/28/f4/7c/bab0b8067494f3ba4c5acd4da8ae4cbf2ebd02f7dbc6817a3978762387.png"
+            },
+            {
+                "name": "SJ",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Beyond",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "zc",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "ShenZhen",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "11",
+        "name": "LBZS",
+        "rank_points": "1041",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/2f/d8/65/78ba8a297dc6e6df04dca7a07ec39db74d4873a27bfb4520d48bbf3008.png",
+        "prize_winning": "US$131,767",
+        "winrate": "48%",
+        "wins": "109",
+        "draws": "36",
+        "losses": "82",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Team MagMa",
+            "opponent_img": "https://static.gosugamers.net/b8/2a/76/cbb1be016af798ef160fe2fc31ef8f86874060a4f7028c8b755fd7c1cc.png"
+        },
+        "players": [
+            {
+                "name": "CatYou",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "detachment",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Kagome",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "pyue",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Molasses",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "EHOME",
+            "opponent_img": "https://static.gosugamers.net/d3/a0/e8/47cf147e6d738049068c3dc026407feb43fba6b4134f1b63c772fd9ad7.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "PSG.LGD",
+            "opponent_img": "https://static.gosugamers.net/08/3a/31/f5f06ad3fd5d011f961082aa22d0bfd7e56fc6cca9fa697cafa93ffb14.png"
+        }
+    },
+    {
+        "regional_ranking": "12",
+        "name": "Aster.Aries",
+        "rank_points": "1017",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/54/fd/38/e3ee89fadcddaa1b293226a291f0f93f683a0fc8b871bd0f548f0d8585.png",
+        "prize_winning": "US$54,035",
+        "winrate": "38%",
+        "wins": "97",
+        "draws": "34",
+        "losses": "125",
+        "current_streak": "6 wins in a row",
+        "recent_match_1": {
+            "result": "2 : 0",
+            "opponent": "Sparking Arrow Gaming",
+            "opponent_img": "https://static.gosugamers.net/7b/b0/c0/b3058863716d538a41b634a518a256828509d1ca727b8dac4365b23e43.png"
+        },
+        "players": [
+            {
+                "name": "phoenix",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u751f\u6b7b",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yoona",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "ULU",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "baku",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Invictus Gaming",
+            "opponent_img": "https://static.gosugamers.net/c7/49/d8/f59af9e4c8464e976e5f49372af83b277abfc34cc5e671bba5bb30082b.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Phoenix Gaming",
+            "opponent_img": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png"
+        }
+    },
+    {
+        "regional_ranking": "13",
+        "name": "Forest",
+        "rank_points": "1013",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$31,413",
+        "winrate": "44%",
+        "wins": "38",
+        "draws": "12",
+        "losses": "36",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Team Scorpion",
+            "opponent_img": "https://static.gosugamers.net/0e/a6/e6/8cca5be9d3ca26b17579076bb129eed0337c844721b6c534724e01d7ed.jpg"
+        },
+        "players": [
+            {
+                "name": "Kygo",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Veng",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yogi",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "JoHnNy",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/f1/2f/8b/a203c50d701528c93e681655e1623c9e3b17fc5605ab4e91addb0d4022.jpeg"
+            },
+            {
+                "name": "aaa",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "496 Gaming",
+            "opponent_img": "https://static.gosugamers.net/dc/e6/61/349f81a1bd2497f0e9ff9e68c203c2e5c91ccee35d1e9d5211310d3754.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        }
+    },
+    {
+        "regional_ranking": "14",
+        "name": "Team Violet",
+        "rank_points": "1010",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/df/c6/aa/1bab54a52595df8b5fbf957df09cde5de10fdb7f229e49c71e6fd48263.png",
+        "prize_winning": "US$7,500",
+        "winrate": "37%",
+        "wins": "16",
+        "draws": "13",
+        "losses": "14",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "1 : 3",
+            "opponent": "Talon Esports",
+            "opponent_img": "https://static.gosugamers.net/24/55/2f/ed814e390bb684d9b44a1bb1f9e2223342b0d9b459be3cdad25c2eedf2.png"
+        },
+        "players": [
+            {
+                "name": "Unknown-",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "guoguo",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yChen",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "NeverMine",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "HuiHui",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 1",
+            "opponent": "Phoenix Gaming",
+            "opponent_img": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Tiger God",
+            "opponent_img": "https://static.gosugamers.net/3a/06/19/93d2b71a6b0be332d621bfa409e60e892aaa06cfc3b1f85b4801b2312e.png"
+        }
+    },
+    {
+        "regional_ranking": "15",
+        "name": "Sparking Arrow Gaming",
+        "rank_points": "1008",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/7b/b0/c0/b3058863716d538a41b634a518a256828509d1ca727b8dac4365b23e43.png",
+        "prize_winning": "US$228,757",
+        "winrate": "48%",
+        "wins": "109",
+        "draws": "10",
+        "losses": "108",
+        "current_streak": "4 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Invictus Gaming",
+            "opponent_img": "https://static.gosugamers.net/c7/49/d8/f59af9e4c8464e976e5f49372af83b277abfc34cc5e671bba5bb30082b.png"
+        },
+        "players": [
+            {
+                "name": "XCJ",
+                "country": "China",
+                "image": "https://static.gosugamers.net/ab/50/5d/586ef4f64679babf4982abc55bd86ee4010cdab7ac78e065d58625958d.jpeg"
+            },
+            {
+                "name": "Dstones",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Son Goku",
+                "country": "China",
+                "image": "https://static.gosugamers.net/93/d0/eb/1b4ade3a03f81a90d2963d13d6fb2c95cdbd694282cb440e54ce1abd2e.jpeg"
+            },
+            {
+                "name": "Ms",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Flyby",
+                "country": "China",
+                "image": "https://static.gosugamers.net/a0/74/db/931b8f68d0961048c2986388bb0bca24535835293226741da62cf28051.png"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Dandelion Esport Club",
+            "opponent_img": "https://static.gosugamers.net/53/92/6d/9a4fe0d9e5a9bee92b0541c39f8f87a208bdba3dd4ecb0c2c9fcbfa0df.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Aster.Aries",
+            "opponent_img": "https://static.gosugamers.net/54/fd/38/e3ee89fadcddaa1b293226a291f0f93f683a0fc8b871bd0f548f0d8585.png"
+        }
+    },
+    {
+        "regional_ranking": "16",
+        "name": "Mars",
+        "rank_points": "1004",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/82/95/63/27376a666f0fa200fcdf4bdc68c4e322731b473ccb60b99c7d687b3df1.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "44%",
+        "wins": "7",
+        "draws": "4",
+        "losses": "5",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "Summit Gaming",
+            "opponent_img": "https://static.gosugamers.net/c2/58/9d/129f79fa3166210c8a9104116b6af171c18260c6c2d4038d62e4dadf0e.png"
+        },
+        "players": [
+            {
+                "name": "clood",
+                "country": "Malaysia",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lost",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ryuki",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Destino`",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Hy",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Motivate.Trust Gaming",
+            "opponent_img": "https://static.gosugamers.net/25/92/88/35b194460608d988d9106f61d78d68cbcca742380f4d1e56df174ddefe.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Team Renewal",
+            "opponent_img": "https://static.gosugamers.net/06/b7/e9/f89627741a8dec6848ee20c885cd92c19017cd6154d048249d68d20374.png"
+        }
+    },
+    {
+        "regional_ranking": "17",
+        "name": "Rice Field",
+        "rank_points": "997",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/fa/85/d9/36211d52b3e45140679a6aeae269375966b06c2ac527a2c30c96e962b8.png",
+        "prize_winning": "\u2013",
+        "winrate": "33%",
+        "wins": "1",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Ar",
+            "opponent_img": "https://static.gosugamers.net/3a/8c/8a/46a138e7e4d4f6d745407e5f2b9f1276e0a867e23fedcba861562f6ac3.png"
+        },
+        "players": [
+            {
+                "name": "clood",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lost",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ryuki",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Destino`",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "76561198094151203",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 2",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Summit Gaming",
+            "opponent_img": "https://static.gosugamers.net/c2/58/9d/129f79fa3166210c8a9104116b6af171c18260c6c2d4038d62e4dadf0e.png"
+        }
+    },
+    {
+        "regional_ranking": "18",
+        "name": "Red Flower",
+        "rank_points": "995",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/3a/f0/df/4b2912b0248c1a98dbf0d4ec479176a9e30109a50ba1a821b6b5538f9f.png",
+        "prize_winning": "US$3,500",
+        "winrate": "39%",
+        "wins": "15",
+        "draws": "6",
+        "losses": "17",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Patriots",
+            "opponent_img": "https://static.gosugamers.net/e6/ff/5e/98a239ba7610d11487f35e0d36f3182d4b2708fbf2dd48a18ba5789e8e.png"
+        },
+        "players": [
+            {
+                "name": "idc",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Django",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Meliodas",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u5468\u54a9",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u51ac\u51ac",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 1",
+            "opponent": "The Apes e-sport",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Team Renewal",
+            "opponent_img": "https://static.gosugamers.net/06/b7/e9/f89627741a8dec6848ee20c885cd92c19017cd6154d048249d68d20374.png"
+        }
+    },
+    {
+        "regional_ranking": "19",
+        "name": "\u4eba\u751f\u6709\u68a6",
+        "rank_points": "994",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Light Gaming",
+            "opponent_img": "https://static.gosugamers.net/e3/4e/eb/e41bce04b583bb066893d41fe9115b47cf2acaaac03b1ea3c5e3a1723e.jpg"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "IG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "20",
+        "name": "\u4e0d\u5e38\u6765Dota",
+        "rank_points": "994",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "0%",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Crocodile",
+            "opponent_img": "https://static.gosugamers.net/db/ac/a4/30aca77e0da062d3000de48901bb97dba68d4b04f732f08c1df9a111fb.png"
+        },
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Dandelion Esports Club",
+            "opponent_img": "https://static.gosugamers.net/53/92/6d/9a4fe0d9e5a9bee92b0541c39f8f87a208bdba3dd4ecb0c2c9fcbfa0df.png"
+        },
+        "players": []
+    },
+    {
+        "regional_ranking": "21",
+        "name": "Light Gaming",
+        "rank_points": "991",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/e3/4e/eb/e41bce04b583bb066893d41fe9115b47cf2acaaac03b1ea3c5e3a1723e.jpg",
+        "prize_winning": "\u2013",
+        "winrate": "29%",
+        "wins": "5",
+        "draws": "2",
+        "losses": "10",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Patriots",
+            "opponent_img": "https://static.gosugamers.net/e6/ff/5e/98a239ba7610d11487f35e0d36f3182d4b2708fbf2dd48a18ba5789e8e.png"
+        },
+        "players": [
+            {
+                "name": "SkyingOcean",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u65f6\u4e5f\u547d\u4e5f",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u4e03\u6d77 \u706f\u5b50",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Tz",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "wuyi",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Iron Talon",
+            "opponent_img": "https://static.gosugamers.net/b3/c7/00/d49335ee3d24585e1b88310ae36f578cf0144a934be96f834997876f36.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "Eternal",
+            "opponent_img": "https://static.gosugamers.net/58/54/7b/ec954621da20038a13fb0ef07d2f2aadc0dc06d48fa9ba2cfbcab1c9c6.png"
+        }
+    },
+    {
+        "regional_ranking": "22",
+        "name": "Team Scorpion",
+        "rank_points": "990",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/0e/a6/e6/8cca5be9d3ca26b17579076bb129eed0337c844721b6c534724e01d7ed.jpg",
+        "prize_winning": "US$5,725",
+        "winrate": "35%",
+        "wins": "39",
+        "draws": "22",
+        "losses": "52",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Neon esports",
+            "opponent_img": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png"
+        },
+        "players": [
+            {
+                "name": "\u6a58\u91cc",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Sakata",
+                "country": "China",
+                "image": "https://static.gosugamers.net/76/27/3b/5f4e9b186b8f1ad3d6727765565e38bee8a2f4b1ea8dd1aca6b55fc853.jpeg"
+            },
+            {
+                "name": "Hush",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u52a3\u52bf\u8def\u731b\u7537",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Docres",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "LBZS",
+            "opponent_img": "https://static.gosugamers.net/2f/d8/65/78ba8a297dc6e6df04dca7a07ec39db74d4873a27bfb4520d48bbf3008.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 1",
+            "opponent": "Neon esports",
+            "opponent_img": "https://static.gosugamers.net/9f/96/0b/374f2c8fe775c38080f3d8bbe46a04e8047d6c16424895424b04c41bef.png"
+        }
+    },
+    {
+        "regional_ranking": "23",
+        "name": "Phoenix Gaming",
+        "rank_points": "989",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png",
+        "prize_winning": "US$93,773",
+        "winrate": "42%",
+        "wins": "67",
+        "draws": "24",
+        "losses": "67",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Ybb Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "players": [
+            {
+                "name": "M77",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Shining",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yp",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lww",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Zone-",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 0",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "ShenZhen",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    },
+    {
+        "regional_ranking": "24",
+        "name": "Crocodile",
+        "rank_points": "988",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/db/ac/a4/30aca77e0da062d3000de48901bb97dba68d4b04f732f08c1df9a111fb.png",
+        "prize_winning": "\u2013",
+        "winrate": "29%",
+        "wins": "9",
+        "draws": "5",
+        "losses": "17",
+        "current_streak": "1 loss in a row",
+        "recent_match_1": {
+            "result": "0 : 2",
+            "opponent": "Iron Talon",
+            "opponent_img": "https://static.gosugamers.net/b3/c7/00/d49335ee3d24585e1b88310ae36f578cf0144a934be96f834997876f36.png"
+        },
+        "players": [
+            {
+                "name": "Fonte",
+                "country": "China",
+                "image": "https://static.gosugamers.net/a7/75/4f/7a50860859a7b37fed43a0010eba62fd73674dc6e6690989a44ab122e8.png"
+            },
+            {
+                "name": "guoguo",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "yChen",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "xiaofu",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Eren",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "M Y",
+            "opponent_img": "https://static.gosugamers.net/b9/87/13/ffbd45465e4b8a4b2facb17fc829f9d0ccb12c526383e05b17cad9e977.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "496 Gaming",
+            "opponent_img": "https://static.gosugamers.net/dc/e6/61/349f81a1bd2497f0e9ff9e68c203c2e5c91ccee35d1e9d5211310d3754.png"
+        }
+    },
+    {
+        "regional_ranking": "25",
+        "name": "Ybb Gaming",
+        "rank_points": "988",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$8,000",
+        "winrate": "40%",
+        "wins": "14",
+        "draws": "7",
+        "losses": "14",
+        "current_streak": "2 wins in a row",
+        "recent_match_1": {
+            "result": "1 : 0",
+            "opponent": "Phoenix Gaming",
+            "opponent_img": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png"
+        },
+        "players": [
+            {
+                "name": "TBD",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Storm",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "AYuNiD",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "928",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "\u51e4\u6816\u68a7",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "1 : 0",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        },
+        "recent_match_3": {
+            "result": "1 : 2",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        }
+    },
+    {
+        "regional_ranking": "26",
+        "name": "ShenZhen",
+        "rank_points": "987",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg",
+        "prize_winning": "US$27,346",
+        "winrate": "49%",
+        "wins": "18",
+        "draws": "2",
+        "losses": "17",
+        "current_streak": "1 win in a row",
+        "recent_match_1": {
+            "result": "2 : 1",
+            "opponent": "Phoenix Gaming",
+            "opponent_img": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png"
+        },
+        "players": [
+            {
+                "name": "Wait",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "AAHard",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Meliodas",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Gemie",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Ash",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Dandelion Esport Club",
+            "opponent_img": "https://static.gosugamers.net/53/92/6d/9a4fe0d9e5a9bee92b0541c39f8f87a208bdba3dd4ecb0c2c9fcbfa0df.png"
+        },
+        "recent_match_3": {
+            "result": "2 : 0",
+            "opponent": "iG Vitality",
+            "opponent_img": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png"
+        }
+    },
+    {
+        "regional_ranking": "27",
+        "name": "Neptune Gaming",
+        "rank_points": "985",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/a4/e6/a8/dd1a90b886fe9f36b3c1c6b09347d4c3b480c62831b1ee23c27c72cbef.png",
+        "prize_winning": "US$1,000",
+        "winrate": "37%",
+        "wins": "10",
+        "draws": "5",
+        "losses": "12",
+        "current_streak": "0 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 1",
+            "opponent": "KOBOLDS",
+            "opponent_img": "https://static.gosugamers.net/ea/c7/ca/dbdf8bd7744df9cefe46fcd7085e2f620fa2f35ff119d63dd057c814b0.png"
+        },
+        "players": [
+            {
+                "name": "yChen",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "guoguo",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Fonte",
+                "country": "China",
+                "image": "https://static.gosugamers.net/a7/75/4f/7a50860859a7b37fed43a0010eba62fd73674dc6e6690989a44ab122e8.png"
+            },
+            {
+                "name": "Dolme(old)",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "HuiHui",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "2 : 0",
+            "opponent": "Cookie",
+            "opponent_img": "https://static.gosugamers.net/c0/59/07/40b03221651d9843ed07ebf995d9f622209233ba82e9aebc0d83057509.png"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Yangon Galacticos",
+            "opponent_img": "https://static.gosugamers.net/c6/e2/95/c43abb1e183422ec42acbda70507049c18803b60b93b6cc2e364e5ac66.png"
+        }
+    },
+    {
+        "regional_ranking": "28",
+        "name": "Team Pirates",
+        "rank_points": "978",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/54/17/3e/b759ff938c3475895fe502338b9b0d69a5a528fa2392972191ddefb451.png",
+        "prize_winning": "US$1,725",
+        "winrate": "15%",
+        "wins": "6",
+        "draws": "13",
+        "losses": "20",
+        "current_streak": "5 losses in a row",
+        "recent_match_1": {
+            "result": "1 : 2",
+            "opponent": "Kinkalow",
+            "opponent_img": "https://static.gosugamers.net/42/c2/58/0156bbc2e7e6e2099b764ad79a8b357e42ba00a89ecf654b886a73c4d4.png"
+        },
+        "players": [
+            {
+                "name": "Fonte",
+                "country": "China",
+                "image": "https://static.gosugamers.net/a7/75/4f/7a50860859a7b37fed43a0010eba62fd73674dc6e6690989a44ab122e8.png"
+            },
+            {
+                "name": "EX",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Lire",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Yyh_",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Meliodas",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 2",
+            "opponent": "Apex",
+            "opponent_img": "https://static.gosugamers.net/c4/1c/f4/541d529c37655bb960b45e8e0e177e749882ab59850b5af39416867f5b.jpg"
+        },
+        "recent_match_3": {
+            "result": "0 : 2",
+            "opponent": "Team Scorpion",
+            "opponent_img": "https://static.gosugamers.net/0e/a6/e6/8cca5be9d3ca26b17579076bb129eed0337c844721b6c534724e01d7ed.jpg"
+        }
+    },
+    {
+        "regional_ranking": "29",
+        "name": "iG Vitality",
+        "rank_points": "978",
+        "country": "China",
+        "logo": "https://static.gosugamers.net/b3/f7/10/d999c9bb0949129f23b3cfb71f52fdac6c4e843d06f8756c85437bb6af.png",
+        "prize_winning": "US$1,121,523",
+        "winrate": "41%",
+        "wins": "317",
+        "draws": "109",
+        "losses": "346",
+        "current_streak": "2 losses in a row",
+        "recent_match_1": {
+            "result": "0 : 1",
+            "opponent": "Phoenix Gaming",
+            "opponent_img": "https://static.gosugamers.net/7e/cf/f1/b1e0c44a74e37c1fc1aa69da05f4e7792c7cde13498a5aeb29b152fbf4.png"
+        },
+        "players": [
+            {
+                "name": "Dust",
+                "country": "China",
+                "image": "https://static.gosugamers.net/98/9a/e4/541c5fcb7d16bbcf34a527116b158da142c5eb688960a13018a950f763.png"
+            },
+            {
+                "name": "ButterflyEffect",
+                "country": "China",
+                "image": "https://static.gosugamers.net/c1/27/81/62c248124c9f530ff13be90d49ab77ab37e354c501f2c5eb730af26ff9.png"
+            },
+            {
+                "name": "doodle",
+                "country": "China",
+                "image": "https://static.gosugamers.net/e8/23/a7/864d67a0eda7eb3e5561575da69f3b8119148c05a3da58fd8a7a652615.jpeg"
+            },
+            {
+                "name": "QYQX",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            },
+            {
+                "name": "Last.cn",
+                "country": "China",
+                "image": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+            }
+        ],
+        "recent_match_2": {
+            "result": "0 : 1",
+            "opponent": "Ybb Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        },
+        "recent_match_3": {
+            "result": "2 : 1",
+            "opponent": "Ybb Gaming",
+            "opponent_img": "https://static.gosugamers.net/07/d9/d0/b63edb6b283f2c450e1fb650255dd2ff06d7bd856b2c89d08c102b668d.jpg"
+        }
+    }
+]

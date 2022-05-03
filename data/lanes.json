@@ -1,0 +1,2972 @@
+[
+    {
+        "hero_name": "Abaddon",
+        "lane": "Off Lane",
+        "presence": "59.36%",
+        "winrate": "54.64%",
+        "kda": "3.01",
+        "gpm": "388",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Abaddon",
+        "lane": "Safe Lane",
+        "presence": "34.45%",
+        "winrate": "53.06%",
+        "kda": "2.81",
+        "gpm": "331",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Alchemist",
+        "lane": "Mid Lane",
+        "presence": "50.47%",
+        "winrate": "51.57%",
+        "kda": "2.93",
+        "gpm": "769",
+        "xpm": "652"
+    },
+    {
+        "hero_name": "Alchemist",
+        "lane": "Safe Lane",
+        "presence": "28.75%",
+        "winrate": "45.44%",
+        "kda": "2.46",
+        "gpm": "711",
+        "xpm": "652"
+    },
+    {
+        "hero_name": "Alchemist",
+        "lane": "Off Lane",
+        "presence": "10.40%",
+        "winrate": "43.23%",
+        "kda": "1.93",
+        "gpm": "594",
+        "xpm": "652"
+    },
+    {
+        "hero_name": "Ancient Apparition",
+        "lane": "Safe Lane",
+        "presence": "67.47%",
+        "winrate": "51.56%",
+        "kda": "2.67",
+        "gpm": "317",
+        "xpm": "421"
+    },
+    {
+        "hero_name": "Ancient Apparition",
+        "lane": "Off Lane",
+        "presence": "23.39%",
+        "winrate": "52.26%",
+        "kda": "2.73",
+        "gpm": "326",
+        "xpm": "421"
+    },
+    {
+        "hero_name": "Ancient Apparition",
+        "lane": "Mid Lane",
+        "presence": "5.04%",
+        "winrate": "48.67%",
+        "kda": "3.11",
+        "gpm": "406",
+        "xpm": "421"
+    },
+    {
+        "hero_name": "Anti-Mage",
+        "lane": "Safe Lane",
+        "presence": "89.86%",
+        "winrate": "49.35%",
+        "kda": "3.14",
+        "gpm": "614",
+        "xpm": "681"
+    },
+    {
+        "hero_name": "Anti-Mage",
+        "lane": "Off Lane",
+        "presence": "5.29%",
+        "winrate": "43.62%",
+        "kda": "2.23",
+        "gpm": "509",
+        "xpm": "681"
+    },
+    {
+        "hero_name": "Arc Warden",
+        "lane": "Mid Lane",
+        "presence": "64.45%",
+        "winrate": "52.37%",
+        "kda": "3.27",
+        "gpm": "658",
+        "xpm": "667"
+    },
+    {
+        "hero_name": "Arc Warden",
+        "lane": "Safe Lane",
+        "presence": "25.48%",
+        "winrate": "46.41%",
+        "kda": "2.87",
+        "gpm": "623",
+        "xpm": "667"
+    },
+    {
+        "hero_name": "Arc Warden",
+        "lane": "Off Lane",
+        "presence": "8.51%",
+        "winrate": "43.12%",
+        "kda": "2.14",
+        "gpm": "485",
+        "xpm": "667"
+    },
+    {
+        "hero_name": "Axe",
+        "lane": "Off Lane",
+        "presence": "70.93%",
+        "winrate": "52.32%",
+        "kda": "2.42",
+        "gpm": "438",
+        "xpm": "559"
+    },
+    {
+        "hero_name": "Axe",
+        "lane": "Jungle",
+        "presence": "19.42%",
+        "winrate": "49.87%",
+        "kda": "2.43",
+        "gpm": "426",
+        "xpm": "559"
+    },
+    {
+        "hero_name": "Bane",
+        "lane": "Safe Lane",
+        "presence": "68.24%",
+        "winrate": "50.16%",
+        "kda": "2.2",
+        "gpm": "277",
+        "xpm": "422"
+    },
+    {
+        "hero_name": "Bane",
+        "lane": "Off Lane",
+        "presence": "21.02%",
+        "winrate": "48.78%",
+        "kda": "2.26",
+        "gpm": "285",
+        "xpm": "422"
+    },
+    {
+        "hero_name": "Bane",
+        "lane": "Mid Lane",
+        "presence": "5.01%",
+        "winrate": "47.36%",
+        "kda": "2.42",
+        "gpm": "313",
+        "xpm": "422"
+    },
+    {
+        "hero_name": "Batrider",
+        "lane": "Off Lane",
+        "presence": "55.12%",
+        "winrate": "44.49%",
+        "kda": "2.53",
+        "gpm": "364",
+        "xpm": "479"
+    },
+    {
+        "hero_name": "Batrider",
+        "lane": "Mid Lane",
+        "presence": "26.36%",
+        "winrate": "48.55%",
+        "kda": "3.39",
+        "gpm": "464",
+        "xpm": "479"
+    },
+    {
+        "hero_name": "Batrider",
+        "lane": "Safe Lane",
+        "presence": "11.43%",
+        "winrate": "44.24%",
+        "kda": "2.24",
+        "gpm": "332",
+        "xpm": "479"
+    },
+    {
+        "hero_name": "Beastmaster",
+        "lane": "Off Lane",
+        "presence": "76.75%",
+        "winrate": "50.84%",
+        "kda": "2.44",
+        "gpm": "410",
+        "xpm": "518"
+    },
+    {
+        "hero_name": "Beastmaster",
+        "lane": "Jungle",
+        "presence": "8.59%",
+        "winrate": "47.80%",
+        "kda": "2.31",
+        "gpm": "407",
+        "xpm": "518"
+    },
+    {
+        "hero_name": "Beastmaster",
+        "lane": "Safe Lane",
+        "presence": "6.64%",
+        "winrate": "44.35%",
+        "kda": "2.08",
+        "gpm": "369",
+        "xpm": "518"
+    },
+    {
+        "hero_name": "Bloodseeker",
+        "lane": "Jungle",
+        "presence": "30.48%",
+        "winrate": "51.42%",
+        "kda": "2.72",
+        "gpm": "488",
+        "xpm": "556"
+    },
+    {
+        "hero_name": "Bloodseeker",
+        "lane": "Safe Lane",
+        "presence": "29.75%",
+        "winrate": "51.85%",
+        "kda": "3.07",
+        "gpm": "523",
+        "xpm": "556"
+    },
+    {
+        "hero_name": "Bloodseeker",
+        "lane": "Off Lane",
+        "presence": "18.99%",
+        "winrate": "52.21%",
+        "kda": "2.59",
+        "gpm": "457",
+        "xpm": "556"
+    },
+    {
+        "hero_name": "Bounty Hunter",
+        "lane": "Off Lane",
+        "presence": "50.83%",
+        "winrate": "50.47%",
+        "kda": "2.64",
+        "gpm": "434",
+        "xpm": "484"
+    },
+    {
+        "hero_name": "Bounty Hunter",
+        "lane": "Mid Lane",
+        "presence": "17.28%",
+        "winrate": "52.25%",
+        "kda": "2.91",
+        "gpm": "426",
+        "xpm": "484"
+    },
+    {
+        "hero_name": "Bounty Hunter",
+        "lane": "Safe Lane",
+        "presence": "16.41%",
+        "winrate": "46.92%",
+        "kda": "2.59",
+        "gpm": "426",
+        "xpm": "484"
+    },
+    {
+        "hero_name": "Brewmaster",
+        "lane": "Off Lane",
+        "presence": "75.51%",
+        "winrate": "51.34%",
+        "kda": "3.05",
+        "gpm": "414",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Brewmaster",
+        "lane": "Mid Lane",
+        "presence": "11.72%",
+        "winrate": "50.11%",
+        "kda": "3.35",
+        "gpm": "445",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Brewmaster",
+        "lane": "Safe Lane",
+        "presence": "9.94%",
+        "winrate": "46.29%",
+        "kda": "2.69",
+        "gpm": "399",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Bristleback",
+        "lane": "Off Lane",
+        "presence": "85.57%",
+        "winrate": "49.97%",
+        "kda": "2.55",
+        "gpm": "439",
+        "xpm": "558"
+    },
+    {
+        "hero_name": "Bristleback",
+        "lane": "Safe Lane",
+        "presence": "8.89%",
+        "winrate": "46.44%",
+        "kda": "2.63",
+        "gpm": "445",
+        "xpm": "558"
+    },
+    {
+        "hero_name": "Broodmother",
+        "lane": "Mid Lane",
+        "presence": "44.63%",
+        "winrate": "53.65%",
+        "kda": "3.01",
+        "gpm": "562",
+        "xpm": "710"
+    },
+    {
+        "hero_name": "Broodmother",
+        "lane": "Off Lane",
+        "presence": "44.62%",
+        "winrate": "43.28%",
+        "kda": "1.79",
+        "gpm": "449",
+        "xpm": "710"
+    },
+    {
+        "hero_name": "Broodmother",
+        "lane": "Safe Lane",
+        "presence": "6.51%",
+        "winrate": "36.25%",
+        "kda": "1.6",
+        "gpm": "417",
+        "xpm": "710"
+    },
+    {
+        "hero_name": "Centaur Warrunner",
+        "lane": "Off Lane",
+        "presence": "89.36%",
+        "winrate": "52.80%",
+        "kda": "2.8",
+        "gpm": "426",
+        "xpm": "536"
+    },
+    {
+        "hero_name": "Centaur Warrunner",
+        "lane": "Safe Lane",
+        "presence": "5.78%",
+        "winrate": "49.30%",
+        "kda": "2.6",
+        "gpm": "408",
+        "xpm": "536"
+    },
+    {
+        "hero_name": "Chaos Knight",
+        "lane": "Safe Lane",
+        "presence": "54.64%",
+        "winrate": "53.07%",
+        "kda": "3.04",
+        "gpm": "503",
+        "xpm": "588"
+    },
+    {
+        "hero_name": "Chaos Knight",
+        "lane": "Off Lane",
+        "presence": "39.57%",
+        "winrate": "52.57%",
+        "kda": "2.53",
+        "gpm": "456",
+        "xpm": "588"
+    },
+    {
+        "hero_name": "Chen",
+        "lane": "Jungle",
+        "presence": "35.39%",
+        "winrate": "46.45%",
+        "kda": "2.41",
+        "gpm": "327",
+        "xpm": "353"
+    },
+    {
+        "hero_name": "Chen",
+        "lane": "Safe Lane",
+        "presence": "34.26%",
+        "winrate": "48.98%",
+        "kda": "2.5",
+        "gpm": "293",
+        "xpm": "353"
+    },
+    {
+        "hero_name": "Chen",
+        "lane": "Off Lane",
+        "presence": "21.12%",
+        "winrate": "50.43%",
+        "kda": "2.55",
+        "gpm": "310",
+        "xpm": "353"
+    },
+    {
+        "hero_name": "Clinkz",
+        "lane": "Safe Lane",
+        "presence": "40.71%",
+        "winrate": "50.54%",
+        "kda": "3.1",
+        "gpm": "521",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Clinkz",
+        "lane": "Mid Lane",
+        "presence": "36.01%",
+        "winrate": "53.67%",
+        "kda": "3.31",
+        "gpm": "517",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Clinkz",
+        "lane": "Off Lane",
+        "presence": "21.84%",
+        "winrate": "48.06%",
+        "kda": "2.38",
+        "gpm": "436",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Clockwerk",
+        "lane": "Off Lane",
+        "presence": "79.75%",
+        "winrate": "50.89%",
+        "kda": "2.71",
+        "gpm": "353",
+        "xpm": "461"
+    },
+    {
+        "hero_name": "Clockwerk",
+        "lane": "Safe Lane",
+        "presence": "9.96%",
+        "winrate": "49.39%",
+        "kda": "2.43",
+        "gpm": "324",
+        "xpm": "461"
+    },
+    {
+        "hero_name": "Crystal Maiden",
+        "lane": "Safe Lane",
+        "presence": "71.57%",
+        "winrate": "52.61%",
+        "kda": "2.11",
+        "gpm": "312",
+        "xpm": "425"
+    },
+    {
+        "hero_name": "Crystal Maiden",
+        "lane": "Off Lane",
+        "presence": "15.61%",
+        "winrate": "52.58%",
+        "kda": "2.12",
+        "gpm": "318",
+        "xpm": "425"
+    },
+    {
+        "hero_name": "Crystal Maiden",
+        "lane": "Jungle",
+        "presence": "7.42%",
+        "winrate": "51.87%",
+        "kda": "2.24",
+        "gpm": "340",
+        "xpm": "425"
+    },
+    {
+        "hero_name": "Dark Seer",
+        "lane": "Off Lane",
+        "presence": "85.12%",
+        "winrate": "51.45%",
+        "kda": "3.03",
+        "gpm": "424",
+        "xpm": "498"
+    },
+    {
+        "hero_name": "Dark Seer",
+        "lane": "Safe Lane",
+        "presence": "7.09%",
+        "winrate": "47.09%",
+        "kda": "2.58",
+        "gpm": "378",
+        "xpm": "498"
+    },
+    {
+        "hero_name": "Dark Willow",
+        "lane": "Off Lane",
+        "presence": "44.47%",
+        "winrate": "50.74%",
+        "kda": "2.5",
+        "gpm": "329",
+        "xpm": "491"
+    },
+    {
+        "hero_name": "Dark Willow",
+        "lane": "Safe Lane",
+        "presence": "42.69%",
+        "winrate": "49.63%",
+        "kda": "2.34",
+        "gpm": "314",
+        "xpm": "491"
+    },
+    {
+        "hero_name": "Dark Willow",
+        "lane": "Mid Lane",
+        "presence": "7.72%",
+        "winrate": "49.54%",
+        "kda": "3.0",
+        "gpm": "460",
+        "xpm": "491"
+    },
+    {
+        "hero_name": "Dawnbreaker",
+        "lane": "Off Lane",
+        "presence": "76.85%",
+        "winrate": "50.41%",
+        "kda": "3.01",
+        "gpm": "439",
+        "xpm": "582"
+    },
+    {
+        "hero_name": "Dawnbreaker",
+        "lane": "Safe Lane",
+        "presence": "13.66%",
+        "winrate": "49.25%",
+        "kda": "2.66",
+        "gpm": "390",
+        "xpm": "582"
+    },
+    {
+        "hero_name": "Dawnbreaker",
+        "lane": "Mid Lane",
+        "presence": "7.22%",
+        "winrate": "49.83%",
+        "kda": "3.67",
+        "gpm": "517",
+        "xpm": "582"
+    },
+    {
+        "hero_name": "Dazzle",
+        "lane": "Safe Lane",
+        "presence": "69.91%",
+        "winrate": "52.30%",
+        "kda": "2.26",
+        "gpm": "297",
+        "xpm": "417"
+    },
+    {
+        "hero_name": "Dazzle",
+        "lane": "Off Lane",
+        "presence": "22.72%",
+        "winrate": "52.27%",
+        "kda": "2.33",
+        "gpm": "315",
+        "xpm": "417"
+    },
+    {
+        "hero_name": "Death Prophet",
+        "lane": "Mid Lane",
+        "presence": "61.47%",
+        "winrate": "48.49%",
+        "kda": "2.88",
+        "gpm": "473",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Death Prophet",
+        "lane": "Off Lane",
+        "presence": "27.15%",
+        "winrate": "49.08%",
+        "kda": "2.36",
+        "gpm": "417",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Death Prophet",
+        "lane": "Safe Lane",
+        "presence": "10.09%",
+        "winrate": "46.52%",
+        "kda": "2.09",
+        "gpm": "372",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Disruptor",
+        "lane": "Safe Lane",
+        "presence": "73.05%",
+        "winrate": "49.99%",
+        "kda": "2.46",
+        "gpm": "298",
+        "xpm": "415"
+    },
+    {
+        "hero_name": "Disruptor",
+        "lane": "Off Lane",
+        "presence": "17.69%",
+        "winrate": "50.36%",
+        "kda": "2.54",
+        "gpm": "306",
+        "xpm": "415"
+    },
+    {
+        "hero_name": "Doom",
+        "lane": "Off Lane",
+        "presence": "67.95%",
+        "winrate": "48.10%",
+        "kda": "2.45",
+        "gpm": "490",
+        "xpm": "534"
+    },
+    {
+        "hero_name": "Doom",
+        "lane": "Jungle",
+        "presence": "16.08%",
+        "winrate": "43.59%",
+        "kda": "2.25",
+        "gpm": "467",
+        "xpm": "534"
+    },
+    {
+        "hero_name": "Doom",
+        "lane": "Safe Lane",
+        "presence": "6.98%",
+        "winrate": "44.10%",
+        "kda": "2.31",
+        "gpm": "477",
+        "xpm": "534"
+    },
+    {
+        "hero_name": "Dragon Knight",
+        "lane": "Off Lane",
+        "presence": "51.07%",
+        "winrate": "49.60%",
+        "kda": "2.54",
+        "gpm": "428",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Dragon Knight",
+        "lane": "Mid Lane",
+        "presence": "32.09%",
+        "winrate": "50.66%",
+        "kda": "3.07",
+        "gpm": "489",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Dragon Knight",
+        "lane": "Safe Lane",
+        "presence": "14.77%",
+        "winrate": "46.27%",
+        "kda": "2.51",
+        "gpm": "456",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Drow Ranger",
+        "lane": "Safe Lane",
+        "presence": "73.66%",
+        "winrate": "53.69%",
+        "kda": "2.98",
+        "gpm": "532",
+        "xpm": "616"
+    },
+    {
+        "hero_name": "Drow Ranger",
+        "lane": "Mid Lane",
+        "presence": "15.07%",
+        "winrate": "53.47%",
+        "kda": "2.73",
+        "gpm": "515",
+        "xpm": "616"
+    },
+    {
+        "hero_name": "Drow Ranger",
+        "lane": "Off Lane",
+        "presence": "9.03%",
+        "winrate": "49.47%",
+        "kda": "2.03",
+        "gpm": "434",
+        "xpm": "616"
+    },
+    {
+        "hero_name": "Earth Spirit",
+        "lane": "Off Lane",
+        "presence": "45.23%",
+        "winrate": "47.98%",
+        "kda": "2.35",
+        "gpm": "318",
+        "xpm": "459"
+    },
+    {
+        "hero_name": "Earth Spirit",
+        "lane": "Safe Lane",
+        "presence": "20.07%",
+        "winrate": "44.36%",
+        "kda": "2.13",
+        "gpm": "300",
+        "xpm": "459"
+    },
+    {
+        "hero_name": "Earth Spirit",
+        "lane": "Mid Lane",
+        "presence": "15.74%",
+        "winrate": "48.64%",
+        "kda": "2.58",
+        "gpm": "343",
+        "xpm": "459"
+    },
+    {
+        "hero_name": "Earthshaker",
+        "lane": "Off Lane",
+        "presence": "57.14%",
+        "winrate": "50.29%",
+        "kda": "2.42",
+        "gpm": "365",
+        "xpm": "500"
+    },
+    {
+        "hero_name": "Earthshaker",
+        "lane": "Safe Lane",
+        "presence": "25.38%",
+        "winrate": "49.38%",
+        "kda": "2.31",
+        "gpm": "331",
+        "xpm": "500"
+    },
+    {
+        "hero_name": "Earthshaker",
+        "lane": "Mid Lane",
+        "presence": "8.56%",
+        "winrate": "51.28%",
+        "kda": "2.82",
+        "gpm": "400",
+        "xpm": "500"
+    },
+    {
+        "hero_name": "Elder Titan",
+        "lane": "Off Lane",
+        "presence": "56.84%",
+        "winrate": "51.28%",
+        "kda": "2.55",
+        "gpm": "353",
+        "xpm": "480"
+    },
+    {
+        "hero_name": "Elder Titan",
+        "lane": "Safe Lane",
+        "presence": "31.18%",
+        "winrate": "51.69%",
+        "kda": "2.57",
+        "gpm": "317",
+        "xpm": "480"
+    },
+    {
+        "hero_name": "Elder Titan",
+        "lane": "Mid Lane",
+        "presence": "5.33%",
+        "winrate": "52.72%",
+        "kda": "2.78",
+        "gpm": "366",
+        "xpm": "480"
+    },
+    {
+        "hero_name": "Ember Spirit",
+        "lane": "Mid Lane",
+        "presence": "73.12%",
+        "winrate": "48.38%",
+        "kda": "3.73",
+        "gpm": "513",
+        "xpm": "641"
+    },
+    {
+        "hero_name": "Ember Spirit",
+        "lane": "Safe Lane",
+        "presence": "19.92%",
+        "winrate": "42.62%",
+        "kda": "3.31",
+        "gpm": "515",
+        "xpm": "641"
+    },
+    {
+        "hero_name": "Ember Spirit",
+        "lane": "Off Lane",
+        "presence": "5.87%",
+        "winrate": "42.95%",
+        "kda": "2.52",
+        "gpm": "432",
+        "xpm": "641"
+    },
+    {
+        "hero_name": "Enchantress",
+        "lane": "Off Lane",
+        "presence": "48.99%",
+        "winrate": "48.73%",
+        "kda": "2.69",
+        "gpm": "373",
+        "xpm": "505"
+    },
+    {
+        "hero_name": "Enchantress",
+        "lane": "Safe Lane",
+        "presence": "24.43%",
+        "winrate": "44.60%",
+        "kda": "2.25",
+        "gpm": "322",
+        "xpm": "505"
+    },
+    {
+        "hero_name": "Enchantress",
+        "lane": "Jungle",
+        "presence": "18.20%",
+        "winrate": "40.45%",
+        "kda": "2.47",
+        "gpm": "389",
+        "xpm": "505"
+    },
+    {
+        "hero_name": "Enigma",
+        "lane": "Jungle",
+        "presence": "47.08%",
+        "winrate": "51.51%",
+        "kda": "2.89",
+        "gpm": "421",
+        "xpm": "477"
+    },
+    {
+        "hero_name": "Enigma",
+        "lane": "Off Lane",
+        "presence": "35.59%",
+        "winrate": "53.33%",
+        "kda": "2.55",
+        "gpm": "408",
+        "xpm": "477"
+    },
+    {
+        "hero_name": "Enigma",
+        "lane": "Safe Lane",
+        "presence": "10.57%",
+        "winrate": "51.33%",
+        "kda": "2.22",
+        "gpm": "361",
+        "xpm": "477"
+    },
+    {
+        "hero_name": "Faceless Void",
+        "lane": "Safe Lane",
+        "presence": "68.41%",
+        "winrate": "48.60%",
+        "kda": "3.28",
+        "gpm": "521",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Faceless Void",
+        "lane": "Off Lane",
+        "presence": "27.59%",
+        "winrate": "50.19%",
+        "kda": "2.8",
+        "gpm": "438",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Grimstroke",
+        "lane": "Safe Lane",
+        "presence": "57.00%",
+        "winrate": "48.55%",
+        "kda": "2.46",
+        "gpm": "326",
+        "xpm": "473"
+    },
+    {
+        "hero_name": "Grimstroke",
+        "lane": "Off Lane",
+        "presence": "36.76%",
+        "winrate": "48.88%",
+        "kda": "2.6",
+        "gpm": "340",
+        "xpm": "473"
+    },
+    {
+        "hero_name": "Gyrocopter",
+        "lane": "Safe Lane",
+        "presence": "66.51%",
+        "winrate": "46.85%",
+        "kda": "2.95",
+        "gpm": "533",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Gyrocopter",
+        "lane": "Off Lane",
+        "presence": "18.89%",
+        "winrate": "48.83%",
+        "kda": "2.44",
+        "gpm": "416",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Gyrocopter",
+        "lane": "Mid Lane",
+        "presence": "12.54%",
+        "winrate": "46.70%",
+        "kda": "2.75",
+        "gpm": "507",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Hoodwink",
+        "lane": "Off Lane",
+        "presence": "62.36%",
+        "winrate": "51.03%",
+        "kda": "3.27",
+        "gpm": "374",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Hoodwink",
+        "lane": "Safe Lane",
+        "presence": "25.33%",
+        "winrate": "49.22%",
+        "kda": "3.0",
+        "gpm": "360",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Hoodwink",
+        "lane": "Mid Lane",
+        "presence": "9.51%",
+        "winrate": "47.89%",
+        "kda": "3.98",
+        "gpm": "525",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Huskar",
+        "lane": "Mid Lane",
+        "presence": "47.64%",
+        "winrate": "55.04%",
+        "kda": "2.33",
+        "gpm": "494",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Huskar",
+        "lane": "Off Lane",
+        "presence": "27.01%",
+        "winrate": "48.50%",
+        "kda": "1.69",
+        "gpm": "422",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Huskar",
+        "lane": "Safe Lane",
+        "presence": "21.76%",
+        "winrate": "49.90%",
+        "kda": "2.06",
+        "gpm": "463",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Invoker",
+        "lane": "Mid Lane",
+        "presence": "81.37%",
+        "winrate": "48.18%",
+        "kda": "3.33",
+        "gpm": "511",
+        "xpm": "605"
+    },
+    {
+        "hero_name": "Invoker",
+        "lane": "Off Lane",
+        "presence": "12.17%",
+        "winrate": "48.65%",
+        "kda": "2.7",
+        "gpm": "374",
+        "xpm": "605"
+    },
+    {
+        "hero_name": "Io",
+        "lane": "Safe Lane",
+        "presence": "56.89%",
+        "winrate": "46.78%",
+        "kda": "2.32",
+        "gpm": "267",
+        "xpm": "417"
+    },
+    {
+        "hero_name": "Io",
+        "lane": "Off Lane",
+        "presence": "26.69%",
+        "winrate": "48.09%",
+        "kda": "2.36",
+        "gpm": "280",
+        "xpm": "417"
+    },
+    {
+        "hero_name": "Io",
+        "lane": "Mid Lane",
+        "presence": "9.91%",
+        "winrate": "45.95%",
+        "kda": "2.36",
+        "gpm": "358",
+        "xpm": "417"
+    },
+    {
+        "hero_name": "Jakiro",
+        "lane": "Safe Lane",
+        "presence": "62.73%",
+        "winrate": "52.43%",
+        "kda": "2.31",
+        "gpm": "328",
+        "xpm": "458"
+    },
+    {
+        "hero_name": "Jakiro",
+        "lane": "Off Lane",
+        "presence": "29.55%",
+        "winrate": "52.97%",
+        "kda": "2.36",
+        "gpm": "349",
+        "xpm": "458"
+    },
+    {
+        "hero_name": "Juggernaut",
+        "lane": "Safe Lane",
+        "presence": "86.00%",
+        "winrate": "51.22%",
+        "kda": "3.3",
+        "gpm": "559",
+        "xpm": "637"
+    },
+    {
+        "hero_name": "Juggernaut",
+        "lane": "Off Lane",
+        "presence": "6.84%",
+        "winrate": "46.94%",
+        "kda": "2.29",
+        "gpm": "474",
+        "xpm": "637"
+    },
+    {
+        "hero_name": "Keeper of the Light",
+        "lane": "Safe Lane",
+        "presence": "49.16%",
+        "winrate": "48.09%",
+        "kda": "2.52",
+        "gpm": "328",
+        "xpm": "424"
+    },
+    {
+        "hero_name": "Keeper of the Light",
+        "lane": "Off Lane",
+        "presence": "37.05%",
+        "winrate": "49.37%",
+        "kda": "2.76",
+        "gpm": "356",
+        "xpm": "424"
+    },
+    {
+        "hero_name": "Keeper of the Light",
+        "lane": "Mid Lane",
+        "presence": "7.34%",
+        "winrate": "49.03%",
+        "kda": "3.63",
+        "gpm": "504",
+        "xpm": "424"
+    },
+    {
+        "hero_name": "Kunkka",
+        "lane": "Mid Lane",
+        "presence": "43.04%",
+        "winrate": "49.48%",
+        "kda": "3.41",
+        "gpm": "517",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Kunkka",
+        "lane": "Off Lane",
+        "presence": "34.22%",
+        "winrate": "48.19%",
+        "kda": "2.68",
+        "gpm": "437",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Kunkka",
+        "lane": "Safe Lane",
+        "presence": "17.91%",
+        "winrate": "46.47%",
+        "kda": "2.82",
+        "gpm": "396",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Legion Commander",
+        "lane": "Off Lane",
+        "presence": "49.66%",
+        "winrate": "50.64%",
+        "kda": "2.55",
+        "gpm": "439",
+        "xpm": "576"
+    },
+    {
+        "hero_name": "Legion Commander",
+        "lane": "Jungle",
+        "presence": "29.78%",
+        "winrate": "46.45%",
+        "kda": "2.34",
+        "gpm": "444",
+        "xpm": "576"
+    },
+    {
+        "hero_name": "Legion Commander",
+        "lane": "Safe Lane",
+        "presence": "11.24%",
+        "winrate": "46.81%",
+        "kda": "2.57",
+        "gpm": "460",
+        "xpm": "576"
+    },
+    {
+        "hero_name": "Leshrac",
+        "lane": "Mid Lane",
+        "presence": "43.58%",
+        "winrate": "49.12%",
+        "kda": "2.7",
+        "gpm": "521",
+        "xpm": "617"
+    },
+    {
+        "hero_name": "Leshrac",
+        "lane": "Off Lane",
+        "presence": "31.51%",
+        "winrate": "46.92%",
+        "kda": "1.99",
+        "gpm": "401",
+        "xpm": "617"
+    },
+    {
+        "hero_name": "Leshrac",
+        "lane": "Safe Lane",
+        "presence": "21.45%",
+        "winrate": "44.94%",
+        "kda": "1.94",
+        "gpm": "375",
+        "xpm": "617"
+    },
+    {
+        "hero_name": "Lich",
+        "lane": "Safe Lane",
+        "presence": "65.38%",
+        "winrate": "51.53%",
+        "kda": "2.41",
+        "gpm": "303",
+        "xpm": "437"
+    },
+    {
+        "hero_name": "Lich",
+        "lane": "Off Lane",
+        "presence": "28.24%",
+        "winrate": "52.33%",
+        "kda": "2.56",
+        "gpm": "319",
+        "xpm": "437"
+    },
+    {
+        "hero_name": "Lifestealer",
+        "lane": "Safe Lane",
+        "presence": "69.98%",
+        "winrate": "50.85%",
+        "kda": "3.73",
+        "gpm": "533",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lifestealer",
+        "lane": "Jungle",
+        "presence": "16.86%",
+        "winrate": "44.67%",
+        "kda": "2.7",
+        "gpm": "460",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lifestealer",
+        "lane": "Off Lane",
+        "presence": "10.55%",
+        "winrate": "47.62%",
+        "kda": "2.69",
+        "gpm": "454",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lina",
+        "lane": "Mid Lane",
+        "presence": "47.02%",
+        "winrate": "47.27%",
+        "kda": "2.8",
+        "gpm": "527",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lina",
+        "lane": "Off Lane",
+        "presence": "27.31%",
+        "winrate": "46.57%",
+        "kda": "2.06",
+        "gpm": "378",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lina",
+        "lane": "Safe Lane",
+        "presence": "23.44%",
+        "winrate": "44.99%",
+        "kda": "1.91",
+        "gpm": "361",
+        "xpm": "638"
+    },
+    {
+        "hero_name": "Lion",
+        "lane": "Safe Lane",
+        "presence": "67.02%",
+        "winrate": "47.48%",
+        "kda": "1.88",
+        "gpm": "297",
+        "xpm": "426"
+    },
+    {
+        "hero_name": "Lion",
+        "lane": "Off Lane",
+        "presence": "22.76%",
+        "winrate": "47.49%",
+        "kda": "1.93",
+        "gpm": "304",
+        "xpm": "426"
+    },
+    {
+        "hero_name": "Lion",
+        "lane": "Mid Lane",
+        "presence": "5.96%",
+        "winrate": "46.06%",
+        "kda": "2.45",
+        "gpm": "389",
+        "xpm": "426"
+    },
+    {
+        "hero_name": "Lone Druid",
+        "lane": "Off Lane",
+        "presence": "30.28%",
+        "winrate": "47.59%",
+        "kda": "2.49",
+        "gpm": "472",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Lone Druid",
+        "lane": "Mid Lane",
+        "presence": "26.49%",
+        "winrate": "53.75%",
+        "kda": "3.43",
+        "gpm": "533",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Lone Druid",
+        "lane": "Safe Lane",
+        "presence": "26.10%",
+        "winrate": "46.65%",
+        "kda": "2.96",
+        "gpm": "513",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Luna",
+        "lane": "Safe Lane",
+        "presence": "81.96%",
+        "winrate": "52.87%",
+        "kda": "3.09",
+        "gpm": "591",
+        "xpm": "649"
+    },
+    {
+        "hero_name": "Luna",
+        "lane": "Off Lane",
+        "presence": "9.09%",
+        "winrate": "50.95%",
+        "kda": "2.37",
+        "gpm": "461",
+        "xpm": "649"
+    },
+    {
+        "hero_name": "Luna",
+        "lane": "Mid Lane",
+        "presence": "6.02%",
+        "winrate": "52.34%",
+        "kda": "2.81",
+        "gpm": "549",
+        "xpm": "649"
+    },
+    {
+        "hero_name": "Lycan",
+        "lane": "Safe Lane",
+        "presence": "38.94%",
+        "winrate": "52.18%",
+        "kda": "3.09",
+        "gpm": "491",
+        "xpm": "539"
+    },
+    {
+        "hero_name": "Lycan",
+        "lane": "Off Lane",
+        "presence": "28.79%",
+        "winrate": "51.58%",
+        "kda": "2.87",
+        "gpm": "467",
+        "xpm": "539"
+    },
+    {
+        "hero_name": "Lycan",
+        "lane": "Jungle",
+        "presence": "19.37%",
+        "winrate": "48.63%",
+        "kda": "2.46",
+        "gpm": "454",
+        "xpm": "539"
+    },
+    {
+        "hero_name": "Magnus",
+        "lane": "Off Lane",
+        "presence": "60.70%",
+        "winrate": "46.87%",
+        "kda": "2.45",
+        "gpm": "392",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Magnus",
+        "lane": "Mid Lane",
+        "presence": "24.35%",
+        "winrate": "48.51%",
+        "kda": "3.14",
+        "gpm": "479",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Magnus",
+        "lane": "Safe Lane",
+        "presence": "10.30%",
+        "winrate": "46.18%",
+        "kda": "2.23",
+        "gpm": "371",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Marci",
+        "lane": "Off Lane",
+        "presence": "56.44%",
+        "winrate": "51.04%",
+        "kda": "2.52",
+        "gpm": "379",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Marci",
+        "lane": "Safe Lane",
+        "presence": "26.15%",
+        "winrate": "48.79%",
+        "kda": "2.35",
+        "gpm": "361",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Marci",
+        "lane": "Mid Lane",
+        "presence": "12.41%",
+        "winrate": "54.24%",
+        "kda": "3.34",
+        "gpm": "479",
+        "xpm": "543"
+    },
+    {
+        "hero_name": "Mars",
+        "lane": "Off Lane",
+        "presence": "89.10%",
+        "winrate": "47.83%",
+        "kda": "2.78",
+        "gpm": "424",
+        "xpm": "567"
+    },
+    {
+        "hero_name": "Mars",
+        "lane": "Mid Lane",
+        "presence": "6.47%",
+        "winrate": "49.30%",
+        "kda": "3.59",
+        "gpm": "507",
+        "xpm": "567"
+    },
+    {
+        "hero_name": "Medusa",
+        "lane": "Safe Lane",
+        "presence": "60.16%",
+        "winrate": "50.36%",
+        "kda": "3.78",
+        "gpm": "599",
+        "xpm": "665"
+    },
+    {
+        "hero_name": "Medusa",
+        "lane": "Mid Lane",
+        "presence": "30.21%",
+        "winrate": "51.48%",
+        "kda": "3.69",
+        "gpm": "582",
+        "xpm": "665"
+    },
+    {
+        "hero_name": "Medusa",
+        "lane": "Off Lane",
+        "presence": "7.34%",
+        "winrate": "48.11%",
+        "kda": "2.67",
+        "gpm": "482",
+        "xpm": "665"
+    },
+    {
+        "hero_name": "Meepo",
+        "lane": "Mid Lane",
+        "presence": "65.85%",
+        "winrate": "54.83%",
+        "kda": "2.76",
+        "gpm": "602",
+        "xpm": "767"
+    },
+    {
+        "hero_name": "Meepo",
+        "lane": "Safe Lane",
+        "presence": "16.62%",
+        "winrate": "43.19%",
+        "kda": "2.02",
+        "gpm": "512",
+        "xpm": "767"
+    },
+    {
+        "hero_name": "Meepo",
+        "lane": "Off Lane",
+        "presence": "7.75%",
+        "winrate": "40.19%",
+        "kda": "1.63",
+        "gpm": "446",
+        "xpm": "767"
+    },
+    {
+        "hero_name": "Mirana",
+        "lane": "Off Lane",
+        "presence": "48.50%",
+        "winrate": "51.90%",
+        "kda": "3.35",
+        "gpm": "378",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Mirana",
+        "lane": "Safe Lane",
+        "presence": "19.11%",
+        "winrate": "49.24%",
+        "kda": "3.15",
+        "gpm": "376",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Mirana",
+        "lane": "Mid Lane",
+        "presence": "18.85%",
+        "winrate": "51.18%",
+        "kda": "3.52",
+        "gpm": "452",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Monkey King",
+        "lane": "Safe Lane",
+        "presence": "46.27%",
+        "winrate": "46.99%",
+        "kda": "2.79",
+        "gpm": "493",
+        "xpm": "599"
+    },
+    {
+        "hero_name": "Monkey King",
+        "lane": "Mid Lane",
+        "presence": "27.77%",
+        "winrate": "50.77%",
+        "kda": "2.93",
+        "gpm": "488",
+        "xpm": "599"
+    },
+    {
+        "hero_name": "Monkey King",
+        "lane": "Off Lane",
+        "presence": "22.33%",
+        "winrate": "46.38%",
+        "kda": "2.17",
+        "gpm": "405",
+        "xpm": "599"
+    },
+    {
+        "hero_name": "Morphling",
+        "lane": "Safe Lane",
+        "presence": "64.40%",
+        "winrate": "47.36%",
+        "kda": "3.4",
+        "gpm": "549",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Morphling",
+        "lane": "Mid Lane",
+        "presence": "27.57%",
+        "winrate": "48.94%",
+        "kda": "3.12",
+        "gpm": "543",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Morphling",
+        "lane": "Off Lane",
+        "presence": "6.21%",
+        "winrate": "43.82%",
+        "kda": "2.58",
+        "gpm": "432",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Naga Siren",
+        "lane": "Safe Lane",
+        "presence": "65.46%",
+        "winrate": "49.72%",
+        "kda": "3.39",
+        "gpm": "565",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Naga Siren",
+        "lane": "Off Lane",
+        "presence": "14.01%",
+        "winrate": "46.98%",
+        "kda": "2.57",
+        "gpm": "442",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Naga Siren",
+        "lane": "Mid Lane",
+        "presence": "12.51%",
+        "winrate": "52.63%",
+        "kda": "3.55",
+        "gpm": "583",
+        "xpm": "586"
+    },
+    {
+        "hero_name": "Nature's Prophet",
+        "lane": "Off Lane",
+        "presence": "38.42%",
+        "winrate": "44.62%",
+        "kda": "2.13",
+        "gpm": "513",
+        "xpm": "520"
+    },
+    {
+        "hero_name": "Nature's Prophet",
+        "lane": "Jungle",
+        "presence": "35.68%",
+        "winrate": "41.48%",
+        "kda": "2.08",
+        "gpm": "525",
+        "xpm": "520"
+    },
+    {
+        "hero_name": "Nature's Prophet",
+        "lane": "Safe Lane",
+        "presence": "11.10%",
+        "winrate": "42.83%",
+        "kda": "2.02",
+        "gpm": "498",
+        "xpm": "520"
+    },
+    {
+        "hero_name": "Necrophos",
+        "lane": "Off Lane",
+        "presence": "48.47%",
+        "winrate": "55.55%",
+        "kda": "2.89",
+        "gpm": "428",
+        "xpm": "529"
+    },
+    {
+        "hero_name": "Necrophos",
+        "lane": "Mid Lane",
+        "presence": "30.42%",
+        "winrate": "55.04%",
+        "kda": "3.48",
+        "gpm": "503",
+        "xpm": "529"
+    },
+    {
+        "hero_name": "Necrophos",
+        "lane": "Safe Lane",
+        "presence": "18.31%",
+        "winrate": "53.44%",
+        "kda": "2.85",
+        "gpm": "398",
+        "xpm": "529"
+    },
+    {
+        "hero_name": "Night Stalker",
+        "lane": "Off Lane",
+        "presence": "72.91%",
+        "winrate": "52.42%",
+        "kda": "3.12",
+        "gpm": "420",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Night Stalker",
+        "lane": "Safe Lane",
+        "presence": "10.78%",
+        "winrate": "47.99%",
+        "kda": "2.83",
+        "gpm": "383",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Night Stalker",
+        "lane": "Mid Lane",
+        "presence": "9.33%",
+        "winrate": "51.59%",
+        "kda": "3.25",
+        "gpm": "418",
+        "xpm": "555"
+    },
+    {
+        "hero_name": "Nyx Assassin",
+        "lane": "Off Lane",
+        "presence": "69.80%",
+        "winrate": "51.04%",
+        "kda": "2.5",
+        "gpm": "342",
+        "xpm": "485"
+    },
+    {
+        "hero_name": "Nyx Assassin",
+        "lane": "Safe Lane",
+        "presence": "16.06%",
+        "winrate": "49.89%",
+        "kda": "2.35",
+        "gpm": "323",
+        "xpm": "485"
+    },
+    {
+        "hero_name": "Nyx Assassin",
+        "lane": "Mid Lane",
+        "presence": "8.76%",
+        "winrate": "49.18%",
+        "kda": "2.85",
+        "gpm": "383",
+        "xpm": "485"
+    },
+    {
+        "hero_name": "Ogre Magi",
+        "lane": "Safe Lane",
+        "presence": "58.87%",
+        "winrate": "52.95%",
+        "kda": "2.41",
+        "gpm": "321",
+        "xpm": "455"
+    },
+    {
+        "hero_name": "Ogre Magi",
+        "lane": "Off Lane",
+        "presence": "30.95%",
+        "winrate": "53.20%",
+        "kda": "2.55",
+        "gpm": "353",
+        "xpm": "455"
+    },
+    {
+        "hero_name": "Ogre Magi",
+        "lane": "Mid Lane",
+        "presence": "5.73%",
+        "winrate": "51.89%",
+        "kda": "2.78",
+        "gpm": "403",
+        "xpm": "455"
+    },
+    {
+        "hero_name": "Omniknight",
+        "lane": "Safe Lane",
+        "presence": "51.71%",
+        "winrate": "56.17%",
+        "kda": "2.35",
+        "gpm": "304",
+        "xpm": "399"
+    },
+    {
+        "hero_name": "Omniknight",
+        "lane": "Off Lane",
+        "presence": "41.28%",
+        "winrate": "55.77%",
+        "kda": "2.52",
+        "gpm": "356",
+        "xpm": "399"
+    },
+    {
+        "hero_name": "Oracle",
+        "lane": "Safe Lane",
+        "presence": "73.07%",
+        "winrate": "47.17%",
+        "kda": "2.55",
+        "gpm": "290",
+        "xpm": "412"
+    },
+    {
+        "hero_name": "Oracle",
+        "lane": "Off Lane",
+        "presence": "17.27%",
+        "winrate": "46.33%",
+        "kda": "2.61",
+        "gpm": "299",
+        "xpm": "412"
+    },
+    {
+        "hero_name": "Outworld Destroyer",
+        "lane": "Mid Lane",
+        "presence": "79.23%",
+        "winrate": "50.26%",
+        "kda": "3.05",
+        "gpm": "497",
+        "xpm": "610"
+    },
+    {
+        "hero_name": "Outworld Destroyer",
+        "lane": "Off Lane",
+        "presence": "12.44%",
+        "winrate": "49.63%",
+        "kda": "2.36",
+        "gpm": "425",
+        "xpm": "610"
+    },
+    {
+        "hero_name": "Outworld Destroyer",
+        "lane": "Safe Lane",
+        "presence": "7.77%",
+        "winrate": "47.67%",
+        "kda": "2.65",
+        "gpm": "465",
+        "xpm": "610"
+    },
+    {
+        "hero_name": "Pangolier",
+        "lane": "Off Lane",
+        "presence": "76.33%",
+        "winrate": "48.23%",
+        "kda": "2.75",
+        "gpm": "449",
+        "xpm": "587"
+    },
+    {
+        "hero_name": "Pangolier",
+        "lane": "Mid Lane",
+        "presence": "13.91%",
+        "winrate": "48.36%",
+        "kda": "3.4",
+        "gpm": "526",
+        "xpm": "587"
+    },
+    {
+        "hero_name": "Pangolier",
+        "lane": "Safe Lane",
+        "presence": "7.70%",
+        "winrate": "42.71%",
+        "kda": "2.44",
+        "gpm": "435",
+        "xpm": "587"
+    },
+    {
+        "hero_name": "Phantom Assassin",
+        "lane": "Safe Lane",
+        "presence": "77.35%",
+        "winrate": "49.76%",
+        "kda": "3.09",
+        "gpm": "533",
+        "xpm": "634"
+    },
+    {
+        "hero_name": "Phantom Assassin",
+        "lane": "Mid Lane",
+        "presence": "12.51%",
+        "winrate": "53.81%",
+        "kda": "3.18",
+        "gpm": "509",
+        "xpm": "634"
+    },
+    {
+        "hero_name": "Phantom Assassin",
+        "lane": "Off Lane",
+        "presence": "8.93%",
+        "winrate": "47.46%",
+        "kda": "2.37",
+        "gpm": "446",
+        "xpm": "634"
+    },
+    {
+        "hero_name": "Phantom Lancer",
+        "lane": "Safe Lane",
+        "presence": "85.05%",
+        "winrate": "50.15%",
+        "kda": "3.09",
+        "gpm": "534",
+        "xpm": "628"
+    },
+    {
+        "hero_name": "Phantom Lancer",
+        "lane": "Off Lane",
+        "presence": "8.64%",
+        "winrate": "46.61%",
+        "kda": "2.27",
+        "gpm": "439",
+        "xpm": "628"
+    },
+    {
+        "hero_name": "Phantom Lancer",
+        "lane": "Mid Lane",
+        "presence": "5.27%",
+        "winrate": "51.41%",
+        "kda": "3.04",
+        "gpm": "514",
+        "xpm": "628"
+    },
+    {
+        "hero_name": "Phoenix",
+        "lane": "Off Lane",
+        "presence": "70.19%",
+        "winrate": "50.17%",
+        "kda": "2.81",
+        "gpm": "374",
+        "xpm": "498"
+    },
+    {
+        "hero_name": "Phoenix",
+        "lane": "Safe Lane",
+        "presence": "21.92%",
+        "winrate": "49.60%",
+        "kda": "2.62",
+        "gpm": "335",
+        "xpm": "498"
+    },
+    {
+        "hero_name": "Puck",
+        "lane": "Mid Lane",
+        "presence": "71.99%",
+        "winrate": "46.71%",
+        "kda": "3.52",
+        "gpm": "507",
+        "xpm": "641"
+    },
+    {
+        "hero_name": "Puck",
+        "lane": "Off Lane",
+        "presence": "22.40%",
+        "winrate": "45.70%",
+        "kda": "2.68",
+        "gpm": "417",
+        "xpm": "641"
+    },
+    {
+        "hero_name": "Pudge",
+        "lane": "Off Lane",
+        "presence": "44.40%",
+        "winrate": "51.58%",
+        "kda": "2.23",
+        "gpm": "353",
+        "xpm": "488"
+    },
+    {
+        "hero_name": "Pudge",
+        "lane": "Safe Lane",
+        "presence": "24.18%",
+        "winrate": "49.79%",
+        "kda": "2.16",
+        "gpm": "333",
+        "xpm": "488"
+    },
+    {
+        "hero_name": "Pudge",
+        "lane": "Mid Lane",
+        "presence": "19.29%",
+        "winrate": "51.44%",
+        "kda": "2.58",
+        "gpm": "391",
+        "xpm": "488"
+    },
+    {
+        "hero_name": "Pugna",
+        "lane": "Off Lane",
+        "presence": "37.47%",
+        "winrate": "49.48%",
+        "kda": "2.31",
+        "gpm": "375",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Pugna",
+        "lane": "Mid Lane",
+        "presence": "32.76%",
+        "winrate": "49.46%",
+        "kda": "3.04",
+        "gpm": "469",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Pugna",
+        "lane": "Safe Lane",
+        "presence": "26.83%",
+        "winrate": "48.11%",
+        "kda": "2.13",
+        "gpm": "343",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Queen of Pain",
+        "lane": "Mid Lane",
+        "presence": "72.21%",
+        "winrate": "46.93%",
+        "kda": "3.5",
+        "gpm": "504",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Queen of Pain",
+        "lane": "Off Lane",
+        "presence": "19.79%",
+        "winrate": "47.13%",
+        "kda": "2.73",
+        "gpm": "412",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Queen of Pain",
+        "lane": "Safe Lane",
+        "presence": "6.20%",
+        "winrate": "45.13%",
+        "kda": "2.61",
+        "gpm": "407",
+        "xpm": "621"
+    },
+    {
+        "hero_name": "Razor",
+        "lane": "Mid Lane",
+        "presence": "36.69%",
+        "winrate": "48.74%",
+        "kda": "2.97",
+        "gpm": "484",
+        "xpm": "600"
+    },
+    {
+        "hero_name": "Razor",
+        "lane": "Off Lane",
+        "presence": "33.65%",
+        "winrate": "49.56%",
+        "kda": "2.47",
+        "gpm": "442",
+        "xpm": "600"
+    },
+    {
+        "hero_name": "Razor",
+        "lane": "Safe Lane",
+        "presence": "28.55%",
+        "winrate": "45.87%",
+        "kda": "2.86",
+        "gpm": "482",
+        "xpm": "600"
+    },
+    {
+        "hero_name": "Riki",
+        "lane": "Off Lane",
+        "presence": "37.69%",
+        "winrate": "53.93%",
+        "kda": "3.11",
+        "gpm": "383",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Riki",
+        "lane": "Safe Lane",
+        "presence": "34.01%",
+        "winrate": "52.32%",
+        "kda": "3.64",
+        "gpm": "453",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Riki",
+        "lane": "Mid Lane",
+        "presence": "16.15%",
+        "winrate": "54.45%",
+        "kda": "3.24",
+        "gpm": "379",
+        "xpm": "521"
+    },
+    {
+        "hero_name": "Rubick",
+        "lane": "Safe Lane",
+        "presence": "47.39%",
+        "winrate": "46.21%",
+        "kda": "2.16",
+        "gpm": "313",
+        "xpm": "411"
+    },
+    {
+        "hero_name": "Rubick",
+        "lane": "Off Lane",
+        "presence": "37.83%",
+        "winrate": "47.09%",
+        "kda": "2.38",
+        "gpm": "329",
+        "xpm": "411"
+    },
+    {
+        "hero_name": "Rubick",
+        "lane": "Mid Lane",
+        "presence": "8.01%",
+        "winrate": "43.26%",
+        "kda": "2.55",
+        "gpm": "384",
+        "xpm": "411"
+    },
+    {
+        "hero_name": "Sand King",
+        "lane": "Off Lane",
+        "presence": "70.86%",
+        "winrate": "51.45%",
+        "kda": "2.66",
+        "gpm": "426",
+        "xpm": "552"
+    },
+    {
+        "hero_name": "Sand King",
+        "lane": "Safe Lane",
+        "presence": "11.97%",
+        "winrate": "47.63%",
+        "kda": "2.35",
+        "gpm": "363",
+        "xpm": "552"
+    },
+    {
+        "hero_name": "Sand King",
+        "lane": "Jungle",
+        "presence": "8.71%",
+        "winrate": "46.74%",
+        "kda": "2.66",
+        "gpm": "376",
+        "xpm": "552"
+    },
+    {
+        "hero_name": "Shadow Demon",
+        "lane": "Safe Lane",
+        "presence": "61.51%",
+        "winrate": "47.33%",
+        "kda": "2.09",
+        "gpm": "297",
+        "xpm": "394"
+    },
+    {
+        "hero_name": "Shadow Demon",
+        "lane": "Off Lane",
+        "presence": "24.00%",
+        "winrate": "47.56%",
+        "kda": "2.2",
+        "gpm": "310",
+        "xpm": "394"
+    },
+    {
+        "hero_name": "Shadow Demon",
+        "lane": "Mid Lane",
+        "presence": "6.51%",
+        "winrate": "46.90%",
+        "kda": "2.33",
+        "gpm": "341",
+        "xpm": "394"
+    },
+    {
+        "hero_name": "Shadow Fiend",
+        "lane": "Mid Lane",
+        "presence": "89.89%",
+        "winrate": "48.34%",
+        "kda": "2.91",
+        "gpm": "557",
+        "xpm": "658"
+    },
+    {
+        "hero_name": "Shadow Fiend",
+        "lane": "Safe Lane",
+        "presence": "5.51%",
+        "winrate": "47.00%",
+        "kda": "2.51",
+        "gpm": "537",
+        "xpm": "658"
+    },
+    {
+        "hero_name": "Shadow Shaman",
+        "lane": "Safe Lane",
+        "presence": "68.91%",
+        "winrate": "51.47%",
+        "kda": "1.79",
+        "gpm": "322",
+        "xpm": "420"
+    },
+    {
+        "hero_name": "Shadow Shaman",
+        "lane": "Off Lane",
+        "presence": "21.10%",
+        "winrate": "51.27%",
+        "kda": "1.83",
+        "gpm": "335",
+        "xpm": "420"
+    },
+    {
+        "hero_name": "Silencer",
+        "lane": "Safe Lane",
+        "presence": "41.75%",
+        "winrate": "52.54%",
+        "kda": "2.57",
+        "gpm": "339",
+        "xpm": "435"
+    },
+    {
+        "hero_name": "Silencer",
+        "lane": "Off Lane",
+        "presence": "34.80%",
+        "winrate": "53.55%",
+        "kda": "2.61",
+        "gpm": "359",
+        "xpm": "435"
+    },
+    {
+        "hero_name": "Silencer",
+        "lane": "Mid Lane",
+        "presence": "20.37%",
+        "winrate": "52.05%",
+        "kda": "3.0",
+        "gpm": "457",
+        "xpm": "435"
+    },
+    {
+        "hero_name": "Skywrath Mage",
+        "lane": "Off Lane",
+        "presence": "36.94%",
+        "winrate": "51.63%",
+        "kda": "2.48",
+        "gpm": "335",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Skywrath Mage",
+        "lane": "Safe Lane",
+        "presence": "32.44%",
+        "winrate": "48.67%",
+        "kda": "2.28",
+        "gpm": "315",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Skywrath Mage",
+        "lane": "Mid Lane",
+        "presence": "25.20%",
+        "winrate": "52.31%",
+        "kda": "3.19",
+        "gpm": "438",
+        "xpm": "490"
+    },
+    {
+        "hero_name": "Slardar",
+        "lane": "Off Lane",
+        "presence": "77.83%",
+        "winrate": "51.02%",
+        "kda": "2.42",
+        "gpm": "384",
+        "xpm": "509"
+    },
+    {
+        "hero_name": "Slardar",
+        "lane": "Safe Lane",
+        "presence": "14.84%",
+        "winrate": "48.12%",
+        "kda": "2.4",
+        "gpm": "378",
+        "xpm": "509"
+    },
+    {
+        "hero_name": "Slark",
+        "lane": "Safe Lane",
+        "presence": "86.73%",
+        "winrate": "49.11%",
+        "kda": "3.07",
+        "gpm": "512",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Slark",
+        "lane": "Off Lane",
+        "presence": "8.36%",
+        "winrate": "46.44%",
+        "kda": "2.32",
+        "gpm": "439",
+        "xpm": "626"
+    },
+    {
+        "hero_name": "Snapfire",
+        "lane": "Off Lane",
+        "presence": "57.59%",
+        "winrate": "48.35%",
+        "kda": "2.67",
+        "gpm": "353",
+        "xpm": "503"
+    },
+    {
+        "hero_name": "Snapfire",
+        "lane": "Safe Lane",
+        "presence": "33.29%",
+        "winrate": "48.63%",
+        "kda": "2.51",
+        "gpm": "334",
+        "xpm": "503"
+    },
+    {
+        "hero_name": "Snapfire",
+        "lane": "Mid Lane",
+        "presence": "6.52%",
+        "winrate": "42.82%",
+        "kda": "3.38",
+        "gpm": "503",
+        "xpm": "503"
+    },
+    {
+        "hero_name": "Sniper",
+        "lane": "Mid Lane",
+        "presence": "54.30%",
+        "winrate": "53.14%",
+        "kda": "3.51",
+        "gpm": "545",
+        "xpm": "623"
+    },
+    {
+        "hero_name": "Sniper",
+        "lane": "Safe Lane",
+        "presence": "25.09%",
+        "winrate": "49.10%",
+        "kda": "3.22",
+        "gpm": "509",
+        "xpm": "623"
+    },
+    {
+        "hero_name": "Sniper",
+        "lane": "Off Lane",
+        "presence": "18.83%",
+        "winrate": "50.60%",
+        "kda": "2.88",
+        "gpm": "437",
+        "xpm": "623"
+    },
+    {
+        "hero_name": "Spectre",
+        "lane": "Safe Lane",
+        "presence": "91.07%",
+        "winrate": "52.93%",
+        "kda": "4.28",
+        "gpm": "521",
+        "xpm": "619"
+    },
+    {
+        "hero_name": "Spectre",
+        "lane": "Off Lane",
+        "presence": "6.26%",
+        "winrate": "51.45%",
+        "kda": "3.25",
+        "gpm": "450",
+        "xpm": "619"
+    },
+    {
+        "hero_name": "Spirit Breaker",
+        "lane": "Off Lane",
+        "presence": "59.13%",
+        "winrate": "53.04%",
+        "kda": "2.96",
+        "gpm": "375",
+        "xpm": "512"
+    },
+    {
+        "hero_name": "Spirit Breaker",
+        "lane": "Roaming",
+        "presence": "17.34%",
+        "winrate": "51.95%",
+        "kda": "2.81",
+        "gpm": "335",
+        "xpm": "512"
+    },
+    {
+        "hero_name": "Spirit Breaker",
+        "lane": "Safe Lane",
+        "presence": "14.21%",
+        "winrate": "50.99%",
+        "kda": "2.81",
+        "gpm": "348",
+        "xpm": "512"
+    },
+    {
+        "hero_name": "Storm Spirit",
+        "lane": "Mid Lane",
+        "presence": "91.87%",
+        "winrate": "48.16%",
+        "kda": "3.34",
+        "gpm": "512",
+        "xpm": "642"
+    },
+    {
+        "hero_name": "Sven",
+        "lane": "Safe Lane",
+        "presence": "79.56%",
+        "winrate": "51.27%",
+        "kda": "2.92",
+        "gpm": "560",
+        "xpm": "632"
+    },
+    {
+        "hero_name": "Sven",
+        "lane": "Off Lane",
+        "presence": "14.32%",
+        "winrate": "48.78%",
+        "kda": "2.19",
+        "gpm": "462",
+        "xpm": "632"
+    },
+    {
+        "hero_name": "Techies",
+        "lane": "Off Lane",
+        "presence": "61.14%",
+        "winrate": "48.60%",
+        "kda": "1.95",
+        "gpm": "400",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Techies",
+        "lane": "Safe Lane",
+        "presence": "21.30%",
+        "winrate": "46.35%",
+        "kda": "1.84",
+        "gpm": "382",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Techies",
+        "lane": "Mid Lane",
+        "presence": "7.76%",
+        "winrate": "43.45%",
+        "kda": "2.13",
+        "gpm": "441",
+        "xpm": "482"
+    },
+    {
+        "hero_name": "Templar Assassin",
+        "lane": "Mid Lane",
+        "presence": "85.35%",
+        "winrate": "49.18%",
+        "kda": "3.19",
+        "gpm": "562",
+        "xpm": "676"
+    },
+    {
+        "hero_name": "Templar Assassin",
+        "lane": "Safe Lane",
+        "presence": "10.10%",
+        "winrate": "46.54%",
+        "kda": "3.02",
+        "gpm": "572",
+        "xpm": "676"
+    },
+    {
+        "hero_name": "Terrorblade",
+        "lane": "Safe Lane",
+        "presence": "85.74%",
+        "winrate": "49.12%",
+        "kda": "2.81",
+        "gpm": "576",
+        "xpm": "589"
+    },
+    {
+        "hero_name": "Terrorblade",
+        "lane": "Off Lane",
+        "presence": "7.12%",
+        "winrate": "47.28%",
+        "kda": "1.98",
+        "gpm": "463",
+        "xpm": "589"
+    },
+    {
+        "hero_name": "Tidehunter",
+        "lane": "Off Lane",
+        "presence": "86.07%",
+        "winrate": "50.87%",
+        "kda": "3.06",
+        "gpm": "395",
+        "xpm": "533"
+    },
+    {
+        "hero_name": "Tidehunter",
+        "lane": "Safe Lane",
+        "presence": "6.58%",
+        "winrate": "47.21%",
+        "kda": "2.56",
+        "gpm": "356",
+        "xpm": "533"
+    },
+    {
+        "hero_name": "Timbersaw",
+        "lane": "Off Lane",
+        "presence": "80.16%",
+        "winrate": "47.59%",
+        "kda": "2.44",
+        "gpm": "440",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Timbersaw",
+        "lane": "Mid Lane",
+        "presence": "11.10%",
+        "winrate": "48.13%",
+        "kda": "3.09",
+        "gpm": "502",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Timbersaw",
+        "lane": "Safe Lane",
+        "presence": "7.21%",
+        "winrate": "44.86%",
+        "kda": "2.48",
+        "gpm": "450",
+        "xpm": "554"
+    },
+    {
+        "hero_name": "Tinker",
+        "lane": "Mid Lane",
+        "presence": "89.12%",
+        "winrate": "50.83%",
+        "kda": "3.5",
+        "gpm": "521",
+        "xpm": "625"
+    },
+    {
+        "hero_name": "Tinker",
+        "lane": "Off Lane",
+        "presence": "5.65%",
+        "winrate": "46.81%",
+        "kda": "2.46",
+        "gpm": "404",
+        "xpm": "625"
+    },
+    {
+        "hero_name": "Tiny",
+        "lane": "Off Lane",
+        "presence": "37.90%",
+        "winrate": "46.00%",
+        "kda": "2.46",
+        "gpm": "410",
+        "xpm": "533"
+    },
+    {
+        "hero_name": "Tiny",
+        "lane": "Safe Lane",
+        "presence": "33.57%",
+        "winrate": "48.87%",
+        "kda": "2.98",
+        "gpm": "526",
+        "xpm": "533"
+    },
+    {
+        "hero_name": "Tiny",
+        "lane": "Mid Lane",
+        "presence": "23.53%",
+        "winrate": "47.85%",
+        "kda": "3.14",
+        "gpm": "498",
+        "xpm": "533"
+    },
+    {
+        "hero_name": "Treant Protector",
+        "lane": "Safe Lane",
+        "presence": "48.81%",
+        "winrate": "52.17%",
+        "kda": "2.54",
+        "gpm": "307",
+        "xpm": "432"
+    },
+    {
+        "hero_name": "Treant Protector",
+        "lane": "Off Lane",
+        "presence": "43.86%",
+        "winrate": "52.88%",
+        "kda": "2.63",
+        "gpm": "328",
+        "xpm": "432"
+    },
+    {
+        "hero_name": "Troll Warlord",
+        "lane": "Safe Lane",
+        "presence": "71.55%",
+        "winrate": "50.17%",
+        "kda": "2.79",
+        "gpm": "525",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Troll Warlord",
+        "lane": "Off Lane",
+        "presence": "10.39%",
+        "winrate": "48.19%",
+        "kda": "2.08",
+        "gpm": "448",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Troll Warlord",
+        "lane": "Mid Lane",
+        "presence": "8.45%",
+        "winrate": "50.27%",
+        "kda": "2.59",
+        "gpm": "504",
+        "xpm": "618"
+    },
+    {
+        "hero_name": "Tusk",
+        "lane": "Off Lane",
+        "presence": "56.52%",
+        "winrate": "46.35%",
+        "kda": "2.34",
+        "gpm": "345",
+        "xpm": "478"
+    },
+    {
+        "hero_name": "Tusk",
+        "lane": "Safe Lane",
+        "presence": "19.92%",
+        "winrate": "44.33%",
+        "kda": "2.24",
+        "gpm": "331",
+        "xpm": "478"
+    },
+    {
+        "hero_name": "Tusk",
+        "lane": "Mid Lane",
+        "presence": "10.66%",
+        "winrate": "47.40%",
+        "kda": "2.62",
+        "gpm": "383",
+        "xpm": "478"
+    },
+    {
+        "hero_name": "Underlord",
+        "lane": "Off Lane",
+        "presence": "87.17%",
+        "winrate": "55.50%",
+        "kda": "2.85",
+        "gpm": "426",
+        "xpm": "531"
+    },
+    {
+        "hero_name": "Underlord",
+        "lane": "Safe Lane",
+        "presence": "7.03%",
+        "winrate": "49.51%",
+        "kda": "2.47",
+        "gpm": "385",
+        "xpm": "531"
+    },
+    {
+        "hero_name": "Undying",
+        "lane": "Off Lane",
+        "presence": "66.10%",
+        "winrate": "52.30%",
+        "kda": "2.78",
+        "gpm": "354",
+        "xpm": "462"
+    },
+    {
+        "hero_name": "Undying",
+        "lane": "Safe Lane",
+        "presence": "29.75%",
+        "winrate": "51.93%",
+        "kda": "2.59",
+        "gpm": "324",
+        "xpm": "462"
+    },
+    {
+        "hero_name": "Ursa",
+        "lane": "Safe Lane",
+        "presence": "70.32%",
+        "winrate": "52.43%",
+        "kda": "3.28",
+        "gpm": "519",
+        "xpm": "639"
+    },
+    {
+        "hero_name": "Ursa",
+        "lane": "Off Lane",
+        "presence": "13.00%",
+        "winrate": "52.64%",
+        "kda": "2.54",
+        "gpm": "454",
+        "xpm": "639"
+    },
+    {
+        "hero_name": "Ursa",
+        "lane": "Jungle",
+        "presence": "9.60%",
+        "winrate": "51.34%",
+        "kda": "2.67",
+        "gpm": "458",
+        "xpm": "639"
+    },
+    {
+        "hero_name": "Vengeful Spirit",
+        "lane": "Safe Lane",
+        "presence": "58.22%",
+        "winrate": "52.41%",
+        "kda": "2.13",
+        "gpm": "307",
+        "xpm": "418"
+    },
+    {
+        "hero_name": "Vengeful Spirit",
+        "lane": "Off Lane",
+        "presence": "29.96%",
+        "winrate": "52.93%",
+        "kda": "2.17",
+        "gpm": "327",
+        "xpm": "418"
+    },
+    {
+        "hero_name": "Vengeful Spirit",
+        "lane": "Mid Lane",
+        "presence": "6.00%",
+        "winrate": "53.02%",
+        "kda": "2.42",
+        "gpm": "382",
+        "xpm": "418"
+    },
+    {
+        "hero_name": "Venomancer",
+        "lane": "Off Lane",
+        "presence": "50.65%",
+        "winrate": "52.47%",
+        "kda": "2.42",
+        "gpm": "390",
+        "xpm": "481"
+    },
+    {
+        "hero_name": "Venomancer",
+        "lane": "Safe Lane",
+        "presence": "31.07%",
+        "winrate": "51.32%",
+        "kda": "2.34",
+        "gpm": "365",
+        "xpm": "481"
+    },
+    {
+        "hero_name": "Venomancer",
+        "lane": "Mid Lane",
+        "presence": "8.28%",
+        "winrate": "50.98%",
+        "kda": "2.74",
+        "gpm": "469",
+        "xpm": "481"
+    },
+    {
+        "hero_name": "Viper",
+        "lane": "Mid Lane",
+        "presence": "51.10%",
+        "winrate": "51.25%",
+        "kda": "3.22",
+        "gpm": "485",
+        "xpm": "601"
+    },
+    {
+        "hero_name": "Viper",
+        "lane": "Off Lane",
+        "presence": "34.62%",
+        "winrate": "50.32%",
+        "kda": "2.55",
+        "gpm": "431",
+        "xpm": "601"
+    },
+    {
+        "hero_name": "Viper",
+        "lane": "Safe Lane",
+        "presence": "13.09%",
+        "winrate": "47.50%",
+        "kda": "2.65",
+        "gpm": "434",
+        "xpm": "601"
+    },
+    {
+        "hero_name": "Visage",
+        "lane": "Mid Lane",
+        "presence": "41.52%",
+        "winrate": "57.35%",
+        "kda": "3.77",
+        "gpm": "494",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Visage",
+        "lane": "Off Lane",
+        "presence": "28.00%",
+        "winrate": "50.02%",
+        "kda": "2.69",
+        "gpm": "389",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Visage",
+        "lane": "Safe Lane",
+        "presence": "27.07%",
+        "winrate": "48.77%",
+        "kda": "2.6",
+        "gpm": "358",
+        "xpm": "627"
+    },
+    {
+        "hero_name": "Void Spirit",
+        "lane": "Mid Lane",
+        "presence": "77.48%",
+        "winrate": "49.91%",
+        "kda": "3.85",
+        "gpm": "495",
+        "xpm": "680"
+    },
+    {
+        "hero_name": "Void Spirit",
+        "lane": "Off Lane",
+        "presence": "16.55%",
+        "winrate": "49.21%",
+        "kda": "2.94",
+        "gpm": "411",
+        "xpm": "680"
+    },
+    {
+        "hero_name": "Warlock",
+        "lane": "Safe Lane",
+        "presence": "70.26%",
+        "winrate": "52.89%",
+        "kda": "2.66",
+        "gpm": "320",
+        "xpm": "425"
+    },
+    {
+        "hero_name": "Warlock",
+        "lane": "Off Lane",
+        "presence": "22.23%",
+        "winrate": "53.38%",
+        "kda": "2.68",
+        "gpm": "338",
+        "xpm": "425"
+    },
+    {
+        "hero_name": "Weaver",
+        "lane": "Off Lane",
+        "presence": "49.75%",
+        "winrate": "51.08%",
+        "kda": "3.23",
+        "gpm": "445",
+        "xpm": "568"
+    },
+    {
+        "hero_name": "Weaver",
+        "lane": "Safe Lane",
+        "presence": "38.84%",
+        "winrate": "50.11%",
+        "kda": "3.8",
+        "gpm": "505",
+        "xpm": "568"
+    },
+    {
+        "hero_name": "Weaver",
+        "lane": "Mid Lane",
+        "presence": "9.52%",
+        "winrate": "49.89%",
+        "kda": "3.56",
+        "gpm": "495",
+        "xpm": "568"
+    },
+    {
+        "hero_name": "Windranger",
+        "lane": "Off Lane",
+        "presence": "51.48%",
+        "winrate": "49.26%",
+        "kda": "2.79",
+        "gpm": "407",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Windranger",
+        "lane": "Mid Lane",
+        "presence": "34.46%",
+        "winrate": "49.29%",
+        "kda": "3.36",
+        "gpm": "475",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Windranger",
+        "lane": "Safe Lane",
+        "presence": "12.53%",
+        "winrate": "45.77%",
+        "kda": "2.63",
+        "gpm": "380",
+        "xpm": "526"
+    },
+    {
+        "hero_name": "Winter Wyvern",
+        "lane": "Safe Lane",
+        "presence": "60.86%",
+        "winrate": "50.13%",
+        "kda": "2.29",
+        "gpm": "317",
+        "xpm": "432"
+    },
+    {
+        "hero_name": "Winter Wyvern",
+        "lane": "Off Lane",
+        "presence": "27.70%",
+        "winrate": "50.70%",
+        "kda": "2.41",
+        "gpm": "345",
+        "xpm": "432"
+    },
+    {
+        "hero_name": "Winter Wyvern",
+        "lane": "Mid Lane",
+        "presence": "7.01%",
+        "winrate": "52.30%",
+        "kda": "2.92",
+        "gpm": "430",
+        "xpm": "432"
+    },
+    {
+        "hero_name": "Witch Doctor",
+        "lane": "Safe Lane",
+        "presence": "72.30%",
+        "winrate": "50.03%",
+        "kda": "2.13",
+        "gpm": "310",
+        "xpm": "430"
+    },
+    {
+        "hero_name": "Witch Doctor",
+        "lane": "Off Lane",
+        "presence": "21.37%",
+        "winrate": "50.09%",
+        "kda": "2.19",
+        "gpm": "318",
+        "xpm": "430"
+    },
+    {
+        "hero_name": "Wraith King",
+        "lane": "Safe Lane",
+        "presence": "63.31%",
+        "winrate": "54.73%",
+        "kda": "3.95",
+        "gpm": "549",
+        "xpm": "635"
+    },
+    {
+        "hero_name": "Wraith King",
+        "lane": "Off Lane",
+        "presence": "19.37%",
+        "winrate": "53.33%",
+        "kda": "2.98",
+        "gpm": "465",
+        "xpm": "635"
+    },
+    {
+        "hero_name": "Wraith King",
+        "lane": "Jungle",
+        "presence": "14.48%",
+        "winrate": "51.83%",
+        "kda": "3.41",
+        "gpm": "496",
+        "xpm": "635"
+    },
+    {
+        "hero_name": "Zeus",
+        "lane": "Mid Lane",
+        "presence": "63.83%",
+        "winrate": "54.49%",
+        "kda": "4.27",
+        "gpm": "472",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Zeus",
+        "lane": "Off Lane",
+        "presence": "23.35%",
+        "winrate": "53.70%",
+        "kda": "3.26",
+        "gpm": "380",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Zeus",
+        "lane": "Safe Lane",
+        "presence": "10.79%",
+        "winrate": "51.64%",
+        "kda": "3.01",
+        "gpm": "358",
+        "xpm": "595"
+    },
+    {
+        "hero_name": "Primal Beast",
+        "lane": "Off Lane",
+        "presence": "76.26%",
+        "winrate": "49.92%",
+        "kda": "2.87",
+        "gpm": "431",
+        "xpm": "593"
+    },
+    {
+        "hero_name": "Primal Beast",
+        "lane": "Safe Lane",
+        "presence": "10.98%",
+        "winrate": "47.85%",
+        "kda": "2.4",
+        "gpm": "385",
+        "xpm": "593"
+    },
+    {
+        "hero_name": "Primal Beast",
+        "lane": "Mid Lane",
+        "presence": "10.11%",
+        "winrate": "51.86%",
+        "kda": "3.63",
+        "gpm": "510",
+        "xpm": "593"
+    }
+]

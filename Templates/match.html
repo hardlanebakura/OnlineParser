@@ -1,0 +1,279 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+    <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/match.css') }}">
+        {% if searched_match is not none %}
+            <script>
+                var match = {{ match|tojson }}
+                var items = {{ items|tojson }}
+                var abilities = {{ abilities|tojson }}
+                var talentTreeCodes = {{ talent_tree_codes|tojson }}
+            </script>
+        {% endif %}
+
+{% endblock %}
+
+{% block body %}
+
+    {{ searched_match }}
+    <div class = "title_wrapper">
+        <div class = "match_title_main">
+            <div class = "match_title">
+                <div class = "match_title_title">
+                    Match {{ match["match_id"] }}
+                </div>
+                <div class = match_title_subtitle">
+                    <small>Overview</small>
+                </div>
+            </div>
+            <div class = "match_additional_info">
+                <div class = "match_additional_info_time">
+                    <div class = "match_time">
+                        {{ match["start_time"] }}
+                    </div>
+                    <div class = match_title_subtitle">
+                        <small>MATCH TIME</small>
+                    </div>
+                </div>
+                <div class = "match_additional_info_region">
+                    {{ match["region"] }}
+                    <div class = match_title_subtitle">
+                        <small>REGION</small>
+                    </div>
+                </div>
+                <div class = "match_additional_info_gamemode">
+                    {{ match["game_mode"] }}
+                    <div class = match_title_subtitle">
+                        <small>GAME MODE</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "match_wrapper">
+        <div class = "match">
+            <div class = "match_winner">
+                {{ match["winner"] }} victory
+            </div>
+            <div class = "match_score">
+                <div class = "radiant_score">
+                    {{ match["radiant_score"] }}
+                </div>
+                <div class = "match_duration">
+                    1
+                </div>
+                <div class = "dire_score">
+                    {{ match["dire_score"] }}
+                </div>
+            </div>
+            <div class = "team_title_radiant">
+                RADIANT
+            </div>
+            <div class = "team_heroes_radiant">
+                {% for i in range (5) %}
+                    <div class = "team_heroes_radiant_row">
+                        <div class = "team_heroes_hero_avatar">
+                            <a class = "hero_link" href = "/heroes/{{ match['heroes'][i]}}">
+                                <img class = "team_heroes_hero_image" src = "{{ url_for('static', filename = '/images/hero_avatars/' + match['heroes'][i] + '.png' ) }}">
+                                <div class = "team_heroes_hero_level">
+                                    {{ match["players"][i]["level"] }}
+                                </div>
+                            </a>
+                        </div>
+                        <div class = "team_heroes_hero_name">
+                            {% if match["players"][i]["account_id"] is not none %}
+                                <a class = "team_player_link" href = "/players/{{ match['players'][i]['account_id'] }}">
+                                    {{ match['players'][i]["personaname"] }}
+                                </a>
+                            {% else %}
+                                Anonymous
+                            {% endif %}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["kills"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["deaths"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["assists"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_nw_stats">
+                            {{ match["players"][i]["net_worth"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_lh_stats">
+                            {{ match["players"][i]["last_hits"] }} / {{ match["players"][i]["denies"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_damage_stats">
+                            {{ match["players"][i]["hero_damage"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_healing_stats">
+                            {{ match["players"][i]["hero_healing"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_building_stats">
+                            {{ match["players"][i]["tower_damage"] }}
+                        </div>
+                        <div class = "team_heroes_hero_items">
+                            <div class = "team_heroes_hero_items_stats">
+                                <div class = "team_heroes_hero_items_stats_row_1">
+                                    {% for j in range(6) %}
+                                        {% set inventory_item = 'item_' + j|string %}
+                                        {% for item in items %}
+                                            {% if match["players"][i][inventory_item] == items[item]["id"] %}
+                                                <img class = "team_heroes_hero_items_item" src = "{{ items[item]['img'] }}">
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
+                                    <div class = "team_heroes_hero_items_backpack">
+                                        {% for item in items %}
+                                            {% if match["players"][i]["backpack_0"] == items[item]["id"] %}
+                                                <img class = "team_heroes_hero_items_item_backpack" src = "{{ items[item]['img'] }}">
+                                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class = "picks_and_bans_by_radiant">
+                {% for i in range(5) %}
+                    <div class = "picks_and_ban_hero">
+                        <img class = "picks_and_bans_pick">
+                        <div class = "pick_ban_order"></div>
+                        <div class = "title_subtitle" style = "transform: translateY(-18px)">
+                            <small>PICK</small>
+                        </div>
+                    </div>
+                {% endfor %}
+                {% for i in range(4) %}
+                    <div class = "picks_and_ban_hero">
+                        <img class = "picks_and_bans_ban">
+                        <div class = "pick_ban_order"></div>
+                        <div class = "title_subtitle" style = "transform: translateY(-18px)">
+                            <small>BAN</small>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class = "team_title_dire">
+                DIRE
+            </div>
+            <div class = "team_heroes_dire">
+                {% for i in range (5, 10) %}
+                    <div class = "team_heroes_dire_row">
+                        <div class = "team_heroes_hero_avatar">
+                            <a class = "hero_link" href = "/heroes/{{ match['heroes'][i] }}">
+                                <img class = "team_heroes_hero_image" src = "{{ url_for('static', filename = '/images/hero_avatars/' + match['heroes'][i] + '.png' ) }}">
+                                <div class = "team_heroes_hero_level">
+                                    {{ match["players"][i]["level"] }}
+                                </div>
+                            </a>
+                        </div>
+                        <div class = "team_heroes_hero_name">
+                            {% if match["players"][i]["account_id"] is not none %}
+                                <a class = "team_player_link" href = "/players/{{ match['players'][i]['account_id'] }}">
+                                    {{ match['players'][i]["personaname"] }}
+                                </a>
+                            {% else %}
+                                Anonymous
+                            {% endif %}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["kills"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["deaths"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_kda_stats">
+                            {{ match["players"][i]["assists"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_nw_stats">
+                            {{ match["players"][i]["net_worth"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_lh_stats">
+                            {{ match["players"][i]["last_hits"] }} / {{ match["players"][i]["denies"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_damage_stats">
+                            {{ match["players"][i]["hero_damage"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_healing_stats">
+                            {{ match["players"][i]["hero_healing"] }}
+                        </div>
+                        <div class = "team_heroes_hero_stats hero_building_stats">
+                            {{ match["players"][i]["tower_damage"] }}
+                        </div>
+                        <div class = "team_heroes_hero_items">
+                            <div class = "team_heroes_hero_items_stats">
+                                <div class = "team_heroes_hero_items_stats_row_1">
+                                    {% for j in range(6) %}
+                                        {% set inventory_item = 'item_' + j|string %}
+                                        {% for item in items %}
+                                            {% if match["players"][i][inventory_item] == items[item]["id"] %}
+                                                <img class = "team_heroes_hero_items_item" src = "{{ items[item]['img'] }}">
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
+                                    <div class = "team_heroes_hero_items_backpack">
+                                        {% for item in items %}
+                                            {% if match["players"][i]["backpack_0"] == items[item]["id"] %}
+                                                <img class = "team_heroes_hero_items_item_backpack" src = "{{ items[item]['img'] }}">
+                                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class = "picks_and_bans_by_dire">
+                {% for i in range(5) %}
+                    <div class = "picks_and_ban_hero">
+                        <img class = "picks_and_bans_pick">
+                        <div class = "pick_ban_order"></div>
+                        <div class = "title_subtitle" style = "transform: translateY(-18px)">
+                            <small>PICK</small>
+                        </div>
+                    </div>
+                {% endfor %}
+                {% for i in range(4) %}
+                    <div class = "picks_and_ban_hero">
+                        <img class = "picks_and_bans_ban">
+                        <div class = "pick_ban_order"></div>
+                        <div class = "title_subtitle" style = "transform: translateY(-18px)">
+                            <small>BAN</small>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class = "team_title_radiant">
+                RADIANT SKILLS BUILDS
+            </div>
+            {% for i in range(5) %}
+            <div class = "radiant_skill_build_row">
+                <img class = "team_heroes_hero_image" src = "{{ url_for('static', filename = '/images/hero_avatars/' + match['heroes'][i] + '.png' ) }}">
+                <img class = "team_heroes_talent_tree_image" src = "{{ url_for('static', filename = '/images/talent_tree.png') }}">
+                {% for j in range(20) %}
+                <div class = "team_heroes_hero_ability">
+                    {{ match["players"][i]["ability_upgrades_arr"][j] }}
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+
+
+<script src = "{{ url_for('static', filename = '/js/match.js') }}"></script>
+
+{% endblock %}
+

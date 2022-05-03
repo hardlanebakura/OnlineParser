@@ -1,0 +1,268 @@
+:root {
+
+    --g:#242F39;
+    --lg: #2E3740;
+    --dg: #1C242D;
+    --hlbg:#ED3B1C;
+    --es:#39CCCC;
+    --r:#ED3B1C;
+    --high:#A9CF54;
+    --low:#C23C2A;
+    --rkg:#9698A3;
+    --rkbk:#18181C;
+
+}
+
+body {
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background-color:var(--dg);
+    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+    color:#fff;
+
+}
+
+.header_menu {
+
+    max-width:1200px;
+    font-family: Arial, sans-serif;
+    color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.header_menu_item {
+
+    margin:7px 10px;
+    cursor:pointer;
+
+}
+
+.header_logo {
+
+    margin-inline: 4px;
+    padding: 7px 9px;
+    font-size:20px;
+    background-color:var(--hlbg);
+
+}
+
+.color-esports {
+
+    color:var(--es);
+
+}
+
+.header_link, .hero_link {
+
+    color:inherit;
+    text-decoration:none;
+
+}
+
+.active {
+
+    color:var(--r);
+
+}
+
+.title_wrapper {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title {
+
+    min-width:1178px;
+    margin-top:4%;
+    margin-bottom:1%;
+    padding:8px;
+    background-color:var(--lg);
+    color:#fff;
+
+}
+
+.title_title {
+
+    font-size: 24px;
+
+}
+
+.title_subtitle {
+
+    padding-left:1px;
+
+}
+
+.grid_title_wrapper {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.grid_title {
+
+    min-width: 1178px;
+    display:flex;
+
+}
+
+.grid_title_all {
+
+    margin-top:10px;
+    margin-bottom:19px;
+    margin-left:1px;
+    text-transform:uppercase;
+
+}
+
+.grid_title_win {
+
+    margin-left: auto;
+    display:flex;
+
+}
+
+.subtitle {
+
+    color:rgba(255, 255, 255, 0.6);
+
+}
+
+.row_1 {
+
+    display:flex;
+    background-color: var(--lg);
+
+}
+
+.row_2 {
+
+    display:flex;
+    background-color: rgba(36, 47, 57, 0.04);
+
+}
+
+.header_search_button {
+
+    padding:14px 10px 10px 10px;
+    cursor:pointer;
+
+
+}
+
+.search_button_img {
+
+    height: 19px;
+    width: 22px;
+
+}
+
+.search_menu {
+
+    height:140px;
+    background-color:var(--lg);
+    display:none;
+
+}
+
+.search_button {
+
+    height:24px;
+    width:100px;
+    background-color:var(--g);
+    color:var(--high);
+    border:1px solid var(--high);
+
+}
+
+.overview_wrapper {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.overview {
+
+    min-width: 1178px;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    padding: 8px;
+    background-color: var(--lg);
+    color: #fff;
+    display:flex;
+
+}
+
+.overview_img {
+
+    height:65px;
+    width:65px;
+
+}
+
+.overview_title {
+
+    padding-left:4px;
+
+}
+
+.profile_title {
+
+    font-size: 16px;
+    color: white;
+    position: relative;
+    padding: 6px 4px;
+    text-shadow: 1px 1px 2px black;
+    text-transform: uppercase;
+    font-weight: normal;
+    overflow: hidden;
+
+}
+
+.details_row {
+
+    font-weight:bold;
+    display:flex;
+
+}
+
+.page_menu {
+
+    min-width: 1178px;
+    max-width: 1178px;
+    padding: 10px;
+    background-color: var(--lg);
+    display: flex;
+
+}
+
+.page_menu_wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.page_menu_item {
+
+    padding:4px;
+
+}
+
+.active_item {
+
+    color:red;
+
+}

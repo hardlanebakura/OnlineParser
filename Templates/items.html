@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" href = "{{ url_for('static', filename = '/css/items.css') }}">
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "page_menu_wrapper">
+        <div class = "page_menu">
+            <a class = "hero_link" href = "/items/">
+                <div class = "page_menu_item active_item">
+                    Most used
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/winrate">
+                <div class = "page_menu_item">
+                    Winrate
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/impact">
+                <div class = "page_menu_item">
+                    Impact
+                </div>
+            </a>
+            <a class = "hero_link" href = "/items/economy">
+                <div class = "page_menu_item">
+                    Economy
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class = "title_wrapper">
+        <div class = "title">
+        <div class = "title_title">
+            Items
+        </div>
+        <div class = "title_subtitle">
+            <small>All items</small>
+        </div>
+        </div>
+    </div>
+
+    <div class = "grid_title_wrapper">
+        <div class = "grid_title">
+            ALL ITEMS
+        </div>
+    </div>
+
+    <div class = "items_main_wrapper">
+        <div class = "items_main">
+            <div class = "items_row details_row">
+                <div class = "items_item_name_details">
+                    Item Name
+                </div>
+                <div class = "items_item_usage_details">
+                    Used times
+                </div>
+                <div class = "items_item_usage_percentage_details">
+                    Used percentage
+                </div>
+                <div class = "items_item_win_percentage_details">
+                    Win percentage
+                </div>
+            </div>
+            {% for item in items %}
+                <div class = "items_row">
+                    <img class = "items_item_img" src = "{{ item['item_img'] }}">
+                    <div class = "items_item_name">
+                        {{ item["item_name"] }}
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "items_item_usage">
+                            {{ item["item_usage"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "items_item_usage_percentage">
+                            {{ item["item_usage_percentage"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "items_item_win_percentage">
+                            {{ item["item_win_percentage"] }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script src = "{{ url_for('static', filename = '/js/items.js') }}"></script>
+
+{% endblock %}
