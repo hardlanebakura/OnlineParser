@@ -2,7 +2,7 @@ import json
 from log_config import logging
 import yaml
 import requests
-
+import os
 
 data = {
 
@@ -409,4 +409,6 @@ def update_team_logos():
 				#logging.info(team["name"])
 
 update_team_logos()
+os.environ["ASD"] = "ASD"
+
 

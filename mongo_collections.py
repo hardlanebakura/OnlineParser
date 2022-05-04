@@ -2,8 +2,8 @@ from pymongo import MongoClient
 import os
 from dotenv import dotenv_values
 
-#MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
-MONGODB_CONNECTION = dotenv_values("mdc.env")["MONGODB_CONNECTION"]
+MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
+#MONGODB_CONNECTION = dotenv_values("mdc.env")["MONGODB_CONNECTION"]
 
 class DatabaseAtlas(object):
 

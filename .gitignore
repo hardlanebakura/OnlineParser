@@ -152,6 +152,7 @@ dmypy.json
 .pytype/
 
 mdc.env
+d.py
 
 # Cython debug symbols
 cython_debug/
