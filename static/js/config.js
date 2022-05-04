@@ -5,6 +5,12 @@ var address = window.location.href.split("/")[window.location.href.split("/").le
 
 function configDotapicker() {
 
+    heroes.forEach(hero => {
+
+        hero = hero.split("/hero_avatars")[1];
+
+    })
+    console.log(heroes);
     var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
     Array.from(heroImgs).forEach(heroImg => {
 
