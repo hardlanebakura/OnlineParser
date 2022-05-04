@@ -60,7 +60,7 @@ function configHeroesProduction() {
 
     })
 
-    var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
+    var heroImgs = document.getElementsByClassName("hero_grid_image");
     var heroGridTitles = document.getElementsByClassName("hero_grid_title");
     Array.from(heroImgs).forEach(heroImg => {
 
