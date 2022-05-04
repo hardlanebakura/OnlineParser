@@ -8,5 +8,9 @@ function configDotapicker() {
 
 }
 
-function config
+function config() {
+
+    
+
+}
 
