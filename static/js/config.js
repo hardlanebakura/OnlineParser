@@ -1,7 +1,7 @@
 //make files deployable
 //if (window.location.href)
 var address = window.location.href.split("/")[window.location.href.split("/").length - 2];
-(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : config() : {}
+(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : config() : (address == "dotapicker") ? config() : {}
 
 function configDotapicker() {
 
@@ -17,18 +17,23 @@ function configDotapicker() {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)];
+        heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
 
     })
-
-    heroImgs[0].setAttribute("src", "../static/images/hero_avatars/Abaddon.png");
-    console.log("1");
 
 }
 
 function config() {
 
-    console.log("asd");
+    var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
+    var heroGridTitles = document.getElementsByClassName("hero_grid_title");
+    Array.from(heroImgs).forEach(heroImg => {
+
+        heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+        heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
+
+    })
 
 }
 
