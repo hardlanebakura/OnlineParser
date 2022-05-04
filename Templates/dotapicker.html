@@ -13,12 +13,12 @@
     heroes.sort;
     heroes.forEach(hero => {
 
-        hero.replace("%20, "");
-        console.log(heroes.indexOf(hero));
-        heroes.indexOf(hero).replace("%20","");
-        console.log(heroes.indexOf(hero));
+        hero.replace("%20", "");
+        console.log(heroes[heroes.indexOf(hero)]);
+        heroes[heroes.indexOf(hero)].replace("%20"," ");
+        console.log(heroes[heroes.indexOf(hero)]);
 
-    }
+    })
 
 </script>
 

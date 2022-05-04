@@ -9,12 +9,6 @@ heroWinrates.sort(function(a, b) {
 var mostPopularHeroes = hero_popularities.slice(0, 10).map(c => c["hero_name"]);
 var highestWinrates = heroWinrates.slice(0, 10).map(c => c["hero_name"]);
 
-//heroes.forEach(hero => {
-//
-//    if (hero.length > 22) hero = hero.split("/hero_avatars/")[1];
-//
-//})
-
 Array.from(heroesGridHero).forEach(element => {
 
     //hero image
