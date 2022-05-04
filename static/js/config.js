@@ -2,13 +2,15 @@
 var address = window.location.href.split("/")[window.location.href.split("/").length - 2];
 (window.location.href.includes(".com")) ?
 (address == "dotapicker") ?
-    configDotapicker()
+    configDotapickerProduction()
     : (address == "heroes") ?
         configHeroesProduction()
         : {}
 :(address == "dotapicker") ?
-    config()
-    : {}
+    configDotapicker()
+    : (address == "heroes") ?
+        configHeroesDevelopment()
+        : {}
 //(address == "dotapicker") ?
 //    configDotapicker()
 //    : {}
@@ -16,7 +18,7 @@ var address = window.location.href.split("/")[window.location.href.split("/").le
 //    config()
 //    : {}
 //(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : {} : (address == "dotapicker") ? config() : {}
-function configDotapicker() {
+function configDotapickerProduction() {
 
     heroes.forEach(hero => {
 
@@ -36,7 +38,7 @@ function configDotapicker() {
 
 }
 
-function config() {
+function configDotapicker() {
 
     var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
     var heroGridTitles = document.getElementsByClassName("hero_grid_title");
