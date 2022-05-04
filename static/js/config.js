@@ -1,7 +1,7 @@
 //make files deployable
 //if (window.location.href)
 var address = window.location.href.split("/")[window.location.href.split("/").length - 2];
-(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : config() : (address == "dotapicker") ? config() : {}
+(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : {} : (address == "dotapicker") ? config() : {}
 
 function configDotapicker() {
 
