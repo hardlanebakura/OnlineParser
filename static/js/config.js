@@ -8,7 +8,7 @@ function configDotapicker() {
     var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
     Array.from(heroImgs).forEach(heroImg => {
 
-        heroImg.setAttribute("src", `../images/hero_avatars/${}`);
+        heroImg.setAttribute("src", `../images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
 
     })
 
