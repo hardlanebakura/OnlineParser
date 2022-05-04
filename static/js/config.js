@@ -16,7 +16,7 @@ function configDotapicker() {
 
         console.log("1");
         //heroImg.setAttribute("src", `${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        console.log(`../static/images/hero_avatars/${{heroes[Array.from(heroImgs).indexOf(heroImg)]}}`);
+        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
 
     })
 
