@@ -27,6 +27,7 @@ body {
 .header_menu {
 
     max-width:1200px;
+    margin-left:22px;
     font-family: Arial, sans-serif;
     color:#fff;
     display:flex;
