@@ -52,6 +52,7 @@ function config() {
 
 function configHeroesProduction() {
 
+    console.log(heroes);
     heroes.sort();
 
     heroes.forEach(hero => {
