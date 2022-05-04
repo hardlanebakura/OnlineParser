@@ -12,13 +12,15 @@ function configDotapicker() {
     })
     console.log(heroes);
     var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
-    heroImg[0].setAttribute("src", "../static/images/hero_avatars/Abaddon.png");
     Array.from(heroImgs).forEach(heroImg => {
 
         console.log("1");
         heroImg.setAttribute("src", `${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
 
     })
+
+    heroImgs[0].setAttribute("src", "../static/images/hero_avatars/Abaddon.png");
+    console.log("1");
 
 }
 
