@@ -100,11 +100,15 @@
                         <div class = "heroes_grid_hero">
                             {% if heroes[j] %}
                                 {% if heroes[j]|length > 22 %}
-                                    {% set heroes[j] = heroes[j].split("/hero_avatars")[1] %}
+                                    {% set k = heroes[j].split("/hero_avatars")[1] %}
                                 {% endif %}
-                                {% set hero_name = heroes[j].split(".png")[0] %}
+                                {% if k is defined %}
+                                    {% set hero_name = k.split(".png")[0] %}
+                                {% else %}
+                                    {% set hero_name = heroes[j].split(".png")[0] %}
+                                {% endif %}
                                 <a class = "hero_link" href = "/heroes/{{ hero_name }}">
-                                <img class = "hero_grid_image" height = "82px" width = "147px" src = "{{ url_for('static', filename = '/images/hero_avatars/' + heroes[j] ) }}">
+                                <img class = "hero_grid_image" height = "82px" width = "147px" src = "{{ url_for('static', filename = '/images/hero_avatars/' + hero_name + '.png' ) }}">
                                 <div class = "hero_grid_title">
                                 {{ hero_name }}
                                 </div>
