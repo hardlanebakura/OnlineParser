@@ -9,7 +9,7 @@ import os
 import fnmatch
 
 heroes_pages = Blueprint('heroes', __name__,
-                        template_folder='Templates', static_folder='static', url_prefix="/heroes")
+                        template_folder='templates', static_folder='static', url_prefix="/heroes")
 
 def search():
     if request.method == "POST":
@@ -26,7 +26,22 @@ def heroes():
     m = [item for item in DatabaseAtlas.findAll("heroes", {})]
     logging.info(os.getenv("MONGODB_CONNECTION"))
     #logging.info(os.environ["MONGODB_CONNECTION"])
-    return render_template("heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
+    return render_template("heroes/heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
+
+@heroes_pages.route("/winrate")
+def heroes_winrate():
+    heroes = [hero for hero in DatabaseAtlas.findAll("heroes", {})]
+    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
+
+@heroes_pages.route("/meta")
+def heroes_meta():
+    heroes = [hero["localized_name"] + ".png" for hero in DatabaseAtlas.findAll("heroes", {})]
+    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
+
+@heroes_pages.route("/impact")
+def heroes_impact():
+    heroes = [hero["localized_name"] + ".png" for hero in DatabaseAtlas.findAll("heroes", {})]
+    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/<string:hero>")
 def hero(hero):
@@ -38,7 +53,7 @@ def hero(hero):
     lanes_for_hero = DatabaseAtlas.findAll("lanes_for_heroes", {"hero_name":hero})
     talents_for_hero = data["talent_trees"][hero_names.index(hero)]
     logging.info(data["talent_trees"])
-    return render_template("hero.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks_for_hero = counterpicks_for_hero, hero_statistics = hero_statistics,
+    return render_template("heroes/hero.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks_for_hero = counterpicks_for_hero, hero_statistics = hero_statistics,
                            items_for_hero = items_for_hero, lanes_for_hero = lanes_for_hero, talents_for_hero = talents_for_hero)
 
 @heroes_pages.route("/<string:hero>/counterpicks")
@@ -46,4 +61,4 @@ def counterpicks_for_hero(hero):
     search()
     counterpicks = DatabaseAtlas.findAll("counterpicks", {"counterpick_for":hero})
     logging.info(counterpicks)
-    return render_template("counterpicks.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks = counterpicks)
+    return render_template("heroes/counterpicks.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks = counterpicks)

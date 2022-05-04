@@ -56,3 +56,128 @@
     margin-left:4px;
 
 }
+
+.heroes_main_wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.heroes_main {
+
+    width:1178px;
+    min-width:1178px;
+    margin-top:1%;
+
+}
+
+.heroes_row {
+
+    padding:4px;
+    font-size:12px;
+    display:flex;
+    align-heroes:center;
+
+}
+
+.heroes_hero_img {
+
+    height:24px;
+    width:33px;
+
+}
+
+.heroes_hero_name {
+
+    width:206px;
+    padding-left:7px;
+    color:var(--high);
+
+}
+
+.heroes_hero_usage {
+
+    width:300px;
+
+}
+
+.heroes_hero_usage_percentage {
+
+    width:300px;
+
+}
+
+.heroes_hero_win_percentage {
+
+    width:300px;
+
+}
+
+.heroes_hero_name_details {
+
+    width:246px;
+
+}
+
+.heroes_hero_usage_details {
+
+    width:276px;
+
+}
+
+.heroes_hero_usage_percentage_details {
+
+    width:300px;
+
+}
+
+.heroes_hero_win_percentage_details {
+
+    width:300px;
+
+}
+
+.heroes_hero_kda {
+
+    margin-left:1px;
+    width:272px;
+
+}
+
+.heroes_hero_kills {
+
+    width:156px;
+
+}
+
+.heroes_hero_deaths {
+
+    width:156px;
+
+}
+
+.heroes_hero_assists {
+
+    width:156px;
+
+}
+
+.heroes_hero_kills_details {
+
+    width:146px;
+
+}
+
+.heroes_hero_deaths_details {
+
+    width:156px;
+
+}
+
+.heroes_hero_assists_details {
+
+    width:156px;
+
+}
+
