@@ -7,7 +7,7 @@ function configDotapicker() {
 
     heroes.forEach(hero => {
 
-        hero = hero.split("/hero_avatars")[1];
+        heroes[heroes.indexOf(hero)] = hero.split("/hero_avatars")[1];
 
     })
     console.log(heroes);
