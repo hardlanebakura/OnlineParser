@@ -99,12 +99,14 @@
                     {% for j in range(i, i+8) %}
                         <div class = "heroes_grid_hero">
                             {% if heroes[j] %}
+                                {% if heroes[j]|length > 22 %}
+                                    {% set heroes[j] = heroes[j].split("/hero_avatars")[1] %}
+                                {% endif %}
                                 {% set hero_name = heroes[j].split(".png")[0] %}
-                                {% set hero_img = heroes[j]|length %}
                                 <a class = "hero_link" href = "/heroes/{{ hero_name }}">
                                 <img class = "hero_grid_image" height = "82px" width = "147px" src = "{{ url_for('static', filename = '/images/hero_avatars/' + heroes[j] ) }}">
                                 <div class = "hero_grid_title">
-                                {{ hero_img }}
+                                {{ hero_name }}
                                 </div>
                                 </a>
                             {% endif %}
