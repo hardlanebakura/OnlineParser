@@ -61,7 +61,6 @@ function configHeroesProduction() {
     Array.from(heroImgs).forEach(heroImg => {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
 
     })
@@ -75,7 +74,6 @@ function configHeroesDevelopment() {
     Array.from(heroImgs).forEach(heroImg => {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
 
     })
 
