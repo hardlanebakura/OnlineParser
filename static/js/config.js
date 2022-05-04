@@ -5,7 +5,7 @@ var address = window.location.href.split("/")[window.location.href.split("/").le
     configDotapicker()
     : (address == "heroes") ?
         configHeroesProduction()
-        : console.log("1")
+        : {}
 :(address == "dotapicker") ?
     config()
     : {}
@@ -64,6 +64,8 @@ function configHeroesProduction() {
     var heroGridTitles = document.getElementsByClassName("hero_grid_title");
     Array.from(heroImgs).forEach(heroImg => {
 
+        console.log(heroes);
+        console.log(heroes[Array.from(heroImgs).indexOf(heroImg)]);
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
