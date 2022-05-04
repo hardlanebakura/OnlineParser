@@ -5,7 +5,7 @@ var address = window.location.href.split("/")[window.location.href.split("/").le
     configDotapicker()
     : (address == "heroes") ?
         configHeroesProduction()
-        : {}
+        : console.log("1")
 :(address == "dotapicker") ?
     config()
     : {}
