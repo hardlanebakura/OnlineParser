@@ -45,10 +45,10 @@
                     {% if heroes[i]|length > 22 %}
                         {% set k = heroes[i].split("/hero_avatars/")[1] %}
                     {% endif %}
-                    {% set d = '../static/images/hero_avatars/' + heroes[i] if k is not defined else heroes[i] %}
+                    {% set d = '../static/images/hero_avatars/' + heroes[i] if k is not defined else url_for('static', filename = '/images/hero_avatars/' + heroes[i] ) %}
                     <img class = "dotapicker_hero_img" src = "{{ d }}">
                     <div class = "hero_grid_title subtitle">
-                        {{ heroes[i].split(".png")[0] }}
+                        {{ d }}
                     </div>
                     <div class = "dotapicker_hero_options">
                         <div class = "dotapicker_hero_option_1">
