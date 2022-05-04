@@ -100,7 +100,7 @@
                         <div class = "heroes_grid_hero">
                             {% if heroes[j] %}
                                 {% if heroes[j]|length > 22 %}
-                                    {% set k = heroes[j].split("/hero_avatars")[1] %}
+                                    {% set k = heroes[j].split("/hero_avatars/")[1] %}
                                 {% endif %}
                                 {% if k is defined %}
                                     {% set hero_name = k.split(".png")[0] %}
