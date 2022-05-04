@@ -85,7 +85,7 @@ def find_match_stats(match_id, me):
         match_winner = "Dire"
     logging.info("Winner: " + match_winner)
 
-logging.info(response_heroes)
+#logging.info(response_heroes)
 
 def popularity_and_winrate():
     popularities = sorted(hero_popularities, key = lambda d: float(d["hero_popularity"].split("%")[0]), reverse = True)

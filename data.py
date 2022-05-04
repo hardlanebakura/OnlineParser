@@ -382,7 +382,7 @@ with open("data/talent_trees.yml", 'r') as talent_trees_code_file:
 
 	for item in talent_trees_code:
 		if len(talent_trees_code[item]) > 1 and talent_trees_code[item][0][:7] == "special":
-			logging.info(talent_trees_code[item][1])
+			#logging.info(talent_trees_code[item][1])
 			talent_trees_codes[item] = talent_trees_code[item][1]
 
 	data["talent_trees_code"] = talent_trees_codes
@@ -394,7 +394,7 @@ for esports_region in esports_regions:
 	logging.info(esports_region)
 	data_file = open("data/esports/{}_esports.json".format(esports_regions[esports_region]))
 	data["esports_regions"][esports_region] = json.load(data_file)
-	logging.info(data["esports_regions"])
+	#logging.info(data["esports_regions"])
 
 def update_team_logos():
 	response_teams = requests.get("https://api.opendota.com/api/teams").json()
@@ -407,8 +407,6 @@ def update_team_logos():
 					if response_team["name"] == team["name"]:
 						team["logo"] = response_team["logo_url"]
 				#logging.info(team["name"])
-	for item in response_teams:
-		logging.info(item)
 
 update_team_logos()
 

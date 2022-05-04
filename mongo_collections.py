@@ -1,7 +1,9 @@
 from pymongo import MongoClient
 import os
+from dotenv import dotenv_values
 
-MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
+#MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
+MONGODB_CONNECTION = dotenv_values("mdc.env")["MONGODB_CONNECTION"]
 
 class DatabaseAtlas(object):
 
@@ -39,8 +41,9 @@ class DatabaseAtlas(object):
         c = DatabaseAtlas.db[col].drop()
         return c
 
-#for match in DatabaseAtlas.findAll("french_ligue_1_upcoming_matches", {}):
-    #print(match)
+for match in DatabaseAtlas.findAll("french_ligue_1_upcoming_matches", {}):
+    print(match)
+
 
 print(DatabaseAtlas.db.list_collection_names())
 
