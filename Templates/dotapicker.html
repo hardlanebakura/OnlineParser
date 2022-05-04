@@ -10,6 +10,7 @@
     var heroes = {{ heroes|tojson }}
     var responseHeroes = {{ response_heroes|tojson }}
 
+    console.log(heroes);
     heroes.sort;
     heroes.forEach(hero => {
 
@@ -19,6 +20,8 @@
         console.log(heroes[heroes.indexOf(hero)]);
 
     })
+
+    console.log(heroes);
 
 </script>
 
