@@ -40,12 +40,15 @@
             <button class = "show_hero_grid_button">Show Hero Grid</button>
 
             <div class = "dotapicker_hero_grid">
-                {% for hero in heroes %}
+                {% for i in range(heroes|length) %}
                 <div class = "dotapicker_hero_grid_image">
-                    {% set d = '../static/images/hero_avatars/' + hero %}
+                    {% if heroes[i]|length > 22 %}
+                        {% set k = heroes[i].split("/hero_avatars/")[1] %}
+                    {% endif %}
+                    {% set d = '../static/images/hero_avatars/' + heroes[i] if k is not defined else heroes[i] %}
                     <img class = "dotapicker_hero_img" src = "{{ d }}">
                     <div class = "hero_grid_title subtitle">
-                        {{ hero.split(".png")[0] }}
+                        {{ heroes[i].split(".png")[0] }}
                     </div>
                     <div class = "dotapicker_hero_options">
                         <div class = "dotapicker_hero_option_1">
