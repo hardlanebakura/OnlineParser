@@ -54,7 +54,6 @@ function configDotapicker() {
 
 function configHeroesProduction() {
 
-    console.log(heroes);
     heroes.sort();
 
     var heroImgs = document.getElementsByClassName("hero_grid_image");
@@ -71,7 +70,14 @@ function configHeroesProduction() {
 
 function configHeroesDevelopment() {
 
+    var heroImgs = document.getElementsByClassName("hero_grid_image");
+    var heroGridTitles = document.getElementsByClassName("hero_grid_title");
+    Array.from(heroImgs).forEach(heroImg => {
 
+        heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+
+    })
 
 }
 

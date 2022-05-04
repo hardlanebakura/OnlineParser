@@ -8,12 +8,21 @@ heroWinrates.sort(function(a, b) {
 
 var mostPopularHeroes = hero_popularities.slice(0, 10).map(c => c["hero_name"]);
 var highestWinrates = heroWinrates.slice(0, 10).map(c => c["hero_name"]);
+var heroImgs = document.getElementsByClassName("hero_grid_image");
+var heroGridTitles = document.getElementsByClassName("hero_grid_title");
+Array.from(heroImgs).forEach(heroImg => {
+
+    heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+    console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+
+})
 
 Array.from(heroesGridHero).forEach(element => {
 
     //hero image
-    if (element.getElementsByClassName("hero_grid_image")[0] != undefined) {
+    if (heroImgs[0] != undefined) {
 
+        console.log(heroes);
         var heroName = element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
         hero_popularities.forEach(hero => {
 
