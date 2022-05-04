@@ -27,16 +27,6 @@ if (window.location.href.includes(".com") == false) {
 
 }
 
-else {
-
-        Array.from(heroImgs).forEach(heroImg => {
-
-            heroLinks[Array.from(heroImgs).indexOf(heroImg)].setAttribute("href", `../heroes/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`.split(".png")[0]);
-
-        })
-
-}
-
 Array.from(heroesGridHero).forEach(element => {
 
     //hero image

@@ -58,10 +58,14 @@ function configHeroesProduction() {
 
     var heroImgs = document.getElementsByClassName("hero_grid_image");
     var heroGridTitles = document.getElementsByClassName("hero_grid_title");
+    var heroLinks = document.getElementsByClassName("hero_link");
+    heroLinks = Array.from(heroLinks).splice(4);
+
     Array.from(heroImgs).forEach(heroImg => {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
+        heroLinks[Array.from(heroImgs).indexOf(heroImg)].setAttribute("href", `../heroes/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`.split(".png")[0]);
 
     })
 
