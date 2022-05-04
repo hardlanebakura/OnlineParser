@@ -15,7 +15,7 @@ function configDotapicker() {
     Array.from(heroImgs).forEach(heroImg => {
 
         console.log("1");
-        heroImg.setAttribute("src", `${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+        //heroImg.setAttribute("src", `${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
 
     })
 
