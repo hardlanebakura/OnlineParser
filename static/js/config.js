@@ -10,13 +10,14 @@ function configDotapicker() {
         heroes[heroes.indexOf(hero)] = hero.split("/hero_avatars/")[1];
 
     })
-    console.log(heroes);
+
     var heroImgs = document.getElementsByClassName("dotapicker_hero_img");
+    var heroGridTitles = document.getElementsByClassName("hero_grid_title");
     Array.from(heroImgs).forEach(heroImg => {
 
-        console.log("1");
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
+        heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)];
 
     })
 
