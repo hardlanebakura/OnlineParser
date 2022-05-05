@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/heroes.css') }}">
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/hero.css') }}">
+
+<script>
+
+    var heroes = {{ heroes|tojson }}
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "page_menu_wrapper">
+        <div class = "page_menu">
+            <a class = "hero_link" href = "/heroes/">
+                <div class = "page_menu_item active_item">
+                    All heroes
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/winrate">
+                <div class = "page_menu_item">
+                    Winrate
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/meta">
+                <div class = "page_menu_item">
+                    Meta
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/impact">
+                <div class = "page_menu_item">
+                    Impact
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class = "title_wrapper">
+        <div class = "title">
+        <div class = "title_title">
+            Heroes
+        </div>
+        <div class = "title_subtitle">
+            <small>Winrate</small>
+        </div>
+        </div>
+    </div>
+
+    <div class = "heroes_main_wrapper">
+        <div class = "heroes_main">
+            <div class = "heroes_row details_row">
+                <div class = "heroes_hero_name_details">
+                    Item Name
+                </div>
+                <div class = "heroes_hero_usage_details">
+                    Used times
+                </div>
+                <div class = "heroes_hero_usage_percentage_details">
+                    Used percentage
+                </div>
+                <div class = "heroes_hero_win_percentage_details">
+                    Win percentage
+                </div>
+            </div>
+            {% for hero in heroes %}
+                <div class = "heroes_row">
+                    <img class = "heroes_hero_img" src = "{{ hero['hero_img'] }}">
+                    <div class = "heroes_hero_name">
+                        {{ hero["hero_name"] }}
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_usage">
+                            {{ hero["hero_usage"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_usage_percentage">
+                            {{ hero["hero_usage_percentage"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_win_percentage">
+                            {{ hero["hero_win_percentage"] }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script type = "text/javascript" src = "{{ url_for('static', filename = '/js/heroes.additional.js') }}"></script>
+
+{% endblock %}

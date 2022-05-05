@@ -5,6 +5,7 @@
 <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/heroes.css') }}">
 <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/hero.css') }}">
 
+
 <script>
 
     var hero_popularities = {{ hero_popularities|tojson }}
@@ -16,7 +17,7 @@
 
     }
 
-    heroes[44] = "Keeper of the Light.png"
+    if (heroes[44] == undefined) heroes[44] = "Keeper of the Light.png"
 
     console.log(heroes);
 
@@ -28,24 +29,24 @@
 
     <div class = "page_menu_wrapper">
         <div class = "page_menu">
-            <a class = "hero_link" href = "/items/">
+            <a class = "hero_link" href = "/heroes/">
                 <div class = "page_menu_item active_item">
                     All heroes
                 </div>
             </a>
-            <a class = "hero_link" href = "/items/winrate">
+            <a class = "hero_link" href = "/heroes/winrate">
                 <div class = "page_menu_item">
                     Winrate
                 </div>
             </a>
-            <a class = "hero_link" href = "/heroes/impact">
+            <a class = "hero_link" href = "/heroes/meta">
                 <div class = "page_menu_item">
                     Meta
                 </div>
             </a>
-            <a class = "hero_link" href = "/items/economy">
+            <a class = "hero_link" href = "/heroes/impact">
                 <div class = "page_menu_item">
-                    Economy
+                    Impact
                 </div>
             </a>
         </div>

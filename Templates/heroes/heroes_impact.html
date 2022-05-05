@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/heroes.css') }}">
+<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = '/css/hero.css') }}">
+
+<script>
+
+    var heroes = {{ heroes|tojson }}
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+
+    <div class = "page_menu_wrapper">
+        <div class = "page_menu">
+            <a class = "hero_link" href = "/heroes/">
+                <div class = "page_menu_item">
+                    All heroes
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/winrate">
+                <div class = "page_menu_item">
+                    Winrate
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/impact">
+                <div class = "page_menu_item">
+                    Meta
+                </div>
+            </a>
+            <a class = "hero_link" href = "/heroes/economy">
+                <div class = "page_menu_item active_item">
+                    Impact
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class = "title_wrapper">
+        <div class = "title">
+        <div class = "title_title">
+            Heroes
+        </div>
+        <div class = "title_subtitle">
+            <small>Impact</small>
+        </div>
+        </div>
+    </div>
+
+    <div class = "heroes_main_wrapper">
+        <div class = "heroes_main">
+            <div class = "heroes_row details_row">
+                <div class = "heroes_hero_name_details" style = "width: 342px;">
+                    Hero
+                </div>
+                <div class = "heroes_hero_kda_details">
+                    KDA
+                </div>
+                <div class = "heroes_hero_kills_details">
+                    Kills
+                </div>
+                <div class = "heroes_hero_deaths_details">
+                    Deaths
+                </div>
+                <div class = "heroes_hero_assists_details">
+                    Assists
+                </div>
+            </div>
+            {% for hero in heroes %}
+                <div class = "heroes_row">
+                    <img class = "heroes_hero_img" src = "{{ '../static/images/hero_avatars/' + hero['name'] + '.png' }}">
+                    <div class = "heroes_hero_name" style = "width:290px">
+                        {{ hero["name"] }}
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_kda" style = "width:209px;">
+                            {{ hero["kda"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_kills">
+                            {{ hero["kills"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_deaths">
+                            {{ hero["deaths"] }}
+                        </div>
+                    </div>
+                    <div class = "visual_indicator_wrapper">
+                        <div class = "heroes_hero_assists">
+                            {{ hero["assists"] }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script type = "text/javascript" src = "{{ url_for('static', filename = '/js/heroes.additional.js') }}"></script>
+
+{% endblock %}

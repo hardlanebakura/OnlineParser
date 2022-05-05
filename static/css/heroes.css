@@ -116,25 +116,25 @@
 
 .heroes_hero_name_details {
 
-    width:246px;
+    width:242px;
 
 }
 
 .heroes_hero_usage_details {
 
-    width:276px;
+    width:288px;
 
 }
 
 .heroes_hero_usage_percentage_details {
 
-    width:300px;
+    width:312px;
 
 }
 
 .heroes_hero_win_percentage_details {
 
-    width:300px;
+    width:292px;
 
 }
 
@@ -147,37 +147,61 @@
 
 .heroes_hero_kills {
 
-    width:156px;
+    width:220px;
 
 }
 
 .heroes_hero_deaths {
 
-    width:156px;
+    width:207px;
 
 }
 
 .heroes_hero_assists {
 
-    width:156px;
+
 
 }
 
 .heroes_hero_kills_details {
 
-    width:146px;
+    width:220px;
 
 }
 
 .heroes_hero_deaths_details {
 
-    width:156px;
+    width:220px;
 
 }
 
 .heroes_hero_assists_details {
 
-    width:156px;
+    width:220px;
 
 }
 
+.heroes_hero_kda_details {
+
+    margin-left:4px;
+    width:220px;
+
+}
+
+.heroes_hero_winrate {
+
+    width:300px;
+
+}
+
+.heroes_hero_popularity {
+
+    width:300px;
+
+}
+
+.heroes_hero_kda {
+
+    width:300px;
+
+}

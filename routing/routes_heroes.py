@@ -30,18 +30,32 @@ def heroes():
 
 @heroes_pages.route("/winrate")
 def heroes_winrate():
-    heroes = [hero for hero in DatabaseAtlas.findAll("heroes", {})]
-    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
+    heroes = []
+    for i in range(len(DatabaseAtlas.findAll("heroes", {}))):
+        heroes.append({})
+        heroes[i]["name"] = DatabaseAtlas.findAll("heroes", {})[i]["localized_name"]
+        heroes[i]["winrate"] = hero_popularities[i]["hero_winrate"]
+        heroes[i]["popularity"] = hero_popularities[i]["hero_popularity"]
+        heroes[i]["kda"] = hero_kdas[i]["hero_kda"]
+    return render_template("heroes/heroes_winrate.html", heroes = heroes)
 
 @heroes_pages.route("/meta")
 def heroes_meta():
     heroes = [hero["localized_name"] + ".png" for hero in DatabaseAtlas.findAll("heroes", {})]
-    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
+    return render_template("heroes/heroes_winrate.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/impact")
 def heroes_impact():
-    heroes = [hero["localized_name"] + ".png" for hero in DatabaseAtlas.findAll("heroes", {})]
-    return render_template("heroes/heroes_1.html", heroes = heroes, hero_popularities = hero_popularities)
+    heroes = []
+    for i in range(len(DatabaseAtlas.findAll("heroes", {}))):
+        heroes.append({})
+        heroes[i]["name"] = DatabaseAtlas.findAll("heroes", {})[i]["localized_name"]
+        heroes[i]["kda"] = hero_kdas[i]["hero_kda"]
+        heroes[i]["kills"] = hero_kdas[i]["hero_kills_per_match"]
+        heroes[i]["deaths"] = hero_kdas[i]["hero_deaths_per_match"]
+        heroes[i]["assists"] = hero_kdas[i]["hero_assists_per_match"]
+        logging.info(hero_kdas)
+    return render_template("heroes/heroes_impact.html", heroes = heroes)
 
 @heroes_pages.route("/<string:hero>")
 def hero(hero):

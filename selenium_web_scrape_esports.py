@@ -119,4 +119,6 @@ print(DatabaseAtlas.db.list_collection_names())
 #teams = [item for item in DatabaseAtlas.findAll("eu_teams", {})]
 #logging.info(teams)
 
+
+
 logging.info("{}".format(round(time.time() - start_time, 3)) + " seconds")
