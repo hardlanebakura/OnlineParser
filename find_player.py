@@ -35,6 +35,7 @@ def find_player(player_id):
         logging.info("There is no player with requested id")
         return None
 
+    logging.info("1")
     get_player_winrate(player)
     player["regions"] = get_player_regions(player_counts["region"])
     player["gamemodes"] = get_player_gamemodes(player_counts["game_mode"])

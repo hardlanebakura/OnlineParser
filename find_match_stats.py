@@ -21,6 +21,9 @@ def fms(match_id):
         logging.info("No match with selected ID")
         return None
 
+    if response_match == None:
+        return None
+
     #some very old matches have bugged 'None' duration
     if "duration" not in response_match:
         return None
