@@ -31,9 +31,9 @@ def heroes():
 @heroes_pages.route("/winrate")
 def heroes_winrate():
     heroes = []
-    for i in range(len(DatabaseAtlas.findAll("heroes", {}))):
+    for i in range(len(hero_kdas)):
         heroes.append({})
-        heroes[i]["name"] = DatabaseAtlas.findAll("heroes", {})[i]["localized_name"]
+        heroes[i]["name"] = hero_kdas[i]["hero_name"]
         heroes[i]["winrate"] = hero_popularities[i]["hero_winrate"]
         heroes[i]["popularity"] = hero_popularities[i]["hero_popularity"]
         heroes[i]["kda"] = hero_kdas[i]["hero_kda"]
