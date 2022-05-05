@@ -45,9 +45,6 @@ def find_player(player_id):
     logging.info("4")
     #get_player_winrate(player)
     #for deployment
-    player["won_matches"] = get_player_winrate(player)[0]
-    player["lost_matches"] = get_player_winrate(player)[1]
-    player["winrate"] = get_player_winrate(player)[2]
     logging.info("ASD")
     player["recent_matches"] = get_recent_matches_by_player(player_recent_matches)
     for hero in player_heroes:
@@ -55,6 +52,7 @@ def find_player(player_id):
     logging.info("ASD")
     player["heroes"] = get_heroes_player(player_heroes)
     player["medal"] = get_medal_player(player["mmr_estimate"]["estimate"])
+    get_player_winrate(player)
 
     #for deployment
     player["avatar"] = player["profile"]["avatarfull"]

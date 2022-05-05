@@ -41,9 +41,7 @@ def get_player_winrate(player):
     player["lost_matches"] = lost_matches
     player["winrate"] = winrate
 
-    #return player
-    #for deployment
-    return won_matches, lost_matches, winrate
+    return player
 
 def get_player_regions(player):
     for region_id in list(player):
