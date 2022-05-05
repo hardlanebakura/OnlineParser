@@ -36,12 +36,14 @@ def find_player(player_id):
         return None
 
     logging.info("1")
-    get_player_winrate(player)
     logging.info("4")
     player["regions"] = get_player_regions(player_counts["region"])
+    logging.info("4")
     player["gamemodes"] = get_player_gamemodes(player_counts["game_mode"])
     player["roles"] = get_lane_roles(player_counts["lane_role"])
     player["sides"] = get_radiant_dire(player_counts["is_radiant"])
+    logging.info("4")
+    get_player_winrate(player)
     player["recent_matches"] = get_recent_matches_by_player(player_recent_matches)
     for hero in player_heroes:
         hero["last_played"] = get_time(hero["last_played"])
