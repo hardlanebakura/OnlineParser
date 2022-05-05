@@ -1,8 +1,6 @@
 import requests
 from log_config import logging
 from mongo_collections import DatabaseAtlas
-from operator import itemgetter
-from data import data
 from player_info import *
 from player import Player
 import json

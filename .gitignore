@@ -153,6 +153,7 @@ dmypy.json
 
 mdc.env
 d.py
+grandmaster.py
 
 # Cython debug symbols
 cython_debug/
