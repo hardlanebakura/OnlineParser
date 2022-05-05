@@ -225,7 +225,11 @@
                         Region
                     </div>
                     {% set regions = player.regions|list %}
-                    {% for i in range(5) %}
+                    {% set regions_length = regions|length %}
+                    {% if regions_length > 5 %}
+                        {% set regions_length = 5 %}
+                    {% endif %}
+                    {% for i in range(regions_length) %}
                         {% if regions[i] != 'Unspecified' and player.regions[regions[i]]["games"] > 50 %}
                         <div class = "profile_stats_row">
                             <div class = "profile_stats_row_name">

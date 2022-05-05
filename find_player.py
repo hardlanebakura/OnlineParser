@@ -25,31 +25,20 @@ def find_player(player_id):
     player["totals"] = player_totals
     player["counts"] = player_counts
 
-    logging.info(player["totals"])
-    logging.info("1")
-
-    logging.info(player["totals"][0])
-    logging.info(player["totals"][0]["n"] == 0)
     #no player found
     if player["totals"][0]["n"] == 0:
         logging.info("There is no player with requested id")
         return None
 
-    logging.info("1")
-    logging.info("4")
     player["regions"] = get_player_regions(player_counts["region"])
-    logging.info("4")
     player["gamemodes"] = get_player_gamemodes(player_counts["game_mode"])
     player["roles"] = get_lane_roles(player_counts["lane_role"])
     player["sides"] = get_radiant_dire(player_counts["is_radiant"])
-    logging.info("4")
     #get_player_winrate(player)
     #for deployment
-    logging.info("ASD")
     player["recent_matches"] = get_recent_matches_by_player(player_recent_matches)
     for hero in player_heroes:
         hero["last_played"] = get_time(hero["last_played"])
-    logging.info("ASD")
     player["heroes"] = get_heroes_player(player_heroes)
     player["medal"] = get_medal_player(player["mmr_estimate"]["estimate"])
     #get_player_winrate(player)
@@ -58,16 +47,11 @@ def find_player(player_id):
     player["avatar"] = player["profile"]["avatarfull"]
     player["name"] = player["profile"]["personaname"]
 
-    logging.info("ASDASDASDASD")
-
     #logging.info(player)
     Player1 = Player(player)
     logging.info(Player1)
-    #logging.info(player_heroes)
 
-    logging.info("ASD")
-
-    #return Player1
+    return Player1
     #for deployment
-    return player
+    #return player
 

@@ -51,10 +51,12 @@ def get_player_regions(player):
                 del player[data["regions"][region]["region"]]
                 get_winrate(player[data["regions"][region]["alt"]])
     player = dict(sorted(player.items(), key=lambda i: (i[1]["games"]) , reverse = True))
+    logging.info(player)
 
     return player
 
 def get_player_gamemodes(player):
+    logging.info(player)
     for gamemode_id in list(player):
         for gamemode in data["gamemodes"]:
             if int(gamemode_id) == gamemode:
@@ -64,10 +66,17 @@ def get_player_gamemodes(player):
 
     #merging All Pick with All Draft
     if "All Draft" in player:
-        player["All Pick"]["games"] = player["All Pick"]["games"] + player["All Draft"]["games"]
-        player["All Pick"]["win"] = player["All Pick"]["win"] + player["All Draft"]["win"]
-        player["All Pick"]["winrate"] = str(round(((player["All Pick"]["win"] / player["All Pick"]["games"]) * 100), 2)) + "%"
-        del player["All Draft"]
+        if "All Pick" in player:
+            player["All Pick"]["games"] = player["All Pick"]["games"] + player["All Draft"]["games"]
+            player["All Pick"]["win"] = player["All Pick"]["win"] + player["All Draft"]["win"]
+            player["All Pick"]["winrate"] = str(round(((player["All Pick"]["win"] / player["All Pick"]["games"]) * 100), 2)) + "%"
+            del player["All Draft"]
+        else :
+            player["All Pick"] = {}
+            player["All Pick"]["games"] = player["All Draft"]["games"]
+            player["All Pick"]["win"] = player["All Draft"]["win"]
+            player["All Pick"]["winrate"] = str(round(((player["All Pick"]["win"] / player["All Pick"]["games"]) * 100), 2)) + "%"
+            del player["All Draft"]
 
     player = dict(sorted(player.items(), key=lambda i: (i[1]["games"]), reverse=True))
     logging.info(player)
@@ -130,8 +139,10 @@ def get_heroes_player(player):
         hero["hero"] = DatabaseAtlas.find("heroes", {"id": int(hero["hero_id"])})["localized_name"]
         if hero["games"] != 0:
             hero["winrate"] = str(round(((hero["win"] / hero["games"]) * 100), 2)) + "%"
-            hero["with_winrate"] = str(round(((hero["with_win"] / hero["with_games"]) * 100), 2)) + "%"
-            hero["against_winrate"] = str(round(((hero["against_win"] / hero["against_games"]) * 100), 2)) + "%"
+            if hero["with_games"] > 0:
+                hero["with_winrate"] = str(round(((hero["with_win"] / hero["with_games"]) * 100), 2)) + "%"
+            if hero["against_games"] > 0:
+                hero["against_winrate"] = str(round(((hero["against_win"] / hero["against_games"]) * 100), 2)) + "%"
         logging.info(DatabaseAtlas.find("heroes", {"id": int(hero["hero_id"])})["localized_name"])
     return player
 
