@@ -52,7 +52,7 @@ def find_player(player_id):
     logging.info("ASD")
     player["heroes"] = get_heroes_player(player_heroes)
     player["medal"] = get_medal_player(player["mmr_estimate"]["estimate"])
-    get_player_winrate(player)
+    #get_player_winrate(player)
 
     #for deployment
     player["avatar"] = player["profile"]["avatarfull"]

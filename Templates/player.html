@@ -34,6 +34,7 @@
                         <small>LAST MATCH</small>
                     </div>
                 </div>
+                {% if 'winrate' in player_dict %}
                 <div class = "overview_matches">
                     <div class = "overview_matches_all">
                         <span class = "overview_matches_all_span_1">{{ player.won_matches }}</span> - <span class = "overview_matches_all_span_2">{{ player.lost_matches }}</span>
@@ -50,6 +51,7 @@
                         <small>WINRATE</small>
                     </div>
                 </div>
+                {% endif %}
                 <div class = "overview_matches">
                     <div class = "overview_matches_all">
                         {{ player.medal }}
