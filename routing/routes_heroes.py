@@ -47,9 +47,9 @@ def heroes_meta():
 @heroes_pages.route("/impact")
 def heroes_impact():
     heroes = []
-    for i in range(len(DatabaseAtlas.findAll("heroes", {}))):
+    for i in range(len(hero_kdas)):
         heroes.append({})
-        heroes[i]["name"] = DatabaseAtlas.findAll("heroes", {})[i]["localized_name"]
+        heroes[i]["name"] = hero_kdas[i]["hero_name"]
         heroes[i]["kda"] = hero_kdas[i]["hero_kda"]
         heroes[i]["kills"] = hero_kdas[i]["hero_kills_per_match"]
         heroes[i]["deaths"] = hero_kdas[i]["hero_deaths_per_match"]

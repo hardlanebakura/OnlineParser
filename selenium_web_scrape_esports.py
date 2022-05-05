@@ -102,6 +102,16 @@ def scrape_esports_teams(esports_url):
         logging.info(Team1)
         DatabaseAtlas.insertOne("sa_teams", team)
 
+def scrape_meta(meta_url):
+    driver.get(meta_url)
+    for i in range(1, 124):
+        d = {}
+        d["name"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[2]".format(i))
+        d["usage_herald"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[3]".format(i))
+
+URL_META = "https://www.dotabuff.com/heroes/meta"
+scrape_meta(URL_META)
+
 teams = [item for item in DatabaseAtlas.findAll("sa_teams", {})]
 logging.info(item for item in DatabaseAtlas.findAll("sa_teams_1", {}))
 #with open("data/sa_esports.json", "w") as json_file:

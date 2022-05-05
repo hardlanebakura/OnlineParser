@@ -41,9 +41,5 @@ class DatabaseAtlas(object):
         c = DatabaseAtlas.db[col].drop()
         return c
 
-for match in DatabaseAtlas.findAll("french_ligue_1_upcoming_matches", {}):
-    print(match)
-
-
 print(DatabaseAtlas.db.list_collection_names())
 
