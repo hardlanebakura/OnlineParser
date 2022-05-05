@@ -51,6 +51,8 @@ def find_player(player_id):
     player["avatar"] = player["profile"]["avatarfull"]
     player["name"] = player["profile"]["personaname"]
 
+    logging.info("ASDASDASDASD")
+
     #logging.info(player)
     Player1 = Player(player)
     logging.info(Player1)
