@@ -15,10 +15,10 @@ def get_search_results(search):
     searched_match = fms(int(search))
     searched_player = find_player(int(search))
     #32 bits id
-    searched_player_64_id = find_player(int(search) + 6561197960265728)
+    #searched_player_64_id = find_player(int(search) + 6561197960265728)
     #64 bits id
     logging.info(searched_player)
-    logging.info(searched_player_64_id)
+    #logging.info(searched_player_64_id)
     if searched_player != None:
         return redirect("/players/{}".format(search))
     if searched_match != None:
