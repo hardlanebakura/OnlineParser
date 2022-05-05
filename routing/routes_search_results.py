@@ -19,7 +19,7 @@ def get_search_results(search):
     #64 bits id
     logging.info(searched_player)
     logging.info(searched_player_64_id)
-    if searched_player != None or searched_player_64_id != None:
+    if searched_player != None:
         return redirect("/players/{}".format(search))
     if searched_match != None:
         #match exists
