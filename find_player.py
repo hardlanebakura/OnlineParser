@@ -37,6 +37,7 @@ def find_player(player_id):
 
     logging.info("1")
     get_player_winrate(player)
+    logging.info("4")
     player["regions"] = get_player_regions(player_counts["region"])
     player["gamemodes"] = get_player_gamemodes(player_counts["game_mode"])
     player["roles"] = get_lane_roles(player_counts["lane_role"])
