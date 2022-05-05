@@ -47,10 +47,18 @@ def find_player(player_id):
     player["heroes"] = get_heroes_player(player_heroes)
     player["medal"] = get_medal_player(player["mmr_estimate"]["estimate"])
 
+    #for deployment
+    player["avatar"] = player["profile"]["avatarfull"]
+    player["name"] = player["profile"]["personaname"]
+
     #logging.info(player)
     Player1 = Player(player)
     logging.info(Player1)
     #logging.info(player_heroes)
 
-    return Player1
+    logging.info("ASD")
+
+    #return Player1
+    #for deployment
+    return player
 
