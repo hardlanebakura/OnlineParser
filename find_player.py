@@ -29,7 +29,7 @@ def find_player(player_id):
     logging.info("1")
 
     logging.info(player["totals"][0])
-
+    logging.info(player["totals"][0]["n"] == 0)
     #no player found
     if player["totals"][0]["n"] == 0:
         logging.info("There is no player with requested id")
