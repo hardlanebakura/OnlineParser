@@ -21,28 +21,28 @@ def heroes():
     search()
     heroes_n = len(fnmatch.filter(os.listdir("static/images/hero_avatars"), '*.png'))
     heroes = [item.split("\\")[-1] for item in get_files("static/images/hero_avatars")]
-    logging.info(heroes)
-    logging.info(DatabaseAtlas.findAll("heroes", {}))
     m = [item for item in DatabaseAtlas.findAll("heroes", {})]
     logging.info(os.getenv("MONGODB_CONNECTION"))
-    #logging.info(os.environ["MONGODB_CONNECTION"])
     return render_template("heroes/heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
 
 @heroes_pages.route("/winrate")
 def heroes_winrate():
     heroes = []
+    hero_winrates = sorted([item for item in DatabaseAtlas.findAll("hero_popularities", {})], key = itemgetter("hero_winrate"), reverse = True)
+
     for i in range(len(hero_kdas)):
         heroes.append({})
-        heroes[i]["name"] = hero_kdas[i]["hero_name"]
-        heroes[i]["winrate"] = hero_popularities[i]["hero_winrate"]
-        heroes[i]["popularity"] = hero_popularities[i]["hero_popularity"]
-        heroes[i]["kda"] = hero_kdas[i]["hero_kda"]
+        heroes[i]["name"] = hero_winrates[i]["hero_name"]
+        heroes[i]["winrate"] = hero_winrates[i]["hero_winrate"]
+        heroes[i]["popularity"] = hero_winrates[i]["hero_popularity"]
+        heroes[i]["kda"] = DatabaseAtlas.find("hero_kdas", {"hero_name":heroes[i]["name"]})["hero_kda"]
+    logging.info(hero_kdas)
+    logging.info(hero_winrates)
     return render_template("heroes/heroes_winrate.html", heroes = heroes)
 
 @heroes_pages.route("/meta")
 def heroes_meta():
     heroes = [item for item in DatabaseAtlas.findAll("meta_heroes", {})]
-    logging.info(heroes)
     return render_template("heroes/heroes_meta.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/impact")
@@ -75,5 +75,4 @@ def hero(hero):
 def counterpicks_for_hero(hero):
     search()
     counterpicks = DatabaseAtlas.findAll("counterpicks", {"counterpick_for":hero})
-    logging.info(counterpicks)
     return render_template("heroes/counterpicks.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks = counterpicks)

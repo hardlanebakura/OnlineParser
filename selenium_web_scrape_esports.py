@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 import selenium.common.exceptions as e
 from selenium.webdriver.chrome.options import Options
 from log_config import logging
-import time
 from mongo_collections import DatabaseAtlas
 from PIL import Image, ImageOps
 from collections import OrderedDict
@@ -22,8 +21,8 @@ start_time = time.time()
 
 LOGGER.setLevel(logging.WARNING)
 
-#driver = config_driver()
-driver = webdriver.Chrome("chromedriver_2.exe")
+#driver = webdriver.Chrome("chromedriver_2.exe")
+driver = config_driver()
 
 URL_ESPORTS = "https://www.gosugamers.net/dota2/rankings"
 
@@ -140,11 +139,5 @@ print(DatabaseAtlas.db.list_collection_names())
 #logging.info(data)
 
 #driver.quit()
-
-#scrape_esports_teams(URL_ESPORTS)
-#teams = [item for item in DatabaseAtlas.findAll("eu_teams", {})]
-#logging.info(teams)
-
-
 
 logging.info("{}".format(round(time.time() - start_time, 3)) + " seconds")

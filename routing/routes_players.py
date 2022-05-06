@@ -8,7 +8,7 @@ from types import SimpleNamespace
 players_pages = Blueprint('players', __name__,
                         template_folder='Templates', static_folder='static', url_prefix="/players")
 
-PLAYERS = [34603321]
+PLAYERS = [item["id"] for item in DatabaseAtlas.findAll("dota_players", {})]
 
 def search():
     if request.method == "POST":
@@ -23,15 +23,8 @@ def players():
 @players_pages.route("/<int:player_id>")
 def player(player_id):
     search()
-    if player_id not in PLAYERS:
-        player = find_player(player_id)
-        logging.info(player.regions)
-        logging.info(player.recent_matches)
-        return render_template("player.html", player = player, player_dict = player.__dict__)
-    else:
-        player = DatabaseAtlas.find("dota_players", {"id": player_id})
-        return render_template("player.html", player = player, player_dict = player.__dict__)
-    #player = find_player(player_id)
-    #player_dict = player.__dict__
-    #logging.info(player_dict)
-    #DatabaseAtlas.insertOne("dota_players", player.__dict__)
+    #if player_id not in PLAYERS:
+    player = find_player(player_id)
+    #if DatabaseAtlas.find("dota_players", {"id":player_id}) == None:
+        #DatabaseAtlas.insertOne("dota_players", player.__dict__)
+    return render_template("player.html", player = player, player_dict = player.__dict__)
