@@ -15,6 +15,8 @@ This project has following features:
 <img src = "https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167114403-decf581d-3e8c-4184-a020-16ca66d30f08.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167114613-f3f1ab2d-1500-452f-b263-e46a85ea6583.png" width = "230" height = "170">
+<img src = "https://user-images.githubusercontent.com/74912567/167114772-0a3ee688-c335-46e7-b23f-86c7a1261e4f.png" width = "230" height = "170">
+
 It scraps the data from the web via Selenium automation tool and the API calls and puts it into the Mongo Database.
 
 It works for all matches and, with several hundred players tested, on all players.
