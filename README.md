@@ -23,7 +23,7 @@ It scraps the data from the web via Selenium automation tool and the API calls a
 
 It works for all matches and, with several hundred players tested, on all players.
 
-<b>Example searches:<b>
+<b>Example searches:</b>
 
 6525357182
 6553666833
