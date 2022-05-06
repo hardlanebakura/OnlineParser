@@ -11,6 +11,8 @@
     var hero_popularities = {{ hero_popularities|tojson }}
     var heroes = {{ heroes|tojson }}
 
+    heroes.sort()
+
     for (let i = 0; i < heroes.length; i++) {
 
         if (heroes[i].length > 22) heroes[i] = heroes[i].split("/hero_avatars/")[1];
