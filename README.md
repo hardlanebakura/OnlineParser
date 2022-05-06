@@ -1,4 +1,4 @@
-This is a website for parsing matches in online multiplayer games. I have added some additional features such as the counterpicker and esports tracker.
+This is a website for parsing matches in online multiplayer games. It has more features such as the counterpicker and esports tracker.
 
 This project has following features:
     <ul>
