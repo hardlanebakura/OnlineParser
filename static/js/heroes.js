@@ -35,7 +35,7 @@ Array.from(heroesGridHero).forEach(element => {
         console.log(heroes);
         console.log(element);
         console.log(element.getElementsByClassName("hero_grid_image")[0].getAttribute("src"));
-        var heroName = (window.location.href.includes(".com")) ? heroes[heroesGridHero.indexOf(element)]
+        var heroName = (window.location.href.includes(".com")) ? heroes[Array.from(heroesGridHero).indexOf(element)]
         : element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
 
         //var heroName = element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
