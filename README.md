@@ -18,14 +18,16 @@ It works for all matches and, with several hundred players tested, on all player
 
 <b>Example searches:<b>
 
+6525357182
+6553666833
+6549930254
+
 42735465
 395248349
 122765274
 928188595
 345104544
 
-6525357182
-6553666833
 
 Hosted on Heroku: <a href = "https://pythonflaskdotabuff.herokuapp.com/">https://pythonflaskdotabuff.herokuapp.com/</a>
 

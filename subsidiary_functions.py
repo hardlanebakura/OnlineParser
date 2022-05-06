@@ -6,12 +6,18 @@ import time
 import os
 
 def get_gamemode(gamemode_id):
+    if not isinstance(gamemode_id, int):
+        raise TypeError("Expected int input")
     if gamemode_id != 22:
         return data["gamemode_alts"][data["gamemodes"][int(gamemode_id)]]
     else:
         return "All Pick"
 
 def delete_keys(dict1, indexes_to_remove):
+    if not (isinstance(dict1, dict)):
+        raise TypeError("Expected dict input")
+    if not isinstance(indexes_to_remove, list):
+        raise TypeError("Expected list input")
     list1 = list(dict1.items())
     list2 = []
     for i in range(len(list1)):
@@ -21,6 +27,10 @@ def delete_keys(dict1, indexes_to_remove):
     return dict1
 
 def key_comes_first(dict1, key):
+    if not (isinstance(dict1, dict)):
+        raise TypeError("Expected dict input")
+    if not isinstance(key, str):
+        raise TypeError("Expected string input")
     list1 = list(dict1.items())
     for item in list1:
         if item[0] == key:
@@ -33,20 +43,25 @@ def key_comes_first(dict1, key):
     return dict1
 
 def get_winrate(player_dict):
+    if not isinstance(player_dict, dict):
+        raise TypeError("Expected dict input")
     player_dict["winrate"] = str(round(((player_dict["win"] / player_dict["games"]) * 100), 2)) + "%"
     return player_dict
 
 def get_time(seconds, interval = "default"):
+    if not isinstance(seconds, int):
+        raise TypeError("Expected int input")
     result = time.strftime(str(datetime.now() - datetime.fromisoformat(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(seconds)))))
-    logging.info(result)
-    logging.info(seconds)
+    #logging.info(result)
+    #logging.info(seconds)
+    #logging.info(type(seconds))
 
     #more than a day
     if "days" in result or "day" in result:
         days = int(result.split(" ")[0])
         hms = list(result.split(", ")[1].split(":"))
-        logging.info(hms)
-        logging.info(hms[0])
+        #logging.info(hms)
+        #logging.info(hms[0])
         hours = int(hms[0])
         minutes = int(hms[1])
         seconds = int(hms[2].split(".")[0])
@@ -59,7 +74,7 @@ def get_time(seconds, interval = "default"):
         minutes = int(hms[1])
         seconds = int(hms[2].split(".")[0])
         total_seconds = hours * 3600 + minutes * 60 + seconds * 1
-    logging.info(total_seconds)
+    #logging.info(total_seconds)
 
     def years():
         return divmod(total_seconds, 31536000)  # Seconds in a year=31536000.
@@ -82,8 +97,8 @@ def get_time(seconds, interval = "default"):
         return total_seconds
 
     if int(months()[0]) != 0:
-        logging.debug(int(months()[0]))
-        logging.debug(int(days()[0]))
+        #logging.debug(int(months()[0]))
+        #logging.debug(int(days()[0]))
         days_v = int(days()[0]) - int(months()[0]) * 30
     else:
         days_v = int(days()[0])
@@ -96,8 +111,8 @@ def get_time(seconds, interval = "default"):
         mi = minutes(h[1])
         s = seconds(mi[1])
         d = days_v
-        logging.info(days_v)
-        logging.info(mo)
+        #logging.info(days_v)
+        #logging.info(mo)
         return "Time between dates: {} years, {} months, {} days, {} hours, {} minutes and {} seconds".format(int(y[0]), int(mo[0]), days_v, int(h[0]), int(mi[0]),
                                                                                                    int(s[0]))
 

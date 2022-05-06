@@ -6,6 +6,8 @@ from operator import itemgetter
 from subsidiary_functions import get_time
 
 def find_gamemode(match_gamemode_id):
+    if not isinstance(match_gamemode_id, int):
+        raise TypeError("Expected int input")
     if match_gamemode_id != 22:
         return data["gamemode_alts"][data["gamemodes"][match_gamemode_id]]
     else:
@@ -65,8 +67,15 @@ def fms(match_id):
     #for player in response_match["players"]:
         #logging.info(player)
     logging.info(match)
-    logging.info(match["heroes"])
+    for match_item_yes in match:
+        logging.info(match_item_yes)
     return match
 
 
 #fms(6524970162)
+logging.info(find_gamemode(1))
+logging.info(find_gamemode(2))
+logging.info(find_gamemode(3))
+logging.info(find_gamemode(4))
+logging.info(find_gamemode(16))
+logging.info(find_gamemode(5))

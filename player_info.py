@@ -44,6 +44,10 @@ def get_player_winrate(player):
     return player
 
 def get_player_regions(player):
+
+    logging.info(player)
+    if not isinstance(player, dict):
+        raise TypeError("Expected dict input")
     for region_id in list(player):
         for region in data["regions"]:
             if region_id == data["regions"][region]["region"]:
@@ -52,11 +56,12 @@ def get_player_regions(player):
                 get_winrate(player[data["regions"][region]["alt"]])
     player = dict(sorted(player.items(), key=lambda i: (i[1]["games"]) , reverse = True))
     logging.info(player)
-
     return player
 
 def get_player_gamemodes(player):
-    logging.info(player)
+
+    if not isinstance(player, dict):
+        raise TypeError("Expected dict input")
     for gamemode_id in list(player):
         for gamemode in data["gamemodes"]:
             if int(gamemode_id) == gamemode:
@@ -79,18 +84,18 @@ def get_player_gamemodes(player):
             del player["All Draft"]
 
     player = dict(sorted(player.items(), key=lambda i: (i[1]["games"]), reverse=True))
-    logging.info(player)
     return player
 
 def get_lane_roles(player):
+
+    if not isinstance(player, dict):
+        raise TypeError("Expected dict input")
     for role_id in list(player):
         for role in data["roles"]:
             if int(role_id) == role:
                 player[data["roles"][int(role_id)]["lane"]] = player[role_id]
                 del player[role_id]
                 player[data["roles"][int(role_id)]["lane"]]["winrate"] = str(round((player[data["roles"][int(role_id)]["lane"]]["win"] / player[data["roles"][int(role_id)]["lane"]]["games"] * 100), 2)) + "%"
-
-    logging.info(player)
 
     return player
 
@@ -108,9 +113,13 @@ def get_radiant_dire(player):
 
     player = dict(sorted(player.items(), key=lambda i: (i[1]["games"]), reverse=True))
     logging.info(player)
+    logging.info(type(player))
     return player
 
 def get_recent_matches_by_player(player):
+
+    if not isinstance(player, list):
+        raise TypeError("Expected list input")
 
     for recent_match in player:
         if recent_match["player_slot"] in range(5):
@@ -131,10 +140,13 @@ def get_recent_matches_by_player(player):
         recent_match["start_time"] = get_time(recent_match["start_time"])
 
     logging.info(player)
+    logging.info(type(player))
     return player
 
 def get_heroes_player(player):
 
+    if not isinstance(player, list):
+        raise TypeError("Expected list input")
     for hero in list(player):
         hero["hero"] = DatabaseAtlas.find("heroes", {"id": int(hero["hero_id"])})["localized_name"]
         if hero["games"] != 0:
@@ -143,13 +155,14 @@ def get_heroes_player(player):
                 hero["with_winrate"] = str(round(((hero["with_win"] / hero["with_games"]) * 100), 2)) + "%"
             if hero["against_games"] > 0:
                 hero["against_winrate"] = str(round(((hero["against_win"] / hero["against_games"]) * 100), 2)) + "%"
-        logging.info(DatabaseAtlas.find("heroes", {"id": int(hero["hero_id"])})["localized_name"])
+
     return player
 
 def get_medal_player(player):
-
-    logging.info(player)
-    logging.info(type(player))
+    if not isinstance(player, int):
+        raise TypeError("Expected int input")
+    if player < 1:
+        raise ValueError("Expected greater than zero")
     logging.info(data["medals"])
 
     for mmr_requirement in data["medals"]:

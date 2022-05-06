@@ -25,6 +25,8 @@ def player(player_id):
     search()
     if player_id not in PLAYERS:
         player = find_player(player_id)
+        logging.info(player.regions)
+        logging.info(player.recent_matches)
         return render_template("player.html", player = player, player_dict = player.__dict__)
     else:
         player = DatabaseAtlas.find("dota_players", {"id": player_id})
