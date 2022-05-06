@@ -16,7 +16,6 @@ This project has following features:
 <img src = "https://user-images.githubusercontent.com/74912567/167114403-decf581d-3e8c-4184-a020-16ca66d30f08.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167114772-0a3ee688-c335-46e7-b23f-86c7a1261e4f.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167115003-04d9237b-200c-476b-8b94-73702ac2e6e9.png" width = "230" height = "170">
-<img src = "https://user-images.githubusercontent.com/74912567/167115176-a7317e48-d9a3-45f6-812c-2976051d7796.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167115297-1df4c0b5-7dee-42fe-b965-73e7e3c490e9.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167116025-b1d7b991-e362-4f44-b6cb-2f3f7d9c607d.png" width = "230" height = "170"> 
 
