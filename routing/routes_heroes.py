@@ -8,6 +8,10 @@ from data import data
 import os
 import fnmatch
 import json
+from dotenv import dotenv_values
+
+MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
+#MONGODB_CONNECTION = dotenv_values("mdc.env")["MONGODB_CONNECTION"]
 
 heroes_pages = Blueprint('heroes', __name__,
                         template_folder='templates', static_folder='static', url_prefix="/heroes")
@@ -43,8 +47,7 @@ def heroes_winrate():
 
 @heroes_pages.route("/meta")
 def heroes_meta():
-    heroes = [item for item in DatabaseAtlas.findAll("meta_heroes", {})]
-    logging.info(os.getenv("MONGODB_CONNECTION"))
+    heroes = data["meta_heroes"]
     return render_template("heroes/heroes_meta.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/impact")

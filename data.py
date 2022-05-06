@@ -409,6 +409,9 @@ def update_team_logos():
 				#logging.info(team["name"])
 
 update_team_logos()
-os.environ["ASD"] = "ASD"
+
+
+data_file = open("data/meta_heroes.json")
+data["meta_heroes"] = json.load(data_file)
 
 
