@@ -171,14 +171,15 @@
 
 .heroes_hero_deaths_details {
 
-    width:220px;
+    width:211px;
+    margin-left:9px;
 
 }
 
 .heroes_hero_assists_details {
 
-    width:220px;
-
+    width:211px;
+    margin-left:9px;
 }
 
 .heroes_hero_kda_details {

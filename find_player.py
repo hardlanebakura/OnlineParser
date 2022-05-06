@@ -32,7 +32,7 @@ def find_player(player_id):
     player["gamemodes"] = get_player_gamemodes(player_counts["game_mode"])
     player["roles"] = get_lane_roles(player_counts["lane_role"])
     player["sides"] = get_radiant_dire(player_counts["is_radiant"])
-    #get_player_winrate(player)
+    get_player_winrate(player)
     #for deployment
     player["recent_matches"] = get_recent_matches_by_player(player_recent_matches)
     for hero in player_heroes:
@@ -53,3 +53,4 @@ def find_player(player_id):
     #for deployment
     #return player
 
+find_player(42735465)

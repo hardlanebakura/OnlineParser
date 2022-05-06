@@ -40,6 +40,12 @@ function getMeta() {
     for (const [k, v] of Object.entries(toMoveByPixels)) arr[k].style.marginLeft = v.toString() + "px";
     for (let i = arr.length -3; i < arr.length; i++) { arr[i].style.width = "83px"; arr[i].style.textAlign = "center"; }
 
+    var heroesMetaUsagePercentages = document.getElementsByClassName("heroes_hero_meta_usage_percentage");
+    var heroesMetaWinPercentages = document.getElementsByClassName("heroes_hero_meta_win_percentage");
+
+    visualForAdvantage(heroesMetaUsagePercentages, "red", "70px");
+    visualForAdvantage(heroesMetaWinPercentages, "white", "70px");
+
 }
 
 function colorByIndex (divElement) {

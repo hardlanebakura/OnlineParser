@@ -33,3 +33,4 @@ Hosted on Heroku: <a href = "https://pythonflaskdotabuff.herokuapp.com/">https:/
 
 (searches are very slow there due to their dynos being very limited, on local server runs very fast)
 
+(update: sometimes API for gathering data goes down, it doesn't affect existing pages but affects dynamic search pages via the searchbar)
