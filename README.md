@@ -16,6 +16,8 @@ This project has following features:
 <img src = "https://user-images.githubusercontent.com/74912567/167114403-decf581d-3e8c-4184-a020-16ca66d30f08.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167114772-0a3ee688-c335-46e7-b23f-86c7a1261e4f.png" width = "230" height = "170">
 <img src = "https://user-images.githubusercontent.com/74912567/167115003-04d9237b-200c-476b-8b94-73702ac2e6e9.png" width = "230" height = "170">
+<img src = "https://user-images.githubusercontent.com/74912567/167115176-a7317e48-d9a3-45f6-812c-2976051d7796.png" width = "230" height = "170">
+
 
 It scraps the data from the web via Selenium automation tool and the API calls and puts it into the Mongo Database.
 
