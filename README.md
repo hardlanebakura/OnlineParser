@@ -12,7 +12,7 @@ This project has following features:
         <li>Unit testing
     </ul>
 
-<img src = "https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png" width = "140" height = "100">
+<img src = "https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png" width = "230" height = "170">
 It scraps the data from the web via Selenium automation tool and the API calls and puts it into the Mongo Database.
 
 It works for all matches and, with several hundred players tested, on all players.
