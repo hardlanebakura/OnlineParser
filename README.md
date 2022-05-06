@@ -12,7 +12,7 @@ This project has following features:
         <li>Unit testing
     </ul>
 
-![hero_impacts](https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png)
+![hero_impacts](https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png = 140*100)
 
 It scraps the data from the web via Selenium automation tool and the API calls and puts it into the Mongo Database.
 
