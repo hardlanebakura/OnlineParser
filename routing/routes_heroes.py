@@ -7,6 +7,7 @@ from heroes_api import *
 from data import data
 import os
 import fnmatch
+import json
 
 heroes_pages = Blueprint('heroes', __name__,
                         template_folder='templates', static_folder='static', url_prefix="/heroes")
@@ -22,7 +23,7 @@ def heroes():
     heroes_n = len(fnmatch.filter(os.listdir("static/images/hero_avatars"), '*.png'))
     heroes = [item.split("\\")[-1] for item in get_files("static/images/hero_avatars")]
     m = [item for item in DatabaseAtlas.findAll("heroes", {})]
-    logging.info(os.getenv("MONGODB_CONNECTION"))
+    print(os.environ["MONGODB_CONNECTION"])
     return render_template("heroes/heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
 
 @heroes_pages.route("/winrate")
@@ -43,6 +44,7 @@ def heroes_winrate():
 @heroes_pages.route("/meta")
 def heroes_meta():
     heroes = [item for item in DatabaseAtlas.findAll("meta_heroes", {})]
+    logging.info(os.getenv("MONGODB_CONNECTION"))
     return render_template("heroes/heroes_meta.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/impact")
