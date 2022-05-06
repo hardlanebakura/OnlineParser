@@ -32,11 +32,15 @@ Array.from(heroesGridHero).forEach(element => {
     //hero image
     if (heroImgs[0] != undefined) {
 
+        if (element.getElementsByClassName("hero_grid_image")[0] != undefined) {
+
         console.log(heroes);
         console.log(element);
-        console.log(element.getElementsByClassName("hero_grid_image")[0].getAttribute("src"));
+        console.log(element.getElementsByClassName("hero_grid_image")[0]);
         var heroName = (window.location.href.includes(".com")) ? heroes[Array.from(heroesGridHero).indexOf(element)]
         : element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
+
+        console.log(heroName);
 
         //var heroName = element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
         hero_popularities.forEach(hero => {
@@ -77,6 +81,8 @@ Array.from(heroesGridHero).forEach(element => {
             }
 
         })
+
+    }
 
     }
 
