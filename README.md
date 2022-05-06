@@ -13,6 +13,7 @@ This project has following features:
     </ul>
 
 <img src = "https://user-images.githubusercontent.com/74912567/167113490-31fe10b4-4e7e-48b9-be7d-ab8af1c3d9a6.png" width = "230" height = "170">
+<img src = "https://user-images.githubusercontent.com/74912567/167114403-decf581d-3e8c-4184-a020-16ca66d30f08.png" width = "230" height = "170">
 It scraps the data from the web via Selenium automation tool and the API calls and puts it into the Mongo Database.
 
 It works for all matches and, with several hundred players tested, on all players.
@@ -34,4 +35,4 @@ Hosted on Heroku: <a href = "https://pythonflaskdotabuff.herokuapp.com/">https:/
 
 (searches are very slow there due to their dynos being very limited, on local server runs very fast)
 
-(update: sometimes API for gathering data goes down, it doesn't affect existing pages but affects dynamic search pages via the searchbar)
+(sometimes API for gathering data goes down, it doesn't affect existing pages but affects dynamic search pages via the searchbar)
