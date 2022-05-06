@@ -12,8 +12,6 @@ var heroImgs = document.getElementsByClassName("hero_grid_image");
 var heroGridTitles = document.getElementsByClassName("hero_grid_title");
 var heroLinks = document.getElementsByClassName("hero_link");
 heroLinks = Array.from(heroLinks).splice(4);
-console.log(heroLinks.length);
-console.log(hero_popularities);
 
 if (window.location.href.includes(".com") == false) {
 
@@ -35,7 +33,6 @@ Array.from(heroesGridHero).forEach(element => {
 
         if (element.getElementsByClassName("hero_grid_image")[0] != undefined) {
 
-        console.log(element);
         console.log(element.getElementsByClassName("hero_grid_image")[0]);
         var heroName = (window.location.href.includes(".com")) ? heroes[Array.from(heroesGridHero).indexOf(element)].split(".png")[0].replace("%20", " ")
         : element.getElementsByClassName("hero_grid_image")[0].getAttribute("src").split("/hero_avatars/")[1].split(".png")[0].replace("%20", " ");
@@ -86,8 +83,6 @@ Array.from(heroesGridHero).forEach(element => {
 
 })
 
-console.log(mostPopularHeroes);
-console.log(highestWinrates);
-console.log(hero_popularities);
+
 
 

@@ -83,7 +83,6 @@ for (let i = 0; i < picksAndBansBan.length; i++) {
 
     if (i < picksAndBansBan.length/2) {
         if (radiantBans[i] != undefined) {
-            //console.log(i); console.log(radiantBans[i]);
             picksAndBansBan[i].setAttribute("src", `/static/images/hero_avatars/${radiantBans[i]["hero"]}.png`);
         }
         else {
@@ -91,8 +90,6 @@ for (let i = 0; i < picksAndBansBan.length; i++) {
         }
     }
     else {
-        //console.log(direBans[i - 4]);
-        //console.log(direBans[i - 4] == undefined);
         if (direBans[i - 4] != undefined) picksAndBansBan[i].setAttribute("src", `/static/images/hero_avatars/${direBans[i - 4]["hero"]}.png`);
         else picksAndBansBan[i].parentNode.style.display = "none";
     }
@@ -120,17 +117,12 @@ console.log(direPicks);
 Array.from(teamHeroesHeroAbilities).forEach(element => {
 
     if (element.innerText == "766") {
-    console.log(element);
-    console.log(Object.keys(talentTreeCodes).includes(element.innerText));
-    console.log(Object.keys(abilities).includes(element.innerText));
+
     }
 
     if ((Object.keys(talentTreeCodes).includes(element.innerText) == false) && (Object.keys(abilities).includes(element.innerText) == false) && (element.innerText != "")) {
 
-        console.log(element.innerText);
         element.innerText = "";
-        console.log(Object.keys(abilities).includes("1"));
-        console.log(Object.keys(abilities).includes(element.innerText));
         element.insertAdjacentHTML("beforeend",
                 `<img class = "team_heroes_hero_ability_image" src = "../static/images/talent_tree.png">
                 <div class = "team_heroes_talent_tree_detailed_info">1</div>`
@@ -140,7 +132,6 @@ Array.from(teamHeroesHeroAbilities).forEach(element => {
 
     for (const [k, v] of Object.entries(abilities)) {
 
-        //console.log(element.innerText);
         if (element.innerText == k) {
 
             if (abilities[k].substr(0, 7) != "special") {
@@ -156,15 +147,11 @@ Array.from(teamHeroesHeroAbilities).forEach(element => {
             //talent level
             else {
 
-                console.log(Object.keys(abilities).includes(element.innerText));
                 element.innerText = "";
                 element.insertAdjacentHTML("beforeend",
                 `<img class = "team_heroes_hero_ability_image" src = "../static/images/talent_tree.png">
                 <div class = "team_heroes_talent_tree_detailed_info">1</div>`
                 )
-
-                console.log(abilities[k])
-                console.log(k)
 
                 element.getElementsByClassName("team_heroes_hero_ability_image")[0].addEventListener("mouseover", event => {
 
@@ -179,12 +166,7 @@ Array.from(teamHeroesHeroAbilities).forEach(element => {
 
                 })
 
-                console.log(element.getElementsByClassName("team_heroes_hero_ability_image")[0]);
-
                 let selectedTalent = talentTreeCodes[k];
-                console.log(typeof(k));
-                console.log(k);
-                console.log(selectedTalent);
 //                element.innerText = element.innerText + selectedTalent;
 //                if (selectedTalent != undefined) element.innerText = selectedTalent;
 //                else element.innerText = abilities[k];
@@ -202,8 +184,6 @@ Array.from(teamHeroesHeroAbilities).forEach(element => {
     }
 
 })
-
-console.log(abilities);
 
 matchTime.innerText = getMatchTime(matchTime.innerText);
 

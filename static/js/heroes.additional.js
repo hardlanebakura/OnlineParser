@@ -107,7 +107,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
     Array.from(elementsPositive).forEach(positiveElement => {
 
         var elementWidth = parseInt(positiveElement.innerText.split("%")[0] / maxPositiveValue * parseFloat(maxWidth)).toString() + "px";
-        //console.log(elementWidth);
         positiveElement.nextElementSibling.style.width = elementWidth;
 
     })
@@ -121,7 +120,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
         Array.from(elementsNegative).forEach(negativeElement => {
 
             var elementWidth = parseInt(negativeElement.innerText.split("%")[0] / minNegativeValue * parseFloat(maxWidth)).toString() + "px";
-            //console.log(elementWidth);
             negativeElement.nextElementSibling.style.width = elementWidth;
 
         })

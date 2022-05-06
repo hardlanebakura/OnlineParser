@@ -23,7 +23,6 @@ for (const [k, v] of Object.entries(esportsRegions)) {
 
 getRecentMatches(0);
 
-console.log(teams);
 for (let i = 0; i < teamRankingRow.length; i++) {
 
     teamRankingRow[i].addEventListener("click", event => {
@@ -49,7 +48,6 @@ function changeTeamsOnClick(i) {
 
         }
         teamOverviewStatisticsValues[1].childNodes[1].innerText = teams[i]["wins"];
-        console.log(teamOverviewStatisticsValues[1].childNodes)
         teamOverviewStatisticsValues[1].childNodes[3].innerText = "/ " + teams[i]["draws"] + " /";
         teamOverviewStatisticsValues[1].childNodes[5].innerText = teams[i]["losses"];
         teamOverviewStatisticsValues[2].innerText = teams[i]["current_streak"];
@@ -111,7 +109,6 @@ function getRosterplayers(i) {
         for (let j = 0; j < 5; j++) {
 
             let rosterUnavailables = document.getElementsByClassName("roster_unavailable");
-            console.log(rosterUnavailables);
             if (rosterUnavailables.length > 0) rosterUnavailables[0].remove();
             Array.from(teamPlayer).forEach(element => element.style.display = "block");
             teamPlayerImg[j].setAttribute("src", teams[i]["players"][j]["image"]);

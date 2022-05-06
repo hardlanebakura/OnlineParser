@@ -86,9 +86,6 @@ function addOtherRow(statsElement) {
 
            }
 
-           console.log(dictWithNonUsedKeys);
-           console.log(gamesSum);
-           console.log(winSum);
            var oDict = {"games":gamesSum, "win":winSum};
            console.log(statsElement);
            if (gamesSum > 0) statsElement.insertAdjacentHTML("beforeend",
@@ -120,7 +117,6 @@ Array.from(profileStats).forEach(element => {
 colorByIndex(profileStatsRow);
 
 delete player["roles"]["Unknown"];
-console.log(player["roles"]);
 
 var lanesMatches = 0;
 
@@ -181,12 +177,9 @@ function getMatchTime(time) {
 
         if (isNaN(parseInt(letter)) == false && parseInt(letter) > 0) {
 
-            console.log(letter);
             let d = timeString.substr(timeString.indexOf(letter), timeString.length).replace(",", "");
             if (parseInt(d.split(" ")[0]) == 1) value = d.split(" ")[1].replace("s", "");
             else value = d.split(" ")[1];
-            console.log(value);
-            console.log(parseInt(value) == 1);
             //after finding first number find next sequence of strings
             return d.split(" ")[0] + " " + value + " ago";
 
@@ -241,7 +234,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
     Array.from(elementsPositive).forEach(positiveElement => {
 
         var elementWidth = parseInt(positiveElement.innerText.split("%")[0] / maxPositiveValue * parseFloat(maxWidth)).toString() + "px";
-        //console.log(elementWidth);
         positiveElement.nextElementSibling.style.width = elementWidth;
 
     })
@@ -255,7 +247,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
         Array.from(elementsNegative).forEach(negativeElement => {
 
             var elementWidth = parseInt(negativeElement.innerText.split("%")[0] / minNegativeValue * parseFloat(maxWidth)).toString() + "px";
-            //console.log(elementWidth);
             negativeElement.nextElementSibling.style.width = elementWidth;
 
         })

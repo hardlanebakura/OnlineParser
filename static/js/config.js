@@ -11,13 +11,6 @@ var address = window.location.href.split("/")[window.location.href.split("/").le
     : (address == "heroes") ?
         configHeroesDevelopment()
         : {}
-//(address == "dotapicker") ?
-//    configDotapicker()
-//    : {}
-//:(address == "dotapicker") ?
-//    config()
-//    : {}
-//(window.location.href.includes(".com")) ? (address == "dotapicker") ? configDotapicker() : {} : (address == "dotapicker") ? config() : {}
 function configDotapickerProduction() {
 
     heroes.forEach(hero => {
@@ -31,7 +24,6 @@ function configDotapickerProduction() {
     Array.from(heroImgs).forEach(heroImg => {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
 
     })
@@ -45,7 +37,6 @@ function configDotapicker() {
     Array.from(heroImgs).forEach(heroImg => {
 
         heroImg.setAttribute("src", `../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
-        console.log(`../static/images/hero_avatars/${heroes[Array.from(heroImgs).indexOf(heroImg)]}`);
         heroGridTitles[Array.from(heroImgs).indexOf(heroImg)].innerText = heroes[Array.from(heroImgs).indexOf(heroImg)].split(".png")[0];
 
     })

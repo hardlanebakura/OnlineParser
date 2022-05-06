@@ -1,6 +1,4 @@
 var heroRoles = document.getElementsByClassName("hero_roles")[0];
-console.log(heroRoles);
-console.log(typeof(heroRoles) == 'undefined');
 var heroWinrate = document.getElementsByClassName("hero_winrate_title")[0];
 var highColor = "#A9CF54";
 var lowColor = "#C23C2A";
@@ -27,8 +25,6 @@ roles.unshift(hero["attack_type"]);
 roles = roles.join(", ");
 if (!(typeof(heroRoles) == 'undefined')) heroRoles.innerText = roles;
 
-console.log(parseFloat(heroWinrate.innerText.split("%")[0]));
-console.log(parseFloat(heroWinrate.innerText.split("%")[0]) > 50);
 if (parseFloat(heroWinrate.innerText.split("%")[0]) > 50) heroWinrate.style.color = highColor;
 else heroWinrate.style.color = lowColor;
 
@@ -46,7 +42,6 @@ if (window.location.href.split("/heroes/")[1].includes("/") == false) {
         if (element.innerText[0] == "-") {
             element.innerText = "" + element.innerText.substring(1, element.innerText.length);
             element.style.paddingLeft = "7px";
-            console.log(element.parentNode.nextElementSibling.childNodes[1]);
             element.parentNode.nextElementSibling.childNodes[1].style.marginLeft = "3px";
         }
         else element.innerText = "-" + element.innerText;
@@ -65,7 +60,6 @@ if (window.location.href.split("/heroes/")[1].includes("/") == false) {
 
     Array.from(statsTalentRow).forEach(talentRow => {
 
-       console.log(talentRow.innerText);
        for (const [k, v] of Object.entries(talentsForHero)) {
 
            if (v["name"] == talentRow.innerText) {
@@ -74,7 +68,6 @@ if (window.location.href.split("/heroes/")[1].includes("/") == false) {
                if (v["advantage"] != "") {
 
                    talentRow.style.backgroundColor = "rgba(0, 255, 0, 0.114)";
-                   console.log(talentRow.parentNode);
                    talentRow.insertAdjacentHTML("afterend",
                    `<div class = "talent_row_advantage">${v["advantage"]}
                    </div>`
@@ -99,7 +92,6 @@ if (window.location.href.split("/heroes/")[1].includes("/") == false) {
 
         if (!isNaN(parseFloat(childElement.innerText))) {
 
-            console.log(childElement.childNodes[1]);
             heroLanesRowIndicatorClasses.push(childElement.childNodes[1].className);
 
         }
@@ -145,7 +137,6 @@ visualForAdvantage(matchupsRowsHeroWinPercentagesBig, "green", "70px");
 
 //adding the visual indicator for hero lane rows
 
-console.log(heroLanesRowIndicatorClasses);
 for (let i = 0; i < heroLanesRowIndicatorClasses.length; i++) {
 
     visualForAdvantage(document.getElementsByClassName(heroLanesRowIndicatorClasses[i]), "red", "70px");
@@ -161,7 +152,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
     Array.from(elements).forEach(element => {
 
         elementValue = parseFloat(element.innerText.split("%")[0]);
-        console.log(elementValue);
         if (elementValue > 0) elementsPositive.push(element);
         else elementsNegative.push(element);
         element.insertAdjacentHTML("afterend",
@@ -179,7 +169,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
 
             //copying css
             copyStyle(visualIndicator, visualIndicator.previousElementSibling);
-            console.log(visualIndicator.previousElementSibling);
             visualIndicator.style.backgroundColor = chosenColor;
             visualIndicator.style.height = "3px";
             visualIndicator.style.width = maxWidth;
@@ -187,14 +176,12 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
         }
 
     })
-    console.log(visualIndicators.length);
 
     elementsPositive.sort((a,b) => parseFloat(b.innerText.split("%")[0]) - parseFloat(a.innerText.split("%")[0]));
     var maxPositiveValue = parseFloat(elementsPositive[0].innerText.split("%")[0]);
     Array.from(elementsPositive).forEach(positiveElement => {
 
         var elementWidth = parseInt(positiveElement.innerText.split("%")[0] / maxPositiveValue * parseFloat(maxWidth)).toString() + "px";
-        //console.log(elementWidth);
         positiveElement.nextElementSibling.style.width = elementWidth;
 
     })
@@ -208,7 +195,6 @@ function visualForAdvantage(elements, chosenColor, maxWidth) {
         Array.from(elementsNegative).forEach(negativeElement => {
 
             var elementWidth = parseInt(negativeElement.innerText.split("%")[0] / minNegativeValue * parseFloat(maxWidth)).toString() + "px";
-            //console.log(elementWidth);
             negativeElement.nextElementSibling.style.width = elementWidth;
 
         })
