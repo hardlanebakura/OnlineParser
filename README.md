@@ -1,4 +1,4 @@
-This is a clone of the Dotabuff website, popular statistics parsing website for online multiplayer game DotA 2. I have added some additional features such as the counterpicker and esports tracker.
+This is a website for parsing matches in online multiplayer games. I have added some additional features such as the counterpicker and esports tracker.
 
 This project has following features:
     <ul>
