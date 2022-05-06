@@ -30,7 +30,16 @@ function getImpact() {
 }
 
 function getMeta() {
-    return
+
+    //style
+    var toMoveByPixels = {1:9, 2:7, 3:7, 4:7, 5:11, 6:7, 7:-8, 8:12, 9:6}
+    var heroesMetaUsagesDetails = document.getElementsByClassName("heroes_hero_meta_usage_percentage_details")
+    var heroesMetaWinPercentagesDetails = document.getElementsByClassName("heroes_hero_meta_win_percentage_details");
+    var arr = [];
+    for (let i = 0; i < heroesMetaUsagesDetails.length; i++) { arr.push(heroesMetaUsagesDetails[i]); arr.push(heroesMetaWinPercentagesDetails[i]); }
+    for (const [k, v] of Object.entries(toMoveByPixels)) arr[k].style.marginLeft = v.toString() + "px";
+    for (let i = arr.length -3; i < arr.length; i++) { arr[i].style.width = "83px"; arr[i].style.textAlign = "center"; }
+
 }
 
 function colorByIndex (divElement) {

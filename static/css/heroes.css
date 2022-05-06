@@ -205,3 +205,54 @@
     width:300px;
 
 }
+
+.heroes_hero_meta_usage_percentage {
+
+    width:96px;
+
+}
+
+.heroes_hero_meta_win_percentage {
+
+    width:96px;
+
+}
+
+.heroes_hero_meta_usage_percentage_details {
+
+    width:88px;
+
+}
+
+.heroes_hero_meta_win_percentage_details {
+
+    width:88px;
+
+}
+
+.medals_row {
+
+    height:48px;
+    margin-left:242px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.medal_row {
+
+    width:182px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.medal_row_img {
+
+    height:37px;
+    width:37px;
+
+}
+

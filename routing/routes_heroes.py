@@ -41,8 +41,9 @@ def heroes_winrate():
 
 @heroes_pages.route("/meta")
 def heroes_meta():
-    heroes = [hero["localized_name"] + ".png" for hero in DatabaseAtlas.findAll("heroes", {})]
-    return render_template("heroes/heroes_winrate.html", heroes = heroes, hero_popularities = hero_popularities)
+    heroes = [item for item in DatabaseAtlas.findAll("meta_heroes", {})]
+    logging.info(heroes)
+    return render_template("heroes/heroes_meta.html", heroes = heroes, hero_popularities = hero_popularities)
 
 @heroes_pages.route("/impact")
 def heroes_impact():

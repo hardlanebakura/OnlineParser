@@ -22,7 +22,8 @@ start_time = time.time()
 
 LOGGER.setLevel(logging.WARNING)
 
-driver = config_driver()
+#driver = config_driver()
+driver = webdriver.Chrome("chromedriver_2.exe")
 
 URL_ESPORTS = "https://www.gosugamers.net/dota2/rankings"
 
@@ -33,7 +34,12 @@ def get_style_if_exists(element):
         logging.warning("Element does not exist")
         return None
     return selected_element.get_attribute("style")[23:]
-
+def get_element_text(element):
+    try:
+        selected_element = driver.find_element(By.XPATH, element)
+    except e.NoSuchElementException:
+        raise ValueError("Expected XPATH input")
+    return selected_element.get_attribute("innerText")
 #format ranking
 def format_team_name(string1):
     team_points = re.sub("[^0-9]", "", string1)
@@ -108,9 +114,19 @@ def scrape_meta(meta_url):
         d = {}
         d["name"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[2]".format(i))
         d["usage_herald"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[3]".format(i))
+        d["win_herald"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[4]".format(i))
+        d["usage_archon"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[5]".format(i))
+        d["win_archon"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[6]".format(i))
+        d["usage_legend"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[7]".format(i))
+        d["win_legend"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[8]".format(i))
+        d["usage_ancient"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[9]".format(i))
+        d["win_ancient"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[10]".format(i))
+        d["usage_divine"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[11]".format(i))
+        d["win_divine"] = get_element_text("/html/body/div[2]/div[2]/div[3]/div[4]/section/footer/article/table/tbody/tr[{}]/td[12]".format(i))
+        #DatabaseAtlas.insertOne("meta_heroes", d)
 
 URL_META = "https://www.dotabuff.com/heroes/meta"
-scrape_meta(URL_META)
+#scrape_meta(URL_META)
 
 teams = [item for item in DatabaseAtlas.findAll("sa_teams", {})]
 logging.info(item for item in DatabaseAtlas.findAll("sa_teams_1", {}))

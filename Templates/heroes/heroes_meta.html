@@ -46,48 +46,72 @@
             Heroes
         </div>
         <div class = "title_subtitle">
-            <small>Winrate</small>
+            <small>Meta</small>
         </div>
         </div>
     </div>
 
     <div class = "heroes_main_wrapper">
         <div class = "heroes_main">
+            <div class = "medals_row">
+                <div class = "medal_row">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Herald.png">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Guardian.png">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Crusader.png">
+                </div>
+                <div class = "medal_row">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Archon.png">
+                </div>
+                <div class = "medal_row">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Legend.png">
+                </div>
+                <div class = "medal_row">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Ancient.png">
+                </div>
+                <div class = "medal_row">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Divine.png">
+                    <img class = "medal_row_img" src = "../static/images/all_medals/Immortal.png">
+                </div>
+
+            </div>
             <div class = "heroes_row details_row">
-                <div class = "heroes_hero_name_details">
-                    Item Name
+                {% set brackets = ["herald", "archon", "legend", "ancient", "divine"] %}
+                <div class = "heroes_hero_name_details" style = "width:246px">
+                    Hero
                 </div>
-                <div class = "heroes_hero_usage_details">
-                    Used times
-                </div>
-                <div class = "heroes_hero_usage_percentage_details">
-                    Used percentage
-                </div>
-                <div class = "heroes_hero_win_percentage_details">
-                    Win percentage
-                </div>
+                {% for i in range(brackets|length) %}
+                    <div class = "heroes_hero_meta_usage_percentage_details">
+                        Pick %
+                    </div>
+                    <div class = "heroes_hero_meta_win_percentage_details">
+                        Win %
+                    </div>
+                {% endfor %}
             </div>
             {% for hero in heroes %}
                 <div class = "heroes_row">
-                    <img class = "heroes_hero_img" src = "{{ hero['hero_img'] }}">
-                    <div class = "heroes_hero_name">
-                        {{ hero["hero_name"] }}
-                    </div>
-                    <div class = "visual_indicator_wrapper">
-                        <div class = "heroes_hero_usage">
-                            {{ hero["hero_usage"] }}
+                    <a class = "hero_link" href = "/heroes/{{ hero['name'] }}">
+                        <img class = "heroes_hero_img" src = "{{ '../static/images/hero_avatars/' + hero['name'] + '.png' }}">
+                    </a>
+                    <a class = "hero_link" href = "/heroes/{{ hero['name'] }}">
+                        <div class = "heroes_hero_name">
+                            {{ hero["name"] }}
                         </div>
-                    </div>
-                    <div class = "visual_indicator_wrapper">
-                        <div class = "heroes_hero_usage_percentage">
-                            {{ hero["hero_usage_percentage"] }}
+                    </a>
+                    {% for i in range(brackets|length) %}
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "heroes_hero_meta_usage_percentage">
+                                {% set brackets_u = "usage_" + brackets[i] %}
+                                {{ hero[brackets_u] }}
+                            </div>
                         </div>
-                    </div>
-                    <div class = "visual_indicator_wrapper">
-                        <div class = "heroes_hero_win_percentage">
-                            {{ hero["hero_win_percentage"] }}
+                        <div class = "visual_indicator_wrapper">
+                            <div class = "heroes_hero_meta_win_percentage">
+                                {% set brackets_win = "win_" + brackets[i] %}
+                                {{ hero[brackets_win] }}
+                            </div>
                         </div>
-                    </div>
+                    {% endfor %}
                 </div>
             {% endfor %}
         </div>
