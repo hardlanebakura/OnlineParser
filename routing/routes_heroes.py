@@ -8,10 +8,6 @@ from data import data
 import os
 import fnmatch
 import json
-from dotenv import dotenv_values
-
-MONGODB_CONNECTION = os.getenv('MONGODB_CONNECTION')
-#MONGODB_CONNECTION = dotenv_values("mdc.env")["MONGODB_CONNECTION"]
 
 heroes_pages = Blueprint('heroes', __name__,
                         template_folder='templates', static_folder='static', url_prefix="/heroes")
@@ -27,7 +23,6 @@ def heroes():
     heroes_n = len(fnmatch.filter(os.listdir("static/images/hero_avatars"), '*.png'))
     heroes = [item.split("\\")[-1] for item in get_files("static/images/hero_avatars")]
     m = [item for item in DatabaseAtlas.findAll("heroes", {})]
-    print(os.environ["MONGODB_CONNECTION"])
     return render_template("heroes/heroes.html", heroes_n = heroes_n, heroes = heroes, hero_popularities = hero_popularities, m = m)
 
 @heroes_pages.route("/winrate")
@@ -41,8 +36,6 @@ def heroes_winrate():
         heroes[i]["winrate"] = hero_winrates[i]["hero_winrate"]
         heroes[i]["popularity"] = hero_winrates[i]["hero_popularity"]
         heroes[i]["kda"] = DatabaseAtlas.find("hero_kdas", {"hero_name":heroes[i]["name"]})["hero_kda"]
-    logging.info(hero_kdas)
-    logging.info(hero_winrates)
     return render_template("heroes/heroes_winrate.html", heroes = heroes)
 
 @heroes_pages.route("/meta")
@@ -60,7 +53,6 @@ def heroes_impact():
         heroes[i]["kills"] = hero_kdas[i]["hero_kills_per_match"]
         heroes[i]["deaths"] = hero_kdas[i]["hero_deaths_per_match"]
         heroes[i]["assists"] = hero_kdas[i]["hero_assists_per_match"]
-        logging.info(hero_kdas)
     return render_template("heroes/heroes_impact.html", heroes = heroes)
 
 @heroes_pages.route("/<string:hero>")
@@ -72,7 +64,6 @@ def hero(hero):
     items_for_hero = DatabaseAtlas.findAll("items_for_heroes", {"hero_name":hero})[0]
     lanes_for_hero = DatabaseAtlas.findAll("lanes_for_heroes", {"hero_name":hero})
     talents_for_hero = data["talent_trees"][hero_names.index(hero)]
-    logging.info(data["talent_trees"])
     return render_template("heroes/hero.html", hero = get_hero_info(hero), hero_popularities = hero_popularities, hero_kdas = hero_kdas, counterpicks_for_hero = counterpicks_for_hero, hero_statistics = hero_statistics,
                            items_for_hero = items_for_hero, lanes_for_hero = lanes_for_hero, talents_for_hero = talents_for_hero)
 
