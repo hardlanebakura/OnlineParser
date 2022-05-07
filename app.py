@@ -9,6 +9,8 @@ from routing.routes_blog import *
 from routing.routes_dotapicker import *
 from routing.routes_search_results import *
 from routing.routes_esports import *
+from routing.routes_api import *
+
 from data import data
 
 app = Flask(__name__, template_folder = "Templates")
@@ -32,6 +34,7 @@ app.register_blueprint(blog_pages)
 app.register_blueprint(dotapicker_page)
 app.register_blueprint(search_results_page)
 app.register_blueprint(esports_pages)
+app.register_blueprint(api_pages)
 
 if (__name__ == "__main__"):
     app.run(debug=True)

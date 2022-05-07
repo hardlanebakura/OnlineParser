@@ -17,6 +17,7 @@ def find_player(player_id):
     player_counts = requests.get("https://api.opendota.com/api/players/{}/counts".format(player_id)).json()
     player_matches = requests.get("https://api.opendota.com/api/players/{}/matches".format(player_id)).json()
     player_heroes = requests.get("https://api.opendota.com/api/players/{}/heroes".format(player_id)).json()
+    logging.info(player_matches)
     player_recent_matches = player_matches[:15]
 
     player["matches"] = player_matches
@@ -53,4 +54,4 @@ def find_player(player_id):
     #for deployment
     #return player
 
-find_player(42735465)
+
