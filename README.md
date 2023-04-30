@@ -36,9 +36,3 @@ It works for all matches and, with several hundred players tested, on all player
 928188595
 345104544
 
-
-Hosted on Heroku: <a href = "https://pythonflaskdotabuff.herokuapp.com/">https://pythonflaskdotabuff.herokuapp.com/</a>
-
-(searches are very slow there due to their dynos being very limited, on local server runs very fast)
-
-(sometimes API for gathering data goes down, it doesn't affect existing pages but affects dynamic search pages via the searchbar)
